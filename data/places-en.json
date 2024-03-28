@@ -1,0 +1,2802 @@
+{ 
+	"places-page": {
+		"meta": {
+			"keywords": "Places, placemaking, placekeeping, Pacific Place, Taikoo Place, Cityplaza, Citygate, Hong Kong,  Chinese Mainland, Sino-Ocean Taikoo Li Chengdu, Taikoo Li Sanlitun, Beijing, INDIGO, Taikoo Li Qiantan, Shanghai, HKRI Taikoo Hui, Taikoo Hui Guangzhou, Guangzhou, Miami, U.S.A, Brickell City Centre, Miami",
+			"url": "/places",
+			"type": "places",
+			"image": "/images/landing-section/places-left.jpg",
+			"title": "Places | Swire Properties SD Report 2022",
+			"content": "Places are at the heart of our SD 2030 Strategy. Through effective placemaking and placekeeping, we continue to transform the places in which we invest."
+		},
+		"landing": {
+			"title": "Places",
+			"icon": "SVGPlaces",
+			"contents": [
+				"Swire Properties recognises that the places we create and maintain have significant impacts on society and the environment. Through effective placemaking, we aim to transform the urban areas in which our properties are located into vibrant and sustainable communities by carefully balancing the aesthetic, functional, ecological and cultural impacts of our developments. Meanwhile, through long-term placekeeping, which involves continuously evolving, maintaining and managing our assets, we aim to enhance the lives of the people who live and work within our developments and the surrounding communities."
+			]
+		},
+		"breadcrumb-title": "Places",
+		"sustainable-development-goals": {
+			"title": "Sustainable <br/> Development Goals",
+			"desc": "The SDGs relevant to initiatives under this Pillar are:",
+			"sdgs": [
+				"8",
+				"9",
+				"11"
+			]
+		},
+		"highlights-of-our-developments": {
+			"title": "Highlights of Our <br> Developments",
+			"back-to-map": "Back To Map",
+			"tag": "GRI 2-1, 2-6",
+			"maps": {
+				"hong-kong": {
+					"locationKey": "hk",
+					"name": "Hong Kong",
+					"places": {
+						"pacific-place": {
+							"name": "Pacific Place",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/pacific-place-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/pacific-place-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Pacific Place",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/pacific-place-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/pacific-place-2.jpg"
+									],
+									"content": [
+										"Located in Admiralty on Hong Kong Island, the Pacific Place complex will comprise five Grade-A office towers (with Six Pacific Place scheduled for completion in 2023), a retail complex, four five-star hotels and serviced apartment. The complex currently provides over 2.4 million sq ft of gross floor area.",
+										"Pacific Place Apartments comprises 268 exclusive serviced apartments and The Upper House, a House Collective hotel with 117 rooms.",
+										"Our latest development, Six Pacific Place, will be completed in 2023. It will feature 24 storeys of premium triple Grade A office space totalling around 218,000 sq ft. Six Pacific Place has been designed and built to the highest sustainability standards, achieving Pre-certified Platinum ratings for LEED, WELL and BEAM Plus. In 2022, the building also received both WiredScore and SmartScore Platinum certifications, assuring tenants that the building’s design and infrastructure will provide an excellent digital experience that enables cutting-edge workplace solutions.",
+										"The Pacific Place development is located next to the Starstreet Precinct, an adjacent neighbourhood which Swire Properties has transformed into a lively area filled with cafés, bars, restaurants, galleries and boutique shops.  "
+									]
+								}
+							]
+						},
+						"taikoo-place": {
+							"name": "Taikoo Place",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/taikoo-place-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/taikoo-place-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Taikoo Place",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/taikoo-place-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/taikoo-place-2.jpg"
+									],
+									"content": [
+										"Home to Swire for over 100 years, Taikoo Place has been transformed from an industrial area housing the Taikoo dockyard and sugar refinery into a global business district spanning 10 office towers, with six million sq ft of gross floor area. Taikoo Place includes a wide range of business and leisure amenities, including a 30,000 sq ft co-working space Blueprint, private members’ club The Refinery, as well as ArtisTree – a 7,000 sq ft multipurpose venue. It also comprises a landscaped garden, Taikoo Park and a variety of restaurants and cafes.",
+										"The redevelopment of Taikoo Place, scheduled for completion in 2023, is set to become home for to multinational companies. Two Taikoo Place, our latest addition to the Taikoo Place Redevelopment Project, is a 42-storey premium office space with a total area of around one million sq ft. Two Taikoo Place has been designed and built to the highest sustainability standards, achieving Pre-certified Platinum ratings for LEED, WELL and BEAM Plus. ",
+										"Another highlight is the introduction of Taikoo Square and Taikoo Garden. The two gardens, comprising a collection of lush greenery, will provide 69,000 sq ft of open space – equivalent in size to Statue Square in Central – for the enjoyment of the community. "
+									]
+								}
+							]
+						},
+						"cityplaza": {
+							"name": "Cityplaza",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-plaza-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-plaza-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Cityplaza",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-plaza-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-plaza-2.jpg"
+									],
+									"content": [
+										"Cityplaza is the largest shopping mall on Hong Kong Island, with a total floor area of 1.11 million sq ft. Directly accessible from Tai Koo MTR Station, the six-level mall houses more than 170 shops and restaurants, a unique lifestyle cinema, an indoor ice rink, and over 800 indoor parking spaces. Recent enhancements to the enduringly popular Cityplaza Ice Palace skating rink and improvements in the tenant mix, together with engaging mall promotions and activities, have made Cityplaza an abiding hub for community leisure and enjoyment.",
+										"The mall is also connected to EAST Hong Kong, the Taikoo Shing residential development and more than 100 outdoor shops that serve the neighbourhood. ",
+										"Cityplaza Ice Palace was recently named “Most Outstanding Entertainment Venue 2022” at the Hong Kong Most Valuable Corporate Awards for its significance as a place of public entertainment. The award was based on criteria evaluating Cityplaza Ice Palace’s business reputation, corporate image, overall exposure, social media presence, innovation, corporate social responsibility performance, and other aspects."
+									]
+								}
+							]
+						},
+						"citygate": {
+							"name": "Citygate",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-gate-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-gate-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Citygate",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-gate-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-gate-2.jpg"
+									],
+									"content": [
+										"Located in Tung Chung on Lantau Island, Citygate is Hong Kong’s first and largest outlet shopping mall. The Citygate complex comprises 942,800 sq ft of retail space and 160,000 sq ft of office space. Directly connected to the Tung Chung MTR Station and near the Hong Kong International Airport and the Hong Kong-Zhuhai-Macao Bridge, this development offers excellent connectivity to transportation nodes and Hong Kong’s most popular tourist sites.  "
+									]
+								}
+							]
+						}
+					}
+				},
+				"china": {
+					"locationKey": "cn",
+					"name": "Chinese Mainland",
+					"places": {
+						"chengdu": {
+							"name": "Chengdu",
+							"inside-name": "Sino-Ocean Taikoo Li Chengdu",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/chengdu-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/chengdu-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Sino-Ocean Taikoo Li Chengdu",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/chengdu-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/chengdu-2.jpg"
+									],
+									"content": [
+										"Sino-Ocean Taikoo Li Chengdu is a 1.3 million sq ft retail-led development in Chengdu’s Jinjiang District. At the centre of the complex is the 16th-century Buddhist Daci Temple, a heritage site and a focal point for the city. Also included in the complex is The Temple House, a hotel managed by Swire Hotels. Sino-Ocean Taikoo Li Chengdu was the first open-plan lane-driven commercial complex in the world to gain LEED v4.1 (O+M) Platinum Certification status, as well as the first project in Sichuan province and the first shopping mall in the Chinese Mainland to achieve this certification. The development has been powered by 100% renewable electricity since 2020."
+									]
+								}
+							]
+						},
+						"xian": {
+							"name": "Xi’an",
+							"inside-name": "Taikoo Li Xi’an",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/xian-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/xian-2-en.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Taikoo Li Xi’an",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/xian-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/xian-2-en.jpg"
+									],
+									"content": [
+										"Taikoo Li Xi’an lies in the heart of downtown Xi’an in Shaanxi Province. With a total site area of almost 1.3 million sq ft, the development is located within the Small Wild Goose Pagoda historical and cultural zone in the city’s Beilin District, and is adjacent to the Small Wild Goose Pagoda, a UNESCO World Heritage Site.",
+										"Swire Properties is partnering with Xi’an Cheng Huan Cultural Investment and Development Co., Ltd. to develop an urban regeneration plan for the site. The site will be developed into a retail-led project comprised of retail and cultural facilities, including a House Collective hotel, serviced residences and business apartments. Taikoo Li Xi’an has an estimated gross floor area of almost 2.9 million sq ft (above and below ground) and is expected to be completed by end of 2025."
+									]
+								}
+							]
+						},
+						"beijing": {
+							"name": "Beijing",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/beijing-sanlitun-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/beijing-sanlitun-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Taikoo Li Sanlitun, Beijing",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/beijing-sanlitun-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/beijing-sanlitun-2.jpg"
+									],
+									"content": [
+										"Taikoo Li Sanlitun was Swire Properties’ first project in the Chinese Mainland. Located in the heart of Beijing’s Chaoyang District, the development, which includes a retail complex and a hotel, has played a crucial role in the transformation of Sanlitun into a centre of culture, retail, dining and hospitality. ",
+										"In December 2021, the approximately 300,000 sq ft Taikoo Li Sanlitun West – a project that transformed an old clothing market into a vibrant retail development – won the Excellence recognition at the RICS Awards China “Regeneration Project of the Year” for its innovative approach to urban regeneration. The property has eight above-ground floors and two underground floors, and a metro tunnel which links both the extension and Taikoo Li Sanlitun with Worker’s Stadium Station, a Beijing Metro transfer station scheduled to open in 2023. The opening of Taikoo Li West helps to enhance the urban vitality and quality within the area and is also a striking example of Swire Properties’ continued efforts to support Beijing in cultivating Sanlitun into a world-class business circle."
+									]
+								},
+								{
+									"name": "INDIGO, Beijing",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/beijing-indigo-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/beijing-indigo-2.jpg"
+									],
+									"content": [
+										"INDIGO is a retail-led mixed-use development with a shopping mall, a Grade-A office tower and a hotel, EAST Beijing. The complex has implemented extensive SD features and programmes, including high-efficiency solar panels, optimised skylights, city-leading recycling procedures, and our Green Kitchen Initiative.  ",
+										"In 2022 INDIGO celebrated its 10th anniversary. Celebratory activities were held throughout the year, themed “Inspiration at Every Turn”. These commemorated how INDIGO’s commitment to creative transformation, its skilled operations and management and its digital transformation have produced continuous upgrades in its design and retail mix, catalysing INDIGO’s evolution into the popular high-end business and lifestyle destination it is today. In July 2022, INDIGO opened a sustainable development centre called The Loop – a multipurpose space to engage employees, tenants and business partners in SD initiatives.",
+										"The INDIGO Phase Two extension, announced in December 2020, is currently under development on an adjacent site. This office-led mixed-use extension has an expected total gross floor area of approximately 4.23 million sq ft and will contain a shopping mall, office towers and a hotel. The extension is expected to be completed in 2025."
+									]
+								}
+							]
+						},
+						"shanghai": {
+							"name": "Shanghai",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/shanghai-qiantan-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/shanghai-qiantan-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Taikoo Li Qiantan, Shanghai",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/shanghai-qiantan-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/shanghai-qiantan-2.jpg"
+									],
+									"content": [
+										"Located in Shanghai’s Pudong Qiantan International Business District, the 1.3 million sq ft Taikoo Li Qiantan opened in late 2021. This unique wellness-themed shopping mall features a “double-open park” design, with a wide expanse of open green space and lanes across the ground level and rooftop connected by an 80m-long scenic bridge overlooking the Huangpu River. The 86,000 sq ft central park includes the Sky Loop, a 450m rooftop running track, and other greenery and leisure spaces that support and enhance the wellbeing of occupants and visitors. Taikoo Li Qiantan is the first shopping mall in the world to achieve WELL Core Platinum certification."
+									]
+								},
+								{
+									"name": "HKRI Taikoo Hui, Shanghai",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/shanghai-hkri-taikoo-hui-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/shanghai-hkri-taikoo-hui-2.jpg"
+									],
+									"content": [
+										"Located on Nanjing West Road, one of Shanghai’s major shopping districts, HKRI Taikoo Hui has access to three Shanghai Metro lines and is comprised of two Grade-A office towers (with LEED Final Platinum Certification), a shopping mall (with LEED Final Gold Certification), and two hotels, The Middle House and The Sukhothai Shanghai. The development is transforming the district into a new business, shopping and entertainment hub."
+									]
+								}
+							]
+						},
+						"guangzhou": {
+							"name": "Guangzhou",
+							"inside-name": "Taikoo Hui Guangzhou",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/guangzhou-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/guangzhou-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Taikoo Hui Guangzhou",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/guangzhou-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/guangzhou-2.jpg"
+									],
+									"content": [
+										"Taikoo Hui Guangzhou is a lifestyle destination development located in Guangzhou’s Tianhe District, comprising a shopping mall, two grade-A office towers and a hotel. Its shopping mall was the first enclosed mall in the world to earn Platinum Certification in the LEED (O+M). Since July 2021, Taikoo Hui Guangzhou has become powered by 100% renewable electricity. In 2022, the project also achieved WELL Platinum rating.",
+										"Taikoo Hui Guangzhou is also the subject of our latest Places Impact Report, published in Q1 2023. Titled “The Creative Transformation of Taikoo Hui Guangzhou”, the report uses our Places Impact Framework to understand and measure the impact of the development at the investment, place and city levels. To view the full report, click <a class='text-places' href='/2022/places/places-impact-report'>here</a>."
+									]
+								}
+							]
+						}
+					}
+				},
+				"miami-singapore": {
+					"locationKey": "usa",
+					"name": "U.S.A.",
+					"places": {
+						"miami": {
+							"label": "Miami",
+							"name": "Miami, U.S.A.",
+							"inside-name": "Brickell City Centre, Miami",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/usa/usa-brickell-city-centre-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/usa/usa-brickell-city-centre-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Brickell City Centre, Miami",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/usa/usa-brickell-city-centre-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/usa/usa-brickell-city-centre-2.jpg"
+									],
+									"content": [
+										"Brickell City Centre is Swire Properties’ landmark development in Miami, U.S.A. Opened in 2016, it is our first development to obtain LEED Gold Certification for Neighbourhood Development. A highlight of the centre is the Climate Ribbon™, an elevated trellis that provides shade from the sun, creates air flow and collects rainwater, while also allowing natural light to penetrate and illuminate the shopping mall below. "
+									]
+								}
+							]
+						}
+					}
+				}
+			}
+		},
+		"more-in-places": {
+			"title": "More in Places",
+			"cards": [
+				{
+					"title": "SD in Action: Swire Hotels",
+					"description": "Swire Hotels' unique properties embody the five pillars of Swire Properties’ SD 2030 Strategy, working in harmony to create sustainable places.",
+					"image": "/images/pages/homepage/report-features/sd-in-action–swire-hotels.jpg",
+					"link": {
+						"path": "/places/sd-in-action"
+					}
+				},
+				{
+					"title": "Places Impact Report",
+					"description": "Our third Places Impact Report assesses how our placemaking and placekeeping work at Taikoo Hui Guangzhou has shaped the surrounding community.",
+					"image": "/images/pages/places/places-impact-report/places-impact-report.jpg",
+					"link": {
+						"path": "/places/places-impact-report"
+					}
+				},
+				{
+					"title": "Vibrancy",
+					"description": "We offer a range of artistic and cultural activities at our developments for the benefit of the surrounding community.",
+					"image": "/images/pages/places/vibrancy/embracing-originality-en-1.jpg",
+					"link": {
+						"path": "/places/vibrancy"
+					}
+				},
+				{
+					"title": "Livelihood",
+					"description": "We help communities cope with the pandemic by driving employment, facilitating recovery schemes and supporting NGOs and social enterprises.",
+					"image": "/images/pages/places/vibrancy/livelihood/taikoo-li-xian-en-1.png",
+					"link": {
+						"path": "/places/livelihood"
+					}
+				},
+				{
+					"title": "Wellbeing",
+					"description": "Swire Properties is focused on supporting the mental and physical health of our visitors, tenants and workers.",
+					"image": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-1.jpg",
+					"link": {
+						"path": "/places/wellbeing"
+					}
+				},
+				{
+					"title": "Resilience",
+					"description": "Across our portfolios, we worked towards pandemic recovery by creating social cohesion, boosting community investment and raising adaptive capacity.",
+					"image": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg",
+					"link": {
+						"path": "/places/resilience"
+					}
+				}
+			]
+		}
+	},
+	"places-livelihood-page": {
+		"meta": {
+			"keywords": "Livelihood, Taikoo Li Xi’an, Small Wild Goose Pagoda, history, culture, heritage, urban regeneration, Taikoo Li, HTH Empowers Shanghai’s Night-time Economy, HKRI Taikoo Hui, Double Five Shopping Festival, Shanghai Night Festival, shopping, night-time economy, COVID-19 pandemic, pandemic recovery, business opportunities, Supporting the Hong Kong Government’s Consumption Voucher Scheme, Consumption Voucher Scheme, CVS, incentive programme, shopping rewards, incentives, shoppers, shopping, campaigns, retail industry, Launch of Blueprint Sustainable Development Cheat Sheet, Blueprint, Sustainable Development Cheat Sheet, Blueprint Member Portal, cheat sheet, SD strategies, co-working space, start-up companies, workplace",
+			"url": "/places/livelihood",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/livelihood/taikoo-li-xian-en-1.png",
+			"title": "Livelihood | Places | Swire Properties SD Report 2022",
+			"content": "We drive employment and support NGOs and social enterprises in the communities surrounding our developments."
+		},
+		"landing": {
+			"title": "Livelihood",
+			"contents": [
+				"Throughout 2022, Swire Properties continued to drive employment, facilitate pandemic recovery schemes and initiatives and support NGOs and social enterprises in the communities in which we operate."
+			]
+		},
+		"breadcrumb-title": "Livelihood",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-li-xian",
+				"title": "Taikoo Li Xi’an",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/taikoo-li-xian-en-1.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/taikoo-li-xian-2.jpg"
+					}
+				],
+				"contents": [
+					"2022 saw the announcement of Taikoo Li Xi’an in partnership with Xi’an Cheng Huan Cultural Investment and Development Co. Located within the Small Wild Goose Pagoda Historical and Cultural Zone, a scenic area with profound historical and cultural significance, Taikoo Li Xi’an will be situated adjacent to Small Wild Goose Pagoda, a UNESCO World Heritage Site, and Jianfu Temple, a royal temple built in 684 A.D. during the Tang Dynasty. The project will pay tribute to local history, culture and heritage whilst immersing visitors in unique retail, cultural and lifestyle experiences.",
+					"Swire Properties and Xi’an Cheng Huan Cultural Investment and Development Co. Ltd. will develop an urban regeneration plan for the area that blends old and new and takes full advantage of its location at the intersection of two metro lines. ",
+					"Taikoo Li Xi’an will be a retail-led project featuring a low-rise, open-plan architectural design that exemplifies the Taikoo Li brand. It will comprise retail and cultural facilities, a luxury hotel, serviced residences and business apartments. With an estimated above- and below-ground GFA of almost 2.9 million sq ft, this will be Swire Properties’ fourth Taikoo Li in the Chinese Mainland, following the successful development of Taikoo Li Sanlitun in Beijing, Sino-Ocean Taikoo Li Chengdu and Taikoo Li Qiantan in Shanghai. The project is expected to be completed by the end of 2025."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hth-empowers-shanghai-night-time-economy",
+				"title": "HKRI Taikoo Hui Empowers Shanghai’s Night-time Economy",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/hth-empowers-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/hth-empowers-2.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/hth-empowers-3.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"HKRI Taikoo Hui held a series of programmes to support the 2022 Shanghai Night Festival. The event, running in August and September, was one of the centrepieces of the city’s “Double Five Shopping Festival” that aimed to boost consumer spending and combat the social and economic effects of the COVID-19 pandemic.",
+					"At the festival’s opening, the General Manager of HKRI Taikoo Hui, announced the start of a public project to connect the city to music. In cooperation with Shanghai Metro, Jiushi Travel and the Modern Art Museum Shanghai, “Play Me, I’m Yours” street pianos – which anyone can play – will pop up in three public places: a metro station, a ferry pier and along the Huangpu riverfront.",
+					"Numerous choices were also provided for evening entertainment, including a food fair, a rooftop camping party and the “Personally Yours” member programme that integrates retail brands with marketing, art and commerce in creative ways to provide tailored shopping experiences.",
+					"HKRI Taikoo Hui remains committed to promoting business opportunities in Shanghai and boosting the night-time economy in the West Nanjing Road CBD, one of Shanghai’s major shopping thoroughfares, as the pandemic recovery continues."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "supporting-the-hong-kong-government-consumption-voucher-scheme",
+				"title": "Supporting the Hong Kong Government’s Consumption Voucher Scheme",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/supporting-the-hong-kong-government-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/supporting-the-hong-kong-government-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/supporting-the-hong-kong-government-3.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/supporting-the-hong-kong-government-4.jpg"
+					}
+				],
+				"contents": [
+					"In April 2022, to support Hong Kong as the city slowly recovered from the pandemic, Swire Properties partnered with Octopus, one of the selected operators in the Hong Kong government’s Consumption Voucher Scheme (“CVS”). We launched a two-month sales incentive programme offering shopping rewards worth a total of HKD5 million at Pacific Place, Cityplaza and Citygate Outlets. Octopus card users shopping at these malls instantly received incentives when they reached the designated spending amount.",
+					"Generating incremental sales and traffic for tenants across these three malls, the initiative created positive impacts for shoppers, tenants, the local communities around the malls, and the wider Hong Kong economy.",
+					"The three malls then built on this success for the second phase of the CVS, beginning in June, offering HKD12 million in incentives to shoppers reaching a designated electronic spending amount. These included limited-edition premiums featuring popular characters and shopping vouchers with no minimum spending requirement. These incentives were bolstered by lively and engaging summer shopping campaigns at the three malls with pop-up stores, digital activities, a “summer farm garden”, weekend outdoor markets, and other undertakings – all designed to promote local consumption and maintain positive momentum for the wider Hong Kong retail industry."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "launch-of-blueprint-sustainable-development-cheat-sheet",
+				"title": "Launch of Blueprint Sustainable Development Cheat Sheet",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/launch-of-blueprint-1.jpg"
+					}
+				],
+				"contents": [
+					"Blueprint, Swire Properties’ flexible work and event space in Taikoo Place’s Dorset House, is committed to continuously improving operational sustainability. In August 2022, Blueprint launched its first Sustainable Development Cheat Sheet, covering key statistics such as energy consumption, water and paper usage, other pertinent metrics, and tips on habits that can make workspaces greener. The cheat sheet targets Blueprint members who have collectively shown an increasing awareness of environmental issues. Available on the Blueprint Member Portal, the data collected from the cheat sheet will allow the Blueprint team to gain oversight on how various spaces are performing from a sustainability perspective, help Blueprint members develop their own SD strategies, and create positive changes in the overall workspace.",
+					"Blueprint offers flexible solutions for work and event space needs across two floors of Dorset House. On one floor, an open-plan co-working space houses 90 dedicated desks, suitable for start-up companies and small businesses, and 15 variously sized private offices that cater for larger clients, up to and including multinational corporations. The second floor holds 10,000 sq ft of event venues, including an auditorium and a town hall which can be converted into training rooms – all of which are equipped with sophisticated audio-visual equipment."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-vibrancy",
+			"places-wellbeing",
+			"places-resilience"
+		]
+	},
+	"places-places-impact-report-page": {
+		"meta": {
+			"keywords": "Places Impact Report, Places Impact, great place, innovation, evolution, Taikoo Hui, Taikoo Hui in Guangzhou, Guangzhou, Social Integration Strategies, Vibrancy, Livelihood, Wellbeing, Resilience, social integration ",
+			"url": "/places/places-impact-report",
+			"type": "places",
+			"image": "/images/pages/places/places-impact-report/places-impact-report.jpg",
+			"title": "Places Impact Report | Places | Swire Properties SD Report 2022",
+			"content": "Our third Places Impact Report assesses how our placemaking and placekeeping work at Taikoo Hui Guangzhou has shaped the surrounding community."
+		},
+		"landing": {
+			"title": "Places Impact Report"
+		},
+		"breadcrumb-title": "Places Impact Report",
+		"sections-1": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "places-impact-report",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/places-impact-report/places-impact-report.jpg"
+					}
+				],
+				"contents": [
+					"Understanding the impacts that the places we develop and manage have on society and the environment is crucial to our long-term decision-making. Addressing the question “What makes a great place?”, our third Places Impact Report focuses on the area around Taikoo Hui Guangzhou. ",
+					"Published in conjunction with the School of Architecture at South China University of Technology, the report, called “The Creative Transformation of Taikoo Hui Guangzhou”, was released in March 2023.",
+					"The report assesses how Swire Properties’ placemaking and placekeeping efforts have created positive impacts on the neighbourhood and surrounding area over the past 12 years, while also providing insights into the future role that Taikoo Hui Guangzhou will play as a city landmark that offers unique cultural and lifestyle experiences. ",
+					"The report continues to adopt the framework that explores the four dimensions of place – Vibrancy, Livelihood, Wellbeing and Resilience – to assess the qualities of Taikoo Hui Guangzhou, how these qualities have changed over time and how they compare to other commercial complexes in the city. The research highlights how Swire Properties’ continued investment in both hardware and software, as well as the multi-layered placemaking and placekeeping elements incorporated into the development, have contributed to the resilience of Taikoo Hui Guangzhou and its communities.",
+					"To read the full report, please click <a target='_blank' class='text-places' href='https://www.swireproperties.com/-/media/files/swireproperties/publications/places-impact-report-taikoohuiguangzhou-en.ashx'>here</a>."
+				]
+			}
+		],
+		"sections-2": [
+			{
+				"type": "section",
+				"id": "social-integration-strategies",
+				"title": "Social Integration Strategies",
+				"contents": [
+					"We recognise that our placemaking and placekeeping efforts can contribute positively to better-quality places, creating better-communities and improving the lives of our tenants, visitors and employees. This is why “Places” are at the heart of our SD 2030 Strategy.",
+					"Swire Properties is committed to building and improving our portfolios to enhance the lives of the people who live and work within our developments and the surrounding communities. Our social integration criteria, embraces our four dimensions of place under the “Places” pillar – Vibrancy, Livelihood, Wellbeing and Resilience.",
+					{
+						"type": "sub-title",
+						"value": "Vibrancy"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"Located in or in close proximity to major transportation hubs",
+							"Promote connectivity with public transit, amenities and between buildings with well-designed walkways",
+							"Design accessible, inclusive and barrier-free pedestrian network",
+							"Promote sustainable mobility wherever appropriate (e.g. walkable neighbourhoods, use of bicycles, free shuttle buses and electric car charging systems)",
+							"Extensive integration of arts in public spaces across our portfolios and in community programmes",
+							"High-quality open spaces and venues designed for and dedicated to community activities",
+							"Offer in-kind venue support for social enterprises and NGOs"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "Livelihood"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"Mixed use development promoting a strong diversity of business sectors and economic resilience",
+							"Promote cohesive business networks to create a “local business ecosystem” and a greater sense of community among the working population",
+							"Support affordable housing wherever appropriate"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "Wellbeing"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"Monitoring of occupant wellbeing (e.g. indoor air quality) and incorporation of wellness features and initiatives",
+							"Amenities such as accessible toilets, nursing and breastfeeding rooms, accessible parking spaces and wheelchairs",
+							"Accessibility to green space and nature and promotion of urban farming facilities wherever appropriate"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "Resilience"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"Employ best practice risk management procedures to ensure business continuity at the corporate and asset-levels, including proactive measures to assess climate risks and to build climate resilience and adaptive capacity across our portfolios",
+							"Promote social resilience and community connection through community initiatives and educational programmes"
+						]
+					},
+					"We employ an integrated design approach to our projects in accordance with the requirements of several internationally recognised standards and rating schemes, such as BEAM Plus, LEED, The China Green Building Design Label and WELL. These standards set out the requirements of physical and social environments that benefit the health, well-being and productivity of people. Our new development projects will, as far as practicable, pursue credits under these green building standards and rating systems, to promote social integration.",
+					"The following initiatives represent Swire Properties' alignment with the social integration criteria of our projects under development and existing portfolio in 2022.",
+					{
+						"type": "ul",
+						"value": [
+							"100% of our properties are located in close proximity to transportation hubs, with pedestrian-friendly networks that are well connected with transit stations and amenities. Free shuttle bus services are available at some of our portfolios. Bicycle parking facilities are provided at most of our properties.",
+							"100% of our properties have open spaces and venues designed for and dedicated to community and arts events",
+							"98% of our properties have accessible, inclusive and barrier-free pedestrian networks.",
+							"For common areas, approximately 83% and 80% of buildings in our Hong Kong portfolio and our Chinese Mainland portfolio achieved IAQ Excellent Class and fulfilled the local IAQ standard respectively.",
+							"In March 2023, we published our third <a target='_blank' class='text-places' target='_blank' href='https://www.swireproperties.com/-/media/files/swireproperties/publications/places-impact-report-taikoohuiguangzhou-en.ashx'>Places Impact Report</a>, exploring the social and economic placemaking impacts of our Taikoo Hui Guangzhou development. The research highlights how Swire Properties’ continued investment in both hardware and software have contributed to the resilience of Taikoo Hui Guangzhou and its communities.",
+							"Swire Properties' Placemaking Academy is back again in 2022, offering Hong Kong university students the opportunity to design, plan and execute the White Christmas Street Fair. Through this programme, we hope to transfer creative knowledge and skills to participants and empower them to support Swire Properties’ long-term community-building initiatives."
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-sd-in-action-swire-hotels",
+			"places-vibrancy-art-and-culture",
+			"places-vibrancy-youth-empowerment-white-christmas-street-fair"
+		]
+	},
+	"places-resilience-page": {
+		"meta": {
+			"keywords": "COVID-19 pandemic, COVID-19, challenging, resilient, pandemic recovery, social cohesion, adaptive capacity, Supporting Hong Kong during the Battle Against the Pandemic, Responding to the Pandemic Across our Properties, Swire Properties Community Caring Fund",
+			"url": "/places/resilience",
+			"type": "places",
+			"image": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg",
+			"title": "Resilience | Places | Swire Properties SD Report 2022",
+			"content": "We build social cohesion, boost community investment and raise adaptive capacity in and around our developments."
+		},
+		"landing": {
+			"title": "Resilience",
+			"tag": "GRI 203, 413<br/>HKEX Aspect B8, KPI B8.1, B8.2",
+			"contents": [
+				"In Hong Kong and the Chinese Mainland, the COVID-19 pandemic remained a dominant influence throughout 2022. Though pandemic-related closures and restrictions created a challenging operating environment for all our employees and properties, we remained resilient and united, working towards a post-pandemic recovery by reinforcing social cohesion, boosting our investment in people and communities, and continuing to raise our adaptive capacity. "
+			]
+		},
+		"breadcrumb-title": "Resilience",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "supporting-hong-kong-during-the-battle-against-the-pandemic",
+				"title": "Supporting Hong Kong during the Battle Against the Pandemic",
+				"href": "/places/resilience/supporting-hong-kong-during-the-battle-against-the-pandemic",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/supporting-hong-kong-during-the-battle-against-the-pandemic-1.jpeg"
+					}
+				],
+				"contents": [
+					"Beginning in early 2022, the fifth wave of the COVID-19 pandemic spread across Hong Kong. Swire Properties acted quickly and proactively to support the fight against the disease and keep the wider community safe on multiple fronts."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "responding-to-the-pandemic-across-our-properties",
+				"title": "Responding to the Pandemic Across our Properties",
+				"href": "/places/resilience/responding-to-the-pandemic-across-our-properties",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg"
+					}
+				],
+				"contents": [
+					"In 2022, there were several outbreaks of COVID-19 across the Chinese Mainland. Large-scale epidemic prevention measures such as prolonged lockdowns severely impacted our communities. Swire Properties responded proactively to address this situation in our operations and communities in which we operate in."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-community-caring-fund",
+				"title": "Swire Properties Community Caring Fund",
+				"href": "/places/resilience/swire-properties-community-caring-fund",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"The Swire Properties Community Caring Fund provides sponsorship to less-well-known Hong Kong-based community organisations nominated by our employees. In 2022, the CCF sponsored 21 initiatives and outreach projects, donating a total of over HKD 2 million to projects."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-vibrancy",
+			"places-wellbeing",
+			"places-livelihood"
+		]
+	},
+	"places-sd-in-action-page": {
+		"meta": {
+			"keywords": "SD in Action: Swire Hotels, SD in Action, Swire Hotels, The House Collective, EAST Hotels, EAST, The Opposite House, The Upper House, The Temple House, The Middle House, House, EAST Hong Kong, EAST Beijing, EAST Miami, five pillars, Places, People, Partners, Performance (Environment), Performance (Economic)",
+			"url": "/places/sd-in-action",
+			"type": "places",
+			"image": "/images/pages/places/sd-in-action/landing-section/left.jpg",
+			"title": "SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+			"content": "Swire Hotels' unique properties embody the five pillars of Swire Properties’ SD 2030 Strategy, working in harmony to create sustainable places."
+		},
+		"breadcrumb-title": "SD in Action: Swire Hotels",
+		"landing": {
+			"title": "SD in Action: Swire Hotels"
+		},
+		"the-house-collective": "THE HOUSE COLLECTIVE",
+		"east-hotels": "EAST HOTELS",
+		"landing-section": {
+			"the-house-collective": {
+				"heading-top": "EVERY HOUSE",
+				"heading-bottom": "IS ITS OWN STORY",
+				"description": "The House Collective is a group of refined, highly individual properties. Each house is unique, and created by talented creatives to reflect the unique qualities of their surroundings."
+			},
+			"east-hotels": {
+				"heading-top": "WHERE IT",
+				"heading-bottom": "ALL STARTS",
+				"description": "EAST Hotels are lifestyle hotels that are bright, energetic and inspiring, bringing their community and sustainability-orientated mindset to the most dynamic areas of their cities."
+			}
+		},
+		"intro-section": {
+			"pins": {
+				"the-temple-house": "The Temple <br />House",
+				"east-beijing": "EAST Beijing",
+				"the-opposite-house": "The Opposite House<br/>EAST Beijing",
+				"east-hong-kong": "EAST <br />Hong Kong",
+				"the-middle-house": "The Middle House",
+				"the-upper-house": "The Upper House<br/>EAST Hong Kong",
+				"east-miami": "EAST Miami"
+			},
+			"contents": [
+				"The mission of Swire Hotels is to create authentic, unscripted and unforgettable experiences across its two brands: The House Collective and EAST. The Group manages distinctive hotels in Hong Kong and the Chinese Mainland for travellers who seek originality, style and personalised service.",
+				"The House Collective is a group of refined, highly individual properties. Each House is unique, and created by talented architects and creatives to reflect the unique qualities of their surroundings. The EAST brand consists of lifestyle hotels that are bright, energetic and inspiring, bringing their community and sustainability-oriented mindset to the most dynamic areas of their cities. Both brands have their own approaches to putting SD into action, which mirror their individual, original DNA."
+			]
+		},
+		"50-th-anniversary": {
+			"title": "Encouraging Creativity and Innovation for our 50TH Anniversary",
+			"contents": [
+				"As part of Swire Hotel's commitment to innovation and creative transformation, the EAST brand has launched the “Ideas To Wake Up To” speaker series. This series is periodically hosted across all EAST hotels, bringing together like-minded business leaders and creatives to connect, co-create, learn, and spark new ideas. In 2022, three sessions were hosted with one in Hong Kong and two in Miami, all centred around topics pertaining to sustainable development (“SD”).",
+				"The Think Differently Awards were launched across Swire Hotels in 2021 to encourage all team members to share their innovative and interesting ideas. In 2022, the awards were focused on SD spanning three themes: water conservation, energy conservation and waste management. A total of 164 submissions were received.",
+				"Both the “Ideas To Wake Up To” speaker series and the Think Differently Awards reflect the spirit of originality that Swire Properties celebrated during our 50th anniversary."
+			]
+		},
+		"five-pillars": {
+			"title": "Five Pillars",
+			"cards": [
+				{
+					"id": "places-vibrancy",
+					"pillar": "places",
+					"title": "Vibrancy",
+					"content": "The House Collective runs a biennial art programme called “Encounters Across Cultures”. Every two years, a new series of art pieces tells the story of each House...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/places-vibrancy/EAST HK City Symphony.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"The House Collective runs a biennial art programme called “Encounters Across Cultures”, which invites artists from different backgrounds to collaborate on creative artistic expressions. In 2021, the Houses invited artists from around the world to come together to create and explore the concept of space and movement. Designed during the pandemic, the programme was realised through interactive video installations that– coupled with varying styles of dance – complemented the work of the esteemed architects behind each House.",
+							"“Art at EAST”, launched in 2019, was the first art programme at EAST Hotels. At EAST Hong Kong, an interactive exhibition called “City Symphony” transports guests on a sound-based journey across the Taikoo neighbourhood using eccentric wooden sculptures."
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-vibrancy/EAST HK City Symphony.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-vibrancy/Encounters Across Cultures - Installations.jpg",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "Vibrancy | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Artistic and cultural initiatives are thriving at The House Collective and EAST.",
+							"keywords": "Places, Vibrancy, Encounters Across Cultures, the House Collective, Art at EAST, EAST Hong Kong, City Symphony"
+						}
+					}
+				},
+				{
+					"id": "people-health-and-safety",
+					"pillar": "people",
+					"title": "Health and Safety",
+					"content": "In line with Swire Properties’ Zero Harm Commitment to the health and safety of our people, guests and other stakeholders, The House Collective ran...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-safety/IMG_2951.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"In line with Swire Properties’ Zero Harm Commitment to the health and safety of our people, guests and other stakeholders, The House Collective ran several health and safety training courses this year; while EAST focused on employee safety – in particular, a slip, trip and fall prevention campaign was organised. From June to November 2022, three series of videos weekly that cover six-level slip, trip and fall prevention course were posted explaining how to enhance static and dynamic balance to reduce and prevent potential work injuries. Boosted by fun facts, quizzes and lucky draws, the course completion rate achieved 100%.",
+							"The Upper House also provides regular first aid training to ensure team members’ first aid skills and knowledge remain current. In July 2022, we invited external trainers to deliver our annual Occupational Health and Safety (“OHS”) refreshment training, which was mandatory for all team members."
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-safety/IMG_2951.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-safety/IMG_2956.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-safety/IMG_5865.jpg"
+							}
+						],
+						"meta": {
+							"title": "Health and Safety | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "All hotels align with Swire Properties’ Zero Harm Commitment to the health and safety of our people, guests and other stakeholders.",
+							"keywords": "People, Health and Safety, Zero Harm Commitment, The House Collective, health and safety training courses, EAST, slip, trip and fall prevention campaign, The Upper House, Occupational Health and Safety (“OHS”) refreshment training "
+						}
+					}
+				},
+				{
+					"id": "partners-customers",
+					"pillar": "partners",
+					"title": "Customers",
+					"content": "This year, Swire Hotels introduced several digital improvements to our services designed to streamline and personalise the guest experience and make...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/partners-customers/EHK Digital QR Code Menus.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"This year, Swire Hotels introduced several digital improvements to our services designed to streamline and personalise the guest experience and make back-of-house operations more efficient. For example, the new House Collective WeChat “mini programme” allows WeChat users to access information and offers across the four Houses on a single platform, creating a faster and smarter guest experience. ",
+							"EAST Hong Kong launched digital menus at its restaurants. Diners can order food and drinks by scanning a QR code using their personal devices, and have receipts texted or emailed to them, creating a paperless dining experience. ",
+							"At The Upper House, guests can now scan a QR code in their rooms to enable a range of guest services, including room service and laundry. These create greater convenience and have decreased phone call volumes considerably. Also, at The Upper House e-shop, customers can purchase merchandise directly from the website, creating a seamless user experience. "
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-customers/EHK Digital QR Code Menus.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-customers/Mini programme.png",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "Customers | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Swire Hotels introduced several digital improvements designed to streamline and personalise the guest experience and make our operations more efficient.",
+							"keywords": "Partners, Customers, digital improvements, new House Collective WeChat “mini programme”, EAST Hong Kong, digital menus, The Upper House, guest services, "
+						}
+					}
+				},
+				{
+					"id": "environment-performance-environment",
+					"pillar": "environment",
+					"title": "Hotel Sustainability Technical Guidelines",
+					"content": "In 2022, we rolled out new Hotel Sustainability Technical Guidelines. These incorporate Swire Hotels’...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-1.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"In 2022, we rolled out new Hotel Sustainability Technical Guidelines. These incorporate Swire Hotels’ sustainability aspirations and vision, starting from the design and construction of new developments to the hotel operations stage. The guidelines encourage teams to collaborate, innovate and create opportunities that will advance our sustainability performance locally and globally across our portfolio in several aspects:",
+							{
+								"type": "ul",
+								"value": [
+									"Sustainable hotel certification",
+									"Building management systems and submetering",
+									"Energy efficiency",
+									"Water efficiency",
+									"Indoor environmental quality",
+									"Management for circularity",
+									"Sustainable transport",
+									"Interior finishes and materials"
+								]
+							}
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-2.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-3.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-4.jpg"
+							}
+						],
+						"meta": {
+							"title": "Performance (Environment) | Swire Properties SD Report 2022",
+							"content": "We aim to design, construct and manage high quality developments that contribute positively to the environment and to the communities in which we operate.",
+							"keywords": "Performance (Environment), environment, sustainability, Climate Change, Science-based targets, GHG emissions, Downstream, Scope 3, Scope 1 and 2, Water, Water Intensity, Energy, Energy Use Intensity, Resource and Circularity, Commercial Waste Diversion rate, Building/Asset Investments, green building certification ratings, existing developments, Occupant Wellbeing, IAQ, Excellent Class, Biodiversity, urban biodiversity study, redevelopment project, Profile of Environment Impacts, 2022 Progress Summary Table, Performance Data Summary (Environmental) "
+						}
+					}
+				},
+				{
+					"id": "economic-performance-economic",
+					"pillar": "economic",
+					"title": "Expanding The House Collective brand",
+					"content": "Swire Hotels consistently sets benchmarks for success and continuously works to attract guests, visitors and diners through high-quality experiences. In 2022...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/economic-expanding-the-house-collective-brand/economic-expanding-the-house-collective-brand-en-1.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"Swire Hotels consistently sets benchmarks for success and continuously works to attract guests, visitors and diners through high-quality experiences.",
+							"In 2022, Swire Hotels announced a growth plan to extend the established hotel brands into other cities on a management agreement (“HMA”) basis. Two new hotels will be operated under this business model. The first hotel will open in Shenzhen in 2025, while another new hotel in Tokyo is scheduled for completion in 2027. ",
+							"The new hotel in Shenzhen, under The House Collective Brand, will offer 115 guestrooms and 44 serviced residences with stunning views of Shenzhen Bay. It will be a major component of a premium mixed-use development comprising Grade-A office towers and an events and exhibition space.",
+							"The Company also entered into a collaboration with Tokyu Corporation and Tokyu Department Store (“the Tokyu Group”) and <i>L</i> Catterton Real Estate (“LCRE”) to develop the new hotel in Tokyo under The House Collective brand. Located on the site of the iconic Tokyu Department Store’s flagship store, the new House will be part of the Shibuya Upper West Project on the edge of the fashionable Shibuya district.",
+							"The project aspires to become Tokyo’s first true “urban retreat” – an enclave of peace and relaxation amid the bustle of the city. As well as combining a hotel and residences with high-quality retail, unique dining and arts and cultural facilities, environmental and sustainability objectives are central to the project, which aims to secure international certifications."
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/economic-expanding-the-house-collective-brand/economic-expanding-the-house-collective-brand-en-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/economic-expanding-the-house-collective-brand/economic-expanding-the-house-collective-brand-en-2.jpg",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "Performance (Economic) | Swire Properties SD Report 2022",
+							"content": "We aim to deliver sustainable economic performance coupled with good corporate governance and high ethical standards.",
+							"keywords": "Performance (Economic), green financing, green bond proceeds, green finance report, financial highlights, investor relations, risk management, 2022 progress summary table"
+						}
+					}
+				},
+				{
+					"id": "environment-energy",
+					"pillar": "environment",
+					"title": "Energy",
+					"content": "In 2021, the entire Sino-Ocean Taikoo Li Chengdu complex, including The Temple House, became powered by 100% renewable electricity (a mix of...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-energy/1_Lobby_1.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"In 2021, the entire Sino-Ocean Taikoo Li Chengdu complex, including The Temple House hotel, became powered by 100% renewable electricity (a mix of hydropower, solar and wind power). The complex is a clean energy leader – one of the first entities in Sichuan and the first in Swire Properties to achieve net-zero carbon in its annual electricity consumption for landlord and tenant operations. This achievement has set a high bar for our other properties and for the industry.",
+							{
+								"type": "sub-title",
+								"class": "color-pillar-environment mb-2",
+								"value": "Green building certifications"
+							},
+							{
+								"type": "sd-in-action-icon-group",
+								"title": "The Middle House",
+								"groups": [
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/leed.svg",
+										"iconWidth": 100,
+										"list": [
+											"Gold (LEED for Building Design and Construction)"
+										]
+									},
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/china-green-building-design-label.png",
+										"iconWidth": 100,
+										"list": [
+											"Two Star (China Green Building Label)"
+										]
+									}
+								]
+							},
+							{
+								"type": "sd-in-action-icon-group",
+								"title": "The Temple House",
+								"groups": [
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/leed.svg",
+										"iconWidth": 100,
+										"list": [
+											"Platinum (LEED for Building Operations and Maintenance: Existing Buildings)",
+											"Gold (LEED for Neighbourhood Development)"
+										]
+									},
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/china-green-building-design-label.png",
+										"iconWidth": 100,
+										"list": [
+											"Two Star (China Green Building Label)"
+										]
+									}
+								]
+							},
+							{
+								"type": "sd-in-action-icon-group",
+								"title": "EAST Beijing",
+								"groups": [
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/leed.svg",
+										"iconWidth": 100,
+										"list": [
+											"Gold (LEED for Building Design and Construction)",
+											"Platinum (LEED for Building Operations and Maintenance: Existing Buildings)"
+										]
+									}
+								]
+							},
+							{
+								"type": "sd-in-action-icon-group",
+								"title": "EAST Hong Kong",
+								"groups": [
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/beam-plus.png",
+										"iconWidth": 120,
+										"list": [
+											"Gold (BEAM Plus New Building)"
+										]
+									}
+								]
+							}
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/1_Lobby_1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/2_Exterior_Taikoo_Li.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/3_EAB Exterior.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/4_SPD5_24Feb17_1596.jpg"
+							}
+						],
+						"meta": {
+							"title": "Energy | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Our achievements in renewable and clean energy set a high bar for our properties and for the industry.",
+							"keywords": "Performance (Environment), Sino-Ocean Taikoo Li Chengdu, The Temple House, 100% renewable electricity, net-zero carbon, Green building certifications, The Middle House, EAST Beijing, EAST Hong Kong"
+						}
+					}
+				},
+				{
+					"id": "places-livelihood",
+					"pillar": "places",
+					"title": "Livelihood",
+					"content": "At EAST Hong Kong, our Community Ambassadors continued a charity initiative launched in 2020 – the “A Spoonful of Love” campaign, which raises money for...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/places-livelihood/livelihood-1.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"At EAST Hong Kong, the Community Ambassadors continued a charity initiative launched in 2020 – the “A Spoonful of Love” campaign, which raises money for people in need in Hong Kong and provides a tasty and nutritious bowl of soup at the same time. The EAST Hong Kong team sourced ingredients to create their own special soup packets. Altogether, 2,261 soup packets were sent to families through 11 NGO partners. We also delivered 5,900 soup packs to doctors, nurses and staff at Eastern Hospital, sending the frontline medical carers a simple message: We Are All in This Together!"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-livelihood/livelihood-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-livelihood/livelihood-2.jpg",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "Livelihood | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Our Community Ambassadors continued a long-running charity initiative.",
+							"keywords": "Places, Livelihood, EAST Hong Kong, Community Ambassadors, A Spoonful of Love, NGO partners"
+						}
+					}
+				},
+				{
+					"id": "environment-waste-reduction",
+					"pillar": "environment",
+					"title": "Waste Reduction",
+					"content": "This year, we intensified our commitment to reducing single-use plastics. In line with Swire Hotels’ vision, a wide range of initiatives have been implemented to...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/1_20201104AKho-EAST-Business-0169.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"This year, we intensified our commitment to reducing single-use plastics. In line with Swire Hotels’ policies, a wide range of initiatives have been implemented to reduce the consumption of these plastics in operations. ",
+							"EAST Hong Kong, EAST Beijing and The Upper House retrofitted over 800 rooms with an in-room water filtration system, eliminating the need for plastic bottled water in rooms, which helped to save the use of over 2.7 tonnes of plastic bottles. They also installed a filtered water dispenser in The  Upper House’s gym. ",
+							"The Temple House, The Middle House and EAST Hong Kong phased out all single-use plastics – replacing all straws, hampers, room amenity wrappers and toothbrushes with products made from biodegradable materials. The hotels’ Eco-cup initiative uses reusable coffee cups made from materials such as coffee husks, bamboo powder and other natural plant fibres. Guests receive promotional rewards if they purchase a drink with these cups.",
+							"Waste reduction initiatives at The House Collective included:",
+							{
+								"type": "ul",
+								"value": [
+									"Replacing plastic room keys with wooden cards at The Temple House and, The Middle House, and with bamboo cards at The Opposite House.",
+									"Offering single-use toiletries on request only at The Opposite House.",
+									"Replacing paper coasters with leather ones at Salisterra.",
+									"Upcycling bed linens by turning them into T-shirts.",
+									"Recycling waste glass bottles into eco-pavers at The Continental.",
+									"Recycling coffee capsules at The Opposite House – turning coffee grounds into soil and reusing the capsule casings.",
+									"Processing coffee beans with solar power and packaged in biodegradable materials.",
+									"Using ecoSPIRITS at several hotels – an innovative closed-loop distribution system that nearly eliminates packaging waste in the premium spirits supply chain."
+								]
+							},
+							"EAST also works to reduce waste in numerous ways:",
+							{
+								"type": "ul",
+								"value": [
+									"Paperless check-in and check-out.",
+									"Replacing plastic room keys with wooden cards at EAST Hong Kong and EAST Beijing",
+									"Over 500 rooms at EAST Hong Kong and EAST Beijing have now been retrofitted with a water filtration system to phase out plastic water bottles.",
+									"Contactless ordering service for guests to request room service or order in-room dining by scanning the “StayMenu” QR code with their mobile device – this has reduced about 70% of menu paper usage in the hotel’s restaurants and bars by reducing the need for unnecessary printouts such as entertainment lists and in-room dining menus. ",
+									"Recyclable dispensers for body care products.",
+									"Bamboo material bathroom amenities, available on request.",
+									"Reusable shopping bags, paper hangers, canvas laundry bags and courtesy slippers as greener alternatives.",
+									"Recycling of plastic, aluminium, glass, coffee grounds and bath linens."
+								]
+							}
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/1_20201104AKho-EAST-Business-0169.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/EAB Wooden Card.png"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/Eco Cup_TTH.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/EHK Coffee Cup.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/Upcycling Linens.jpg"
+							}
+						],
+						"meta": {
+							"title": "Waste Reduction | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "In 2022, we intensified our commitment to reducing single-use plastics throughout our operations.",
+							"keywords": "Performance (Environment), Waste Reduction, single-use plastics, EAST Hong Kong, EAST Beijing, The Upper House, in-room water filtration system, The Temple House, The Middle House, EAST Hong Kong, Eco-cup, Waste reduction initiatives"
+						}
+					}
+				},
+				{
+					"id": "people-internal-zero-ltir-awards",
+					"pillar": "people",
+					"title": "Internal Zero Lost Time Injury Rate (“LTIR”) Awards",
+					"content": "The Opposite House - 500, EAST Beijing - 500 Days, The Temple House - 180 Days, EAST Hong Kong and EAST Residences Hong Kong - 180 Days",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/TOH Zero LTI 2.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"<strong><i>The Opposite House</i></strong>&nbsp;: <br /> <span class='n3 color-pillar-people js-count-up-number js-count-up-number--force'>500</span> Days",
+							"<strong><i>EAST Beijing</i></strong>&nbsp;: <br /> <span class='n3 color-pillar-people js-count-up-number js-count-up-number--force'>500</span> Days",
+							"<strong><i>The Temple House</i></strong>&nbsp;: <br /> <span class='n3 color-pillar-people js-count-up-number js-count-up-number--force'>180</span> Days",
+							"<strong><i>EAST Hong Kong</i></strong>&nbsp; and <strong><i>EAST Residences Hong Kong</i></strong>&nbsp;: <br /> <span class='n3 color-pillar-people js-count-up-number js-count-up-number--force'>180</span> Days"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/TOH Zero LTI 2.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/Zero LTI award presentation-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/EHK Zero LTI Zero LTI 2.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/Zero LTI award presentation-2.jpg"
+							}
+						],
+						"meta": {
+							"title": "Internal Zero LTIR Awards | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Several hotels achieved either 180 or 500 day lost time injury rate awards in 2022.",
+							"keywords": "People, Internal Zero Lost Time Injury Rate (“LTIR”) Awards, The Opposite House, EAST Beijing, The Temple House, EAST Hong Kong, EAST Residences Hong Kong"
+						}
+					}
+				},
+				{
+					"id": "partners-suppliers",
+					"pillar": "partners",
+					"title": "Suppliers",
+					"content": "In 2022, Swire Hotels worked to incorporate the updated Swire Pacific Sustainable Procurement Policy and...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/EHK Plant-based vegetarian menus.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"In 2022, Swire Hotels worked to incorporate the updated Swire Pacific Sustainable Procurement Policy and Sustainable Food Policy into our purchasing procedure guidelines.  ",
+							"Our daily sourcing practices adhere to the principles of the 3Rs (reduce, reuse and recycle), and we tried our best to request sustainable products such as FSC-certified paper products, and Aquaculture Stewardship Council (“ASC”) and Marine Stewardship Council (“MSC”) certified seafood from suppliers. ",
+							"Most Swire Hotels restaurants aim to purchase fresh produce, live fish or dairy products from local suppliers and farmers in order to reduce the carbon emissions created by shipping food over long distances. In 2022, The Opposite House was supplied with edible flowers, tomatoes and fresh herbs from two local farms; while fresh fish and homemade caviar came from two aquafarms in the Chinese Mainland. The Temple House used a local farm for its vegetables, and The Upper House used a local aquaculture business for fish and an organic farm for its vegetables. At EAST Beijing, all craft beers were brewed in Beijing and 50% of the hotel’s cheese selection was produced locally.",
+							"Most Swire Hotels restaurants use sustainable seafood that meet guidelines set out by the WWF-Hong Kong Seafood Guide or the ASC, and follow Swire Pacific’s Sustainable Food Policy that mandates strictly avoiding the purchase of any unsustainable food items such as shark fin or snake. In Hong Kong, 40% of the hotel seafood was certified to ASC or MSC standards. We aim for this figure to reach 50% by 2030.",
+							"Swire Hotels restaurants are also offering more vegan and plant-based meat alternative menu options. At The Opposite House, our restaurant Union launched a vegan menu in late 2021, using plant-based meat across the entire menu. EAST Beijing now offers plant-based meat on its menus, while FEAST at EAST Hong Kong offers plant-based and vegetarian menus. All restaurants also added vegan or organic wines to their drink menus this year.",
+							"Farm-to-table dining concepts are also taking hold at our Hotels – EAST Hong Kong, The Upper House, The Middle House and The Temple House all use cage-free eggs; and an on-site garden at The Temple Café at The Temple House supplies around 10% of its vegetables and produces around three kilograms of herbs to be used at the hotel’s restaurants each month. ",
+							"EAST Hong Kong also collaborated with a social enterprise dedicated to promoting urban farming in Hong Kong to build an urban garden in a corner of the hotel’s pool deck."
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/EHK Plant-based vegetarian menus.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/TTH Herb Garden.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/TUH Seafood dishes.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/4_The Upper House Salisterra Main Dining Room Night 1.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/5_Frasca_Dining area.jpg"
+							}
+						],
+						"meta": {
+							"title": "Suppliers | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Swire Hotels works to include sustainable principles in all of our purchasing policies and guidelines.",
+							"keywords": "Partners, Suppliers, Swire Pacific Sustainable Procurement Policy, Sustainable Food Policy, 3Rs (reduce, reuse and recycle), FSC-certified paper products, Aquaculture Stewardship Council (“ASC”),  Marine Stewardship Council (“MSC”) certified seafood, The Opposite House, The Temple House, local farm, EAST Beijing, craft beer, WWF-Hong Kong Seafood Guide, vegan menu, plant-based meat, Farm-to-table, EAST Hong Kong, The Upper House, The Middle House"
+						}
+					}
+				},
+				{
+					"id": "places-wellbeing",
+					"pillar": "places",
+					"title": "Wellbeing",
+					"content": "All our hotels offer unique and comprehensive wellness programmes for guests and staff alike. The Upper House offers wellness residencies in Hong Kong, featuring holistic therapies, yoga and meditation sessions, fitness...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/1_MicrosoftTeams-image (48).png",
+					"square": false,
+					"popup": {
+						"contents": [
+							"All hotels offer unique and comprehensive wellness programmes for guests and staff alike. The Upper House offers wellness residencies in Hong Kong, featuring holistic therapies, yoga and meditation sessions, fitness classes and in-room treatments, some of which are conducted in partnership with well-known sports and wellness brands.",
+							"The Temple House provided regular wellness initiatives throughout the year, from healthy menu selections at the hotel’s restaurants to cross-brand collaborations and unique wellness-themed experiences for guests. These included exercise parties to promote stillness, happiness and wellbeing, and livestreamed yoga classes for staff and “House friends” during the lockdown period. One session attracted over 500 followers to participate."
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/1_MicrosoftTeams-image (48).png",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/2_MicrosoftTeams-image (49).png",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/3_4WD_1732.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/4_4WD_9431.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/5_MXJ_1777.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/6_MXJ4811.jpg"
+							}
+						],
+						"meta": {
+							"title": "Wellbeing | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "All our hotels offer unique and comprehensive wellness programmes for guests and staff alike.",
+							"keywords": "Places, Wellbeing, wellness, therapies, yoga,  meditation sessions, fitness classes, in-room treatments, The Temple House, wellness-themed experiences"
+						}
+					}
+				},
+				{
+					"id": "partners-partnering-with-a-brewery",
+					"pillar": "partners",
+					"title": "Partnering with a Brewery to Save Bread – and Make Beer!",
+					"content": "EAST Hong Kong has partnered with a local craft brewery in Hong Kong. The brewery takes leftover fresh-baked goods from the hotel’s Domain Café and uses it to make...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/partners-partnering-with-a-brewery-to-save-bread/EHK Bao Beer.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"EAST Hong Kong has partnered with a local craft brewery in Hong Kong to take leftover fresh-baked goods from the hotel’s Domain Café and use it to a lager beer. After the surplus bread is collected and delivered to the brewery, it is blended into crumbs and used to replace a portion of barley malt. Following a two-month fermentation process, the leftover breadcrumbs and grains are then sent to a local farm to be used as animal feed and fertiliser, promoting the idea of circularity. This arrangement has saved approximately 40kg of surplus bread from going to landfill."
+						],
+						"gallery": [
+							{
+								"type": "video",
+								"poster": "/images/pages/places/sd-in-action/five-pillars/partners-partnering-with-a-brewery-to-save-bread/Thumbnail.jpg",
+								"src": "https://media.swireproperties.com/a9c7205c-833f-4f42-a26b-a2a97e9f5319/1min-final.ism/manifest",
+								"sdInAction": true,
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-partnering-with-a-brewery-to-save-bread/EHK Bao Beer.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-partnering-with-a-brewery-to-save-bread/Indoor Bar - Medium.jpg",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "Partnering with a Brewery to Save Bread - and Make Beer! | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "EAST Hong Kong partners with a local craft brewery, taking leftover fresh-baked goods from a hotel café and using it to make a lager beer.",
+							"keywords": "Partners, Partnering with a Brewery to Save Bread – and Make Beer!, EAST Hong Kong, local craft brewery, bread, fertiliser, circularity"
+						}
+					}
+				},
+				{
+					"id": "people-diversity-and-inclusion",
+					"pillar": "people",
+					"title": "Diversity and Inclusion",
+					"content": "In June 2022, in cooperation with Christian Action, our EAST Hong Kong operation hired two team members with refugee identities. One, from Sri Lanka, was hired...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-diversity-and-inclusion/TUH Upstairs.png",
+					"square": false,
+					"popup": {
+						"contents": [
+							"In June 2022, in cooperation with Christian Action, EAST Hong Kong hired two team members with refugee identities. One, from Sri Lanka hired as a guest experience host and another, from Pakistan, was recruited as a public area attendant. The Upper House also hired two team members holding refugee identities as servers at its restaurant Salisterra, one from Rwanda and another from Indonesia.",
+							"The Upper House collaborated again this year with The Hong Kong Down Syndrome Association on our well-established <a class='text-people' href='/2022/people/diversity-and-inclusion/social-inclusion#the-upstairs-programme'>“UPSTAIRS”</a> training and work experience programme. This year, 10 members participated, went through the training and gained work experience in five hotel departments.",
+							"EAST Hong Kong worked with the Jockey Club Sarah Roe School to provide special vocational training to children with learning disabilities. The students gained on-the-job experience, working with the team on tasks such as folding serviettes, greeting guests, preparing table seating, and packing guest amenities bags."
+						],
+						"gallery": [
+							{
+								"type": "video",
+								"poster": "/images/pages/places/sd-in-action/five-pillars/people-diversity-and-inclusion/Thumbnail.jpg",
+								"src": "https://media.swireproperties.com/5b23b69f-0674-4d66-9377-35a3a3b87d22/The_Upper_House_X_Hong_Kong_Down.ism/manifest",
+								"sdInAction": true,
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-diversity-and-inclusion/TUH Upstairs.png",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "Diversity and Inclusion | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "A number of our hotels partnered with community organisations to provide employment or training opportunities to people in need.",
+							"keywords": "People, Diversity and Inclusion, Christian Action, EAST Hong Kong, Sri Lanka, Pakistan, The Upper House, Hong Kong Down Syndrome Association, UPSTAIRS, Jockey Club Sarah Roe School, special vocational training, on-the-job experience"
+						}
+					}
+				},
+				{
+					"id": "environment-water",
+					"pillar": "environment",
+					"title": "Water",
+					"content": "The Middle House joined an annual water balance testing programme. The hotel’s engineering team installed six water meters in guest room areas, all...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-water/1_Studio 70_Bathroom.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"The Middle House joined an annual water balance testing programme. The hotel’s engineering team installed six water meters in guest room areas, all restaurants and the hotel’s public areas. The water consumption in each area has been analysed monthly, with leaks identified quickly and problems fixed immediately. It is expected that water consumption in each area will be reduced by 2% and consumption per guest night lowered to within 0.61m<sup>3</sup> per guest night – the hotel’s water reduction target – by the end of 2022.  ",
+							"A grey water treatment and recycling system has been in place to collect and reuse shower water, cooling tower water and rainwater at The Temple House since 2017. The system saves approximately 7,300m³ of water annually. Across all EAST hotels, flow controllers have been fitted onto guest room water taps and showers. At EAST Hong Kong, this has saved an average of 1,040m<sup>3</sup> of water daily."
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-water/1_Studio 70_Bathroom.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-water/2_Penthouse_bathroom.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-water/3_Flow Controller (EAST HK).jpg"
+							}
+						],
+						"meta": {
+							"title": "Water | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Swire Hotels continues to explore opportunites to reduce its water demand. ",
+							"keywords": "Performance (Environment), Water, water meters, leaks, water consumption, grey water treatment and recycling system"
+						}
+					}
+				},
+				{
+					"id": "places-resilience",
+					"pillar": "places",
+					"title": "Resilience",
+					"content": "Between February to October 2022, EAST Hong Kong became a designated quarantine hotel to support the government’s quarantine arrangements for inbound persons from overseas – a crucial part of the city’s...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/places-resilience/EHK Quarantine Room Image.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"Between February to October 2022, EAST Hong Kong became a designated quarantine hotel to support the government’s quarantine arrangements for inbound persons from overseas – a crucial part of the city’s overall pandemic strategy at that time.",
+							"During the soft lockdown period in Chengdu, The Temple House distributed mooncakes to the government community office that provided daily COVID-19 testing to the surrounding neighbourhood. The hotel also donated 215 boxes of mooncakes to charities during the Mid-Autumn Festival. Meanwhile, our hotel teams received care packages at their staff dormitories, while hotel guests were also given special packages daily including wine, cheese, Mi Xun hotpot, special cocktails and puzzle games to ensure they remained well in a positive and upbeat environment."
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-resilience/EHK Quarantine Room Image.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-resilience/20201104AKho-EAST-Business-0013.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-resilience/20201104AKho-EAST-Business-0051.jpg"
+							}
+						],
+						"meta": {
+							"title": "Resilience | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "EAST and The House Collective hotels played important roles in supporting the community during the COVID-19 pandemic.",
+							"keywords": "Places, Resilience, EAST Hong Kong, quarantine arrangements, pandemic strategy, soft lockdown, The Temple House, COVID-19 testing, staff dormitories"
+						}
+					}
+				},
+				{
+					"id": "people-talent",
+					"pillar": "people",
+					"title": "Talent Management",
+					"content": "This year, we launched our Operations Management Trainee Programme throughout the Swire Hotels portfolio. Personalised according to a candidate’s...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-1.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"Swire Hotels launched the Operations Management Trainee Programme throughout the Swire Hotels' portfolio. Personalised according to a candidate’s strengths and aspirations, the programme opens up opportunities for trainees to work across various departments and locations in Hong Kong and the Chinese Mainland. After 12 to 18 months of on-the-job training, our trainees gained a well-rounded understanding of the hotel business and insights from a management perspective.",
+							"In July 2022, The Upper House launched a new one-hour SD workshop mandatory for all team members, discussing sustainability at Swire Hotels and how everyone can live a sustainable lifestyle. Other SD-related workshops will be explored in the future.",
+							"The GroPRO and LeadPRO talent development programmes were run at EAST Hong Kong to support team members and team leaders respectively. Both offered tailored programmes to develop individuals’ qualities and strengths. Cross-exposure to programmes such as the “How to Run a Project” workshop and a coaching workshop were also arranged to support their personal development."
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-2.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-3.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-4.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-5.png"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-6.png"
+							}
+						],
+						"meta": {
+							"title": "Talent Management | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Various training and development programmes were offered throughout the year to advance the skills of staff and team leaders.",
+							"keywords": "People, Talent Management, Swire Hotels, Operations Management Trainee Programme, on-the-job training, The Upper House, GroPRO and LeadPRO talent development"
+						}
+					}
+				},
+				{
+					"id": "environment-green-kitchens",
+					"pillar": "environment",
+					"title": "Green Kitchens",
+					"content": "The restaurant has installed and initiated numerous waste reduction measures: Kitchen waste from all outlets is sorted. ORCA technology is then used to turn up to 270kg of food waste daily into liquid that can be...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-green-kitchens/EHK FEAST - Green Kitchen Award.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							{
+								"type": "sub-title",
+								"class": "color-pillar-environment",
+								"value": "Waste Reduction at FEAST at EAST Hong Kong"
+							},
+							"The restaurant has installed and initiated numerous waste reduction measures:",
+							{
+								"type": "ul",
+								"value": [
+									"Kitchen waste from all outlets is sorted. ORCA technology is then used to turn up to 270kg of food waste daily into liquid that can be discharged for sewerage treatment. With this technology, EAST Hong Kong was able to prevent up to 2,000 kg of food waste per month going to the landfills",
+									"Sensor-enabled refrigerators, the doors of which shut automatically when no customers are around, keep food fresh for longer and reduce spoilage.",
+									"FEAST partners with the Nature Conservancy to convert oyster shells into oyster reef substrate materials to build new reefs, which act as natural water filters and play an important role in stabilising shorelines. Since January 2022, the restaurant has provided over 2.2 tonnes of shells.",
+									"The restaurant collaborates with a company to recycle used cooking oil into biodiesel.",
+									"FEAST uses ECOSpirits, as described in the Waste Reduction subsection.",
+									"Used coffee grounds are collected to be used as fertiliser by the hotel’s in-house gardener."
+								]
+							},
+							{
+								"type": "sub-title",
+								"class": "color-pillar-environment",
+								"value": "Green Kitchen Initiative"
+							},
+							"All Swire Hotels food and beverage outlets actively participate in the Swire Properties <a href='/2022/en/partners/tenants/environment#the-green-kitchen-initiative'>Green Kitchen Initiative</a>.",
+							{
+								"type": "sub-title",
+								"class": "color-pillar-environment",
+								"value": "Swire Hotel Restaurants with Green Kitchen Initiative Green Leaf Awards"
+							},
+							{
+								"type": "table1",
+								"pillar": "environment",
+								"table-type": "green-kitchen-table",
+								"table-slim": true,
+								"table-middle": true,
+								"table-no-responsive": true,
+								"value": {
+									"custom-head-size": "c1 font-weight-medium sm:w-max",
+									"thead": [
+										"Restaurant",
+										"Portfolio",
+										"Leaf rating",
+										"Year obtained"
+									],
+									"tbody": [
+										[
+											{
+												"contents": "Domain"
+											},
+											{
+												"rowspan": 2,
+												"contents": "EAST Beijing"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "FEAST"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "Domain"
+											},
+											{
+												"rowspan": 2,
+												"contents": "EAST Hong Kong "
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "FEAST"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "Salisterra"
+											},
+											{
+												"rowspan": 2,
+												"contents": "The Upper House "
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "The Continental"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "Frasca"
+											},
+											{
+												"rowspan": 2,
+												"contents": "The Opposite House"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "Superfly"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "Frasca"
+											},
+											{
+												"rowspan": 3,
+												"contents": "The Middle House"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "Sui Tang Li"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "Café Gray Deluxe"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "The Temple Café"
+											},
+											{
+												"rowspan": 3,
+												"contents": "The Temple House"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "Tivano"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "Mi Xun Teahouse"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										]
+									]
+								}
+							},
+							"Two of our restaurants at EAST Hong Kong, FEAST and Domain, have received a Three-Leaf rating from the Green Kitchen Initiative for their active efforts to reduce energy, water and waste and for sustainable renovation decisions that have been made, which include:",
+							{
+								"type": "ul",
+								"value": [
+									"The installation of variable-speed exhaust blowers to reduce electricity usage.",
+									"The installation of water economisers on all water taps, adjusted for optimal flow rate.",
+									"Rolling out paper straws and biodegradable corn powder takeaway packaging to replace single-use plastics."
+								]
+							},
+							"The initiatives have yielded outstanding results. Comparing the second half of 2019 to the same period in 2021, the restaurants achieved:",
+							{
+								"type": "ul",
+								"value": [
+									"<span class='text-environment font-weight-normal n3 mb-0'>6%</span> reduction in electricity usage (excluding air-conditioning consumption)",
+									"<span class='text-environment font-weight-normal n3 mb-0'>31%</span> drop in town gas usage",
+									"<span class='text-environment font-weight-normal n3 mb-0'>19%</span> reduction in water consumption"
+								]
+							}
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-green-kitchens/EHK FEAST - Green Kitchen Award.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-green-kitchens/EHK FEAST - Green Kitchen.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-green-kitchens/TTH ORCA.jpg"
+							}
+						],
+						"meta": {
+							"title": "Green Kitchens | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "All Swire Hotels food and beverage outlets actively participate in the Swire Properties Green Kitchen Initiative.",
+							"keywords": "Performance (Environment), Green Kitchens, Kitchen waste, Sensor-enabled refrigerators, Nature Conservancy, oyster reef, ECOSpirits, fertiliser, coffee grounds, Green Kitchen Initiative, Three-Leaf rating"
+						}
+					}
+				},
+				{
+					"id": "people-staff-engagement",
+					"pillar": "people",
+					"title": "Staff Engagement",
+					"content": "Regular activities were held throughout the year across all Swire Hotels properties to boost staff morale and share positive news updates. The Middle House hosted two...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/1_TMH Ping Pong during lockdown for team members.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"Regular activities were held throughout the year across all Swire Hotels properties to boost staff morale and share positive news updates. The Middle House hosted two townhall meetings for all team members, at which the general manager shared hotel performance notes, updates and details of upcoming events. Fun games and lucky draws were also held for the team members and leadership teams.",
+							"At EAST Hong Kong, team members were also invited to participate in the virtual “Trash to Treasure” bazaar, where they brounght in items that were new but no longer in use to other colleagues, giving a second life to the preloved items.",
+							"The Opposite House hosted a staff workshop organised by a bird-related charity discussing how to protect the environment and give birds a better home in the city. Participants learned practical ways to create a better balance between people and other creatures in the urban environment."
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/1_TMH Ping Pong during lockdown for team members.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/2_57be97c8-0723-4f43-9eb1-4593f2ce139e.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/3_28.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/4_Dragon Boat Festival Fruits Delevery to all TMs.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/5_Birthday Celebration - 1.jpg"
+							}
+						],
+						"meta": {
+							"title": "Staff Engagement | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Regular activities were held throughout the year across all Swire Hotels properties to boost staff morale and share positive news updates.",
+							"keywords": "People, Staff Engagement, The Middle House, townhall meetings, EAST Hong Kong, Trash to Treasure, The Opposite House"
+						}
+					}
+				},
+				{
+					"id": "people-wellness",
+					"pillar": "people",
+					"title": "Wellness",
+					"content": "Swire Hotels offers employee assistance programmes to help its team members avoid, recognise and resolve...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-wellness/1_6.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"Swire Hotels offers employee assistance programmes to help its team members avoid, recognise and resolve personal, psychological, social, familial or work-related concerns; improve their physical and mental health; and maximise their potential and job performance.",
+							"Swire Hotels continues to work to contribute to and improve staff wellness in any possible way. Throughout 2022, The Temple House held regular movie nights, celebration days for staff birthdays and “special deliveries” of treats to staff such as cool drinks on hot days. The hotel also conducted regular activities for interns as part of a six-month hotel trainee programmey, including management team exposure, role-play training, a video production and a graduation party.",
+							"At The Temple House, a staff relaxation corner was added where staff can enjoy their break in a quiet environment while using a massage chair. At The Upper House, the “Monday Wellness Programme” for all team members provides different wellness activities every Monday, exploring important themes related to work-life balance and wellness.",
+							"During the Shanghai lockdown, The Middle House organised virtual yoga and karaoke sessions for our employees, helping the team to release stress and connect with each other, and promoting health and mental wellbeing during a time of difficulty. "
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/1_6.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/2_7.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/3_9.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/4_Fun Room (2).jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/5_Fun Room (4).jpg"
+							}
+						],
+						"meta": {
+							"title": "Wellness | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Swire Hotels works to contribute to and improve staff wellness in any way possible.",
+							"keywords": "People, Wellness, employee assistance programmes, physical and mental health, The Temple House, staff relaxation corner, The Upper House, Monday Wellness Programme, Shanghai lockdown, The Middle House, virtual yoga and karaoke sessions"
+						}
+					}
+				},
+				{
+					"id": "people-volunteering",
+					"pillar": "people",
+					"title": "Volunteering",
+					"content": "At The Upper House, our ongoing soap recycling programme collected 387kg of bathroom amenities for an NGO. Its mission is to collect lightly used soap and...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/Spoonful 1.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"At The Upper House, the ongoing soap recycling programme collected 387kg of bathroom amenities for an NGO. Its mission is to collect lightly used soap and bottled amenities to be recycled and distributed to those in need.",
+							"EAST Hong Kong donated unwanted office furniture to 10 Hong Kong NGOs after moving offices, including many chairs and cabinets along with tables and electronic equipment. ",
+							"The Opposite House worked with a local community organisation, inviting disabled students and their teachers to visit the hotel, participate in team activities during festivals and allowing the students to sell handmade handicrafts to our team members. The Temple House donated used clothes to charities and hosted a charity bazaar with all revenue donated to a local animal shelter. "
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/Spoonful 1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/Spoonful 2.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/Spoonful 3.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/TOH - disability student visit.jpg"
+							}
+						],
+						"meta": {
+							"title": "Volunteering | SD in Action: Swire Hotels | Places | Swire Properties SD Report 2022",
+							"content": "Swire Hotels aims to assist the community and the environment through a number of volunteering programmes.",
+							"keywords": "People, Volunteering, The Upper House, soap recycling programme, EAST Hong Kong, office furniture, The Opposite House, handmade handicrafts, The Temple House, charity bazaar "
+						}
+					}
+				}
+			]
+		}
+	},
+	"places-vibrancy-page": {
+		"meta": {
+			"keywords": "Vibrancy, Embracing Originality for our 50th Anniversary, Originality, 50th Anniversary, ORIGINAL. ALWAYS., collaborations, artists, contemporary, digital art, anniversary theme, cultural, Tim Blackburn, creativity, culture, artistic expression, creators, performers, Swire Properties 50th Anniversary Arts Programmes Highlights, Art Basel Hong Kong Partnership, Vibrant Markets Bring Streets Back to Life, Youth Empowerment, Placemaking, Taikoo Li Sanlitun West Wins Urban Regeneration Award, Taikoo Li Sanlitun West",
+			"url": "/places/vibrancy",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/embracing-originality-en-1.jpg",
+			"title": "Vibrancy | Places | Swire Properties SD Report 2022",
+			"content": "Throughout 2022, Swire Properties invested significant time, effort and expenses to ensure that all our developments offered artistic and cultural activities for the benefit of users and the public. "
+		},
+		"landing": {
+			"title": "Vibrancy",
+			"contents": [
+				"Throughout 2022, Swire Properties invested significant time, effort and expenses to ensure that all our developments offered artistic and cultural activities for the benefit of users and the public. "
+			]
+		},
+		"breadcrumb-title": "Vibrancy",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "embracing-originality-for-our-50th-anniversary",
+				"title": "Embracing Originality for our 50th Anniversary",
+				"href": "/places/vibrancy/embracing-originality-for-our-50th-anniversary",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-en-1.jpg"
+					}
+				],
+				"contents": [
+					"Artistic expression is vital to the health of communities and society. Swire Properties remains committed to supporting artists, creators and performers by showcasing artistic and cultural works throughout our portfolio. Our 50th anniversary celebrations held throughout the year featured collaborations with renowned and up-and-coming artists from the worlds of contemporary and digital art."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "vibrant-markets-bring-streets-back-to-life",
+				"title": "Vibrant Markets Bring Streets Back to Life",
+				"href": "/places/vibrancy/vibrant-markets-bring-streets-back-to-life",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-1.jpg"
+					}
+				],
+				"contents": [
+					"The Tong Chong Street Market was created in 2015 in partnership with a local social enterprise which blends green lifestyle aspects with cooking to promote healthy living and sustainability This year, the market held the “Bite to Change” initiative, focusing on showing the community how the choices people make affect both their personal wellbeing and global sustainability."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "youth-empowerment",
+				"title": "Youth Empowerment",
+				"href": "/places/vibrancy/youth-empowerment",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment-1.jpg"
+					}
+				],
+				"contents": [
+					"Launched in 2019, the award-winning Swire Properties Placemaking Academy (“SPPA”) offers Hong Kong university students the opportunity to design, plan and execute the White Christmas Street Fair – the Company’s annual year-end community celebration and one of the city’s largest and most popular seasonal events. The SPPA is a crucial part of our placemaking work with a goal of empowering Hong Kong’s youth to build vibrant and sustainable local communities."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-li-sanlitun-west-wins-urban-regeneration-award",
+				"title": "Taikoo Li Sanlitun West Wins Urban Regeneration Award",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/taikoo-li-sanlitun-west-wins-urban-regeneration-award-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/taikoo-li-sanlitun-west-wins-urban-regeneration-award-2.jpg"
+					}
+				],
+				"contents": [
+					"Taikoo Li Sanlitun West, an expansion of the existing Taikoo Li Sanlitun retail development that includes the renovated Yashow Market, has been named one of the best examples of urban regeneration in Beijing in a citywide competition organised by the Beijing Urban Planning Society. ",
+					"The approximately 301,000 sq ft building reopened in December 2021, having been repositioned as a lifestyle destination featuring a mix of fashion and F&B outlets with health and fitness, lifestyle and entertainment elements. The redeveloped site aligns closely with Beijing’s strategy of revitalising older areas and demonstrates Swire Properties’ commitment to creative transformation and placemaking.",
+					"The transformation also represents a milestone in the continuous upgrade of the Greater Sanlitun Business Circle – a broader Chinese government plan to grow Sanlitun into a world-class business destination. Taikoo Li Sanlitun is contributing to this plan on several fronts: renovating the retail complex’s north zone, refurbishing flagship stores in the south zone and building an elevated pedestrian bridge linking the west and south zones."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-wellbeing",
+			"places-resilience"
+		]
+	},
+	"places-wellbeing-page": {
+		"meta": {
+			"keywords": "Wellbeing, mental and physical health, visitors, tenants, workers, Taikoo Hui Guangzhou Mall, Office Towers, WELL Platinum, Taikoo Hui, Recharge Tung Chung Community Day, Citygate Outlets, sports, fitness",
+			"url": "/places/wellbeing",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-1.jpg",
+			"title": "Wellbeing | Places | Swire Properties SD Report 2022",
+			"content": "We prioritise the health and well-being of our visitors, tenants, employees, and workers."
+		},
+		"landing": {
+			"title": "Wellbeing",
+			"contents": [
+				"Swire Properties continued to prioritise supporting the mental and physical health of our visitors, tenants and workers in 2022. We also continued our work to make our properties more inclusive and accessible to all, designing features and accessibility considerations that go beyond the required regulations.  "
+			]
+		},
+		"breadcrumb-title": "Wellbeing",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-hui-mall-and-office-towers-gain-well-platinum",
+				"title": "Taikoo Hui Guangzhou Mall and Office Towers Gain WELL Platinum",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-2.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-3.jpg"
+					}
+				],
+				"contents": [
+					"In March 2022, the entire Taikoo Hui Guangzhou complex applied for WELL Platinum certification. This certification recognises the development’s positive impacts on human health and wellbeing, through superior performance in terms of air and water quality, nourishment, optimal light, fitness, comfort and mental health. The complex received formal WELL Platinum certification in mid-December 2022."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "re-charge-tung-chung-community-day",
+				"title": "Recharge Tung Chung Community Day",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-5.jpg"
+					}
+				],
+				"contents": [
+					"In June 2022, Citygate Outlets sponsored the “Recharge Tung Chung Community Day”, a large-scale community event organised by a sports foundation to bring together the Tung Chung community and promote sports and sustainable living to families.",
+					"Families in Tung Chung were invited to take part in interactive sports and fitness workshops and learn more about sustainability and environmental conservation through a wellness market and artwork displays. The event attracted over 1,200 participants."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-vibrancy",
+			"places-resilience",
+			"places-livelihood"
+		]
+	},
+	"places-resilience-responding-to-the-pandemic-across-our-properties-page": {
+		"meta": {
+			"keywords": "Responding to the Pandemic Across our Properties, Taikoo Li Sanlitun, pandemic prevention, control, COVID-19, COVID-19 vaccine, donating, supplies, face masks, outbreak, necessities, frontline worker, unsung heroes, service workers, pandemic lockdowns, lockdown, volunteers, INDIGO, shortage, contingency response, safety, wellbeing, sanitation, health, security, travel restrictions, HKRI Taikoo Hui, Taikoo Li Qiantan, New Xi’an team, working from home, Sino-Ocean Taikoo Li Chengdu, recovery, sales, traffic",
+			"url": "/places/resilience/responding-to-the-pandemic-across-our-properties",
+			"type": "places",
+			"image": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg",
+			"title": "Responding to the Pandemic Across our Properties | Resilience | Places | Swire Properties SD Report 2022",
+			"content": "In 2022, Swire Properties responded proactively to address the COVID-19 situation in our properties and support communities in which we operate."
+		},
+		"landing": {
+			"title": "Responding to the Pandemic Across our Properties"
+		},
+		"breadcrumb-title": "Responding to the Pandemic Across our Properties",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-li-sanlitun",
+				"title": "Taikoo Li Sanlitun",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-6.jpg"
+					}
+				],
+				"contents": [
+					"Taikoo Li Sanlitun worked to support the community pandemic response in several ways throughout 2022. In May, the general manager and staff volunteers helped out at a local testing site, registering more than 5,300 people in a day. Volunteers also contributed nearly 200 service hours to pandemic prevention and control. The mall supported the local administrative agency when it encouraged elderly residents to take the COVID-19 vaccine; and assisted the emergency response to a COVID-19 outbreak in Chaoyang District in June, donating supplies including face masks, fruit and drinks worth RMB40,000 to frontline workers as they worked to contain the outbreak. ",
+					"Taikoo Li Sanlitun also opened two care stations to provide free daily necessities to frontline workers. The goal was to show appreciation for the “unsung heroes” – the essential service workers who performed hard and important tasks to keep the community safe and operating during the pandemic lockdowns, including delivery people, medical professionals, police officers, community volunteers and sanitation workers."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "indigo",
+				"title": "INDIGO",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/indigo-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/indigo-2.jpg"
+					}
+				],
+				"contents": [
+					"INDIGO management and employees worked hard to ensure stable operations for 10 days after a lockdown of several neighbourhoods was triggered in early April. The restrictions went into effect immediately, causing a sudden shortage of staff and changes to business hours at retail stores. INDIGO instantly enacted a contingency response to ensure the safety and wellbeing of customers, retail operators and tenants. ",
+					"Measures included adding temporary security guards, adjusting the tasks of sanitation workers to safeguard operations at the office tower and mall, and providing temporary accommodation for frontline workers. Employees working from home were also given all necessary support during this challenging period.",
+					"When the lockdown began, security staffing was challenging due to travel restrictions. To ensure key entrances and exits were covered, INDIGO management quickly established a volunteer employee taskforce to perform health, safety and security duties. "
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hkri-taikoo-hui",
+				"title": "HKRI Taikoo Hui",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/hkri-taikoo-hui-1.jpg"
+					}
+				],
+				"contents": [
+					"During Shanghai’s battle against COVID-19, Swire Properties opened a nucleic acid testing site inside the HKRI Taikoo Hui mall, and donated 1,000 sets of protective suits, face shields and shoe covers to the West Nanjing Road Subdistrict Office, the nearest local government agency. The Swire Group and Swire Properties also each donated RMB1 million to the Shanghai Medicine and Health Development Foundation, funding that was used to support frontline workers from the Shanghai Municipal Health Commission, the Jing’an District Health Commission and Ruijin Hospital."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-li-qiantan",
+				"title": "Taikoo Li Qiantan",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-qiantan-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-qiantan-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-qiantan-3.jpg"
+					}
+				],
+				"contents": [
+					"Thanks to the dedication and selflessness of our employees, operations at Swire Properties’ new wellness-themed mall remained safe and stable throughout Shanghai’s 65 days of lockdown. When Pudong District businesses were closed on 28 March, more than 100 employees from the mall’s engineering, security and sanitation units decided to stay behind. This team was responsible for maintaining the mall’s infrastructure, including fire equipment, electricity and water supplies, for the entire lockdown."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "sino-ocean-taikoo-li-chengdu",
+				"title": "Sino-Ocean Taikoo Li Chengdu",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/sino-ocean-taikoo-li-chengdu-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/sino-ocean-taikoo-li-chengdu-2.jpg"
+					}
+				],
+				"contents": [
+					"In May and June 2022, Sino-Ocean Taikoo Li Chengdu provided support and relief to long-term tenants by organising workshops to devise and implement recovery strategies. Over 20 workshops were held which aimed to help tenants drive sales and traffic in the wake of April’s pandemic restrictions. Over 200 VIP members of the mall also attended the workshops, receiving extra reward points and other promotional gifts from various brands as a gesture of thanks for their loyalty and participation."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "new-xian-team",
+				"title": "New Xi’an team",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/new-xian-1.jpg"
+					}
+				],
+				"contents": [
+					"The Swire Properties team in Xi’an had just begun work on our new Taikoo Li Xi’an project when a COVID-19 outbreak took hold. The team began working from home in December 2021, earlier than the official citywide lockdown. Swire Properties then donated RMB1 million to fund COVID-19 relief initiatives across Xi’an. The donation provided pandemic prevention funding to the Xi’an government and health authorities, along with medical and hygiene supplies and daily necessities for the community. "
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-vibrancy",
+			"places-wellbeing",
+			"places-livelihood"
+		]
+	},
+	"places-resilience-supporting-hong-kong-during-the-battle-against-the-pandemic-page": {
+		"meta": {
+			"keywords": "COVID-19 pandemic, COVID-19, Providing Rental Relief to Retail Tenants, rental relief, retail tenants, tenants, retail industry, difficult times, fifth wave, Offering Facilities for Isolation and Quarantine, quarantine, isolation,  Community Isolation Facility Hotel Scheme, Novotel Citygate Hotel, Citygate, quarantine hotel, EAST Hong Kong, Donating Rapid Testing Kits to Children in Special Residential Childcare Services, rapid testing kits, children, medical care, Promoting the Vaccine Pass Initiative, Vaccine Pass Initiative, anti-epidemic measure",
+			"url": "/places/resilience/supporting-hong-kong-during-the-battle-against-the-pandemic",
+			"type": "places",
+			"image": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/supporting-hong-kong-during-the-battle-against-the-pandemic-1.jpeg",
+			"title": "Supporting Hong Kong during the Battle Against the Pandemic | Resilience | Places | Swire Properties SD Report 2022",
+			"content": "During the fifth wave of the COVID-19 pandemic, we acted quickly and proactively to keep the wider community safe. "
+		},
+		"landing": {
+			"title": "Supporting Hong Kong during the Battle Against the Pandemic"
+		},
+		"breadcrumb-title": "Supporting Hong Kong during the Battle Against the Pandemic",
+		"sections": [
+			{
+				"type": "section",
+				"id": "supporting-hong-kong-during-the-battle-against-the-pandemic-intro",
+				"contents": [
+					"Beginning in early 2022, the fifth wave of the COVID-19 pandemic spread across Hong Kong. Swire Properties acted quickly and proactively to support the fight against the disease and keep the wider community safe on multiple fronts."
+				]
+			},
+			{
+				"type": "section",
+				"id": "providing-rental-relief-to-retail-tenants",
+				"title": "Providing Rental Relief to Retail Tenants",
+				"contents": [
+					"The retail industry has endured multiple negative impacts since the start of the COVID-19 pandemic. Throughout 2022, Swire Properties took a collaborative approach with our tenants, providing customised rental relief to help individual tenants through difficult times"
+				]
+			},
+			{
+				"type": "section",
+				"id": "offering-facilities-for-isolation-and-quarantine",
+				"title": "Offering Facilities for Isolation and Quarantine",
+				"contents": [
+					"Following a surge in COVID-19 cases, the Hong Kong government initiated the Community Isolation Facility Hotel Scheme, targeting 7,000 to 10,000 hotel rooms from the private sector to be used for quarantine and isolation. Swire Properties fully supported the scheme and offered the Novotel Citygate Hotel, a 440-room hotel facility adjacent to Citygate Outlets in Tung Chung. ",
+					"The Novotel Citygate was accepted and deemed a designated quarantine hotel for the seventh cycle of the scheme. EAST Hong Kong also operated as a designated quarantine hotel from February to September 2022. "
+				]
+			},
+			{
+				"type": "section",
+				"id": "donating-rapid-testing-kits-to-children-in-special-residential-childcare-services",
+				"title": "Donating Rapid Testing Kits to Children in Special Residential Childcare Services",
+				"contents": [
+					"Swire Properties provided funds to the Hong Kong Council of Social Services to purchase 20,000 rapid testing kits for more than 4,000 children. These kits were distributed to children in special residential childcare services supported by over 20 NGOs in Hong Kong, helping to facilitate the timely tracking of infected cases and ensuring that the children received prompt medical care."
+				]
+			},
+			{
+				"type": "section",
+				"id": "promoting-the-vaccine-pass-initiative",
+				"title": "Promoting the Vaccine Pass Initiative",
+				"contents": [
+					"Swire Properties helped to raise public awareness of the Hong Kong government’s Vaccine Pass Initiative, an important anti-epidemic measure to encourage more people to get vaccinated and help Hong Kong residents safely resume normal daily activities. Promotional videos were displayed in the Pacific Place, Cityplaza and Citygate Outlets malls, and the Company issued detailed circulars to retail tenants and residents to spread further awareness. "
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-vibrancy",
+			"places-wellbeing"
+		]
+	},
+	"places-resilience-swire-properties-community-caring-fund-page": {
+		"meta": {
+			"keywords": "Community Caring Fund, CCF, community-based initiatives, outreach prjects, donated, sponsored, social inclusion, art and culture, environment, healthcare, education",
+			"url": "/places/resilience/swire-properties-community-caring-fund",
+			"type": "places",
+			"image": "/images/pages/places/resilience/swire-properties-community-caring-fund/noodles-for-love-1.jpg",
+			"title": "The Community Caring Fund | Resilience | Places | Swire Properties SD Report 2022",
+			"content": "The Swire Properties Community Caring Fund provides sponsorship to less-well-known Hong Kong-based community organisations nominated by our employees."
+		},
+		"landing": {
+			"title": "Swire Properties Community Caring Fund"
+		},
+		"breadcrumb-title": "Swire Properties Community Caring Fund",
+		"sections": [
+			{
+				"type": "section",
+				"contents": [
+					"The Swire Properties Community Caring Fund (“CCF”) provides sponsorship to less-well-known Hong Kong-based community organisations nominated by our employees. The objective is to help these organisations plan and implement community-based initiatives and outreach projects.",
+					"Since 2013, the CCF has donated over HKD 19 million to 163 community-based initiatives and outreach projects.",
+					"In 2022, the CCF sponsored 21 initiatives and outreach projects, donating a total of over HKD 2 million to projects."
+				]
+			},
+			{
+				"type": "chart-card",
+				"id": "green-bond-proceeds",
+				"title": "CCF-sponsored programmes, by focus area",
+				"chart": {
+					"type": "pie-chart",
+					"image": "/images/economic/green-financing/chart/allocation-of-green-bond-proceeds-chart-en.jpg",
+					"labels": [
+						{
+							"title": "Healthcare",
+							"content": [
+								"51%"
+							]
+						},
+						{
+							"title": "Community",
+							"content": [
+								"22%"
+							]
+						},
+						{
+							"title": "Children & Youth",
+							"content": [
+								"16%"
+							]
+						},
+						{
+							"title": "Elderly",
+							"content": [
+								"6%"
+							]
+						},
+						{
+							"title": "Education",
+							"content": [
+								"5%"
+							]
+						}
+					],
+					"datasets": [
+						51,
+						22,
+						16,
+						6,
+						5
+					],
+					"hover-colors": [
+						"#F5AF1C",
+						"#C88D11",
+						"#FAD282",
+						"#FCE3AE",
+						"#F5871C"
+					],
+					"colors": [
+						"#F5AF1C",
+						"#C88D11",
+						"#FAD282",
+						"#FCE3AE",
+						"#F5871C"
+					]
+				}
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "",
+				"title": "Noodles For Love",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/noodles-for-love-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/noodles-for-love-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/noodles-for-love-3.jpg"
+					}
+				],
+				"contents": [
+					"Running into its third year, the CCF continues to show support to the “NOODLES FOR LOVE”, a matching donation scheme to promote food sharing and caring culture. Teaming up with one of Cityplaza’s tenant, we have sold 3,000 packets of noodles during this event. Swire Properties will also make matched donations to our two charity partners, Hong Kong YWCA and St. James’ Settlement."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "",
+				"title": "Caring Frontline Cleaning Workers",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/caring-frontline-cleaning-workers-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/caring-frontline-cleaning-workers-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/caring-frontline-cleaning-workers-3.jpg"
+					}
+				],
+				"contents": [
+					"Together with YWCA, the CCF launched a “Spreading Care to Frontline Cleaners” scheme to show care to frontline cleaners and our appreciation to their hard work and dedication in upkeeping our community hygiene. The scheme included regular visits to refuse collection points and handing out of supplies such as disinfectant sprays and cooling towels to support the wellbeing of the cleaner’s work environment."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "",
+				"title": "COVID-19 Emergency Support",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/covid-19-emergency-support-1.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/covid-19-emergency-support-2.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/covid-19-emergency-support-3.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/covid-19-emergency-support-4.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"The CEF supports local non-profit organisations such as J Life Foundation, Direction Association for the Handicapped and Time Capsule in care response programmes to relief the challenges during COVID-19. We made donations of food, essential supplies, and test kits to support vulnerable communities including low-income families, elderly, people with severe physical disabilities and cleaning workers."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-wellbeing",
+			"places-vibrancy"
+		]
+	},
+	"places-vibrancy-vibrant-markets-bring-streets-back-to-life-page": {
+		"meta": {
+			"keywords": "Vibrant Markets Bring Streets Back to Life, Vibrant Markets, Tong Chong Street Market, TCSM, healthy living, sustainability, creative dishes, entrepreneurs, chefs, local farmers, food trucks, SD 2030, Bite to Change, virtual bank, NGO, F&B vendors, regenerative farming, regenerative agriculture, agriculture, agriculture-based climate solutions, recycled, upcycled, festivity, innovative, Citygate Outlets’ Summer Outdoor Market, Summer Outdoor Market, social enterprises, local farms",
+			"url": "/places/vibrancy/vibrant-markets-bring-streets-back-to-life",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-1.jpg",
+			"title": "Vibrant Markets Bring Streets Back to Life | Vibrancy | Places | Swire Properties SD Report 2022",
+			"content": "Developing and encouraging street markets are a major Swire Properties SD 2030 placemaking and placekeeping initiative."
+		},
+		"landing": {
+			"title": "Vibrant Markets Bring Streets Back to Life"
+		},
+		"breadcrumb-title": "Vibrant Markets Bring Streets Back to Life",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "tong-chong-street-market",
+				"title": "Tong Chong Street Market",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-5.jpg"
+					}
+				],
+				"contents": [
+					"The Tong Chong Street Market (“TCSM”) was created in 2015 in partnership with a local social enterprise. Blending green lifestyle aspects with cooking to promote healthy living and sustainability, the market features fresh local farmers’ produce and creative dishes and celebrates unique food festival themes.  ",
+					"TCSM remains one of Swire Properties’ major SD 2030 initiatives, developing a like-minded community of culinary entrepreneurs, chefs and local farmers to promote sustainability and wellness, and continuing to engage the office community through weekend markets, exclusive pop-up farmers’ visits and lunchtime pop-up food trucks. ",
+					"Now in its eighth year of operation, TCSM has adapted to changes in Hongkongers’ understanding of and preference for health-conscious food and lifestyle choices. This year, the market held the “Bite to Change” initiative, focusing on showing the community how the choices people make affect both their personal wellbeing and global sustainability. ",
+					"In July and August, we joined up with a virtual bank that is committed to shrinking its carbon footprint and other like-minded vendors that brought their vision of a sustainable future to life in various ways which included using packaging made of dissolvable sugar cane fibre, paper and wood instead of plastic; and turning coffee berry skins into a tonic.",
+					"In September and October, TCSM collaborated with an NGO that specialises in agriculture-based climate solutions, particularly improving soil health through regenerative agriculture. During the period, all F&B vendors at TCSM pledged 1% of every purchase to fund regenerative farming practices locally. ",
+					"In November and December, the TCSM Christmas Pop-up brought a wide variety of sustainable F&B vendors to the Taikoo Place community with products rooted in health and wellness. These included artisan coffee makers, an outlet that combines gourmet vegetarian menus with innovative fitness routines, a chocolate drink maker that prioritises using every part of the cacao fruit, by adding it into desserts and other dishes, and a pioneering coffee specialist that provides vegan coffee options. Each vendor brought Christmas-themed festivity and sustainability to the market.",
+					"As always, the market strove to put sustainability into action, with reusable dishware and utensils available to borrow, food waste recycling bins and eco-product stalls featuring recycled and upcycled items.",
+					"For more on TCSM, please visit the <a class='text-places' target='_blank' href='https://www.taikooplace.com/en/whatson/tcsm'>official website</a>."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "citygate-outlets-summer-outdoor-market",
+				"title": "Citygate Outlets’ Summer Outdoor Market",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-5.jpg"
+					}
+				],
+				"contents": [
+					"Citygate Outlets invited 32 social enterprises and local farmers to the mall on two weekends in August 2022 where they took part in the Summer Outdoor Market to promote healthy living and sustainability.",
+					"The market featured fresh produce from local farms – primarily vegetables and fruits, handmade food and beverage offerings, creative handicrafts made by the beneficiaries, and many sustainable and organic products. Workshops and live performances enhanced the festive ambience, with the event drawing almost 4,000 visitors per day."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-wellbeing",
+			"places-resilience"
+		]
+	},
+	"places-vibrancy-embracing-originality-for-our-50th-anniversary-page": {
+		"meta": {
+			"keywords": "Swire Properties 50th Anniversary Arts Programmes Highlights, 50th Anniveersary, Arts, Arts Programmes, Bags: Inside Out, Shelf II, Orbstellar Metaspace, 50th Anniversary Art NFT Collection, Seasons in Continuum, museum, exhibition, NFT, floral, installations, creative, Art Basel Hong Kong Partnership, Art Basel, partnership, artistic, cultural, dynamic, VIP Lounge, Propagation, artist, Kissing Bench, installation, ",
+			"url": "/places/vibrancy/embracing-originality-for-our-50th-anniversary",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/embracing-originality-en-1.jpg",
+			"title": "Swire Properties 50th Anniversary Arts Programmes Highlights | Vibrancy | Places | Swire Properties SD Report 2022",
+			"content": "Our 50th anniversary celebrations held throughout the year featured collaborations with famous and up-and-coming artists."
+		},
+		"landing": {
+			"title": "Embracing Originality for our 50th Anniversary"
+		},
+		"breadcrumb-title": "Embracing Originality for our 50th Anniversary",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "embracing-originality-for-our-50th-anniversary",
+				"media": [
+					{
+						"type": "video",
+						"poster": "/images/pages/places/vibrancy/embracing-originality-en-1.jpg",
+						"src": "https://media.swireproperties.com/94791ea0-57ee-45a6-a046-af60b33e4b2f/50th_anniversary_EN.ism/manifest"
+					}
+				],
+				"contents": [
+					"In 2022, Swire Properties celebrated our 50th anniversary with an “ORIGINAL. ALWAYS.” themed campaign, commemorating the Company’s creative and innovative spirit and long-term commitment, as well as the core values and people that have made this extraordinary journey possible. A host of programmes and special initiatives were held throughout the year, featuring collaborations with renowned and up-and-coming artists from the worlds of contemporary and digital art. Each of them mirrored our anniversary theme and delivered original, immersive and exceptional arts and cultural experiences to our local communities.",
+					"Tim Blackburn, our Chief Executive, remarked that, “Originality and creativity are integral parts of our placemaking efforts. Over the past half century, this approach has inspired us to enrich local neighbourhoods and make art and culture a part of everyday life. Our developments are renowned for effortlessly combining these elements to create places where people can thrive. I can’t think of a better way to continue our anniversary celebrations than by sharing such inspiring experiences with our communities.” ",
+					"Artistic expression is vital to the health of communities and society. Swire Properties remains committed to supporting artists, creators and performers by showcasing artistic and cultural works throughout our portfolio. Our 50th anniversary celebrations held throughout the year featured collaborations with renowned and up-and-coming artists from the worlds of contemporary and digital art."
+				]
+			},
+			{
+				"type": "section",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "Swire Properties 50th Anniversary Arts Programmes Highlights",
+				"contents": []
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "Bags: Inside Out",
+				"isNext": true,
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/v-a-bags-inside-out-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/v-a-bags-inside-out-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/v-a-bags-inside-out-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/v-a-bags-inside-out-4.jpg"
+					}
+				],
+				"contents": [
+					"<strong>Bags: Inside Out</strong> – Partnering with the Victoria and Albert Museum, London, this exhibition of 240 rare and unique bags, from designer handbags and vanity cases to utilitarian rucksacks – is travelling to five Swire Properties malls in the Chinese Mainland and Hong Kong in 2022 and 2023, bringing world-class museum experiences to people and inspiring our communities. The thematic exhibition examines the worldwide heritage of bags from the 16th century to today, exploring their function, status and craftsmanship, and unpacking humanity’s longstanding fascination with them."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "Orbstellar Metaspace",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-7.jpg"
+					}
+				],
+				"contents": [
+					"<strong>Orbstellar Metaspace</strong>, Pacific Place’s first-ever Artech exhibition created by local artist Chris Cheung and his art collective XCEPT. Launched in the summer of 2022, the cosmic installation invited visitors to embark on an astral voyage of participatory digital art, NFT co-creation and a captivating three-dimensional experience featuring celestial bodies and orbs."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "50th Anniversary Art NFT Collection",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/50th-anniversary-art-nft-collection-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"Our 50th Anniversary Art NFT Collection took Swire Properties’ support for cultural programming in an original new direction. We commissioned 10 artists from Hong Kong, the Chinese Mainland, Southeast Asia, the United Kingdom and the United States to create an NFT collection that articulated the artists’ unique styles and took inspiration from our “originality” theme. These works accentuated our creative vision and inventiveness and underlined our sustained commitment to a dynamic, flourishing future."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "Seasons in Continuum",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-5.jpg"
+					}
+				],
+				"contents": [
+					"In November and December 2022, we launched a specially-commissioned botanical art series at Taikoo Place called “<strong>Seasons in Continuum</strong>”. Magical floral sculptures reflecting our “Original. Always.” Anniversary theme provided an immersive, creative playground for the public and the local community to enjoy. The four intricate and unique installations, named “Spectrum”, “Ripple”, “Origination” and “Reflections”, were brought to life by Hong Kong-based floral artisan Kirk Cheng, who specialises in large-scale floral installations."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "art-basel-hong-kong-partnership",
+				"title": "Art Basel Hong Kong Partnership",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-5.jpg"
+					}
+				],
+				"contents": [
+					"2022 marked the 10th year of our partnership with Art Basel Hong Kong. To celebrate this partnership, Swire Properties offered an open and accessible space for art enthusiasts to connect and unwind during the event.",
+					"To celebrate this partnership, Swire Properties offered an open and accessible space for art enthusiasts to connect and unwind during the event. Designed by Hong Kong architectural studio ESKYIU, the Swire Properties VIP Lounge was themed  “PROPAGATION”, an undulating installation inspired and anchored by UK artist Alison Crowther’s “Kissing Bench”."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-wellbeing",
+			"places-resilience"
+		]
+	},
+	"places-vibrancy-youth-empowerment-page": {
+		"meta": {
+			"keywords": "Youth Empowerment, Swire Properties Placemaking Academy, SPPA, Placemaking Academy, White Christmas Street Fair, university students, empowering, hands-on skills, creativity, sustainability, communications, placemaking, creative placemakers, placemakers, youth, students, job opportunities, event-planning, senior management, masterclass, lectures, apprenticeship, employment support, employment, Excellence in Social Impact, Bloom & Beyond, zero-waste, Bi-city Youth Cultural Leadership Programme, Hong Kong Palace Museum, HKPM, Beijing, Hong Kong, cultural, internship, cross-disciplinary, innovative thinking, youth learning, art",
+			"url": "/places/vibrancy/youth-empowerment",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/youth-empowerment-2.jpg",
+			"title": "Youth Empowerment | Vibrancy | Places | Swire Properties SD Report 2022",
+			"content": "Swire Properties offers university students opportunities to gain real-world experience and skills, empowering them to succeed in their life and work."
+		},
+		"landing": {
+			"title": "Youth Empowerment"
+		},
+		"breadcrumb-title": "Youth Empowerment",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "youth-empowerment",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment-2.jpg"
+					}
+				],
+				"contents": [
+					"Launched in 2019, the award-winning Swire Properties Placemaking Academy (“SPPA”) offers Hong Kong university students the opportunity to design, plan and execute the White Christmas Street Fair – the Company’s annual year-end community celebration event. The SPPA is a crucial part of our placemaking work with a goal of empowering Hong Kong’s youth to build vibrant and sustainable local communities.",
+					"During this half-year experience, students gain hands-on skills and are mentored by Swire Properties’ senior management and some of the most prominent personnels in the fields of placemaking, creativity, sustainability and communications to become “creative placemakers” and community builders.",
+					"The SPPA aims are to:",
+					{
+						"type": "ul",
+						"value": [
+							"Nurture talented Hong Kong youth and showcase their creativity and ability to bring original ideas to life.  ",
+							"Transfer creative knowledge and skills to participants and empower them to support Swire Properties’ long-term community-building initiatives.  ",
+							"Offer students and alumni job opportunities and exposure, working with the Company’s extensive community network and learning from event-planning experts and marketing specialists to further develop their innovation skills."
+						]
+					},
+					"As part of Swire Properties’ 50th anniversary festivities, in addition to the White Christmas Street Fair, 40 SPPA students and alumni collaborated to create urban furniture pieces for the community. With support from up-and-coming industrial designers, the students created a strategic plan, moved through the design-thinking process and engaged the Taikoo Place community to produce three state-of-the-art pieces.",
+					"The final products will be displayed at Swire Properties’ headquarters in Taikoo Place in 2023."
+				]
+			},
+			{
+				"type": "data-4",
+				"id": "sppa-key-figures",
+				"title": "Swire Properties Placemaking Academy Key Figures",
+				"item-count": 2,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": 8,
+								"custom-class": "",
+								"after-text": ""
+							}
+						],
+						"align-left": true,
+						"text": "students from the Hong Kong University of Science and Technology and City University of Hong Kong",
+						"icon": "/images/pillar-icons/places/participants.svg",
+						"icon-class": "icon-participants"
+					},
+					{
+						"percentage": [
+							{
+								"num": 13,
+								"custom-class": "",
+								"after-text": ""
+							}
+						],
+						"align-left": true,
+						"text": "masterclass lectures by industry-leader in sustainability, placemaking, design thinking, stakeholder engagement, communications, and more",
+						"icon": "/images/pillar-icons/places/masterclasses.svg",
+						"icon-class": "icon-masterclasses"
+					},
+					{
+						"percentage": [
+							{
+								"num": 6,
+								"custom-class": "less-space-with-after-text",
+								"after-text": "<span class='h4 mb-0'>months</span>"
+							}
+						],
+						"align-left": true,
+						"text": "paid apprenticeship",
+						"icon": "/images/pillar-icons/places/practical-training.svg",
+						"icon-class": "icon-practical-training"
+					},
+					{
+						"percentage": [
+							{
+								"num": 480000,
+								"custom-class": "less-space-with-after-text",
+								"before-text": "<span class='h4 mb-0 mr-1 no-wrap'>Over HKD</span>",
+								"before-text-new-line": true
+							}
+						],
+						"align-left": true,
+						"text": "in employment support",
+						"icon": "/images/pillar-icons/places/employment-support.svg",
+						"icon-class": "icon-employment-support"
+					}
+				]
+			},
+			{
+				"type": "section",
+				"contents": [
+					"In a further nod to the SPPA’s contribution to Hong Kong, in November 2022, the SPPA was placed first in the “Excellence in Social Impact” category at the Awards for Excellence in Training and Development 2022, presented by the Hong Kong Management Association. This placement was a recognition of the excellent work done by the students in fully designing, executing and running a physical street fair from conception to execution."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "white-christmas-street-fair-2022",
+				"title": "White Christmas Street Fair 2022",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/white-christmas-street-fair-2022-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/white-christmas-street-fair-2022-1.jpg"
+					}
+				],
+				"contents": [
+					"The White Christmas Street Fair was even more special in 2022 as it celebrated both Christmas and our 50th anniversary. The festival was themed “Bloom & Beyond”, in recognition of our commitment to the next generation and the fact that our decades-long placemaking efforts are blossoming. The fair filled Tong Chong Street with 5,000 upcycled poinsettias made with used materials collected from Swire Hotels and Cathay Pacific.",
+					"The White Christmas Street Fair once again supported and raised funds for Operation Santa Claus, raising HKD862,000 this year and bringing the 10-year total to over HKD8 million.",
+					"Working towards a zero-waste event, the SPPA team kept a mind-set of upcycling and recycling from the start, collaborating early on with designers, suppliers, vendors and the Company’s sustainable development team to plan and manage the materials that were used and discarded. ",
+					"Several of the fair’s installations were built using a new technology that 3D prints “reversible sand”, which, upon the completion of the event, allows the sand to be recycled. Designated recycling points were also set up to collect paper, metal, glass, plastic and compostable waste. By developing innovative waste prevention and recovery measures, material consumption was reduced by 23% while the waste diversion rate was over 90%. For more details on the resource and circularity measures used at the fair, please click <a class='text-places' href='/2022/en/performance-environment/resource-and-circularity/introducing-circularity-concepts-to-festive-celebrations-and-events#the-white-christmas-street-fair'>here</a>.",
+					"Now in the post-event phase, the SPPA team is conducting a comprehensive assessment of the fair’s carbon footprint, which will help facilitate strategic carbon reduction measurements, benchmarking and future target setting."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-bi-city-youth-cultural-leadership-programme",
+				"title": "Bi-city Youth Cultural Leadership Programme",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/bi-city-youth-cultural-leadership-programme-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/bi-city-youth-cultural-leadership-programme-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/bi-city-youth-cultural-leadership-programme-3.jpg"
+					}
+				],
+				"contents": [
+					"In 2022, Swire Properties began partnering with the Hong Kong Palace Museum (“HKPM”) on a two-year “Bi-city Youth Cultural Leadership Programme”, which aims to nurture a new generation of cultural leaders in Beijing and Hong Kong.  ",
+					"The programme offers hybrid learning and training activities focusing on fundamental art and cultural knowledge, innovative thinking, cross-disciplinary capacity building, and internship opportunities. The goal is to provide a platform for young people in Beijing and Hong Kong to connect, share experiences and exchange cultural ideas.",
+					"The leadership programme is the HKPM’s flagship youth learning initiative, and Swire Properties is the lead sponsor. The programme offers hybrid learning and training activities focusing on fundamental art and cultural knowledge, innovative thinking, cross-disciplinary capacity building and internship opportunities. The goal is to provide a platform for young people in Beijing and Hong Kong to connect, share experiences and exchange cultural ideas.",
+					"In 2022, around 80 university students from Beijing and Hong Kong began participating in a four-month online exchange programme. In 2023, about 16 university students will join a two-month summer learning programme and participate in visits, talks and workshops in Beijing and Hong Kong, and take part in summer internships at leading arts and cultural organisations and companies in Hong Kong."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-places-impact-report",
+			"places-sd-in-action-swire-hotels",
+			"places-livelihood"
+		]
+	}
+}

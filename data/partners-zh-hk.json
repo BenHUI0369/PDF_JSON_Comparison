@@ -1,0 +1,1754 @@
+{
+	"partners-page": {
+		"meta": {
+			"keywords": "夥伴協作, 2030可持續發展策略, 可持續採購政策, 環境績效約章, 先導計劃, 環境效益, 免費能源審核, 節省能源, 「綠色廚房」計劃, 「綠色廚房」計劃嘉許, 2022年進展摘要",
+			"url": "/partners",
+			"type": "partners",
+			"image": "/images/landing-section/partners-left.jpg",
+			"title": "夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "我們繼續與業務合作夥伴及其他主要相關方建立互惠互利的長遠夥伴關係，從而提升可持續發展表現。"
+		},
+		"landing": {
+			"title": "夥伴協作",
+			"icon": "SVGPartnersWhite",
+			"contents": [
+				"我們將繼續與業務合作夥伴及其他主要相關方建立互惠互利的長遠夥伴關係，從而提升我們的可持續發展表現。",
+				"太古地產「2030可持續發展策略」的要旨是與我們的供應商、租戶、顧客、住宅業主及住戶、政府、社福機構和合資公司夥伴共同合作，實現可持續發展目標。"
+			]
+		},
+		"breadcrumb-title": "夥伴協作",
+		"2022-highlights": {
+			"highlights": {
+				"highlight-pic-1": {
+					"id": "highlight-pic-1",
+					"src": "/images/pages/partners/highlight-section/highlight-partners-pic-1.png"
+				},
+				"sustainable-procurement": {
+					"id": "sustainable-procurement",
+					"title": "可持續採購",
+					"full-width": true,
+					"content": [
+						{
+							"title": "<span class='money-format'>港幣</span><span class='js-count-up-number'>14.77</span>億",
+							"description": "可持續採購"
+						}
+					],
+					"icon": "SVGGreenProcurement",
+					"icon-class": "svg-green-procurement",
+					"link": {
+						"path": "/partners/suppliers/sustainable-procurement"
+					}
+				},
+				"green-performance-pledge": {
+					"id": "green-performance-pledge",
+					"title": "環境績效約章",
+					"full-width": false,
+					"content": [
+						{
+							"title": "<span class='js-count-up-number'>52</span>",
+							"description": "辦公樓租戶參與「環境績效約章」先導計劃，共同改善環境效益"
+						}
+					],
+					"icon": "SVGGreenPerformancePledge",
+					"icon-class": "svg-green-performance-pledge",
+					"link": {
+						"path": "/partners/tenants/environment#the-green-performance-pledge-builds-momentum"
+					}
+				},
+				"free-energy-audits": {
+					"id": "free-energy-audits",
+					"title": "免費能源審核",
+					"effect-down": true,
+					"full-width": false,
+					"content": [
+						{
+							"title": "<span class='js-count-up-number'>990</span><span style='white-space: nowrap;'>萬<span class='money-format'>千瓦小時</span></span>",
+							"description": "自2008年起，為香港及中國內地租戶提供免費能源審核，估計每年可節省能源910萬瓦小時"
+						}
+					],
+					"icon": "SVGEnergyAudits",
+					"icon-class": "svg-energy-audits",
+					"link": {
+						"path": "/partners/tenants/environment#energy-audits"
+					}
+				},
+				"green-kitchen-initiative": {
+					"id": "green-kitchen-initiative",
+					"title": "「綠色廚房」計劃",
+					"full-width": false,
+					"content": [
+						{
+							"description": "嘉許<span class='partners-giant-text'><span class='js-count-up-number'>76</span></span>間香港及中國內地餐飲租戶"
+						}
+					],
+					"icon": "SVGGreenKitchenInitiatives",
+					"icon-class": "svg-green-kitchen-initiatives",
+					"link": {
+						"path": "/partners/tenants/environment#the-green-kitchen-initiative"
+					}
+				},
+				"contractor-health-and-safety": {
+					"id": "contractor-health-and-safety",
+					"title": "承建商健康及安全",
+					"full-width": false,
+					"content": [
+						{
+							"description": "<span class='partners-giant-text'><span class='js-count-up-number' data-places='1'>0.9</span></span> <br/>香港發展項目承建商工人的意外率"
+						}
+					],
+					"icon": "SVGContractorHealthAndSafety",
+					"icon-class": "svg-green-kitchen-initiatives",
+					"link": {
+						"path": "/partners/suppliers/supplier-health-and-safety-and-smart-construction"
+					}
+				},
+				"highlight-pic-2": {
+					"id": "highlight-pic-2",
+					"src": "/images/pages/partners/highlight-section/highlight-partners-pic-2.png"
+				},
+				"2022-progress-summary-table": {
+					"id": "2022-progress-summary-table",
+					"title": "2022年進展",
+					"last-link-left": true,
+					"last-link-right": true,
+					"full-width": true,
+					"summary-table": true,
+					"content": [
+						{
+							"description": "按此查看所有重點範疇2025年關鍵績效指標的進展"
+						}
+					],
+					"link": {
+						"path": "/partners/2022-progress-summary"
+					}
+				}
+			}
+		}
+	},
+	"partners-2022-progress-summary-page": {
+		"meta": {
+			"keywords": "2022年進展摘要, 2022年進展, 夥伴協作工作小組, 供應商行為守則, 2025年及2030年關鍵績效指標, 合規監察, 供應商, 年度供應鏈風險評估, 擴大影響, 產品, 服務, 可持續發展, 採購, 租戶, 租戶參與, 2025年關鍵績效指標, 環境績效約章, 環境效益",
+			"url": "/partners/2022-progress-summary",
+			"type": "partners",
+			"image": "/images/logos/partners-summary-seo.jpg",
+			"title": "2022年進展 | 夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "2022年，我們繼續致力達成夥伴協作支柱的2025年及2030年關鍵績效指標。"
+		},
+		"landing": {
+			"title": "2022進展"
+		},
+		"breadcrumb-title": "2022進展",
+		"sections": [
+			{
+				"type": "contents",
+				"id": "partners-2022-progress-summary",
+				"contents": [
+					"夥伴協作工作小組的成員包括來自太古地產不同部門的24名代表。該工作小組突顯我們矢志與不同夥伴同心合作，當中包括在我們具重大影響力的社區內的本地夥伴。",
+					"2022年，我們檢討了《供應商行為守則》，確保與全球最佳常規一致，供應鏈作業狀況良好，以公平尊重的態度對待員工和遵守對太古地產業務至為重要的商業道德。",
+					"我們繼續與夥伴緊密合作，共同實踐太古地產的<a class='text-partners' href='/2022/zh-hk/2025-and-2030-targets'>2025年及2030年關鍵績效指標</a>。本年度的進展摘要如下："
+				]
+			}
+		],
+		"summary-table": [
+			{
+				"id": "suppliers-section",
+				"icon": "/images/pillar-icons/partners/suppliers.svg",
+				"title": "供應商",
+				"href": "/partners/suppliers",
+				"iconClass": "icon-suppliers",
+				"sdgs": [
+					"12"
+				],
+				"cards": [
+					{
+						"title": "合規監察",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"維持所有物業組合全面實施《供應商行為守則》"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"目前已有標準慣例規定香港、中國內地及美國邁阿密所有供應商遵守《供應商行為守則》。",
+												"2022年進行了年度供應鏈風險評估，涉及逾<span class='text-highlight js-count-up-number'>300</span>個一級供應商。"
+											]
+										}
+									]
+								}
+							}
+						]
+					},
+					{
+						"title": "擴大影響",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"全資擁有的新建及既有物業組合的可持續產品及服務採購佔比達到<span class='text-highlight js-count-up-number'>25%</span>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"2022年，可持續發展產品及服務採購達<span class='text-highlight js-count-up-number'>17%</span>。"
+											]
+										}
+									]
+								}
+							}
+						]
+					},
+					{
+						"title": "承建商健康與安全",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"降低香港發展項目的每1,000名承建商工人5年移動平均意外率<span class='text-highlight js-count-up-number'>50%</span><sup class='text-highlight'>9</sup>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"意外率下降<span class='text-highlight js-count-up-number'>64%</span>。"
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "9",
+						"value": "以2015-2019年(5年平均數)作基準。意外率指每1,000名承建商工人的呈報意外宗數，計算方法是呈報意外總數乘以1,000再除以每日在工地執勤的承建商工人平均人數。"
+					}
+				]
+			},
+			{
+				"id": "tenant-customer-engagement",
+				"icon": "/images/pillar-icons/partners/tenant-customer-engagement.svg",
+				"title": "租戶",
+				"href": "/partners/tenants",
+				"iconClass": "icon-tenant-customer-engagement",
+				"sdgs": [],
+				"cards": [
+					{
+						"title": "租戶參與",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"在2025年前我們全資擁有物業組合<sup>10</sup>中，<span class='text-highlight js-count-up-number'>50%</span>辦公樓租戶簽署《環境績效約章》，共同改善環境效益。"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"2022年共有<span class='text-highlight js-count-up-number'>52</span>個租戶簽署《環境績效約章》，佔香港辦公樓租戶<span class='text-highlight js-count-up-number'>37.9%</span>。",
+												"我們於2022年12月在中國內地開始《環境績效約章》先導計劃。"
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "10",
+						"value": "按辦公樓物業組合已佔用的可出租樓面面積(100%基準)計算，即香港太古坊及太古廣場和廣州太古滙。"
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers",
+			"partners-tenants",
+			"partners-customers"
+		]
+	},
+	"partners-customers-page": {
+		"meta": {
+			"keywords": "顧客, 管理和保護資料,零售顧客, 意見, 神秘顧客計劃, 年度商場顧客行為及品牌推廣研究, 商場顧客行為, 推廣研究, 顧客服務主任, 顧客體驗, 2022年中國內地市級奢侈品顧客研究, 奢侈品顧客, 北京頤堤港The Loop可持續發展工作室正式開幕, 可持續發展工作室, 歷史牆, 共創藝術牆, 教育資源牆, 數碼顧客體驗, TAIKOO+流動應用程式 ― 體現跨物業組合的協同優勢, 一站式綜合平台, 推出「Personally Yours」數碼遊戲企劃",
+			"url": "/partners/customers",
+			"type": "partners",
+			"image": "/images/pages/partners/customers/indigos-sustainable-development-studio-1.jpg",
+			"title": "顧客 | 夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "顧客回饋的意見至關重要，有助我們了解顧客的需要，持續改善服務和產品。"
+		},
+		"landing": {
+			"title": "顧客",
+			"contents": [
+				"太古地產希望我們的服務和措施不斷昇華，深明必須了解顧客的需要，而顧客回饋的意見便至關重要。2022年，研究計劃繼續為我們提供寶貴資料，我們將仔細分析，以期進一步提升顧客體驗和太古地產的市場定位。"
+			]
+		},
+		"breadcrumb-title": "顧客",
+		"sections": [
+			{
+				"type": "section",
+				"id": "data-management-and-protection-policy-customer-data",
+				"title": "《私隱政策》",
+				"tag": "GRI 418<br/>HKEX KPI B6.5",
+				"contents": [
+					"我們矢志保障顧客的私隱。太古地產的《私隱政策》適用於香港及中國內地所有業務，提供管理和保護資料的指引，說明如何在資料整個生命週期妥善處理，包括顧客的個人資料在內。政策將不時更新，確保遵從相關法律及規例。",
+					"《私隱政策》訂明我們的員工必須依照內部指引收集、處理、轉移、保留和處置個人資料。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "retail-customers",
+				"title": "零售顧客",
+				"contents": [
+					"太古地產透過年度顧客問卷調查及神秘顧客計劃，在各零售物業收集顧客的意見。我們會進行三類市場研究：年度顧客行為及品牌推廣研究、神秘顧客計劃及中國內地的奢侈品顧客計劃。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "annual-shopper-behaviour-and-branding-research-2022",
+				"title": "年度商場顧客行為及品牌推廣研究",
+				"contents": [
+					"2022年，太古地產旗下物業組合所有九個商場於第三季開始進行年度商場顧客行為及品牌推廣研究。項目由研究機構負責，包括多項定性和定量研究，旨在掌握商場顧客概況及顧客的行為模式，以釐定商場品牌的知名度和傾向，清楚每個商場的顧客需要。研究結果有助我們評定旗下商場的表現，讓管理層深入了解，部署相應的營運措施。",
+					"於2021年，共訪問約6,600位人士，另有2,500人填寫資料參與網上品牌調查。研究覆蓋達100%香港和中國内地主要零售物業及多個同業市場，超過97%受訪者給予「優秀」及「良好」評級。",
+					"我們於2022年第三季開始在太古地產旗下物業組合所有九個商場進行新一輪年度商場顧客行為及品牌推廣研究。研究結果將於2023年中公佈，我們將根據調查所得促進各商場的長遠策略性規劃程序。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "mystery-shopper-programme-2022",
+				"title": "2022年神秘顧客計劃",
+				"reverse": true,
+				"contents": [
+					"太古地產每年均會推行神秘顧客計劃，評估中國內地六個商場顧客服務主任的表現，界定他們的長處和弱點，然後提供可行建議，提升顧客服務及體驗。",
+					"最近一次神秘顧客計劃顯示所有商場的整體表現較第一期計劃改善23.5%，反映我們努力不懈地優化顧客體驗。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "chinese-mainland-citylevel-luxury-shopper-study-2022",
+				"title": "2022年中國內地市級奢侈品顧客研究",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/demo/dummy.jpg"
+					}
+				],
+				"contents": [
+					"太古地產委託顧問公司在我們項目所在的五個城市進行「2022年中國內地市級奢侈品顧客研究」，深入探討消費者對奢侈精品的看法和意見。",
+					"研究旨在提供參考資料，協助我們制定日後的策略。研究分為三部分，包括顧客研究、對比業內標準的基準分析和未來機遇。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "indigos-sustainable-development-studio",
+				"title": "頤堤港The Loop可持續發展工作室正式開幕",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/indigos-sustainable-development-studio-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/indigos-sustainable-development-studio-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/indigos-sustainable-development-studio-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/indigos-sustainable-development-studio-4.jpg"
+					}
+				],
+				"contents": [
+					"8月份，頤堤港在The Loop開設可持續發展工作室，歡迎員工、租戶及業務夥伴在多功能空間舉辦可持續發展相關活動，例如會議、工作坊及小型展覽。",
+					"可持續發展工作室位於大堂範圍，連通項目的辦公樓、商場及停車場，依循The Loop設計概念，採用與可持續發展相關的馬賽克、方便疊放收藏舉行多功能活動的模組傢俬，以及利用以往展覽所收集回收再造物料製成的布料。",
+					"可持續發展工作室設有三個功能專區 ─ 載述頤堤港可持續發展和環保認證里程的歷史牆、展示如何回收及升級再造塑膠、金屬、玻璃及電子廢物的教育資源牆，以及透過清新綠色生活主題作品啟迪公眾的共創藝術牆。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "digital-customer-experience",
+				"title": "數碼顧客體驗"
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-mobile-app-launch-–-unlock-crossportfolio-synergy",
+				"isNext": true,
+				"title": "TAIKOO+流動應用程式 ― 體現跨物業組合的協同優勢",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/taikoo-mobile-app-launch-1.jpg"
+					}
+				],
+				"contents": [
+					"2021年11月推出的TAIKOO+流動應用程式是一站式綜合平台，鼓勵用戶註冊盡覽多個商場的資訊，發揮跨物業組合的協同優勢。用戶可探索香港三個購物熱點 ― 太古廣場、太古城中心及東薈城名店倉，在一個平台享用多項會員服務。主要服務包括登記加入會員獎賞計劃、用消費金額換領積分和兌換獎賞。",
+					"TAIKOO+流動應用程式推出至今表現突出，取得多項理想成績：",
+					{
+						"type": "ul",
+						"value": [
+							"太古城中心及東薈城名店倉共享會籍增長352%。",
+							"三個商場的共享會籍整體增長273%。",
+							"太古城中心會員獎賞計劃參與率上升56%。",
+							"處理透過應用程式上載的太古城中心及東薈城名店倉收據比率超過65% ― 有助收集會員資料進行分析及提高顧客服務櫃枱的營運效率。"
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-personally-yours-digital-game-campaign-1st-crossportfolio-cm-launch",
+				"title": "推出「Personally Yours」數碼遊戲企劃",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-6.jpg"
+					}
+				],
+				"contents": [
+					"在中國內地，個人化產品推廣愈來愈受Z世代顧客歡迎，為探取這個龐大市場，太古地產精心構思「Personally Yours」數碼企劃，在公司50周年紀念的特別日子推出。這項面向商業地產的嶄新嘗試十分獨特，以主動手法全方位與顧客互動。",
+					"「Personally Yours」採用嶄新的零售服務概念，連通了顧客、貨品和空間，可促進私域市場傳訊，讓品牌的市場推廣以目標為本，透過以下四大特點提升消費者體驗：",
+					{
+						"type": "ol",
+						"value": [
+							"「創新遊戲方式」― 企劃邀請顧客走進數碼世界，利用新穎的使用者原創內容（UGC）模型自訂獨特的虛擬化身，與多個玩家在引人入勝的遊戲競技，贏取個人專有的數碼收藏品，是太古地產首次涉獵此領域的新嘗試。",
+							"「輔助品牌連通虛擬與現實世界，進行目標為本市場推廣」 ― 品牌可以數碼方式展示產品，爭取網上曝光率，然後轉化為實體店的人流。用戶玩網上遊戲，可同時體驗實體店。",
+							"「數碼藝術突顯時裝魅力」 ― 這企劃的數碼藝術品加入了實體產品，除可製作個人化形象及虛擬時尚造型，還邀得兩名藝術家以太古地產50周年為題材，創作10件數碼藝術品。參加者可重用這些藝術品，自創數碼作品。",
+							"「全新自我形象」 ― 本企劃協助及鼓勵參加者為虛擬化身設計多元化的繽紛數碼形象，例如在髮型、五官、面部表情和服飾添加時尚元素。"
+						]
+					},
+					"「Personally Yours」消除虛擬及現實世界的界線，不僅是獨立的市場推廣項目，也促成了可持續的參與和外展計劃，傳神體現太古地產創新衍變的信念。截至2022年9月12日，本企劃已創造近人民幣1,500萬元的廣告價值，超過220,000人次參與。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hk1-crm",
+				"title": "HK1 CRM",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/hk1-crm-1.jpg"
+					}
+				],
+				"contents": [
+					"2022年，我們繼續在香港各太古地產商場推展顧客關係管理平台，至今已覆蓋東薈城、太古城中心及太古廣場。建立平台旨在提升顧客的購物體驗和精簡商場職員及管理人員的工作流程。平台整合了顧客資料，便於管理會員獎賞計劃，包括級別、活動、獎賞、兌換獎賞和禮品，此外亦可加快兌換獎賞及核實收據，減少存貨誤差和提供數據分析，令市場推廣更精準。",
+					"2023年，團隊準備擴充平台，增設無接觸式泊車服務、數碼化代客泊車和更多其他功能，打造優越的顧客體驗，全面提高效率。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers",
+			"partners-tenants",
+			"partners-residential-owners-occupiers-and-serviced-apartments-residents"
+		]
+	},
+	"partners-residential-owners-occupiers-and-serviced-apartments-residents-page": {
+		"meta": {
+			"keywords": "住宅業主、住戶及服務式住宅住客, 殷然, 住宅可持續發展工作小組, Ham Tin Villas ― 讓住戶走近大自然",
+			"url": "/partners/residential-owners-occupiers-and-serviced-apartments-residents",
+			"type": "partners",
+			"image": "/images/pages/partners/residential-owners-occupiers-and-serviced-apartments-residents/ham-tin-villas-connecting-residents-1.jpg",
+			"title": "住宅業主、住戶及服務式住宅住客 | 夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "我們經常與香港和其他地區住宅項目業主及用戶保持聯繫，從而找出可改善之處，以便完善設計和改進。"
+		},
+		"landing": {
+			"title": "住宅業主、住戶及服務式住宅住客",
+			"contents": [
+				"太古地產繼續在香港及其他地區發展住宅項目，部分項目如WHITESANDS及殷然已落成出售，其他項目如太古廣場栢舍和東隅服務式住宅則繼續由公司負責管理。2022年，我們致力推展最新的住宅發展項目EIGHT STAR STREET，項目位於灣仔星街小區。"
+			]
+		},
+		"breadcrumb-title": "住宅業主、住戶及服務式住宅住客",
+		"sections": [
+			{
+				"type": "section",
+				"id": "residential-sustainability-taskforce",
+				"title": "加強與住宅業主和住戶的環境夥伴合作",
+				"contents": [
+					"太古地產於2020年底重新啟動住宅可持續發展工作小組，統籌我們目前擁有及管理21個住宅物業的可持續發展事宜。工作小組將商討和確定統一方針，處理這些物業的可持續發展事務。",
+					"2022年，工作小組協調了多方面工作，例如管理清潔承辦商、收集可持續發展數據、為即將生效的都市固體廢物收費計劃作好準備、參加政府和社福機構最新的計劃，以及分享最佳常規。",
+					"2022年已完成的項目如下：",
+					{
+						"type": "ul",
+						"value": [
+							"渠道的詳細識別計劃，並已開始在公司的中央數據平台報告用電量、耗水量和廢物產生量數據。",
+							"19個屋苑加入香港政府的「綠綠收」計劃，透過一站式服務收集多種缺乏商業回收出路的可回收物料，包括塑膠、玻璃樽、小型電器等。",
+							"一個屋苑於2022年5月至10月參與「都市固體廢物收費試驗計劃」，鼓勵四座住宅大廈的560名居民使用政府提供的指定垃圾袋和屋苑的回收設施處置廢物"
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "ham-tin-villas-connecting-residents-with-nature",
+				"title": "Ham Tin Villas ― 讓住戶走近大自然",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/residential-owners-occupiers-and-serviced-apartments-residents/ham-tin-villas-connecting-residents-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/residential-owners-occupiers-and-serviced-apartments-residents/ham-tin-villas-connecting-residents-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/residential-owners-occupiers-and-serviced-apartments-residents/ham-tin-villas-connecting-residents-3.jpg"
+					}
+				],
+				"contents": [
+					"太古地產位於大嶼山的最新翻新項目Ham Tin Villas標榜可持續發展和走近大自然的綠色生活，每座洋房各有私家花園，面積由3,700平方呎至5,700平方呎不等，每戶的主人房均可通往室外天台平台。",
+					"項目的園景設計包括一條人工溪流，不但優美怡人，還可吸收暴雨逕流水，防止水浸。我們並悉力在附近一帶進行自然保育，原址保存了一棵百年老榕樹和其他樹木及漂石，項目範圍所有植物均屬香港原生品種。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers",
+			"partners-tenants",
+			"partners-customers"
+		]
+	},
+	"partners-suppliers-page": {
+		"meta": {
+			"keywords": "供應商, 數目, 供應鏈概覽, 供應商數目, 工程服務, 營運服務, 供應商行為守則, 電子承建商管理系統, 紀律, 舉報, 不當行為, 承建商, 供應商合規監察, 可持續採購政策, 供應商健康與安全及智能建築",
+			"url": "/partners/suppliers",
+			"type": "partners",
+			"image": "/images/pages/partners/suppliers/supplier-compliance-monitoring/smart-construction-conductor-system-1.jpg",
+			"title": "供應商 | 夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "我們與上游及下游供應商緊密合作，包括建築師、設計師、顧問、服務供應商、承建商和供貨商。"
+		},
+		"landing": {
+			"title": "供應商",
+			"tag": "",
+			"contents": [
+				"我們與建築師、設計師、顧問、服務供應商、承建商及供貨商等不同類型的供應商緊密合作。供應商的積極參與對我們成功實踐「2030可持續發展策略」內如<a href='/2022/zh-hk/people/occupational-health-and-safety'>職安健</a>、<a href='/2022/zh-hk/performance-environment/resource-and-circularity'>廢物管理</a>、<a href='/2022/zh-hk/performance-environment/climate-change/continuously-progressing-towards-our-science-based-targets'>長遠減碳</a>和<a href='/2022/zh-hk/performance-environment/building-asset-investments'>建築物／資產投資</a>等多個重點範疇至關重要。"
+			]
+		},
+		"breadcrumb-title": "供應商",
+		"sections": [
+			{
+				"type": "data-4",
+				"id": "number-of-suppliers",
+				"big-title": "<span class='text-partners'>供應鏈概覽</span>",
+				"tag": "GRI 2-6<br/>HKEX KPI B5.1",
+				"title": "按地區劃分的供應商數目",
+				"remark": "供應商主要包括以下類別：建築、工程服務、公用事業、清潔和營運服務（例如資訊科技、人力資源及行政、市場推廣）。",
+				"desc": "（截至2022年12月31日）",
+				"item-count": 3,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": "~2,100",
+								"isMoneyFormat": true
+							}
+						],
+						"text": "香港",
+						"icon": "/images/pillar-icons/partners/hong-kong.svg",
+						"icon-class": "icon-partners-hong-kong",
+						"font-class": "h4"
+					},
+					{
+						"percentage": [
+							{
+								"num": "~2,300",
+								"isMoneyFormat": true
+							}
+						],
+						"text": "中國內地",
+						"icon": "/images/pillar-icons/partners/chinese-mainland.svg",
+						"icon-class": "icon-partners-chinese-mainland",
+						"font-class": "h4"
+					},
+					{
+						"percentage": [
+							{
+								"num": "~400"
+							}
+						],
+						"text": "美國",
+						"icon": "/images/pillar-icons/partners/usa.svg",
+						"icon-class": "icon-partners-usa",
+						"font-class": "h4"
+					},
+					{
+						"percentage": [
+							{
+								"num": "~100",
+								"isMoneyFormat": true
+							}
+						],
+						"text": "東南亞地區",
+						"icon": "/images/pillar-icons/partners/southeast-asia.svg",
+						"icon-class": "icon-partners-southeast-asia",
+						"font-class": "h4"
+					}
+				]
+			},
+			{
+				"type": "section",
+				"id": "supplier-code-of-conduct",
+				"title": "《供應商行為守則》",
+				"tag": "GRI 308, 414<br/>HKEX 層面 B4, B5, KPI B4.1, B4.2, B5.2",
+				"contents": [
+					"太古地產的《<a class='text-partners' href='https://www.swireproperties.com/zh-hk/sustainable-development/policies/supplier-code-of-conduct.aspx' target='_blank'>供應商行為守則</a>》訂明有關法律及合規、環保、健康及安全、勞工和其他範疇的最低標準與措施。本政策的適用範圍亦適用於參與太古地產工程項目的分判商員工。",
+					"2022年，我們修訂了《供應商行為守則》，加入反現代奴隸制的條文，並詳細界定童工及強迫勞工的定義。",
+					"根據經修訂的政策，任何未滿16歲人士均不可在太古地產任職，未滿18歲人士不可在夜間上班，除了認可專業學徒計劃的參與成員外。為確保包括供應鏈在內的所有業務層面均尊重人權，我們要求所有供應商不得僱用任何形式的強迫勞工，按照現時定義包括在囚人士、無薪契約勞工、抵債勞工、軍人勞工或奴工，亦不可施行體罰、暴力威脅或其他形式的身體虐待、性虐待、心理虐待或言語攻擊。",
+					"我們並已擴闊政策所載的多元化及共融定義，以涵蓋年齡、性別、性別取向、性取向、關係、家庭狀況、殘疾、種族、族裔背景、國籍及宗教或政見。",
+					"政策現訂有更多關於我們對供應商員工薪酬和工作時間的期望。我們期望供應商在員工上任之前提供易於理解的書面資料，說明薪金和工作時間等僱用條件，並準時定期支薪。",
+					"此外並新增「舉報」章節，以允許舉報不當行為。",
+					"我們除了鼓勵供應商訂立其行為守則，亦要求他們採納相關政策和流程並予以實施，以防止營運過程中出現貪污舞弊及詐騙行為。供應商如不嚴格遵守《供應商行為守則》，可能按照合約條款被終止合約及在承建商名單中被除名。",
+					"我們設有「電子承建商管理系統」，提供完善框架監察技術服務供應商的表現和處理任何紀律處分事宜。服務供應商在職安健、環境、採購、管理及品質這五大範疇的表現必須令人滿意，否則可能會遭到紀律處分。",
+					"相關的可持續發展目標：",
+					{
+						"type": "sdg",
+						"value": [
+							"12"
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "supplier-compliance-monitoring",
+				"title": "供應商合規監察",
+				"href": "/partners/suppliers/supplier-compliance-monitoring",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/smart-construction-conductor-system-1.jpg"
+					}
+				],
+				"contents": [
+					"我們持續與供應商合作，蒐集關於他們的環境、社會及管治措施和表現的最新準確資料。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "sustainable-procurement",
+				"title": "可持續採購",
+				"href": "/partners/suppliers/sustainable-procurement",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/green-procurement-1.png"
+					}
+				],
+				"contents": [
+					"作為可持續採購策略一部分，太古地產採用符合ISO 14001環境管理體系的環保採購指引，監察辦公室用品、屋宇裝備及建築物料的環保採購情況，分析採購項目是否符合特定環保標準。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "supplier-health-and-safety-and-smart-construction",
+				"title": "供應商健康與安全及智能建築",
+				"href": "/partners/suppliers/supplier-health-and-safety-and-smart-construction",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-1.jpg"
+					}
+				],
+				"contents": [
+					"太古地產努力與所有夥伴攜手培育健康及安全文化，有關工作涵蓋所有日常營運以及現有物業、發展中項目和所有相關建築地盤的管理。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-tenants",
+			"partners-customers",
+			"partners-residential-owners-occupiers-and-serviced-apartments-residents"
+		]
+	},
+	"partners-suppliers-supplier-compliance-monitoring-page": {
+		"meta": {
+			"keywords": "供應商合規監察, 電子承建商管理系統, 自動化的, 合規, 不合規, 失當, 紀律處分, 全面風險評估, 級別, 違反, 採購支出, 巡查, CONDUCTOR智能建造管理系統, 智能建造管理系統, 建造業議會創新獎, 太古廣場六座, 西安太古里引入綠色工地辦事處",
+			"url": "/partners/suppliers/supplier-compliance-monitoring",
+			"type": "partners",
+			"image": "/images/pages/partners/suppliers/supplier-compliance-monitoring/smart-construction-conductor-system-1.jpg",
+			"title": "供應商合規監察 | 供應商 | 夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "我們持續與供應商合作，蒐集關於他們的環境、社會及管治措施和表現的最新準確資料。"
+		},
+		"landing": {
+			"title": "供應商合規監察",
+			"icon": "SVGPartners",
+			"tag": "GRI 308, 403, 414<br/>HKEX 層面 B4, B5, KPI B4.1, B4.2, B5.2, B5.3"
+		},
+		"breadcrumb-title": "供應商合規監察",
+		"sections": [
+			{
+				"type": "section",
+				"id": "supplier-compliance-monitoring",
+				"contents": [
+					"我們與供應商緊密合作，收集他們在環境、社會及管治方面的常規和表現的最新準確資料。",
+					"我們設有自動化的「電子承建商管理系統」，結合香港及中國內地的供應商申請流程，可促進供應商甄選、管理及績效分析，確保可適時更新供應商資料。",
+					"新供應商如欲加入太古地產的認可承建商名單，必須填寫自我評估問卷，確認具有適當的政策和系統遵守我們的《供應商行為守則》。我們亦會持續監察認可承建商名單上供應商的合規狀況，除了要求供應商定期填寫自我評估問卷，我們或會到供應商的場所巡視和要求我們的供應商取得國際公認標準的獨立認證，並且提交環境及健康與安全管理計劃書以供我們內部審核。",
+					"我們不斷改良技術服務供應商的績效管理制度，此類供應商如有涉及健康與安全、環境、採購、品質和場地管理的不合規或失當行為，一律記錄在案，可能遭到紀律處分。",
+					"2022年，我們對超過300間被界定為關鍵、採購數量和開支總額最高或不可替代的一級供應商進行全面風險評估，確定其遵守《供應商行為守則》且未發現違反人權的問題。該等供應商分佈於香港、中國內地和美國，2022年他們供應的服務佔太古地產採購開支一半以上。",
+					"根據評估結果，並無任何供應商屬於企業風險管理系統（ERM System）的「高風險」級別。2022年太古地產旗下業務並無發現任何違反人權的事件。",
+					"我們的技術統籌及可持續發展部自2021年開始對香港個別技術承辦商進行現場視察。此類視察行動對於滿足我們的ISO 14001環境管理體系要求至關重要。2022年，於視察行動期間並無任何不合規或失當事件。我們透過視察掌握了多項持續改善的機遇，現正與責任方溝通，準備展開跟進行動。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "smart-construction-conductor-system",
+				"title": "CONDUCTOR智能建造管理系統",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/smart-construction-conductor-system-1.jpg"
+					}
+				],
+				"contents": [
+					"太古地產的一貫理想是推動和引入採用智能科技的安全建築方法，促進旗下項目數碼化。2022年，我們與顧問合作研發和採用CONDUCTOR一站式管理平台，並在太古廣場六座項目開始應用這款新智能建造管理系統。CONDUCTOR是一套專門工具，讓用戶同一時間監控多種建築數據及多個建築地盤的施工進度，大大提升工程效率、工序管理和安全水平。",
+					"CONDUCTOR利用多種工具和應用方案，全方位支持項目團隊進行智能建築，當中包括各類工序管理應用程序、物聯網感測器、人工智能視像分析、智能頭盔、智能手錶等，除可提供實時數據及監察，系統還方便進行跨建築地盤比較，並能基準化分析地盤的長期表現。",
+					"年內太古廣場六座建築地盤試用CONDUCTOR，系統榮獲「2022 建造業議會創新獎」。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "green-site-office-for-taikoo-li-xi-an",
+				"title": "西安太古里引入綠色工地辦事處",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/green-site-office-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/green-site-office-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/green-site-office-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/green-site-office-4.jpg"
+					}
+				],
+				"contents": [
+					"項目現正於總承辦商展開建造工程之前進行考古發掘，並設立綠色工地辦事處及推行以下多項配套的可持續發展措施：",
+					{
+						"type": "ul",
+						"value": [
+							"回收7,000塊現存工地圍牆牆磚循環再用，建造與工地周圍環境融和的精美圍板。",
+							"在工地使用太陽能光伏板照明和電動汽車充電樁。",
+							"鼓勵員工減少耗水量，以及回收廚餘，經處理後用作農用肥料。",
+							"工地部分範圍劃為小型農場，邀請附近居民耕作，傳達環保的重要訊息。"
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers-sustainable-procurement",
+			"partners-suppliers-supplier-health-and-safety-and-smart-construction",
+			"people-occupational-health-and-safety-2022-health-and-safety-performance"
+		]
+	},
+	"partners-suppliers-supplier-health-and-safety-and-smart-construction-page": {
+		"meta": {
+			"keywords": "供應商健康與安全及智能建築, 零傷害, 建築地盤的安全水平, 安全, 健康, 承建商工人死亡數字, 承建商死亡, 香港發展項目的承建商工人的工傷引致損失工時比率, 工傷引致損失工時比率, 香港發展項目承建商工人意外率, 意外, 太古地產投放資源引入最尖端的創新安全措施, 太古坊二座, 太古廣場六座, 安裝升降機系統的機械人, 成都遠洋太古里, 承建商安全, 太古廣場六座囊括多個工地安全獎項",
+			"url": "/partners/suppliers/supplier-health-and-safety-and-smart-construction",
+			"type": "partners",
+			"image": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-1.jpg",
+			"title": "供應商健康與安全及智能建築 | 供應商 | 夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "太古地產努力與所有夥伴和合約工人攜手培育健康及安全文化。"
+		},
+		"landing": {
+			"title": "供應商健康與安全及智能建築",
+			"tag": "GRI 403<br/>HKEX 層面 B6"
+		},
+		"breadcrumb-title": "供應商健康與安全及智能建築",
+		"sections": [
+			{
+				"type": "section",
+				"id": "supplier-supplier-health-and-safety-and-smart-construction",
+				"contents": [
+					"太古地產從多方面著手實踐我們的「零傷害」承諾，措施之一是聯同夥伴們積極倡導，讓健康與安全文化牢牢植根。除了日常營運和管理現有物業時奉行這文化，我們也在公司旗下發展中項目及所有相關建築地盤推廣健康與安全。",
+					"2022年，我們繼續優化收集和公開匯報承建商健康與安全指標的程序，以及改良去年引入的承建商事故報告。新方針有助追蹤表現，有利我們與夥伴聯合擬定策略，提升工地的健康及安全表現，同時確保公司旗下所有建築地盤持續安全，工人可安心施工。我們已訂下進取的內部建築事故目標，引領我們在職安健方面不斷奮進。",
+					"年內我們亦應用創新智能技術，在香港和中國內地多個建築地盤的施工階段消除安全危害，令工地整體更安全。這些科技包括使用機械人代替工人執行較危險的工作、向員工配發智能裝置，保障工地執勤的安全。"
+				]
+			},
+			{
+				"type": "data-4",
+				"title": "承建商工人死亡數字",
+				"bottom-desc": "承建商死亡指承建商或分判商的員工為公司執行工程期間遭遇意外導致死亡。",
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": "0"
+							}
+						],
+						"icon": "/images/pillar-icons/partners/number_of_fatalities_of_contractor_workers.svg"
+					}
+				]
+			},
+			{
+				"type": "data-4",
+				"isNext": true,
+				"title": "香港發展項目的承建商工人的工傷引致損失工時比率（LTIR）",
+				"bottom-desc": "工傷引致損失工時比率（LTIR）指每100名承建商工人每年發生工傷事故的次數。該比率是「將工傷引致損失工時事故總計乘以200,000再除以工作總時數」計算得出。因子200,000代表每100名承建商工人每年的工作時數，按照每年50個星期，每星期40個工時計算。",
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": "0.06",
+								"places": 2
+							}
+						],
+						"icon": "/images/pillar-icons/partners/ltir.svg"
+					}
+				]
+			},
+			{
+				"type": "data-4",
+				"isNext": true,
+				"title": "香港發展項目承建商工人意外率",
+				"bottom-desc": "意外率指每1,000名承建商工人的呈報意外宗數，計算方法是「呈報意外總數乘以1,000再除以每日在工地執勤的承建商工人平均人數」。",
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": "0.90",
+								"places": 2
+							}
+						],
+						"icon": "/images/pillar-icons/partners/number_of_fatalities_of_contractor_workers.svg"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-invests-in-next-level-innovative-safety-initiatives",
+				"title": "太古地產投放資源引入最尖端的創新安全措施",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-2.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-3.png",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"本年度，太古地產加大投資於先進科技，務求提高建築地盤的安全水平及減少工人面對的風險。",
+					"在所有建築地盤，高空工作及在升降機槽密閉環境作業都是其中一項高危活動。2022年，太古地產的EIGHT STAR STREET、太古坊二座及太古廣場六座項目地盤採用了三種尖端的創新安全技術，與現有的安全監察措施和安全管理系統相輔相承，大大減低作業風險。",
+					"第一項創新技術是在太古坊二座安裝載客升降機時採用無棚升降機安裝法。傳統的安裝工程涉及在升降機槽內搭棚，讓工人用作工作平台安裝各類升降機元件。相比之下，無棚安裝法安全得多，工人毋須在棚架攀爬上落，可以站穩於安全平台，由機動裝置控制上落，步履穩固地施工。",
+					"太古廣場六座也購置香港首個安裝升降機系統的機械人。機械人系統名為“R.I.S.E.”，由升降機製造商研發，可重複執行高危工作，例如鑽孔及安裝地腳螺栓，將在升降機槽工作的人數減至最少，進一步降低意外或工傷風險，比傳統安裝方法更勝一籌。",
+					"太古坊二座建築工程最後階段採用了自動化機械人系統執行有潛在危險的幕牆系統現場滲水測試。這系列測試需在高空進行，可確保幕牆系統及其他玻璃裝置達到防水要求。用機械人完成工序可代替工人在高空作業，既可減少人為錯誤，亦可提供更大的安全保障。",
+					"我們亦向工人配發裝有頭燈及心率傳感器的智能安全帽。安全帽連接到物聯網網絡，假如偵測到任何異常情況，便會立即發出警報。這項功能可改善溝通和緊急事故管理，為工人提供更大保障。此外，太古廣場六座還應用智能手錶及部署人工智能技術的分析閉路電視、物聯網傳感器和全覆蓋5G網絡，進一步應用現代科技保障安全。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "smart-safety-at-our-chinese-mainland-construction-sites",
+				"title": "中國內地改造施工項目的智能安全措施",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/smart-safety-at-our-chinese-mainland-construction-sites-1.jpg"
+					}
+				],
+				"contents": [
+					"成都遠洋太古里的改造施工項目於2022年6月設置人工智能安全監察系統，監察工人與安全相關的行為，包括吸煙及不佩戴安全帽。系統裝有區域揚聲器，可向工人發出警告和自動向管理人員發出預警。系統除可優化安全管理及防範意外，也可遙距執行建築工地的管理工作。",
+					"同時，三里屯太古里和廣州太古滙多個物業引入這套系統。系統可靈活配置，以便偵察任何預先定義的安全相關問題及提供實時警報，從而以切合工地實際情況的方式改善安全監督效率和減少不安全行為，全面體現太古地產完善管理和承建商安全規定的崇高標準。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "six-pacific-place-wins-multiple-site-safety-awards",
+				"title": "太古廣場六座囊括多個工地安全獎項",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-5.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"太古廣場六座於香港政府轄下發展局及建造業議會合辦的「第28屆公德地盤嘉許計劃」贏得多個安全獎項，獲讚賞發揮楷模作用，在建築地盤推行以下良好安全措施及創新安全措施：",
+					{
+						"type": "ul",
+						"value": [
+							"CONTRACTOR智能建造管理平台，結合本節上文載述的多個硬件和軟件應用程式。",
+							"採用人工智能視像分析技術的閉路電視攝影機，可偵測不安全行為或危險情況，例如工人沒有佩戴好個人防護裝備、進入有潛在危險的範圍以及探測跌倒、吸煙和火警。",
+							"可監察健康相關參數的安全帽，例如在升降機槽等高危地方作業工人的體溫及心率。",
+							"室內環境質素感測器，持續監察工地的環境指標，例如微細懸浮粒子（PM2.5）、溫度及濕度。如發現異常情況便向工地管理人員發出警報。",
+							"採用建築信息模擬技術（BIM）評估本節上文所載的高危工地活動。",
+							"為工人提供虛擬實境（VR）培訓，確保透徹認識安全工作程序。"
+						]
+					},
+					"我們榮獲的獎項如下：",
+					{
+						"type": "ul",
+						"value": [
+							"新建工程安全及環境卓越創新獎 ― 金獎",
+							"新建工程公德地盤獎（B組）― 金獎",
+							"傑出環境管理獎 ― 銀獎"
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers-supplier-compliance-monitoring",
+			"partners-suppliers-sustainable-procurement",
+			"people-occupational-health-and-safety"
+		]
+	},
+	"partners-suppliers-sustainable-procurement-page": {
+		"meta": {
+			"keywords": "可持續採購政策, 環境管理體系, ISO 14001環境管理體系, 低碳規格, 香港綠建商舖聯盟大獎, 香港綠建商舖聯盟大獎, 低碳, 低碳建材, 採購支出, 香港及中國內地的可持續採購, 太古坊二座及太古廣場六座推行環保採購, 整個生命週期碳, 建造業議會, 綠色產品認證, 電弧爐生產技術, 建造業議會, 綠色產品認證, 森林管理委員會, 森林驗證認可計劃, 建造業議會綠色產品認證, 低揮發性有機化合物, 氟氯化碳, 太古廣場三座環保木板平台, 環塑木, 平台, 木材, 繼續擴展可持續採購計劃",
+			"url": "/partners/suppliers/sustainable-procurement",
+			"type": "partners",
+			"image": "/images/pages/partners/suppliers/sustainable-procurement/green-procurement-1.jpg",
+			"title": "可持續採購 | 供應商 | 夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "我們的可持續採購策略指定必須擬定和實施可持續採購指引。"
+		},
+		"landing": {
+			"title": "可持續採購",
+			"tag": "GRI 301<br/>HKEX 層面 A2, KPI B5.4"
+		},
+		"breadcrumb-title": "可持續採購",
+		"sections": [
+			{
+				"type": "section",
+				"id": "creating-an-industry-leading-work-environment-for-our-employees",
+				"contents": [
+					"作為可持續採購策略一部分，太古地產自2015年開始採用符合ISO 14001環境管理體系的環保採購指引，監察辦公室用品、屋宇裝備及建築物料的環保採購情況，分析採購項目是否符合特定環保標準，例如產品是否有具權威性獨立第三方授予的環保認證或認可系統收集的數據，可用作評估公司可持續採購的表現，尋找機遇採購更環保的產品。",
+					"自2020年起，我們開始採購更多環保產品和服務，同時納入與可持續發展相關的產品及服務，包括在公司物業和新發展項目推廣安全及身心健康的開支。",
+					"除此之外，我們亦監察個別在建項目的建築物料用量，例如木材、混凝土及鋼筋。有關資料有助我們釐定基準，據此分析新發展項目建築期間的物料用量及對環境的影響。",
+					"太古地產自2013年簽署環保促進會的《香港環保採購約章》，一直參與至今，並於2018年簽署該會的《可持續採購約章》。",
+					"我們是香港首間地產發展商在新發展項目訂立建築物料低碳規格，包括混凝土、鋼筋及結構鋼材，並於香港的一份新發展項目總承包合約中訂明此規格。",
+					"太古城中心及東薈城名店倉年內奪得「香港綠建商舖聯盟大獎2022」的卓越綠色產品推動獎，表揚兩個商場採用環保產品，積極營造綠色零售環境。",
+					"我們於2021年開始與清華大學合作研究中國內地低碳建材的供應及使用情況。",
+					"為推動供應鏈向低碳轉型，我們經常透過出版刊物、會議簡報和其他渠道與地產及建造業的主要承建商和建材供應商分享我們累積多年的經驗。我們冀盼能與供應鏈夥伴衷誠合作，一同開創新風，構思最佳低碳作業方式，致力增加低碳建材的供應，提高建材的可用性。",
+					"相關的可持續發展目標：",
+					{
+						"type": "sdg",
+						"value": [
+							"12",
+							"13"
+						]
+					}
+				]
+			},
+			{
+				"type": "data-4",
+				"title": "2022年香港及中國內地的可持續採購",
+				"item-count": 2,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": 14.77,
+								"before-text": "<span class='h4 mb-0'>港幣</span>",
+								"after-text": "<span class='font-giant mb-0'>億</span><span class='h4 mb-0'>元</span>"
+							}
+						],
+						"text": "總值",
+						"icon": "/images/pillar-icons/partners/sustainable-procurement.svg",
+						"icon-class": "icon-partners-sustainable-procurement"
+					},
+					{
+						"percentage": [
+							{
+								"num": 17,
+								"after-text": "<span class='font-giant mb-0'>%</span>"
+							}
+						],
+						"text": "佔採購總開支",
+						"icon": "/images/pillar-icons/partners/sustainable-procurement.svg",
+						"icon-class": "icon-partners-sustainable-procurement"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "green-procurement-at-two-taikoo-place-and-six-pacific-place",
+				"title": "太古坊二座及太古廣場六座推行環保採購",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/green-procurement-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/green-procurement-2-tc.jpg"
+					}
+				],
+				"contents": [
+					"太古坊二座及太古廣場六座已制定整個生命週期碳管理方針，分別處理隱含碳排放和營運碳排放。按照這套願景，項目在建造階段實行環保採購。",
+					"我們採購的綠色建材包括：",
+					{
+						"type": "sub-title",
+						"value": "太古坊二座"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"幾乎100%混凝土達到建造業議會綠色產品認證鉑金級標準。",
+							"結構鋼材及鋼筋含高成分再造物料，並使用電弧爐生產技術製造。",
+							"所有石膏磚及冷凍機均達到建造業議會綠色產品認證鉑金級標準。",
+							"臨時工程使用森林管理委員會（FSC）或森林驗證認可計劃（PEFC）認證木材。",
+							"採購取得建造業議會綠色產品認證的鉑金級冷凍機。",
+							"在內部裝修階段採購低揮發性有機化合物及不含氟氯化碳的油漆、塗層、黏合劑、密封劑、樓板、保溫物料及傢俬。"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "太古廣場六座"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"臨時及室內工程均採用森林管理委員會（FSC）及森林驗證認可計劃（PEFC）認證木材。",
+							"截至2022年12月31日，已採購逾23,000公噸取得建造業議會綠色產品認證鉑金級標準的混凝土。",
+							"採購的鋼筋為建造業議會綠色產品認證鉑金級產品。",
+							"所有採購的風機盤管裝置均已取得建造業議會綠色產品認證。"
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "a-sustainable-timber-deck-at-three-pacific-place",
+				"title": "太古廣場三座環保木板平台",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/sustainable-timber-deck-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/sustainable-timber-deck-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/sustainable-timber-deck-3.jpg"
+					}
+				],
+				"contents": [
+					"太古廣場三座前方星街廣場及皇后大道東廣場的木板平台和石凳使用了16年，已到了翻新改造的時候。假如選擇拆卸重建方法，需要使用新建材建造，廢棄材料則會運到堆填區。太古地產決定另尋徑途，本著回收再用的優先原則，充分利用現有物料。",
+					"我們回收了木板平台的木材，重新組建成為更耐用的環塑木平台，整個程序由一個本地營運商完成。此外，太古廣場商場外部面牆的砂岩板也有逾10年歷史，年內亦一併更換。石板拆除後製成再造石凳及石枱，所有材料均採購自本地供應商。",
+					"這宗翻新工程是閉環式循環再造的最佳例子，環塑木工程也是香港開創先河的新突破，皆因所有回收、再造及製作流程都在本地進行。我們的目標是將可持續發展概念融入業務每個範疇，同時藉此與多個環保供應鏈夥伴建立長遠的合作關係，攜手轉型至低碳經濟。",
+					"工程的詳情請查看<a href='https://www.swirepropertiesoffices.com/3pp-timber-deck-final/pacific-place-office-happenings/' target='_blank'>專題網站</a>（僅提供英文版）。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "further-expansion-of-our-sustainable-sourcing-programme",
+				"title": "繼續擴展可持續採購計劃",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/further-expansion-of-our-sustainable-sourcing-programme-1.jpg"
+					}
+				],
+				"contents": [
+					"我們矢志在各業務範疇推廣採購可持續物料。2022年，我們繼續在這方面取得重大進展，包括：",
+					"物業組合辦事處及設施：",
+					{
+						"type": "ul",
+						"value": [
+							"建造業議會綠色產品認證的空氣處理器、油漆及塗層、控制面板及水泵",
+							"森林管理委員會(FSC)認證廁紙及打印紙",
+							"香港內部辦公室使用100%再造物料製成的辦公室打印紙",
+							"內含認證有機茶葉的可生物降解茶包"
+						]
+					},
+					"酒店營運：",
+					{
+						"type": "ul",
+						"value": [
+							"選用符合世界自然基金會「海鮮選擇指引」或水產養殖管理委員會指引的環保海鮮",
+							"餐牌加設素肉菜式，以助減少碳排放及業務的生態足跡",
+							"餐牌加設純素、有機及生物動力法葡萄酒",
+							"用太陽能加工和採用可生物降解物料包裝的咖啡豆",
+							"竹製浴室用品",
+							"精簡客房用品的包裝，例如去除紙盒",
+							"以森林管理委員會(FSC)認證90-100%再造纖維廁紙取代普通廁紙",
+							"所有辦公室打印紙均須通過森林管理委員會(FSC)認證"
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety",
+			"partners-suppliers-supplier-compliance-monitoring",
+			"performance-environment-climate-change"
+		]
+	},
+	"partners-tenants-digitalisation-page": {
+		"meta": {
+			"keywords": "租戶參與 - 數碼化, 數碼化, 租戶參與, 數碼轉型, WiredScore認證的物業組合, 鉑金級, Tenant Portal網上平台, 數據分享, 標準對照, 遊戲化, 應用智能科技節約資源, 智能科技, 智能減廢挑戰, 流動智能磅先導計劃, 廢物, 智能電力監察系統先導計劃, 無線分錶",
+			"url": "/partners/tenants/digitalisation",
+			"type": "partners",
+			"image": "/images/pages/partners/tenants/digitalisation/digitalisation-intro.jpeg",
+			"title": "數碼化 | 租戶 | 夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "我們持續推行不同範疇的數碼化營運，務求提升效率和效益，增進用戶體驗。"
+		},
+		"landing": {
+			"title": "租戶參與 - 數碼化"
+		},
+		"breadcrumb-title": "租戶參與 - 數碼化",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "digitalisation-intro",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/digitalisation/digitalisation-intro.jpg"
+					}
+				],
+				"contents": [
+					"創新變革、勇於嘗試是太古地產的承諾，秉持著這信念，我們持續在數碼轉型的路上前行，致力優化數碼連接及引入尖端科技，藉此創造效率和節約成本，以及在旗下所有業務減少浪費。",
+					"太古地產積極創新衍變，成績有目共睹，今年我們喜獲全球兩大數碼連接標準的最高級別認證。首先是WiredScore，這項認證專門評估建築物滿足現代辦公樓租戶需求的能力；第二是SmartScore，接受此認證的一流智能建築物，必須利用現代數碼平台創造綜合用戶體驗，提高效率，全面滿足未來的需要，達到最高的可持續性標準。",
+					"太古坊及太古廣場現已成為香港首批通過WiredScore認證的物業組合，共有15座商廈取得認證，而太古坊二座及太古廣場六座則是香港第一批取得WiredScore及SmartScore鉑金級認證的建築物。卓越的成就令我們深感自豪，皆因全球參與此兩項認證計劃的建築物中，僅有0.6%獲評鉑金級別全球評級。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "tenant-portal",
+				"title": "Tenant Portal網上平台",
+				"pillar": "partners",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/digitalisation/tenant-portal-1.png"
+					}
+				],
+				"contents": [
+					"太古地產的租戶可使用Tenant Portal網上平台提交設施管理服務要求、瀏覽電子繳費通知書及通告，以及聯繫管理處和其他重要聯絡方。租戶的要求傳送到網站後，系統便會自動製作工作通知單。數碼化流程節省大量紙張及輸入資料的時間，方便高效。",
+					"2021年，網站再添多項新功能，包括設施維修功能，租戶可透過此數碼化平台提交及追蹤設施維修要求。所有透過系統提交的要求均會記錄並可隨時查看。",
+					"Tenant Portal網上平台現已全面開放給所有辦公樓租戶及零售租戶使用。2022年，我們開始開發更新版Tenant Portal，加入多項新功能，可收集租戶的能源及廢物資料和追蹤表現，評估是否符合《環境績效約章》的指標。這些《環境績效約章》新功能將逐步優化，日後可支援數據分享、標準對照和遊戲化。",
+					"資訊科技部、技術統籌及可持續發展部和物業組合管理團隊的代表亦會定期召開會議，確保網上平台迎合不斷變化的業務需要，促進租戶參與及可持續發展。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "smart-resource-conservation-through-technology",
+				"title": "應用智能科技節約資源",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/digitalisation/smart-resource-conservation-through-technology-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/digitalisation/smart-resource-conservation-through-technology-2.jpg"
+					}
+				],
+				"contents": [
+					"2022年，太古地產旗下各物業引入更多智能科技。我們繼續與三個租戶合作推展「智能電力監察系統」先導計劃，讓業主和租戶持續評估耗能模式，從中找到可節約能源的途徑及促進改變行為習慣。",
+					"為提高用水效益及加強節約用水意識，我們已為太古坊及東薈城辦公樓租戶安裝無線分錶監察耗水量，另太古廣場亦已展開同類安裝工程。此外，我們亦主動協助太古坊的租戶評估用水設備的效率，以及進行簡單改裝減低水龍頭的水流量。",
+					"一直以來，廢物重量都靠人手量度和記錄，但我們也不斷研究引入新興技術，將廢物資料的收集流程數碼化。2021年，我們獲太古公司可持續發展基金撥款資助展開「<a class='text-partners' href='/2022/zh-hk/performance-environment/resource-and-circularity/digitalising-and-gamifying-waste-data'>智能減廢挑戰</a>」，於辦公樓租戶處所內的廢物收集箱下放置智能磅，採集廢物數據。2022年，我們喜見更多租戶參與「智能減廢挑戰」，我們也同時展開「流動智能磅先導計劃」，向清潔承辦商分發指定的雲端連接智能磅，在後勤區記錄租戶的廢物及量重。",
+					"未來我們將繼續識別、評估和擴展各種可促進數據共享的方法，協助各方減少耗能、用水和產生廢物，期望與租戶的合作更上一層樓。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-tenants-environment",
+			"partners-tenants-social-and-wellness",
+			"places-vibrancy-youth-empowerment-white-christmas-street-fair"
+		]
+	},
+	"partners-tenants-environment-page": {
+		"meta": {
+			"keywords": "租戶參與 - 環境, 《環境績效約章》向前邁進, 環境績效約章, 業主與租戶合作, 綠色租約, 租戶與業主合作, 可出租樓面面積, 能源、水資源及減廢, 可持續發展裝修技術指引, 表現對照分析, 行動規劃, 數據分享, 免費能源審核, 智能水錶, 智能減廢監察系統, 網絡群組機遇, 範圍三排放, 《環境績效約章》頒獎典禮, 最佳措施, 綠色積分, 種子積分, 裝修, 智能減廢挑戰,「綠色廚房 2.0」, 三葉, 措施, The Loop及都市農圃計劃, 環保藝術, 廚餘處理機, 北京頤堤港, 東薈城The Loop都市農圃, 港島東中心The Loop天台, 太古廣場一座The Loop都市農圃, South Island Place The Loop天台農圃, 農作物, 蔬菜, 耕作季節, 堆肥, 肥料, 都市農圃, 節能, 商業租戶, 綠建商舖聯盟, 香港綠建商舖聯盟, 特別嘉許 ― 碳中和, 「最綠模範商場」組別, 「最具動力合作獎」組別, 「卓越綠色產品推動獎」",
+			"url": "/partners/tenants/environment",
+			"type": "partners",
+			"image": "/images/pages/partners/tenants/environment/the-green-performance-1.png",
+			"title": "環境 | 租戶 | 夥伴協作 | 太古地產2022可持續發展報告",
+			"content": "我們推行各式各樣的參與計劃，提高租戶在能源、水資源及廢物各方面的表現。"
+		},
+		"landing": {
+			"title": "租戶參與 - 環境"
+		},
+		"breadcrumb-title": "租戶參與 - 環境",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-green-performance-pledge-builds-momentum",
+				"title": "《環境績效約章》向前邁進",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-performance-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"2022年7月在香港推出的《環境績效約章》（《約章》）以環境效益為本，是業主與租戶之間的協定。約章建基於一份綠色租約，全面涵蓋從物業裝修到營運整個週期，著眼於能源、水資源及減廢三方面，希望發揮重大影響。這項以環境效益為本的計劃為參與租戶提供各式各樣的「綠色工具」，有利租戶與業主合作。",
+					"由2021年8月展開《約章》先導計劃，直至2022年12月31日，共有52個辦公樓租戶簽署參與，佔公司香港辦公樓物業組合可出租樓面面積37.9%（超過250萬平方呎）。參與租戶分別來自太古坊、太古廣場及東薈城一座，涵蓋多個行業，包括銀行及金融、法律、資訊科技和消費品牌。此外，中國內地物業組合亦於2022年12月推行《約章》先導計劃，太古地產希望可在2025年前招募香港和中國內地半數<sup>12</sup>辦公樓租戶簽署約章。",
+					"《約章》設有《可持續發展裝修技術指引》供需要裝修處所的新租戶或準備進行翻新工程的現有租戶參考。指引載有多套使用簡便的範本，提供辦公樓設計貼士，並有驗證及認可系統，助租戶提高能源及用水效益、減少廢物和促進員工身心健康。",
+					"營運方面，指引可透過多種工具和方法支持租戶提升營運的可持續性，當中要點包括環境效益對照分析及行動規劃、數據分享、度身設計的可持續發展方案，例如免費能源審核、智能水錶和香港首個智能減廢監察系統等領先環保科技，以及租戶聯繫活動和優秀環保表現嘉許。",
+					"《約章》可鼓勵租戶提升可持續發展表現，同時也有助公司達成其中一項科學基礎目標，即在2030年前租戶每年每平方米範圍三排放減少28%（與2018年基準比較）。",
+					{
+						"type": "footnote",
+						"value": "<sup>12</sup>按辦公樓物業組合已佔用的可出租樓面面積(100%基準)計算，即香港太古坊及太古廣場和廣州太古滙。"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-gpp-pilot-awards-ceremony-2022",
+				"title": "2022年《環境績效約章》頒獎典禮",
+				"pillar": "partners",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-4.jpg"
+					}
+				],
+				"contents": [
+					"2022年9月，太古地產舉辦《環境績效約章》先導計劃頒獎典禮，表揚《約章》先導計劃的租戶。我們在會上公佈《約章》先導計劃的成績及頒發多個獎項，並安排經驗分享會與租戶交流各種最佳舉措。頒獎活動共有30多位來自10間參與企業租戶出席。",
+					"13個參與先導計劃的租戶中，八個憑著分享可持續發展數據及達到環境績效目標而取得《約章》營運組別的「綠色積分」，因此獲頒發鉑金、金、銀或會員獎。當中五個租戶同時參加《約章》裝修及翻新組別，憑著採用可持續發展及健康措施而獲得「種子積分」。我們分別向這些租戶授予「三種子」、「兩種子」或「一種子」評級，以示嘉許。",
+					{
+						"type": "sub-title",
+						"value": "《約章》租戶個案研究 "
+					},
+					{
+						"type": "sub-title",
+						"value": "裝修"
+					},
+					"我們一個租戶已按照《可持續發展技術指引》完成辦公樓裝修工程，而且成效出眾：",
+					{
+						"type": "ul",
+						"value": [
+							"重用52%現有辦公室傢俬",
+							"水龍頭用水效益提高43%",
+							"收集五類可回收物料，包括玻璃樽及廚餘",
+							"整體用電強度比租戶之前的處所減低21%"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "營運"
+					},
+					"有一個租戶在《約章》的框架下參與「智能電錶先導計劃」，按時間及辦公樓處所分區持續監察能源耗量。租戶發現總用電量近半是在非辦公時間消耗，於是移除低使用率的設備，結果兩個公共區於2021年10月至2022年6月期間用電量減少9.3%。同時租戶亦開始研究如何完善管理照明和伺服器設備，以進一步節約能源。租戶也參與太古地產的「<a href='/2022/zh-hk/performance-environment/resource-and-circularity/digitalising-and-gamifying-waste-data'>2021年智能減廢挑戰</a>」計劃，並於2021年7月至2022年1月間減少員工人均總廢物約19%。",
+					"另一個租戶參加了我們的免費能源審核計劃，希望藉此提高辦公室的能源效益，當中以照明、辦公室電器和採暖通風及空調系統（HVAC）為重點。審核發現了逾27,000千瓦時能源管理機遇，可透過改裝燈具、採用陽光感測器及優化整體設備管理取得成效。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-green-kitchen-initiative",
+				"title": "「綠色廚房 2.0」",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-8.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-9.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-10.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-11.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-12.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-13.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-14.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-15.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-16.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-17.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-18.jpg"
+					}
+				],
+				"contents": [
+					"太古地產於2017年推出「綠色廚房」計劃為物業營運團隊和租戶在籌備裝修翻新工程時提供一個平台，商討可持續發展措施。透過溝通，雙方可攜手節約能源及用水，並優化空氣質素和廢物管理，從而改善太古地產物業組合內食肆的可持續發展表現。",
+					"我們喜見「綠色廚房」計劃一直成效理想，廣受租戶歡迎。2022年，我們將計劃升級，推出「綠色廚房2.0」。新計劃新增多則「綠色廚房計劃」嘉許的先決條件，例如安裝LED燈及水流控制器和回收廚餘。",
+					"截至2022年底，香港及中國內地物業組合共76個租戶獲「綠色廚房」計劃嘉許，2022年共有24個租戶加入計劃，其中六個租戶獲得最高的「三葉」獎。",
+					"得獎租戶採取的環保措施包括：",
+					{
+						"type": "ul",
+						"value": [
+							"裝設按需求控制或變頻排風機系統，減少廚房抽氣扇和相關冷卻及採暖裝置耗能。",
+							"安裝設有熱能回收功能的洗碗機、蒸氣機及製冷設備。",
+							"選用高能源效益煮食器材。",
+							"回收廚餘及其他物料，例如玻璃樽、紙包飲品盒、咖啡渣及發泡膠箱。",
+							"採用高淨化效率的排氣系統。",
+							"引入智能系統精簡生產流程，藉此防止產生或甚至杜絕不必要廢物。"
+						]
+					},
+					"我們就太古地產旗下香港東隅酒店FEAST餐廳於2019下半年（翻新前）至2021下半年推行「綠色廚房計劃」的主要影響進行了分析，結果顯示計劃產生多項顯著的利好影響，包括：",
+					{
+						"type": "ul",
+						"value": [
+							"用電量減少6%（不包括空調）",
+							"煤氣用量減少31%",
+							"耗水量減少19%"
+						]
+					}
+				]
+			},
+			{
+				"type": "section",
+				"id": "the-loop-urban-farm-programme",
+				"title": "The Loop及都市農圃計劃",
+				"pillar": "partners",
+				"contents": [
+					"The Loop是太古地產於2017年在太古坊德宏大廈設立的可持續發展展覽中心，設施包括回收中心、廚餘處理機和環保浮雕壁畫的都市農圃，佔地4,000平方呎。這個互動空間鼓勵租戶及廣大市民響應「close the loop」理念，在業務營運和日常生活中實踐可持續發展。",
+					"7月份，北京頤堤港也開設The Loop可持續發展中心，鼓勵員工、租戶及業務夥伴利用多功能場地舉行各類可持續發展計劃。",
+					"疫情期間，都市農耕極受歡迎，再次成為熱門活動。2021年，我們與專門拓展都市農耕活動的社企雲耕學院合作，將The Loop的都市農耕及社區參與概念伸展到香港其他物業。",
+					"本年度，太古廣場一座成為香港第五個The Loop，開設逾1,600平方呎的都市耕作空間。",
+					"2022年，太古地產五個農圃："
+				]
+			},
+			{
+				"type": "data-4",
+				"id": "sppa-key-figures",
+				"isNext": true,
+				"item-count": 2,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": 36,
+								"custom-class": "",
+								"after-text": "<span class='h4 mb-0'>種</span>",
+								"before-text": "<span class='h4 mb-0 mr-1 no-wrap'>收成了</span>"
+							}
+						],
+						"align-left": true,
+						"text": "農作物"
+					},
+					{
+						"percentage": [
+							{
+								"num": 500,
+								"custom-class": "",
+								"after-text": "<span class='h4 mb-0'>公斤</span>",
+								"before-text": "~"
+							}
+						],
+						"align-left": true,
+						"text": "農作物收成"
+					},
+					{
+						"percentage": [
+							{
+								"num": 275,
+								"custom-class": "less-space-with-after-text",
+								"before-text": "~",
+								"after-text": "<span class='h4 mb-0'>公斤</span>"
+							}
+						],
+						"align-left": true,
+						"text": "農作物捐贈樂餉社"
+					},
+					{
+						"percentage": [
+							{
+								"num": 1350,
+								"custom-class": "less-space-with-after-text",
+								"after-text": "<span class='h4 mb-0'>人</span>",
+								"before-text": ">"
+							}
+						],
+						"align-left": true,
+						"text": "參與"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-loop-at-citygate",
+				"title": "東薈城The Loop",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-5.jpg"
+					}
+				],
+				"contents": [
+					"東薈城於2021年6月開設The Loop，讓東薈城一座所有19個辦公樓租戶一嘗都市耕作的樂趣。於2022年耕作季節，辦公樓租戶種植了十多種香草及蔬菜，收割後享受豐富美味的成果。項目的都市農圃嚴格採用有機種植方法，不使用任何工業肥料、傳統化肥或農藥。",
+					"東薈城The Loop令大廈天台煥然一新，成為鬆弛充電的好地方。參加者可投入大自然懷抱，天台還有一幅農圃主題的壁畫，支持本地藝術和文化。整個農圃是太古地產建設社區又一典範，顯證我們致力促進員工及辦公樓租戶的身心健康。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-loop-at-one-island-east-taikoo-place",
+				"title": "港島東中心The Loop天台都市農圃",
+				"pillar": "partners",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-4.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-5.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"港島東中心The Loop位於300米高的屋頂，原為大廈維修專用地方，2021年項目撥出逾300平方呎的天台範圍，打造成為都市農圃，設置50個種植箱，可栽種時令蔬菜及香草。同場並裝設廚餘處理機和堆肥滾筒，利用辦公樓租戶的廚餘堆肥供農圃自用。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-loop-at-one-pacific-place",
+				"title": "太古廣場一座The Loop",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-pacific-place-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-pacific-place-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-pacific-place-3.jpg"
+					}
+				],
+				"contents": [
+					"2022年11月，太古地產與太古廣場一座的主要租戶合作，在大廈建設The Loop。此The Loop將種植28種農作物，並會在租戶辦公樓回收廚餘，改變用途製成堆肥供農圃使用，展示如何跨行業行動和業主與租戶合作在工作場所推進可持續發展。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-loop-at-south-island-place",
+				"title": "South Island Place The Loop天台農圃",
+				"pillar": "partners",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-south-island-place-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-south-island-place-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-south-island-place-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-south-island-place-6.jpg"
+					}
+				],
+				"contents": [
+					"South Island Place的The Loop天台農圃於2021年建立，定期舉行Farm Club活動，吸引66位辦公樓上班族參與都市農耕計劃及活動，截至2022年9月底一共收成約26公斤農作物，其中21公斤捐贈本地的食物援助組織。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "energy-audits",
+				"title": "能源審核",
+				"contents": [
+					"2022年，我們延續推行已久的租戶免費能源審核計劃，助企業發掘節能途徑。"
+				]
+			}
+		],
+		"free-energy-audits-given-to-commercial-tenants": {
+			"title": "商業租戶免費能源審核（自2008年起）",
+			"table-title": [
+				"香港",
+				"中國內地"
+			],
+			"content": [
+				{
+					"type": {
+						"icon": "/images/pillar-icons/partners/tenanted-area.svg",
+						"text": "出租物業面積"
+					},
+					"data": [
+						{
+							"custom-font": "n3",
+							"type": "香港",
+							"title": [
+								"<span class='n2'>360 萬 </span><span class='h4 mb-0'>平方呎</span>"
+							]
+						},
+						{
+							"custom-font": "n3",
+							"type": "中國內地",
+							"title": [
+								"<span class='n2'>250 萬 </span><span class='h4 mb-0'>平方呎</span>"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"icon": "/images/pillar-icons/partners/potential-annual-energy-savings.svg",
+						"text": "每年可節省能源"
+					},
+					"data": [
+						{
+							"custom-font": "n3",
+							"type": "香港",
+							"title": [
+								"<span class='n2'>330 萬 </span><span class='h4 mb-0'>千瓦小時</span>"
+							]
+						},
+						{
+							"custom-font": "n3",
+							"type": "中國內地",
+							"title": [
+								"<span class='n2'>660 萬 </span><span class='h4 mb-0'>千瓦小時</span>"
+							]
+						}
+					]
+				}
+			]
+		},
+		"sections-2": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "green-shop-alliance",
+				"title": "香港綠建商舖聯盟",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/green-shop-alliance-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/green-shop-alliance-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/green-shop-alliance-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/green-shop-alliance-4.jpg"
+					}
+				],
+				"contents": [
+					"太古地產是首家支持香港綠建商舖聯盟的地產發展商。此聯盟由建造業議會與香港綠色建築議會於2016年聯合創辦，旨在促進業主與租戶協作，從而倡導零售業走向可持續發展。今年，太古地產在可持續發展領域的領導地位得到肯定，我們在「香港綠建商舖聯盟大獎2022」囊括多個獎項：",
+					"<strong>「特別嘉許 ― 碳中和」：</strong>",
+					{
+						"type": "ul",
+						"value": [
+							"太古地產獲頒發獎項，表揚我們訂立1.5°C科學基礎減碳目標，以及矢志悉力在2050年前實現淨零碳排放，持續推行減碳策略，全面減低企業層面和旗下商場的範圍一、二及三排放。"
+						]
+					},
+					"<strong>「最綠模範商場」組別：</strong>",
+					{
+						"type": "ul",
+						"value": [
+							"東薈城名店倉 ― 榮獲銅獎，表揚我們設立創新的節能解決方案及設施，以及構思各種措施促進租戶節約能源和減廢。"
+						]
+					},
+					"<strong>「最具動力合作獎」組別：</strong>",
+					{
+						"type": "ul",
+						"value": [
+							"太古城中心 ― 奪得最佳租戶合作獎，嘉許我們推行參與計劃和分享資源，助租戶節能減廢及向其分租租戶推廣可持續發展。"
+						]
+					},
+					"<strong>「卓越綠色產品推動獎」：</strong>",
+					{
+						"type": "ul",
+						"value": [
+							"東薈城名店倉",
+							"太古城中心"
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-tenants-digitalisation",
+			"partners-tenants-social-and-wellness",
+			"places-vibrancy-art-and-culture"
+		]
+	}
+}

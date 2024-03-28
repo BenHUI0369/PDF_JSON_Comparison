@@ -1,0 +1,3191 @@
+{
+	"people-page": {
+		"meta": {
+			"keywords": "People, employees, SD 2030, SD 2030 Strategy, Talent Attraction, Talent Management, Diversity and Inclusion, Occupational Health and Safety, Lost Time Injury Rate, Volunteering, Employee Wellbeing, gender, 2022 Progress Summary Table, Performance Data Summary (Social)",
+			"url": "/people",
+			"type": "people",
+			"image": "/images/landing-section/people-left.jpg",
+			"title": "People | Swire Properties SD Report 2022",
+			"content": "We believe that the contributions of our employees are critical to the implementation of our SD 2030 Strategy and to our overall success."
+		},
+		"landing": {
+			"title": "People",
+			"icon": "SVGPeopleWhite",
+			"contents": [
+				"We believe that the contributions of our employees are critical to the implementation of our SD 2030 Strategy and to the overall success of Swire Properties. As such, we aim to create an environment where our employees will be healthier, happier and more productive. We also seek to invest in our employees and aim to provide them with rewarding career paths as we work to develop a diverse, industry-leading team."
+			]
+		},
+		"breadcrumb-title": "People",
+		"2022-highlights": {
+			"highlights": {
+				"highlight-pic-1": {
+					"id": "highlight-pic-1",
+					"src": "/images/pages/people/highlight-section/highlight-people-pic-1.png"
+				},
+				"talent-attraction": {
+					"id": "talent-attraction",
+					"title": "Talent Attraction",
+					"full-width": true,
+					"content": [
+						{
+							"description": "Recognised as \"Hong Kong’s Most Attractive Employer” at the Randstad Employer Brand Awards 2022"
+						}
+					],
+					"icon": "SVGTalentAttractionRetention",
+					"icon-class": "svg-talent-attraction-retention",
+					"link": {
+						"path": "/people/talent-attraction"
+					}
+				},
+				"talent-management": {
+					"id": "talent-management",
+					"title": "Talent<br class='d-none d-xl-block'/> Management",
+					"content": [
+						{
+							"title": "~<span class='js-count-up-number'>154000</span>",
+							"description": "training hours delivered"
+						},
+						{
+							"title": "<span class='js-count-up-number'>24</span>",
+							"description": "training hours/employee/year"
+						}
+					],
+					"icon": "SVGTalentManagement",
+					"icon-class": "svg-talent-management",
+					"link": {
+						"path": "/people/talent-management"
+					}
+				},
+				"occupational-health-and-safety": {
+					"id": "occupational-health-and-safety",
+					"title": "Occupational <br class='d-none d-xl-block'/>Health And Safety",
+					"full-width": true,
+					"content": [
+						{
+							"description": "ISO 45001:2018 certification extended to our residential portfolio, now covering all property portfolios managed by the Company."
+						}
+					],
+					"icon": "SVGEmployeeWellbeing",
+					"icon-class": "svg-occupational-health-safety",
+					"link": {
+						"path": "/people/occupational-health-and-safety"
+					}
+				},
+				"diversity-and-inclusion": {
+					"id": "diversity-and-inclusion",
+					"title": "Diversity<br class='d-none d-xl-block'/> and Inclusion",
+					"effect-down": true,
+					"content": [
+						{
+							"title": "<span class='js-count-up-number'>1</span> : <span class='js-count-up-number'>0.92</span>",
+							"description": "Gender pay ratio (female to male)"
+						},
+						{
+							"title": "<span class='js-count-up-number'>38</span>%",
+							"description": "of senior management positions held by women"
+						}
+					],
+					"icon": "SVGDiversityAndInclusion",
+					"icon-class": "svg-diversity-and-inclusion",
+					"link": {
+						"path": "/people/diversity-and-inclusion"
+					}
+				},
+				"lost-time-injury-rate": {
+					"id": "lost-time-injury-rate",
+					"title": "Lost Time Injury Rate",
+					"full-width": false,
+					"content": [
+						{
+							"title": "<span class='js-count-up-number'>0.57</span>",
+							"description": "<span class='h4 text-people font-giant'><span class='js-count-up-number'>14</span>%</span> ",
+							"description-2": "Non-hotel operations",
+							"desc-arrow": "down"
+						},
+						{
+							"title": "<span class='js-count-up-number'>1.56</span>",
+							"description": "<span class='h4 text-people font-giant'><span class='js-count-up-number'>1</span>%</span> ",
+							"description-2": "Hotel operations",
+							"desc-arrow": "up"
+						}
+					],
+					"icon": "SVGLostTimeInjuryRate",
+					"icon-class": "svg-lost-time-injury-rate",
+					"link": {
+						"path": "/people/occupational-health-and-safety/2022-health-and-safety-performance"
+					}
+				},
+				"highlight-pic-2": {
+					"id": "highlight-pic-2",
+					"src": "/images/pages/people/highlight-section/highlight-people-pic-2.png"
+				},
+				"volunteering": {
+					"id": "volunteering",
+					"title": "Volunteering",
+					"effect-down": true,
+					"content": [
+						{
+							"arrow": "forward",
+							"title": "><span class='js-count-up-number'>6100</span>",
+							"description": "volunteer service hours"
+						}
+					],
+					"icon": "SVGVolunteering",
+					"icon-class": "svg-volunteering",
+					"link": {
+						"path": "/people/volunteering"
+					}
+				},
+				"employee-wellbeing": {
+					"id": "employee-wellbeing",
+					"title": "Diversity and inclusion",
+					"effect-down": true,
+					"full-width": false,
+					"content": [
+						{
+							"description": "First time inclusion in the 2023 Bloomberg Gender-Equality Index (“GEI”)"
+						}
+					],
+					"link": {
+						"path": "/people/diversity-and-inclusion"
+					},
+					"src": "/images/footer/awards/GEI_Member_seal_2022-23_1color_BLK4C.svg",
+					"icon-class": "svg-occupational-health-safety"
+				},
+				"employees-by-gender": {
+					"id": "employees-by-gender",
+					"title": "Employees,<br class='d-none d-xl-block'/> by gender",
+					"content": [
+						{
+							"title": "<span class='js-count-up-number'>3721</span>",
+							"description": "<span class='js-count-up-number'>59.8</span>% Male"
+						},
+						{
+							"title": "<span class='js-count-up-number'>2578</span>",
+							"description": "<span class='js-count-up-number'>40.2</span>% Female"
+						}
+					],
+					"icon": "SVGEmployeesByGender",
+					"icon-class": "svg-employees-by-gender",
+					"icon-chart": true,
+					"no-link": true
+				},
+				"highlight-pic-3": {
+					"id": "highlight-pic-3",
+					"src": "/images/pages/people/highlight-section/highlight-people-pic-3.png"
+				},
+				"2022-progress-summary-table": {
+					"id": "2022-progress-summary-table",
+					"title": "2022 Progress Summary Table",
+					"last-link-left": true,
+					"full-width": false,
+					"summary-table": true,
+					"content": [
+						{
+							"description": "Click to see progress towards our 2025 KPIs in all focus areas"
+						}
+					],
+					"link": {
+						"path": "/people/2022-progress-summary"
+					}
+				},
+				"performance-data-summary-social": {
+					"id": "performance-data-summary-social",
+					"title": "Performance Data Summary (Social)",
+					"last-link-right": true,
+					"full-width": false,
+					"data-summary": true,
+					"effect-down": true,
+					"content": [
+						{
+							"description": "Explore and view our performance data through interactive charts and data sets"
+						}
+					],
+					"link": {
+						"path": "/download-centre/performance-data-summary-social"
+					}
+				}
+			}
+		}
+	},
+	"people-2022-progress-summary-page": {
+		"meta": {
+			"keywords": "2022 Progress Summary Table, progress summary, 2022 Progress, People Working Group, Talent Attraction, Talent Management, Rewards, Occupational Health and Safety, Diversity and Inclusion, Volunteering, 2025 KPI, Progress Updates, employer, empoyee, net promoter score, Pulse Survey, Talent Management Subgroup, training hours, training, baseline, Employer Branding, Learning and Development, Engagement, engagement index rating,  turnover rate, People Engagement Survey, Safety, lost time injury rate, LTIR, zero, work-related fatalities, fatalities, serious incidents, incidents, Policy, Strategy and Governance, gender balance, senior management, gender pay ratio, senior management positions, women, management positions, female to male, ",
+			"url": "/people/2022-progress-summary",
+			"type": "people",
+			"image": "/images/logos/people-summary-seo.jpg",
+			"title": "2022 Progress | People | Swire Properties SD Report 2022",
+			"content": "This year, we continued to work towards our 2025 and 2030 KPIs in the People pillar."
+		},
+		"breadcrumb-title": "2022 Progress",
+		"landing": {
+			"title": "2022 Progress"
+		},
+		"sections": [
+			{
+				"type": "contents",
+				"id": "people-2022-progress-summary",
+				"contents": [
+					"Our People Working Group is comprised of 24 representatives from different functions within the Company. Its primary responsibility is to achieve progress in the six focus areas of the People Pillar: Talent Attraction, Talent Management, Rewards, Occupational Health and Safety, Diversity and Inclusion, and Volunteering.",
+					"In 2022, we continued to work towards achieving our 2025 KPIs. We introduced the <a class='text-people' href='/2022/people/human-rights-policy'>Human Rights Policy</a>, setting out our expectations for which our operations and supply chain should operate in areas of diversity and inclusion practices, labour standards, health and safety and employment conditions. ",
+					"Our progress towards our 2025 KPIs is summarised in the table below."
+				]
+			}
+		],
+		"summary-table": [
+			{
+				"id": "talent-attraction-section",
+				"icon": "/images/pillar-icons/people/talent-attraction-retention.svg",
+				"title": "Talent Attraction",
+				"href": "/people/talent-attraction",
+				"iconClass": "icon-talent-attraction-retention",
+				"cards": [
+					{
+						"title": "Employer Branding",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"Improve employee net promoter score by <span class='text-highlight js-count-up-number'>10%</span><sup class='text-highlight'>2</sup>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"Our Pulse Survey revealed an improvement of <span class='text-highlight js-count-up-number'>44%</span>. Our Talent Management subgroup is developing strategies to improve performance in this area."
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "2",
+						"value": "Compared to the baseline year of 2020."
+					}
+				]
+			},
+			{
+				"id": "talent-management-section",
+				"icon": "/images/pillar-icons/people/talent-management.svg",
+				"title": "Talent Management",
+				"href": "/people/talent-management",
+				"iconClass": "icon-talent-management",
+				"sdgs": [],
+				"cards": [
+					{
+						"title": "Learning and Development",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"A <span class='text-highlight js-count-up-number'>25%</span> increase in training hours per employee per year<sup>3</sup>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"Delivered around <span class='text-highlight js-count-up-number'>154000</span> training hours in 2022, an average of <span class='text-highlight js-count-up-number'>24</span> training hours per employee. This is an increase of <span class='text-highlight js-count-up-number'>97%</span> compared to our 2016 baseline year."
+											]
+										}
+									]
+								}
+							}
+						]
+					},
+					{
+						"title": "Engagement",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"Achieve an employee engagement index rating of <span class='text-highlight js-count-up-number'>90%</span> or above",
+												"Improve employee turnover rate by <span class='text-highlight js-count-up-number'>5.5%</span><sup class='text-highlight'>4</sup>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"The results of our 2022 People Engagement Pulse Survey recorded an <span class='text-highlight js-count-up-number'>88%</span> employee engagement index rating.",
+												"The turnover rate in 2022 was <span class='text-highlight js-count-up-number'>18.6%</span> and has improved by <span class='text-highlight js-count-up-number'>21.2%</span> compared to our 2018 baseline year."
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "3",
+						"value": "Compared to the baseline year of 2016."
+					},
+					{
+						"note": "4",
+						"value": "Compared to the baseline year of 2018."
+					}
+				]
+			},
+			{
+				"id": "occupational-health-and-safety",
+				"icon": "/images/pillar-icons/people/occupational-health-and-safety.svg",
+				"title": "Occupational Health <br class='d-sm-none'/>and Safety",
+				"href": "/people/occupational-health-and-safety",
+				"iconClass": "icon-occupational-health-and-safety",
+				"sdgs": [
+					"3"
+				],
+				"cards": [
+					{
+						"title": "Safety",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"Maintain a lost time injury rate (“LTIR”) at or below <span class='text-highlight js-count-up-number'>1.2</span> for non-hotel operations; and at or below <span class='text-highlight js-count-up-number'>2.0</span> for hotel operations",
+												"Maintain <span class='text-highlight js-count-up-number'>zero</span> work-related fatalities and <span class='text-highlight js-count-up-number'>zero</span> serious incidents<sup>5</sup> for employees"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"An LTIR of <span class='text-highlight js-count-up-number'>0.57</span> for Swire Properties’ non-hotel operations and an LTIR of <span class='text-highlight js-count-up-number'>1.56</span> for Swire Properties’ hotel operations.",
+												"Maintained <span class='text-highlight js-count-up-number'>zero</span> work-related fatalities and <span class='text-highlight js-count-up-number'>zero</span> serious incidents."
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "5",
+						"value": "“Serious incident” is defined in the Swire Pacific Fatal and Serious Incident Reporting Policy, a serious incident is a life-threatening or life-altering injury (that results in permanent disablement or causes a permanent change to the employee’s daily life) arising from an incident which is directly connected with the operations."
+					}
+				]
+			},
+			{
+				"id": "diversity-and-inclusion-section",
+				"icon": "/images/pillar-icons/people/diversity-and-inclusion.svg",
+				"title": "Diversity and <br class='d-sm-none'/>Inclusion",
+				"href": "/people/diversity-and-inclusion",
+				"iconClass": "icon-diversity-and-inclusion",
+				"sdgs": [
+					"5",
+					"10"
+				],
+				"cards": [
+					{
+						"title": "Policy, Strategy and Governance",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"Maintain a female representation of no less than <span class='text-highlight js-count-up-number'>40%</span> in the workforce",
+												"Maintain a gender balance in senior management",
+												"Maintain gender pay ratio at <span class='text-highlight js-count-up-number'>1</span><span class='text-highlight mx-1'>:</span><span class='text-highlight js-count-up-number'>1</span> "
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"<span class='text-highlight js-count-up-number'>40.2%</span> of the workforce are female.",
+												"<span class='text-highlight js-count-up-number'>38.3%</span> of senior management positions are held by female.",
+												"The gender pay ratio in 2022 was <span class='text-highlight js-count-up-number'>1</span><span class='text-highlight mx-1'>:</span><span class='text-highlight js-count-up-number'>0.92</span> (female to male)<sup>6</sup>. "
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "6",
+						"value": "In 2022, gender pay ratio is calculated based on a non-weighed average methodology."
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-talent-attraction",
+			"people-talent-management",
+			"people-occupational-health-and-safety"
+		]
+	},
+	"people-diversity-and-inclusion-page": {
+		"meta": {
+			"keywords": "Diversity and Inclusion, diversity, inclusion, D&I, diverse workplace, Swire Pacific Diversity and Inclusion Steering Committee, CareER, NGO, D&I Policy, D&I Committee, Executive Committee, Respect in the Workplace Policy, Parental Leave Policy and Guidelines, parental leave, Management Positions, women, EXCOM, Gender Pay Ratio, Percentage of Management Positions Held by Women, Chief Executive pay to employee pay ratio, Flexible Working Policy Initiative, Sabbatical Leave Policy, Board Diversity, D&I Survey, Pride Month,  LGBTQ,  LGBTQ+, Pride, lunch and learn, queer, sex, gender, cocktail, Pink Friday, Empowering Women, Social Inclusion, Celebrating Black History Month, Brickell City Centre, Employee Events",
+			"url": "/people/diversity-and-inclusion",
+			"type": "people",
+			"image": "/images/pages/people/diversity-and-inclusion/bloomberg.png",
+			"title": "Diversity and Inclusion | People | Swire Properties SD Report 2022",
+			"content": "We are committed to creating an inclusive and supportive working environment for all our employees."
+		},
+		"breadcrumb-title": "Diversity and Inclusion",
+		"landing": {
+			"title": "Diversity and Inclusion",
+			"tag": "GRI 2-21, 405, 406<br/>HKEX Aspect B1",
+			"contents": [
+				"Swire Properties embraces Diversity and Inclusion (“D&I”) and understands the importance of a diverse workforce to our business success. In 2022, we continued our work to build an inclusive and supportive working environment through policies, engagement and education.",
+				"The relevant SDGs are:",
+				{
+					"type": "sdg",
+					"value": [
+						"5",
+						"10"
+					]
+				},
+				"Our commitment to promoting diversity in the workplace is documented in our Corporate Code of Conduct and our Equal Opportunities Policy, both of which are communicated to our employees through our employee handbook. Additionally, the <a target='_blank' href='https://www.swirepacific.com/en/governance/diversity_and_inclusion.pdf'>Swire Pacific Diversity and Inclusion Steering Committee</a> formulates policies and provides guidelines to promote a diverse workforce and an inclusive working environment across the Swire Group.",
+				"In 2021, Swire Properties became a corporate member of CareER, an NGO that provides career development opportunities to persons with disabilities and special educational needs. We also began participating in the CareER Disability Inclusion Index, a comprehensive and localised assessment tool that evaluates a company’s performance in terms of disability inclusion in its operations and services.",
+				"This year, we began disclosing against the 2023 Bloomberg Gender-Equality Index (“GEI”), which acknowledges the Company's commitment to achieving gender equality."
+			]
+		},
+		"sections": [
+			{
+				"type": "section",
+				"id": "d-i-policy-section",
+				"title": "D&I Policy",
+				"contents": [
+					"Our <a href='https://www.swireproperties.com/en/sustainable-development/policies/diversity-and-inclusion-policy.aspx' target='_blank'>D&I Policy</a> reaffirms our commitment to creating an inclusive and supportive working environment for all our employees regardless of age, gender or gender reassignment, sex or sexual orientation, marital or family status, disability, race (including ethnic origin or nationality), and religious or political beliefs. ",
+					"Our D&I Committee is chaired by our Director, Human Resources and reports to the Executive Committee (“EXCOM”) on a quarterly basis. The D&I Committee’s responsibilities include ensuring equal opportunities, advocating fair and bias-free processes for recruiting, developing and promoting our employees, and monitoring our success in achieving D&I in our workplaces. The D&I Committee also serves as a governing body to review grievances relating to discrimination.",
+					"As society evolves, so have the Company’s D&I practices. In 2021, to recognise our ever-more diverse workplace, we introduced new policies on respect in the workplace, staff grievances and parental leave. These new policies help foster an inclusive and supportive working environment for all our people by creating an environment where people feel comfortable and able to reach their full potential. In turn, this produces a workplace without harassment and bullying, and in which there are proper procedures to ensure that grievances and complaints are dealt with effectively, fairly and efficiently."
+				]
+			},
+			{
+				"type": "section",
+				"id": "respect-in-the-workplace-policy",
+				"title": "Respect in the Workplace Policy",
+				"contents": [
+					"Our <a target='_blank' href='https://www.swireproperties.com/en/sustainable-development/policies/respect-in-the-workplace-policy'>Respect in the Workplace Policy</a> aims to ensure that all our people are treated, and treat others, with dignity and respect. It outlines Swire Properties’ expectation that our people contribute to an environment of trust and respect and conduct themselves in a manner which is not offensive, or reasonably perceived by others to be offensive, and which takes due account of the diversity of others’ backgrounds, cultural values and beliefs. Behaviour which does not adhere to this policy will not be tolerated and will lead to disciplinary action being taken, up to and including dismissal."
+				]
+			},
+			{
+				"type": "section",
+				"id": "parental-leave-policy-and-guidelines",
+				"title": "Parental Leave Policy and Guidelines",
+				"contents": [
+					"Our <a target='_blank' href='https://www.swireproperties.com/en/sustainable-development/policies/parental-leave-policy-and-guidelines'>Parental Leave Policy and Guidelines</a> demonstrates Swire Properties’ commitment to supporting our employees when they start or grow their families, and our commitment to removing bias in the workplace. We recognise that there are many different types of family units, and we challenge the view that childcare is solely a female responsibility. Ultimately, we want our people to pursue fulfilling and successful careers while raising children. Providing appropriate levels of parental leave is key to this aim. The policy recognises all parents regardless of their gender or sexual orientation, how they became parents (whether by natural birth, surrogacy or adoption), and the nature or existence of a family unit."
+				]
+			},
+			{
+				"type": "section",
+				"id": "flexible-working-policy-initiative",
+				"title": "Flexible Working Policy Initiative",
+				"contents": [
+					"Our Flexible Working Policy was launched in mid-2019. We introduced the Staggered Working Hours initiative to allow employees to arrive or leave the office at flexible times provided they are present during specified core working hours. Employees are able to balance their work with their personal commitments, helping advance our goal of building a more people-centric workplace culture. We believe that staggered working hours empower our employees to be more creative and productive.",
+					"To augment this policy, we also launched the Sabbatical Leave Policy in January 2020. Sabbaticals allow an employee an extended period away from work, during which time they may recharge themselves, adjust to any life transitions, dedicate time to family matters, or develop their skillsets in various areas. Although this is unpaid leave, employees on sabbatical still enjoy selected staff benefits such as annual leave, medical, training and the use of recreation facilities.",
+					"Throughout the COVID-19 pandemic, we have continuously initiated other working alternatives across our offices, including distributed work, work-from-home and telecommuting arrangements. These policies vary according to need and geography."
+				]
+			}
+		],
+		"female-representation-in-the-workforce": {
+			"id": "female-representation-in-the-workforce",
+			"type": "data-2",
+			"data": {
+				"title": "Female Representation in the Workforce",
+				"desc": "(as at 31 December 2022)",
+				"icon": "/images/pillar-icons/people/female.svg",
+				"mobile-icon": "/images/pillar-icons/people/female-mb.svg",
+				"icon-class": "icon-female",
+				"data": [
+					{
+						"title": [
+							"40.2%"
+						],
+						"desc": "of workforce are female"
+					}
+				]
+			}
+		},
+		"percentage-of-management-positions-held-by-women": {
+			"id": "percentage-of-management-positions-held-by-women",
+			"type": "data-2",
+			"data": {
+				"title": "Percentage of Senior Management Positions Held by Women",
+				"desc": "(as at 31 December 2022)",
+				"icon": "/images/pillar-icons/people/female-management.svg",
+				"mobile-icon": "/images/pillar-icons/people/female-management-mb.svg",
+				"icon-class": "icon-female",
+				"data": [
+					{
+						"title": [
+							"38.3%"
+						],
+						"desc": "of senior management positions held by women"
+					}
+				]
+			}
+		},
+		"gender-pay-ratio": {
+			"id": "gender-pay-ratio",
+			"type": "data-2",
+			"data": {
+				"title": "Gender pay ratio (female to male)",
+				"icon": "/images/pillar-icons/people/female-and-male.svg",
+				"mobile-icon": "/images/pillar-icons/people/female-and-male-mb.svg",
+				"icon-class": "icon-female-and-male",
+				"data": [
+					{
+						"title": [
+							"1",
+							":&nbsp;",
+							"0.92"
+						],
+						"desc": "*In 2022, gender pay ratio is calculated based on a non-weighed average methodology."
+					}
+				]
+			}
+		},
+		"chief-executive-pay-to-employee-pay-ratio": {
+			"id": "chief-executive-pay-to-employee-pay-ratio",
+			"type": "data-2",
+			"data": {
+				"title": "Chief Executive pay to Employee Pay Ratio",
+				"icon": "/images/pillar-icons/people/chief-executive-pay-to-employee-pay-ratio.svg",
+				"mobile-icon": "/images/pillar-icons/people/chief-executive-pay-to-employee-pay-ratio-mb.svg",
+				"icon-class": "icon-chief-executive",
+				"data": [
+					{
+						"title": [
+							"24.5",
+							":&nbsp;",
+							"1"
+						],
+						"desc": "*Calculated as the ratio between the total annual compensation of the Chief Executive and the mean employee compensation"
+					}
+				]
+			}
+		},
+		"sections-2": [
+			{
+				"type": "section",
+				"id": "flexible-working-policy-initiative",
+				"title": "Flexible Working Policy Initiative",
+				"contents": [
+					"Our Flexible Working Policy was launched in mid-2019. We introduced the Staggered Working Hours initiative to allow employees to arrive or leave the office at flexible times provided they are present during specified core working hours. Employees are able to balance their work with their personal commitments, helping advance our goal of building a more people-centric workplace culture. We believe that staggered working hours empower our employees to be more creative and productive.",
+					"To augment this policy, we also launched the Sabbatical Leave Policy in January 2020. Sabbaticals allow an employee an extended period away from work, during which time they may recharge themselves, adjust to any life transitions, dedicate time to family matters, or develop their skillsets in various areas. Although this is unpaid leave, employees on sabbatical still enjoy selected staff benefits such as annual leave, medical, training and the use of recreation facilities.",
+					"Throughout the COVID-19 pandemic, we have continuously initiated other working alternatives across our offices, including distributed work, work-from-home and telecommuting arrangements. These policies vary according to need and geography."
+				]
+			}
+		],
+		"sections-3": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-listed-on-the-bloomberg-gender-equality-index-for-the-first-time",
+				"title": "Swire Properties listed on the Bloomberg Gender-Equality Index for the first time",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/bloomberg.png"
+					}
+				],
+				"contents": [
+					"This year, Swire Properties began disclosing against the Bloomberg Gender-Equality Index (“GEI”), securing a position on the 2023 Bloomberg GEI list. The index includes 484 companies across 11 sectors from 45 countries. Of the five Hong Kong companies listed on this year’s index, three of them are Swire companies: Swire Properties, Swire Pacific and Cathay Pacific. ",
+					"This achievement reflects our dedication to advancing gender equality in the workplace. We have worked, and will continue to work, towards fostering an inclusive and supportive working environment for all our people by creating an environment where everyone feels comfortable and able to reach their full potential. This year, we developed targets around gender balance, seeking to maintain a workplace female representation of no less than 40%. In 2022, 40.2% of our workforce was female, with 38.3% of senior management positions held by women. Our gender pay ratio is very close to full equality, with the ratio being 1:0.98 (female to male) in 2022.",
+					"The GEI is a modified market capitalisation-weighted index developed to gauge the performance of public companies in terms of gender-related data reporting. The index measures gender equality across five pillars: the leadership and talent pipeline, equal pay and gender pay parity, inclusive culture, anti-sexual harassment policies, and external branding. "
+				]
+			},
+			{
+				"type": "section",
+				"id": "dandi-survey",
+				"title": "Swire Group Diversity and Inclusion Survey 2022",
+				"contents": [
+					"In 2022, Swire Properties  took part in the Swire Group’s second annual D&I survey. The survey allows the company to garner feedback on the  diversity approach and identify opportunities to improve workplace inclusivity where our employees can thrive and succeed regardless of age, gender, gender identity, disability, ethnicity, sexual orientation and other characteristics.",
+					"The objectives of the survey were to understand the extent to which our people feel the Company has an inclusive work environment where ideas and voices are heard, supported and respected, and to collect demographic data to better understand our workforce and ensure our D&I strategies and initiatives are inclusive and accessible to all groups. This survey will help us shape and refine our D&I policy and strategies on an ongoing basis.",
+					"The survey reached out to over 73% of our employees from our Hong Kong portfolio, Chinese Mainland portfolio and Hong Kong hotels, of which around 15% responded to the survey. Preliminary results revealed that:",
+					{
+						"type": "ul",
+						"value": [
+							"89% of the respondents agreed that the Company values and respects a variety of ideas, perspectives and working styles.",
+							"86% of the respondents agreed that the Company has created an environment where people of diverse backgrounds can succeed.",
+							"87% of respondents agreed that the Company’s senior leadership publicly supports and promotes diversity initiatives.",
+							"82% of respondents agreed that the Company’s D&I-related policies and procedures are fairly enforced throughout the Company’s operations."
+						]
+					},
+					"The survey’s demographic data revealed a number of workforce diversity indicators:",
+					{
+						"type": "ul",
+						"value": [
+							"Around 93% of respondents self-identified as Chinese, followed by 2% as Other Asian, 1% as White, while 4% of respondents preferred not to answer.",
+							"At the management level, around 94% of respondents self-identified as Chinese, followed by 1% as Other Asian, 1% as White, 1% as Mixed and 3% of respondents preferred not to answer.",
+							"6% of respondents self-identified as LGBT+.",
+							"1% of respondents self-identified as having a disability."
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "pride-month",
+				"reverse": true,
+				"title": "Pride Month",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-2.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-5.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-8.jpg"
+					}
+				],
+				"contents": [
+					"June 2022 marked Swire Properties’ celebration of Pride Month, which “commemorates years of struggle for civil rights and the ongoing pursuit of equal justice under the law for the lesbian, gay, bisexual, transgender and queer community, as well as the accomplishments of LGBTQ individuals<sup>8</sup>”.  As we celebrate 50 years of success as a team, it is more important than ever that we foster an inclusive culture where our LGBTQ+ colleagues feel seen and safe in bringing their authentic selves to work.",
+					"To celebrate the month, our D&I Committee organised a calendar of special events. This began with the launch of our Pride 2022 video featuring our people, a set of Pride-themed Microsoft Teams backgrounds and a special-edition postcard with a rainbow QR code that took colleagues to a Pride mini-quiz.",
+					"A “lunch and learn” workshop on “Creating an LGBTQ+ Friendly Workplace” was led by a community sex educator who shared general misconceptions about sex and gender, advised on how to use inclusive language and support an LGBTQ+ friendly workplace, and talked about his own experiences of being queer in Hong Kong. An exclusive movie screening and a Pride-themed rainbow cocktail-making class held at our Mr & Mrs Fox restaurant rounded out the month’s office-related events in Hong Kong.",
+					"The Upper House committed to donating 5% of the proceeds from a series of events and activities held during Pride Month to Hong Kong Marriage Equality. These events included a Pride cocktail event, themed Sunday Sessions, a drag evening, and more. The hotel extended this charitable initiative by continuing the 5% contribution to Hong Kong Marriage Equality from additional drag nights held through to the end of 2022.",
+					"Brickell City Centre (“BCC”) in Miami hosted its second annual month-long “Pride at BCC” celebration in June 2022. Held in collaboration with various partners, Pride at BCC provided a safe space where guests were welcomed to celebrate our unique differences under the banner of equality. Events during the month included sponsored complimentary cocktail-making classes each weekend, classes hosted by drag queens from TV’s “RuPaul’s Drag Race”, and storytelling seminars. The mall also highlighted retailers with their own equality-related stories to tell and partnered with the Miami-Dade Police Department and 14 other law enforcement agencies from Miami-Dade and Broward Counties. Pride-branded vehicles were paraded and on display at BCC, and officers were invited for a small celebration.",
+					{
+						"type": "footnote",
+						"value": "<sup>8</sup><a target='_blank' class='c2' href='https://www.britannica.com/story/why-is-pride-month-celebrated-in-june'>https://www.britannica.com/story/why-is-pride-month-celebrated-in-june</a>"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "pink-friday",
+				"title": "Pink Friday",
+				"media": [
+					{
+						"type": "video",
+						"poster": "/images/pages/people/diversity-and-inclusion/pink-friday-thumbnail.png",
+						"src": "https://media.swireproperties.com/2b64785e-cdc8-45c3-9cc4-e871fe9addef/Pink_Friday.ism/manifest"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-5.jpg"
+					}
+				],
+				"contents": [
+					"Swire Properties’ annual celebration of Pink Friday fell on 18 November. This multi-industry event takes place in workplaces across Hong Kong every year, aiming to show visible support for the LGBTQ+ community and celebrate the importance of inclusive and diverse workplaces.",
+					"At our offices, this year’s event included a slogan competition, a Pink Friday quiz, a fair with an array of games booths and a best-dressed competition. Additionally, during the week, an F&B outlet at Blueprint offered a pink bento box special."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "empowering-women",
+				"title": "Empowering Women",
+				"href": "/people/diversity-and-inclusion/empowering-women",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-in-hong-kong-1.jpg"
+					}
+				],
+				"contents": [
+					"Swire Properties’ continues to empower women in the Company and in all areas of society gathered momentum in 2022. A host of initiatives and events across our portfolios underlined our commitment to advancing equality everywhere."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "social-inclusion",
+				"title": "Social Inclusion",
+				"href": "/people/diversity-and-inclusion/social-inclusion",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/social-inclusion-1.png"
+					}
+				],
+				"contents": [
+					"This year, our social inclusion initiatives remains committed to providing an inclusive and supportive working environment for all our people where they feel comfortable and empowered to reach their full potential."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "celebrating-black-history-month",
+				"reverse": true,
+				"title": "Celebrating Black History Month",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/celebrating-black-history-month-1.png",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"For the first time, Brickell City Centre hosted a month-long celebration honouring Black History Month. Partnering with the South Florida People of Color organisation, the mall hosted a weekly performance art series honouring Black culture. Every Friday evening in February, the mall’s Garden Deck was transformed into a performing arts centre which celebrated a different culture each week. Performances included singing, dancing and instrumental performances from cultures represented throughout Miami."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "employee-events",
+				"title": "Employee Events",
+				"href": "/people/diversity-and-inclusion/employee-events",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/employee-events/uncomfortable-conversation-1.jpg"
+					}
+				],
+				"contents": [
+					"Numerous D&I-related events were held for our employees across our properties this year to increase awareness and share how they can make a positive change."
+				]
+			}
+		],
+		"section-board-diversity": [
+			{
+				"type": "section",
+				"id": "board-diversity",
+				"title": "Board Diversity",
+				"contents": [
+					"Our <a target='_blank' href='https://ir.swireproperties.com/en/cg/pdf/diversity.pdf' target='_blank'>Board Diversity Policy</a> recognises the value of diversity in the composition of our Board and endorses the principle that our Board should cultivate a balance of skills and experience as well as a diversity of perspectives that are aligned with our business.",
+					"In 2022, we revised our policy to provide enhanced disclosure on policy ownership. The Nomination Committee has been delegated with the responsibility for the implementation and monitoring of this policy. This year, we introduced board diversity targets to monitor the implementation of the Board Diversity Policy. The target will guide us to develop strategies to improving the diversity across our Board. Performance will be published in our Company’s annual reports and SD reports.",
+					"We are committed to maintain a 30% female representation on the Board. As at the end of 2022, 31% of the Board position are represented by women."
+				]
+			}
+		],
+		"board-diversity-policy": {
+			"charts": {
+				"title": "Board Diversity ",
+				"sub-title": "(as at 31 December 2022)",
+				"main-labels": [
+					{
+						"image": "/images/pages/people/diversity-and-inclusion/Board-Diversity-Policy-legend-2020.svg",
+						"value": "2022"
+					},
+					{
+						"image": "/images/pages/people/diversity-and-inclusion/Board-Diversity-Policy-legend-2019.svg",
+						"value": "2021"
+					},
+					{
+						"image": "/images/pages/people/diversity-and-inclusion/Board-Diversity-Policy-legend-2018.svg",
+						"value": "2020"
+					}
+				],
+				"data": [
+					{
+						"title": "By gender",
+						"data": [
+							{
+								"labels": 2022,
+								"data": [
+									69,
+									31
+								]
+							},
+							{
+								"labels": 2021,
+								"data": [
+									69,
+									31
+								]
+							},
+							{
+								"labels": 2020,
+								"data": [
+									67,
+									33
+								]
+							}
+						],
+						"labels": [
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-1-org.svg",
+								"value": "Male"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-2-org.svg",
+								"value": "Female"
+							}
+						]
+					},
+					{
+						"title": "By age group",
+						"data": [
+							{
+								"labels": 2022,
+								"data": [
+									23,
+									77
+								]
+							},
+							{
+								"labels": 2021,
+								"data": [
+									23,
+									77
+								]
+							},
+							{
+								"labels": 2020,
+								"data": [
+									25,
+									75
+								]
+							}
+						],
+						"labels": [
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-1-org.svg",
+								"value": "30 to 50 years old"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-2-org.svg",
+								"value": "Over 50 years old"
+							}
+						]
+					},
+					{
+						"title": "By local/non-local status",
+						"data": [
+							{
+								"labels": 2022,
+								"data": [
+									62,
+									38
+								]
+							},
+							{
+								"labels": 2021,
+								"data": [
+									54,
+									46
+								]
+							},
+							{
+								"labels": 2020,
+								"data": [
+									67,
+									33
+								]
+							}
+						],
+						"labels": [
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-1-org.svg",
+								"value": "Local"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-2-org.svg",
+								"value": "Non-local"
+							}
+						]
+					},
+					{
+						"title": "By year of service",
+						"data": [
+							{
+								"labels": 2022,
+								"data": [
+									38,
+									31,
+									31
+								]
+							},
+							{
+								"labels": 2021,
+								"data": [
+									46,
+									31,
+									23
+								]
+							}
+						],
+						"labels": [
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-1.svg",
+								"value": "3 years or below"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-2.svg",
+								"value": "4 to 9 years"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-3.svg",
+								"value": "Over 9 years"
+							}
+						]
+					}
+				]
+			},
+			"additional-information": "Additional information about the diversity of our Board members is available in the <a target='_blank' href='https://ir.swireproperties.com/en/ir/reports/ar2022.pdf'>Swire Properties Annual Report 2022</a>."
+		},
+		"see-more-in-stories": [
+			"people-volunteering",
+			"people-talent-attraction",
+			"people-talent-management"
+		]
+	},
+	"people-human-rights-policy-page": {
+		"meta": {
+			"keywords": "human-rights-policy",
+			"url": "/people/human-rights-policy",
+			"type": "people",
+			"image": "/images/landing-section/people-left.jpg",
+			"title": "Human Rights Policy | Swire Properties Sustainable Development Report 2022",
+			"content": ""
+		},
+		"landing": {
+			"title": "Human Rights Policy"
+		},
+		"breadcrumb-title": "Human Rights Policy",
+		"sections": [
+			{
+				"type": "section",
+				"id": "human-rights-policy",
+				"contents": [
+					"We conduct our businesses in a manner which respects the human rights and dignity of our employees, those employed in our supply chains and the communities in which we operate, in line with the principles and guidance contained in the United Nations Guiding Principles on Business and Human Rights.",
+					"In 2022, we introduced our <a target='blank' href='https://ir.swireproperties.com/en/cg/pdf/humanrights.pdf'>Human Rights Policy</a>, which is informed by the International Bill of Human Rights and by the International Labour Organisation’s Declaration of Fundamental Principles and Rights at Work.",
+					"The policy sets out the expectations for which our operations and supply chain should operate. The policy addresses diversity and inclusion practices, labour standards, health and safety and employment conditions. Well established channels are provided to our employees and stakeholders to report on human rights-related issues."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety-2022-health-and-safety-performance",
+			"partners-suppliers",
+			"partners-suppliers-supplier-health-and-safety-and-smart-construction"
+		]
+	},
+	"people-occupational-health-and-safety-page": {
+		"meta": {
+			"keywords": "Occupational Health and Safety, OHS, Health and Safety Policy, Policy, healthy, safe, Zero Harm, Zero Harm Commitment, mitigate, health and safety hazards, harm-free, compliance, fatalities, injuries, harm, Safety Management Systems, Employee Engagement and Communication, Hazard, Near-miss and Incident Reporting, Mental Health and Wellbeing, 2022 Health and Safety Performance",
+			"url": "/people/occupational-health-and-safety",
+			"type": "people",
+			"image": "/images/pages/people/occupational-health-and-safety/_2022-health-and-safety-performance-1.png",
+			"title": "Occupational Health and Safety (\"OHS\") | People | Swire Properties SD Report 2022",
+			"content": "Health and safety is a top priority for us: our Zero Harm Commitment strives to eliminate hazards and create a safe environment for all. "
+		},
+		"breadcrumb-title": "Occupational Health and Safety (\"OHS\")",
+		"landing": {
+			"title": "Occupational Health and Safety (\"OHS\")",
+			"tag": "GRI 403<br/>HKEX Aspect B2, KPI B2.3",
+			"contents": [
+				"We regard health and safety as an indispensable part of our business and have enshrined this in our SD 2030 Strategy and our 2025 and 2030 KPIs. Updated in November 2022, our <a href='https://www.swireproperties.com/en/sustainable-development/policies/health-and-safety-policy/' target='_blank'>Health and Safety Policy</a> underpins our commitment to providing and maintaining a healthy and safe environment for all employees, customers, contractors and members of our community during their association with the Company.",
+				"Endorsed by the Board and signed by the Chief Executive, the Policy sets the direction on how to achieve our ultimate goal of Zero Harm through demonstrating solid leadership and effective management of occupational health and safety in the planning, design and conduct of all business activities.",
+				"The relevant SDG is:",
+				{
+					"type": "sdg",
+					"value": [
+						"3"
+					]
+				}
+			]
+		},
+		"sections": [
+			{
+				"type": "section",
+				"id": "our-zero-harm-commitment",
+				"title": "Our Zero Harm Commitment",
+				"contents": [
+					"Zero Harm is a Company-wide commitment to eliminate or mitigate health and safety hazards across our operations, encompassing all our people, regardless of their seniority or level of experience. The commitment requires everyone to go beyond compliance and proactively work on an ongoing basis to create a safe and harm-free working environment for all our stakeholders.",
+					"To achieve Zero Harm requires a high level of commitment. It means no fatalities, no injuries and no harm to health as a result of our business activities.",
+					"In July 2022, we appointed a Head of Health and Safety, a new position created to further strengthen and drive a health and safety culture, awareness and performance across our operations. The role reports directly to our Chief Executive with a functional reporting line to our Director."
+				]
+			},
+			{
+				"type": "section",
+				"id": "safety-management-systems",
+				"title": "Safety Management Systems",
+				"contents": [
+					"Swire Properties’ Safety Management System (“SMS”) is fully aligned to the ISO 45001:2018 standard, the international standard for Occupational Health and Safety Management. As at 31st December 2022, the SMS across our Hong Kong portfolio and 4 of our 6 Chinese Mainland portfolio are certified under ISO 45001:2018 by Hong Kong Quality Assurance Agency and China Quality Certification Centre. In 2022, we extended the ISO 45001:2018 certification to our managed residential portfolio in Hong Kong.",
+					"The provision of healthy and safe workplaces is critical to our continued success. In 2022, we developed strategies to further integrate health and safety considerations into every part of our business. This approach is supported by strong leadership and management endorsement and oversight. Health and safety issues and performance are standard agenda items that are presented and discussed at monthly Executive Committee meetings chaired by the Chief Executive, reported in quarterly board papers and reviewed at every board meeting. The Chief Executive is accountable and oversees the implementation of OHS matters. Health and safety performance indicators are also presented to our parent company, Swire Pacific on a quarterly basis."
+				]
+			},
+			{
+				"type": "section",
+				"id": "employee-engagement-and-communication",
+				"title": "Employee Engagement and Communication",
+				"contents": [
+					"Effective communication and employee engagement are essential elements of our Zero Harm strategy. In 2022, we strengthened these elements in various ways.",
+					"Swire Properties has Safety Management System Steering Committees (SMSSCs) in place in Hong Kong and the Chinese Mainland. These are chaired by our Head of Health and Safety and include health and safety representatives from each portfolio. The SMSSCs meet quarterly to monitor and evaluate the Company’s safety performance, risks and progress towards targets. Findings and updates from the SMSSCs are communicated down to the portfolio level through each portfolio’s Health and Safety Working Group and human resources department. Similar health and safety coordination meetings are held with representatives from Swire Hotels and Brickell City Centre in Miami on a quarterly basis."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hazard-near-miss-and-incident-reporting",
+				"title": "Hazard, Near-miss and Incident Reporting",
+				"contents": [
+					"In 2022, we implemented several improvement initiatives in our hazard, near-miss and incident reporting which, in accordance with SMS procedures, all our employees have a duty to report. While we continue to perform routine safety walks, we also introduced an app-based Near-miss and Hazard Reporting System which allows our employees to report any near-miss incidents or hazardous conditions via their mobile devices. The app not only enables corrective actions to be tracked and implemented faster, it also supports data analysis, making trend analysis and reporting easier.",
+					"All workplace injuries are investigated in order to find and eliminate the root cause of the injuries and prevent reoccurrence. In 2022, we extended our investigation criteria to include high potential (“HiPo”) incidents, defined as non-serious injury incidents or near-miss events that have the potential to cause serious injuries or fatalities. A “four-box learning report” is produced which documents the findings for all HiPo incident investigations. These reports include information such as incident descriptions, contributing factors, underlying and root causes, and corrective plans and action plans. These reports are shared with the general managers of our portfolios and disseminated to employees via established communication channels.",
+					"We also continued our management safety walks, during which senior employees undertake safety walks around properties to demonstrate leadership commitment as well as to identify potential hazards.  In 2022, we introduced joint safety inspections at Two Taikoo Place, which are discussed later in this section."
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/hazard-near-miss-and-incident-reporting-1.png",
+						"isContain": true
+					}
+				]
+			},
+			{
+				"type": "section",
+				"id": "mental-health-and-wellbeing",
+				"title": "Mental Health and Wellbeing",
+				"contents": [
+					"Every office in each of our portfolios recognises the importance of ensuring the wellbeing of their employees. As such, our offices have created tailored programmes and campaigns which support mental and physical health in different and locally relevant ways.",
+					"We provide information to employees via the Company’s intranet, covering a range of topics relating to healthy work practices and office safety. We also conduct, on request, assessments of our employees’ workstation ergonomics, screen illumination and visual comfort.",
+					"In addition, we provide counselling services and learning opportunities through our Employee Assistance Programme, which offers in-person counselling and 24-hour telephone support from relevant professionals. We also host regular events for our employees, such as luncheons and training sessions, to promote physical, mental and emotional wellness and work-life balance. In 2022, we provided around 34,000 hours of health and safety related training."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "_2022-health-and-safety-performance",
+				"title": "2022 Health and Safety Performance",
+				"reverse": true,
+				"href": "/people/occupational-health-and-safety/2022-health-and-safety-performance",
+				"contents": [
+					"We prioritise the health and safety of our employees and pride ourselves on our safety-oriented workplace culture. This year, we maintained a record of zero workplace fatalities and serious or life-altering injuries among our employees and performed well in other health and safety related metrics. "
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/_2022-health-and-safety-performance-1.png"
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-diversity-and-inclusion",
+			"people-volunteering",
+			"people-talent-attraction"
+		]
+	},
+	"people-talent-attraction-page": {
+		"meta": {
+			"keywords": "Talent Attraction, talent, attraction, Industry-leading Work Environment, industry-leading, work environment, employees, remuneration, fair, objective, merit-based incentives, Performance and Development Review, PDR, streamline, consistency, job evaluaton, job evaluation platform, fair pay, competitive, Rewards Philosophy framework, employer branding, preferred employer, blended approach, onboarding, new hires, Randstad Hong Kong’s Most Attractive Employer, inclusive, rewarding, workplace environment, gender equality, diversity, employer attractiveness, Delivering on our Employee Value Proposition, employee value proposition, EVP, forward-looking, trust, pride, futures, communities, employer brand, ",
+			"url": "/people/talent-attraction",
+			"type": "people",
+			"image": "/images/pages/people/talent-attraction/swire-properties-wins-1.jpg",
+			"title": "Talent Attraction | People | Swire Properties SD Report 2022",
+			"content": "We attach great importance to attracting talented people to work with us and retaining them as they develop their long-term careers within the Company. "
+		},
+		"landing": {
+			"title": "Talent Attraction",
+			"tag": "HKEX Aspect B1"
+		},
+		"breadcrumb-title": "Talent Attraction",
+		"sections": [
+			{
+				"type": "section",
+				"id": "Creating an Industry-leading Work Environment for our Employees",
+				"title": "Creating an Industry-leading Work Environment for our Employees",
+				"contents": [
+					"Our employees receive competitive remuneration packages with a variety of benefits. In Hong Kong, these packages include medical care, retirement schemes and discretionary bonuses, while in the Chinese Mainland, in addition to social insurance and housing funds, employees are provided with medical care and discretionary bonuses.",
+					"Swire Properties strives to ensure that every employee receives regular, objective, fair and open assessments of their performance and is rewarded accordingly with merit-based incentives. We have a Performance and Development Review (“PDR”) system in place to streamline our assessment processes and ensure consistency across the Company. Our office employees align their annual performance goals with each SD Pillar.",
+					"In 2021, we identified a job evaluation platform and completed the job evaluation process – a key building block of Swire Properties’ new Rewards Philosophy, which is designed to ensure that our employees receive fair pay internally and a competitive salary within the industry. The project began in 2022, with the development of the Rewards Philosophy framework scheduled for completion by Q4 of 2023.",
+					"Our employer branding communication strategy, launched in 2020, ensures that we continue to attract and retain talent. Our 2025 KPIs contain targets relating to talent attraction and retention which will support our long-term plan of being identified as a “preferred employer” by 2030.",
+					"Since 2020, we have taken a blended approach to onboarding interns and trainees. While traditional in-person visits to our portfolios still take place, some orientation is now conducted online via our internal learning platform.",
+					"This platform has become part of our regular onboarding practices. New joiners may access the platform at any time to familiarise themselves with the Company by reading articles, completing quizzes and watching videos of department representatives sharing their experiences. This popular and efficient approach cuts down on the manpower involved in the orientation process and serves as a blueprint for future recruits, regardless of their onboarding date or location."
+				]
+			}
+		],
+		"employees-by-gender-and-region": {
+			"title": "Total New Hires, by region",
+			"table-title": [
+				"Number",
+				"Percentage"
+			],
+			"content": [
+				{
+					"type": {
+						"icon": "/images/pillar-icons/people/hong-kong.svg",
+						"icon-class": "icon-hong-kong",
+						"text": "Hong Kong"
+					},
+					"data": [
+						{
+							"type": "Number",
+							"title": [
+								"662"
+							]
+						},
+						{
+							"type": "Percentage",
+							"title": [
+								"43.2",
+								"%"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"icon": "/images/pillar-icons/people/chinese-mainland.svg",
+						"icon-class": "icon-chinese-mainland",
+						"text": "Chinese Mainland"
+					},
+					"data": [
+						{
+							"type": "Number",
+							"title": [
+								"690"
+							]
+						},
+						{
+							"type": "Percentage",
+							"title": [
+								"45.1",
+								"%"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"icon": "/images/pillar-icons/people/miami.svg",
+						"icon-class": "icon-miami",
+						"text": "Miami, U.S.A."
+					},
+					"data": [
+						{
+							"type": "Number",
+							"title": [
+								"179"
+							]
+						},
+						{
+							"type": "Percentage",
+							"title": [
+								"11.7",
+								"%"
+							]
+						}
+					]
+				}
+			],
+			"summary": [
+				{
+					"type": "Total",
+					"data": [
+						{
+							"type": "Number",
+							"title": [
+								"1531"
+							]
+						},
+						{
+							"type": "",
+							"hide-on-mobile": true,
+							"title": [
+								""
+							]
+						}
+					]
+				}
+			]
+		},
+		"sections-2": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-wins-randstad-most-attractive-employer-award-2022",
+				"title": "Swire Properties Wins Randstad Most Attractive Employer Award 2022",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-attraction/swire-properties-wins-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-attraction/swire-properties-wins-2.jpg"
+					}
+				],
+				"contents": [
+					"Swire Properties was recognised as \"Hong Kong’s Most Attractive Employer” at the Randstad Employer Brand Awards 2022, underscoring the Company’s commitment to investing in our people to create an open, inclusive and rewarding workplace environment with an emphasis on gender equality and diversity. This is the second time Swire Properties has placed first – the other time was in 2020. We have consistently been ranked in the top 10 since 2017.  ",
+					"The awards rank the employer attractiveness of Hong Kong’s 75 largest commercial companies and institutions that are known by at least 10% of the local population. This year’s awards saw companies rated on their relative employer brand awareness and attractiveness by more than 3,000 local respondents."
+				]
+			},
+			{
+				"type": "section",
+				"id": "delivering-on-our-employee-value-proposition",
+				"title": "Delivering on our Employee Value Proposition",
+				"contents": [
+					"Last year, Swire Properties developed employer branding guidelines to recognise, strengthen and support the reputation and reality that the Company is a great place to work.",
+					"Our reputation as a respected and valued employer – our employee value proposition (“EVP”) – is defined by four core themes which reinforce our position as a modern, forward-looking, creatively-focused company that is proud of the mutual respect and trust between employer and employees. These themes are:",
+					{
+						"type": "ul",
+						"value": [
+							"<span class='font-weight-normal'>Building Trust</span> through adherence to impeccable professional and ethical standards, and a rigorous, respectful internal culture.",
+							"<span class='font-weight-normal'>Building Pride</span> in the quality of our projects, and the imagination, invention and openness to new ideas that deliver ingenious and inspiring solutions.",
+							"<span class='font-weight-normal'>Building Futures</span> because long-term thinking is central to our commercial ethos, not only in the responsible, sustainable legacy we leave for future generations, but in the lasting and wide-ranging development of our staff.",
+							"<span class='font-weight-normal'>Building Communities</span> by transforming the places where people live, work, stay and play to best effect."
+						]
+					},
+					"This EVP is part of our wider Employer Brand story – that the combined skill, imagination and creativity of everyone at Swire Properties has enabled us to transform the places where we operate, create new and thriving communities and redefine our proactive responsibility for a sustainable future. The purpose of the story is to inspire enduring creativity and, as such, each employee deserves our respect and the ability to enjoy targeted opportunities to enhance their skills and celebrate working together."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-talent-management",
+			"people-occupational-health-and-safety",
+			"people-diversity-and-inclusion"
+		]
+	},
+	"people-talent-management-page": {
+		"meta": {
+			"keywords": "Talent Management, talent, management, People Engagement Pulse Survey, Pulse Survey, engaged, People Engagement Survey, Change Management, Originality, net promoter score, NPS, Learning and Development Programmes, learning, development, trainee programmes, trainee, empowering, employees, leadership programmes, programmes, engagement, BMT Leadership Excellence Programme, TS Supervisory Excellence Programme, Building Management Team, Technical Services, Launch of the SPROPS Learning Hub, learning hub, Swire Properties Learing Hub, frontline employees, self-learning, e-hub, Move a Step Forward, GoSkills, The Achieving Excellence Programme Review, leadership, communication skills, leadership development, modules, 360-degree feedback mechanism, feedback mechanism, feedback, Strengthening the Work Effectiveness of Frontline Staff, frontline staff, customer service, e-learning, Leadership in Transition programme, hybrid,  Empowerment Campaign, empowerment, Service Excellence Awards, Digital Series, NFTs, non-fungible tokens, innovation, cryptocurrency, blockchain, data-driven, Digital Workshop Series ",
+			"url": "/people/talent-management",
+			"type": "people",
+			"image": "/images/pages/people/talent-management/launch-of-the-SPROPS-learning-hub-1.jpg",
+			"title": "Talent Management | People | Swire Properties SD Report 2022",
+			"content": "We strive to ensure that every employee receives regular, objective, fair, and open performance assessments and is rewarded with merit-based incentives."
+		},
+		"breadcrumb-title": "Talent Management",
+		"landing": {
+			"title": "Talent Management",
+			"tag": "HKEX Aspect B3",
+			"contents": [
+				"We attach great importance to attracting talented people to work with us and retaining them as they develop their long-term careers with the Company."
+			]
+		},
+		"sections": [
+			{
+				"type": "section",
+				"id": "learning-and-development-programmes",
+				"title": "People Engagement Pulse Survey for Employees",
+				"contents": [
+					"In 2022, we conducted a People Engagement Pulse Survey to measure employee engagement, job satisfaction, happiness and stress levels. Employees were asked to rate the company’s efforts and effectiveness in fostering creative transformation, originality, workplace inclusivity, role empowerment, safe space for open dialogue, and work environment. Additionally, the survey examined factors related to people management, employee recognition, reward initiatives, and programs promoting mental health awareness. These factors serve as indicators for measuring workplace well-being, contributing to employees’ happiness and stress management. The survey provided valuable insights into various aspects of the company culture and practices that contribute to employee engagement and satisfaction. The information allows the company to develop targeted strategies, creating a positive and fulfilling workplace that contribute to the company success.",
+					"570 employees across Hong Kong and the Chinese Mainland took part in the survey, with a 100% response rate. Under the aspect of  “Employee Engagement”, selected questions on assessing employees’ job satisfaction, sense of purpose, wellbeing, happiness and stress have been asked. The results paint an encouraging picture: an average of 88% of the surveyed employees reported being engaged – the same level reported in our 2020 People Engagement Survey. This figure outperforms the local markets and global benchmarks. Two categories, “Change Management” and “Originality”, also saw a marked improvement over the 2020 survey, while staff communication was also excellent, with 360 staff providing a total of 800 written comments. In 2022, we also conducted an 100% response rate engagement survey for all of our Miami, U.S.A. employees, with engagement index reaching 94%. An important 2025 KPI in this performance category is improving our net promoter score (“NPS”) by 10%. In the 2020 survey, our NPS was 16%; in the 2022 survey it was 23%."
+				]
+			},
+			{
+				"type": "data-8",
+				"id": "",
+				"title": "Breakdown of the Engagement Index for the Hong Kong and the<br/> Chinese Mainland People Engagement Pulse Survey 2022",
+				"data": [
+					{
+						"title": "By Management & Non-Management level",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/management.svg",
+								"level": "Management level",
+								"percentage": "88%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/non-management.svg",
+								"level": "Non-management level",
+								"percentage": "87%"
+							}
+						]
+					},
+					{
+						"title": "By Age Group",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/under-36.svg",
+								"level": "Under 36 years old",
+								"percentage": "84%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/46-to-60.svg",
+								"level": "36 to 55 years old",
+								"percentage": "88%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/above-60.svg",
+								"level": "Above 55 years old",
+								"percentage": "93%"
+							}
+						]
+					},
+					{
+						"title": "By Gender",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/female.svg",
+								"level": "Female",
+								"percentage": "87%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/male.svg",
+								"level": "Male",
+								"percentage": "89%"
+							},
+							{
+								"icon": "",
+								"level": "Prefer not to say",
+								"percentage": "75%"
+							}
+						]
+					},
+					{
+						"title": "By Region",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/hong-kong.svg",
+								"level": "Hong Kong",
+								"percentage": "85%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/chinese-mainland.svg",
+								"level": "Chinese Mainland",
+								"percentage": "92%"
+							}
+						]
+					}
+				],
+				"contents": [
+					"[By Age Group]<br>26-45 – 86%<br>46-60 – 91%<br>Above 60 – 92%",
+					"[By Gender]<br>Female - 87%<br>46Male - 89%<br>46Prefer not to say - 75%",
+					"[By Region (HK & Chinese Mainland)]<br>Hong Kong: 85%, Chinese Mainland: 92%"
+				]
+			},
+			{
+				"type": "section",
+				"id": "learning-and-development-programmes",
+				"title": "Learning and Development Programmes",
+				"contents": [
+					"Our multi-year trainee programmes help develop talent in building surveying, engineering and general management, and Swire Hotels’ 18-month International Operations Management Trainee Programme provides wide-ranging exposure to hotel operations in Hong Kong, the Chinese Mainland and Miami, U.S.A.",
+					"In 2022, we continued empowering our employees, providing engagement, learning and motivational opportunities through online and offline programmes. Several of these were new or revamped versions of long-running initiatives such as the Achieving Excellence Programme and two structured leadership programmes: the Building Management Team (“BMT”) Leadership Excellence Programme and Technical Services (“TS”) Supervisory Excellence Programme launched in 2021.",
+					"The BMT Leadership Excellence Programme is designed to develop stronger BMT leaders and create a more structured approach to employee training and development and the BMT leadership pipeline. The programme is focused on enhancing BMT supervisors’ people management capabilities. Based on the findings of several focus group discussions, four modules were designed to address the top identified leadership needs.",
+					"The six-module TS Supervisory Excellence Programme follows the same approach as the BMT programme but with customised content for the TS team. Both programmes helped supervisors learn or enhance their skills and knowledge in people management and helped them to apply those skills to workplace situations.",
+					"All staff taking job-related education courses – from training courses to long-term studies for diploma, certificate, undergraduate or post-graduate degree courses offered by local or overseas tertiary education institutions, industry organisations and professional associations – are eligible for a full reimbursement of their course fees, regardless of their job role. ",
+					"Swire Properties offers various employee training programmes that have been developed in collaboration with educational institutions in Hong Kong. One notable programme is the “Executive Course in Real Estate Development” developed in partnership with the Department of Real Estate and Construction at the University of Hong Kong which has been offered exclusively for our staff since 2014. This course provides participants with a comprehensive understanding of fundamental concepts in real estate and construction project management. Throughout the duration of the program, participants are exposed to a wide range of topics that are crucial to their professional development. These topics include planning and development procedures, the regulatory landscape in both Hong Kong and the Chinese Mainland, real estate investment and finance, sustainability, practical case studies, and emerging trends in the industry. Through this tailored programme, Swire Properties aims to groom our employees with the knowledge and skills necessary to progress in their roles. "
+				]
+			},
+			{
+				"type": "data-4",
+				"id": "total-training-hours-and-spending",
+				"title": "Total Training Hours and Spending",
+				"desc": "HKEX KPI B3.2",
+				"item-count": 4,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": 154000,
+								"custom-class": "",
+								"before-text": "<span class='h4 mb-0'>~</span>",
+								"after-text": "&nbsp;<span class='h4 mb-0'>hours</span>"
+							}
+						],
+						"align-left": true,
+						"text": "Total training hours"
+					},
+					{
+						"percentage": [
+							{
+								"num": 24,
+								"custom-class": "",
+								"after-text": "&nbsp;<span class='h4 mb-0'>hours</span>"
+							}
+						],
+						"align-left": true,
+						"text": "Average training hours per employee"
+					},
+					{
+						"percentage": [
+							{
+								"num": 7.7,
+								"before-text": "<span class='h4 mb-0'>HKD</span>",
+								"after-text": "&nbsp;<span class='font-giant'>million</span>"
+							}
+						],
+						"align-left": true,
+						"text": "Total training spend"
+					},
+					{
+						"percentage": [
+							{
+								"num": 1200,
+								"isMoneyFormat": true,
+								"before-text": "<span class='h4 mb-0'>HKD</span>"
+							}
+						],
+						"align-left": true,
+						"text": "Average training spend per employee"
+					}
+				]
+			},
+			{
+				"type": "data-8",
+				"id": "",
+				"title": "",
+				"isNext": true,
+				"data": [
+					{
+						"title": "Average Hours of Training, by gender",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/male.svg",
+								"level": "Male",
+								"percentage": "22.4"
+							},
+							{
+								"icon": "/images/pillar-icons/people/female.svg",
+								"level": "Female",
+								"percentage": "26.4"
+							}
+						]
+					},
+					{
+						"title": "Average Hours of Training, by employment category",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/management.svg",
+								"level": "Management",
+								"percentage": "23.5"
+							},
+							{
+								"icon": "/images/pillar-icons/people/non-management.svg",
+								"level": "Non-management",
+								"percentage": "24.2"
+							}
+						]
+					}
+				]
+			}
+		],
+		"sections-2": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-1-launch-of-the-SPROPS-learning-hub",
+				"title": "Launch of the SPROPS Learning Hub",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/launch-of-the-SPROPS-learning-hub-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"The Swire Properties Learning Hub was launched in July 2022, aiming to nurture a culture of self-learning across the Company. An enhanced and more comprehensive version of the existing Learning and Development Hub has a section specifically designed for frontline employees that provides customised content to enhance their engagement, learning and motivation levels.",
+					"This “e-hub” provides digitised materials that are quickly and easily accessible to maximise qualitative and quantitative impacts. Topics include Empowerment, Innovation, Diversity and Inclusion, People Management, Agility, and others, with the materials provided in different formats. One example is the “Move a Step Forward” online learning module, which consists of short videos and a one-page toolkit. This flexible and convenient approach gives learners a quick and basic understanding of topics like the growth mindset and design thinking. Initially offered in English, a Chinese translation is currently being produced, along with more short videos.",
+					"Another example is “GoSkills”, a flexible learning platform that helps colleagues learn essential business skills to achieve personal and professional goals. GoSkills provides information on over 70 topics, including over 1,000 courses on common software programs used in the workplace for administration and design, soft skills, and business and development. Learners can set their own learning pace and curricula by managing, tracking and assigning courses based on their personal training needs."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-2-the-achieving-excellence-programme-review",
+				"title": "The Achieving Excellence Programme Review",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-achieving-excellence-programme-review-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-achieving-excellence-programme-review-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-achieving-excellence-programme-review-3.jpg"
+					}
+				],
+				"contents": [
+					"The Achieving Excellence Programme (“AEP”) is a Swire Properties leadership development programme launched in 2015. This two-year programme aims to help our managers discover their leadership potential through workshops that develop leadership and communication skills, strategic thinking and performance management.",
+					"Its four main modules are “Leadership Development”, “Smarter Process and Better Experience”, “Seeing the Bigger Picture”, and “Learning by Doing”. The programme review, which began last year, adopted a multidimensional evaluation system, including a 360-degree feedback mechanism that gathers employee feedback on how the AEP has helped them in their career development and contributed to employee retention and work efficiency improvements. The review adopted the Kirkpatrick Evaluation Model to evaluate learning effectiveness, gathering input through questionnaires and focus group discussions.",
+					"The review found that the “energy level” of various traits has increased over the past two years, including innovation, decision-making skills, motivation of others, planning and teamwork, and cooperation. Based on these findings, the curriculum will be fine-tuned and further tailored to meet both individual development and business needs. Additional programme elements will also be offered in digital form."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-3-strengthening-the-effectiveness-of-frontline-staff",
+				"title": "Strengthening the Work Effectiveness of Frontline Staff",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/strengthening-the-effectiveness-of-frontline-staff-1.jpg"
+					}
+				],
+				"contents": [
+					"Swire Properties ran three recurring initiatives in 2022 to strengthen the work effectiveness of individual frontline staff. These were aimed at customer service and building management staff and emerging leaders.",
+					"A customised half-day customer service training programme for residential staff concentrated on their specific training needs to support a better delivery of customer experience. The programme gave staff tools to help them understand and communicate with residents more effectively. We estimate that 300 frontline staff will have completed this training by early 2023.",
+					"A Building Management Team refresher programme was revamped into a two-part hybrid learning programme and launched in May 2022. Frontline staff who complete the first part, an e-learning session, are invited to attend the second part, a classroom session. In the classroom, participants work on interactive training through case studies, group discussions, quizzes, and site visits. The e-learning component allows staff to learn at their own pace, while the classroom sessions enhance engagement and real-world training.",
+					"The half-day Leadership in Transition programme focuses on experience sharing as a tool for frontline training. Existing management staff share their knowledge and experiences in a Q&A session, while newly promoted staff explain challenges they may have encountered transitioning from being an individual contributor into a people management role. This format allows the participants to appreciate the details involved in changing roles and the concurrent adjustments in mindset that are necessary to getting a successful start."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-4-empowerment-campaign",
+				"title": "Empowerment Campaign",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/empowerment-campaign-1.jpg"
+					}
+				],
+				"contents": [
+					"In our 2020 People Engagement Survey, “empowerment” was one of the two major focus areas identified as the required follow-up action. Accordingly, we developed a series of activities that will allow us to create workplaces where employees feel empowered and valued.",
+					"The first training workshop was held in May 2022 for senior management on “How the Best Leaders Ignite Everyone’s Intelligence”. It aimed to enable leaders to become multipliers who can discover, access and use their teams’ untapped capabilities; who can rekindle energy and enthusiasm as teams achieve stronger results; who can innovate by encouraging new and bold thinking; and who can break through to new levels of performance by amplifying people’s intelligence. Two follow-up sharing sessions were held in late 2022, discussing how to apply these multiplier tools in the workplace.",
+					"An “Empowerment x D&I Luncheon” on “How to Empower Yourself and Others” was also held, welcoming three speakers who shared their personal and professional stories about what it means to be empowered at work, and explained how anyone can empower themselves and others by building a trusting and open culture. Lastly, a sharing session was held in late 2022 with staff whose careers are success stories of self-empowerment and/or being empowered by a supervisor."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-5-service-excellence-awards",
+				"title": "Service Excellence Awards",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/service-excellence-awards-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/service-excellence-awards-2.png"
+					}
+				],
+				"contents": [
+					"Swire Properties continues to reward exceptional frontline staff with awards for exemplary service. This year, 27 staff from nine business units received Service Excellence Awards, with two of them receiving the top “Best of the Best” award: one from Cityplaza’s Building Management Team and the other from Citygate Outlets'  Technical Team – both of whom went above and beyond the call of duty. Now in their ninth year, the Service Excellence Awards are among the Company’s most popular and effective initiatives in terms of engaging and encouraging frontline colleagues to do even better in their day-to-day work."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-6-digital-series",
+				"title": "Digital Series",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/digital-series-1.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/digital-series-2.png"
+					}
+				],
+				"contents": [
+					"NFTs, or non-fungible tokens, was a hot topic in 2022, with individuals and companies seeking to realise the market opportunities inherent in these new instruments. In July 2022, aiming to elevate innovation and encourage smart processing, Swire Properties invited a cryptocurrency and blockchain expert to host a workshop during which he shared his insights on NFTs, explaining their utility and discussing their potential future value.",
+					"As we work to reinforce a data-driven mindset across the Company, the 2022 Digital Workshop Series also held a masterclass on data analytics. This ever-popular series will continue in 2023, hopefully with more in-person workshops."
+				]
+			},
+			{
+				"type": "section",
+				"id": "employee-health-and-wellbeing",
+				"title": "Employee Health and Wellbeing",
+				"contents": [
+					"We value our employees and work to improve their health and wellbeing through a wide variety of events and activities held both in and out of the office. These events contribute positively to employee health and wellbeing, build rapport between employees and increase the level of employee engagement."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-one-and-all-sports-challenge”",
+				"title": "The “1 & All Sports Challenge”",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-1.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-7.jpg"
+					}
+				],
+				"contents": [
+					"Swire Properties added new ideas and elements based on the number “50” to our employee sports events this year, to help celebrate our 50th anniversary. One such activity saw all employees from Hong Kong and the Chinese Mainland attempt to collectively burn 5,000,000 calories during the 50 days between 1 November and 20 December.",
+					"We also invited all departments to take part in a friendly competition, asking everyone to get creative and devise a sports activity that reflected both the idea of teamwork and our 50th anniversary. In addition, we set up five different exercise challenges in which individuals, teams and families were invited to compete – participants could join one or all of the challenges, and the top 10 finishers in each category won prizes."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "prioritising-wellbeing-and-mental-health",
+				"title": "Prioritising Wellbeing and Mental Health",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-4.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-5.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-6.png",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-8.png",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-9.png"
+					}
+				],
+				"contents": [
+					"Swire Properties cares deeply about the health and wellbeing of our employees. Throughout 2022, we demonstrated our care in various ways.",
+					"The serious COVID-19 situation during the first half of 2022 meant that several staff had to endure quarantine arrangements, which was psychologically difficult. When our people were sent to quarantine centres, we ensured that they receive a care package which included food and leisure items to help them pass the time. Care packs were also distributed to all frontline staff during the worst weeks of the pandemic to provide support and show our gratitude for their professionalism. These packs included face masks, supplements and soup vouchers.",
+					"June was wellness month at Swire Properties’ Hong Kong offices. To mark Global Wellness Day on 11 June, 18 fun and interactive workshops and webinars were held throughout the month of June to help staff relax and rejuvenate mentally and physically and generate inspiration on ways to lead healthier and happier lives. The activities included learning to create an aroma stone, an “art jam”, massage sessions, paper marbling, rainbow calligraphy, and other arts and crafts workshops."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hong-kong-wellness-initiatives",
+				"title": "Hong Kong Wellness Initiatives",
+				"href": "/people/talent-management/hong-kong-wellness-initiatives",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/hong-kong-wellness-initiative-1.png"
+					}
+				],
+				"contents": [
+					"Swire Properties held numerous activities and initiatives throughout Hong Kong to boost the health and happiness of our staff during the continuing pandemic situation."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "chinese-mainland-wellness-initiatives",
+				"title": "Chinese Mainland Wellness Initiatives",
+				"href": "/people/talent-management/chinese-mainland-wellness-initiatives",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/empathy-and-care-at-taikoo-li-qiantan-1.jpg"
+					}
+				],
+				"contents": [
+					"We devised numerous activities and initiatives to promote employee health and happiness and support the mental and physical wellbeing of our employees during the pandemic."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety",
+			"people-diversity-and-inclusion",
+			"people-volunteering"
+		]
+	},
+	"people-volunteering-page": {
+		"meta": {
+			"keywords": "Volunteering, Community Ambassador Programme, Community Ambassador,  Community Caring Fund, Community Ambassador Team, Volunteer Hours, Community Investments and Contributions, Books for Love, fundraising, 10th Anniversary, second-hand books, categorised, donated, LEGO® SERIOUS PLAY® for the Community, LEGO, workshop, Eco-art Miniature Christmas Tree Workshops, Christmas tree, “Mr Fix-it”, Baiyun District, Volunteer Initiatives in the Chinese Mainland ",
+			"url": "/people/volunteering",
+			"type": "people",
+			"image": "/images/pages/people/volunteering/books-for-love-1.jpg",
+			"title": "Volunteering | People | Swire Properties SD Report 2022",
+			"content": "Our Community Ambassador Programme allows our employees to contribute their time and skills to social and environmental causes."
+		},
+		"landing": {
+			"title": "Volunteering",
+			"tag": "GRI 413<br/>HKEX Aspect B8, KPI B8.1, B8.2",
+			"contents": [
+				{
+					"type": "title",
+					"pillar": "people",
+					"value": "Together, We Build Communities!"
+				},
+				"",
+				"Swire Properties has always been taking a leading role to create positive impact in the community.  Our people are vital in our connection to the community. A big part of this involves engaging its employees actively, in the spirit of philanthropy and volunteerism, to give back to the community.",
+				"The Swire Properties Community Ambassador programme is the platform that brings our families and friends, Swire retirees, our business partners, office workers at our managed portfolios, our shoppers as well as the service users of our charity partners together.",
+				"Together, we create sustainable value through innovative community programmes that can make positive impacts to enrich people’s lives and the community as a whole."
+			]
+		},
+		"breadcrumb-title": "Volunteering",
+		"sections": [
+			{
+				"type": "section",
+				"id": "a-growing-community-of-ambassadors",
+				"title": "Our Growing Community of Ambassadors",
+				"contents": [
+					"The Swire Properties Community Ambassador programme is an ever-growing network in community care amongst our Hong Kong, the Chinese Mainland and Miami development. Our community investment programmes focus on creating maximum placemaking impact, youth development, social inclusion, community-building & sustainable development. As our Chinese Mainland portfolio continues to grow, we continue to seek ways to organise more cross-city volunteer initiatives to strengthen the connections between our Hong Kong and Chinese Mainland Community Ambassadors and encourage everyone to take part in volunteering. For every 10 hours of voluntary service completed, our employees are eligible to receive one extra day of leave, capped at two days per year.",
+					"However, pandemic-related restrictions on travel and gatherings throughout the year curtailed these actions across our portfolio during 2022."
+				]
+			}
+		],
+		"community-ambassador-programme-volunteer-hours": {
+			"title": "Community Ambassador Programme Volunteer Hours, by focus area",
+			"id": "community-ambassador-programme-volunteer-hours",
+			"data": [
+				{
+					"percentage": [
+						{
+							"num": 73
+						}
+					],
+					"text": "Activities supported",
+					"icon": "/images/pillar-icons/people/activities-supported.svg",
+					"icon-class": "icon-activities-supported"
+				},
+				{
+					"percentage": [
+						{
+							"num": "6,127.5",
+							"isMoneyFormat": true
+						}
+					],
+					"text": "Total volunteer hours",
+					"icon": "/images/pillar-icons/people/total-volunteer-hours.svg",
+					"icon-class": "icon-total-volunteer-hours"
+				}
+			]
+		},
+		"community-ambassador-programme-volunteer-hours-by-focus-area": {
+			"title": "Placeholder for statistics?",
+			"chart": {
+				"image": "/images/pages/people/volunteering/chart/community-ambassador-programme-volunteer-hours-by-focus-area-chart-en.jpg",
+				"labels": [
+					{
+						"title": "Environmental",
+						"content": [
+							"51%"
+						]
+					},
+					{
+						"title": "Community",
+						"content": [
+							"30%"
+						]
+					},
+					{
+						"title": "Education",
+						"content": [
+							"8%"
+						]
+					},
+					{
+						"title": "Health and Wellbeing",
+						"content": [
+							"7%"
+						]
+					},
+					{
+						"title": "Elderly",
+						"content": [
+							"4%"
+						]
+					}
+				],
+				"datasets": [
+					51,
+					30,
+					8,
+					7,
+					4
+				],
+				"hover-colors": [
+					"#41D4C2",
+					"#6BB989",
+					"#6BB99D",
+					"#8DE2D9",
+					"#00A89F"
+				],
+				"colors": [
+					"#41D4C2",
+					"#6BB989",
+					"#6BB99D",
+					"#8DE2D9",
+					"#00A89F"
+				]
+			}
+		},
+		"sections-2": [
+			{
+				"type": "data-4",
+				"title": "Community Investments and Contributions in 2022",
+				"item-count": 2,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": "44",
+								"before-text": "<span class='h4 mb-0'>HKD </span>",
+								"after-text": "<span class='font-giant mb-0'>million</span>"
+							}
+						],
+						"text": "Total Value of Cash Contributions"
+					},
+					{
+						"percentage": [
+							{
+								"num": "26",
+								"before-text": "<span class='h4 mb-0'>HKD </span>",
+								"after-text": "<span class='font-giant mb-0'>million</span>"
+							}
+						],
+						"text": "Total Value of In-kind Contributions"
+					}
+				]
+			},
+			{
+				"type": "section",
+				"title": "Volunteer Initiatives in Hong Kong"
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "books-for-love",
+				"title": "BOOKS for LOVE @ $10",
+				"reverse": false,
+				"isNext": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-5.jpg"
+					}
+				],
+				"contents": [
+					"The “BOOKS for LOVE @ $10” campaign is an annual fundraising event that aims to pass on the joy of reading through collecting and selling donated second-hand books. This year marked the campaign’s 10th anniversary, and to celebrate, we launched a number of new initiatives, including the first-ever online book sale; a “Gift a Book” programme where people bought book coupons online which were then donated to less-privileged students; and an extended in-person book sale which raised a record HKD1 million plus and attracted over 30,000 visitors to Taikoo Place.",
+					"Since its launch, the initiative has been consistently popular, winning support from our customers, tenants and the general public and gathering tens of thousands of donated books every year. The collected books are sorted and categorised by our Community Ambassadors and volunteers from our NGO partners, and then sold for HKD10 per book. This year’s event mobilised 6,000 volunteers, with the proceeds raised going to The Boys’ & Girls’ Clubs Association of Hong Kong and the Agency for Volunteer Service."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "lego-serious-play-for-the-community",
+				"title": "LEGO<sup>®</sup> SERIOUS PLAY<sup>®</sup> for the Community",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-4.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-6.jpg"
+					}
+				],
+				"contents": [
+					"Adding some fun to our 50th anniversary celebrations, the Community Ambassador team hosted a few LEGO<sup>®</sup> SERIOUS PLAY<sup>®</sup> workshops in 2022, reusing LEGO<sup>®</sup> bricks from past exhibition panels to inspire children in the community. Last year, the Ambassador team celebrated 20 years of community service with a roving exhibition where the event backdrops and panels were made from LEGO<sup>®</sup> bricks.",
+					"Led by experienced LEGO<sup>®</sup> SERIOUS PLAY<sup>®</sup> trainers, several family-friendly workshops were offered to our young Ambassadors and children in need from our NGO partner. The workshops taught children about the importance of eco-friendly living as they enjoyed hours of LEGO<sup>®</sup> play."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "eco-art-miniature-christmas-tree-workshops",
+				"title": "Eco-art Miniature Christmas Tree Workshops",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/eco-art-miniature-christmas-tree-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/eco-art-miniature-christmas-tree-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/eco-art-miniature-christmas-tree-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/eco-art-miniature-christmas-tree-4.jpg"
+					}
+				],
+				"contents": [
+					"In advance of Christmas 2022, we organised 10 eco-art miniature workshops for our staff, their family and friends, our tenants and NGO partners. Making use of wood upcycled from last year’s White Christmas Street Fair, the Ambassador team created 200 Christmas tree miniatures. Led by a miniature artist, the participants used clay to breathe new life into the upcycled wood and create their own miniatures."
+				]
+			},
+			{
+				"type": "section",
+				"title": "Volunteer Initiatives in the Chinese Mainland"
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "mr-fix-it-ambassador",
+				"title": "“Mr Fix-it”",
+				"isNext": true,
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-4.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-6.jpg"
+					}
+				],
+				"contents": [
+					"Taikoo Hui Guangzhou hosted two sessions of the popular “Mr Fix-it” activity this year – an initiative that aims to help improve homes and support grassroots families in the community. In May, our Community Ambassadors partnered with a company to give a fresh new look to the home of a family dependent on social subsidies in Tianhe District. In August, in partnership with a hotel, our Community Ambassadors helped a community in Baiyun District turn an idle business flat into a fun house for kids. Eighty Ambassadors, social workers and partner volunteers joined the programme, contributing nearly 700 hours of volunteer time."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "walk-for-love",
+				"title": "Walk for Love",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-5.jpg"
+					}
+				],
+				"contents": [
+					"Organised by a provider of volunteer services for companies in the Foreign Enterprise Service Corporation system, the “Walk for Love” event has become Beijing’s largest charity walk for enterprise volunteers, supporting the healthy growth of disadvantaged rural and urban children since its launch in 2012.",
+					"Community Ambassadors from Swire Properties’ developments in Beijing, Chengdu, Guangzhou, Shanghai, Shenzhen, and Xi’an all walked with their friends and family members and shared their walking data online. For every two kilometres walked by a participant per day, Swire Properties donated between three to five RMB to the campaign. The funds raised were used to buy toothpaste, toothbrushes, soap, and other hygiene supplies for boarding school students in Qinghai Province, helping schools to improve student health.",
+					"An additional group walk in October saw Community Ambassadors in Beijing complete a five-kilometre hike along a mountain track, raising more funds and getting fit at the same time."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-hui-community-ambassadors-clean-popular-trail",
+				"title": "Taikoo Hui Guangzhou Community Ambassadors Clean Popular Trail",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-1.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-5.png"
+					}
+				],
+				"contents": [
+					"More than 50 Community Ambassadors from Taikoo Hui Guangzhou helped remove about 35kg of rubbish from a famous footpath linking two villages in the city’s Conghua district. Part of the mall’s annual tree planting programme, the event, held in mid-March, added green space and kept the environment clean. During the 10km hike, they enjoyed beautiful views, collected rubbish and put their commitment to sustainable development into practice."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "sichuan-community-centre-summer-activities",
+				"title": "Sichuan Community Centre Summer Activities",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-8.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-9.jpg"
+					}
+				],
+				"contents": [
+					"Part of Swire Properties’ earthquake relief efforts in 2013 included building the Sichuan Community Centre in Shuanghong Village. In the five years since the centre’s completion in 2017, it has held several events to support and assist local children, elderly people and women. This year, two civil society organisations helped support a one-day children’s day camp based at the centre that brought together fun, knowledge sharing and the spirit of giving.",
+					"During the study tour in the century-old Chengdu YMCA building on Chunxi Road, the children learnt about history and how the generations before them inherited and spread values based on mutual care and support. The children and volunteers then made traditional dragon boat paper models as part of the Dragon Boat Festival and presented them to Chengdu sanitation workers along with messages of thanks to those who help keep the city’s environment clean and beautiful.",
+					"Another event saw Community Ambassadors plan and implement a “Forest Kingdom” camp for 30 third- to sixth-grade students that included games, teambuilding sessions and craft workshops.",
+					"Another initiative encouraged children to give back to the community and make a difference by assisting older people living alone while enriching their own wellbeing and understanding of life. After some basic training, the children, assisted by a social worker, purchased daily necessities and helped clean the houses of these elderly people during the Chinese New Year holiday period and in the summer. The programme won strong support from parents who encouraged their children’s participation and donated relief supplies."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-talent-attraction",
+			"people-talent-management",
+			"people-occupational-health-and-safety"
+		]
+	},
+	"people-diversity-and-inclusion-employee-events-page": {
+		"meta": {
+			"keywords": "Employee Events, Chinese Mainland “D&I Lunch and Learn” Webinars, D&I Lunch and Learn, Lunch and Learn, Webinar, communication, inclusive communication, inclusive, inclusive workplace, Celebrating World Day for Cultural Diversity for Dialogue and Development, “Uncomfortable Conversation” Seminar and Webinar Series",
+			"url": "/people/diversity-and-inclusion/employee-events",
+			"type": "people",
+			"image": "/images/pages/people/diversity-and-inclusion/employee-events/uncomfortable-conversation-1.jpg",
+			"title": "Employee Events | Diversity and Inclusion | People | Swire Properties SD Report 2022",
+			"content": "Numerous D&I-related events were held for our employees across our properties this year."
+		},
+		"landing": {
+			"title": "Employee Events"
+		},
+		"breadcrumb-title": "Employee Events",
+		"sections": [
+			{
+				"type": "section",
+				"id": "chinese-mainland-dandi-lunch-and-learn-webinars",
+				"title": "Chinese Mainland “D&I Lunch and Learn” Webinars",
+				"contents": [
+					"Three D&I Lunch and Learn webinars were held by the D&I Committee’s Chinese Mainland Chapter in 2022. In March, the “Primer to Inclusive Communication” webinar welcomed 50+ participants, while in August, the “Introduction to Mental Wellbeing” workshop had over 70 people take part. These two webinars were run by an executive coach and representatives from a Beijing-based wellness organisational consultancy and training company, who introduced verbal and non-verbal communication techniques to address unconscious biases, raise mental health awareness and build a more inclusive workplace. The third, held in early December, was called “Why Gender Equality Matters to me”. Over 80 staff attended, learning from the founder of a social enterprise that promotes gender diversity and inclusion in science, technology, engineering and mathematics (STEM)."
+				]
+			},
+			{
+				"type": "section",
+				"id": "celebrating-world-day-for-cultural-diversity-for-dialogue-and-development",
+				"title": "Celebrating World Day for Cultural Diversity for Dialogue and Development",
+				"contents": [
+					"In Hong Kong in May, Swire Properties hosted an event in collaboration with The Zubin Foundation on World Day for Cultural Diversity for Dialogue and Development. Our two panel sessions welcomed subject matter experts and industry peers who discussed the challenges facing ethnic minority groups in Hong Kong and how these can be addressed by communities and businesses, with the goal being to understand the role cultural diversity plays in enabling sustainable development.",
+					"About 40 Swire Properties staff attended the sessions, discussing how these challenges affect our lives and business, and brainstorming ways to bring about positive change."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "uncomfortable-conversation-seminar-and-webinar-series",
+				"title": "“Uncomfortable Conversation” Seminar and Webinar Series",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/employee-events/uncomfortable-conversation-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/employee-events/uncomfortable-conversation-2.jpg"
+					}
+				],
+				"contents": [
+					"Riding on the successful launch of the Male Ally initiative in May 2021 – a network of allies who promote gender equality – we began a new seminar and webinar series in 2022 called “Uncomfortable Conversations”. The series aimed to spark conversations between our staff and industry experts about sensitive gender equality topics such as bias and gender privilege.",
+					"The Uncomfortable Conversations initiative has three main goals: to promote, pledge and empower everyone, especially men, to actively work to strengthen bonds within our community; to advocate for underrepresented people in day-to-day settings; and to ensure that D&I issues are actively considered and implemented in recruitment, job flexibility, promotions and rewards. While the series acknowledges that some discussions may cause discomfort, it is believed that important and necessary changes can be made to attitudes, communications, engagement and culture through honest and open discussions."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-volunteering",
+			"people-talent-attraction",
+			"people-talent-management"
+		]
+	},
+	"people-diversity-and-inclusion-empowering-women-page": {
+		"meta": {
+			"keywords": "Empowering Women, empower women, International Women’s Day, IWD, International Women’s Day in Hong Kong, 8 March, BreakTheBias, gender barriers, She Objects, International Women’s Day in the Chinese Mainland, Taikoo Li Sanlitun, workshop, women researchers, Pink House Pop-Up at HKRI Taikoo Hui, Pink House, HKRI Taikoo Hui, Kartini Day, Savyavasa team, Jakarta, Indonesia, Taikoo WIN, Taikoo Women's Inspire Network",
+			"url": "/people/diversity-and-inclusion/empowering-women",
+			"type": "people",
+			"image": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-in-hong-kong-1.png",
+			"title": "Empowering Women | Diversity and Inclusion | People | Swire Properties SD Report 2022",
+			"content": "Swire Properties’ continues to empower women in the Company and in all areas of society gathered momentum in 2022. "
+		},
+		"landing": {
+			"title": "Empowering Women"
+		},
+		"breadcrumb-title": "Empowering Women",
+		"sections": [
+			{
+				"type": "section",
+				"id": "empowering-women-intro",
+				"contents": [
+					"Swire Properties’ continues to empower women in the Company and in all areas of society gathered momentum in 2022. A host of initiatives and events across our portfolios underlined our commitment to advancing equality everywhere."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "international-womens-day-in-hong-kong",
+				"title": "International Women’s Day in Hong Kong",
+				"media": [
+					{
+						"type": "video",
+						"poster": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-in-hong-kong-thumbnail-tc.png",
+						"src": "https://media.swireproperties.com/99b736e2-e776-4c8b-acb7-11c5d358302e/SP_IWD_2022_TC.ism/manifest"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-in-hong-kong-1.jpg"
+					}
+				],
+				"contents": [
+					"International Women’s Day (“IWD”), held on 8 March, is a global campaign to raise awareness of gender equality and encourage everyone to play their part and help create a world free of bias, stereotypes and discrimination. Leading up to IWD, the Swire Women’s Network hosted a virtual celebration on 3 March, featuring invited speakers and the screening of a video featurette on this year’s theme, #BreakTheBias.",
+					"The “Break the Bias” theme illustrated how, as an organisation, we are committed to eliminating gender barriers to create a more inclusive workplace for both women and men. To understand more about what Break the Bias means to our people, we spoke to colleagues from Hong Kong, the Chinese Mainland and the U.S.A.",
+					"On 8 March, we marked IWD with an interactive workshop that showcased excerpts from “She Objects”, a documentary on gender stereotypes in the Hong Kong media, featuring insights from celebrities and interviews with leading experts. Blueprint also invited two female leaders to share their journey to success and how they are forging change in the world."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "international-womens-day-in-the-chinese-mainland",
+				"title": "International Women’s Day in the Chinese Mainland",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-chinese-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-chinese-2.jpg"
+					}
+				],
+				"contents": [
+					"Taikoo Li Sanlitun honoured women in the community on IWD, welcoming visiting women researchers from the Chaoyang District Commerce Bureau and bringing flowers to female volunteers in the DongSanLi resident community.",
+					"Ahead of IWD, Swire Properties hosted a fresh flower floral design workshop for residents of Beisanli, a neighbourhood in Beijing. The workshop had an accredited professional share basic floristry techniques and skills, showing participants how to match the leaves, colours and proportions of each element to create better visual effects."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "pink-house-popup-at-hkri-taikoo-hui",
+				"title": "Pink House Pop-Up at HKRI Taikoo Hui",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/pink-house-popup-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/pink-house-popup-2.jpg"
+					}
+				],
+				"contents": [
+					"Between July and October 2022, HKRI Taikoo Hui held a charity initiative called “Pink House” in partnership with Be Pink, a women’s programme run by a foundation. With a mission to help women develop awareness and strengthen their sense of self-worth, the pop-up store became a place for women to meet, exchange knowledge and join diverse activities to build a joyful community where women could relieve stress and find inner peace. The Pink House pop-up also held various charity-themed workshops and promotional activities where the public could learn more about various charitable initiatives."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "kartini-day",
+				"title": "Kartini Day",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/kartini-day-1.png"
+					}
+				],
+				"contents": [
+					"On 21 April, our Savyavasa team in Jakarta marked Kartini Day, an important day in Indonesia that celebrates the birthday of iconic human rights advocate Raden Adjeng Kartini. Kartini Day acknowledges the activist’s efforts to emancipate and empower women in Indonesia. The team filmed a special Kartini Day video in the marketing gallery of the newly-completed Savyavasa development, dancing to promote diversity and empower women in the workplace."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-win",
+				"title": "Taikoo WIN",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/taikoo-win-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/taikoo-win-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/taikoo-win-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/taikoo-win-4.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"The Taikoo Women's Inspire Network (“Taikoo WIN”) is a business network established by the Company and two of our Taikoo Place tenants, aiming to create a community in support of women working for professional firms and companies based in the Taikoo Place area.",
+					"In addition to several online gatherings, Taikoo WIN hosted an in-person event in August called “Leadership in the ‘new’ normal: Navigating a world post-COVID”, which explored the impacts of the new environment on personal and professional lives and how to engage employees and customers during this period of uncertainty. The wide-ranging discussion came to several conclusions, including that companies should offer accessible mental health support, help upskill employees with digital and technological skills to stay ahead of trends, and that leaders need to be emotionally intelligent and empathetic."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-volunteering",
+			"people-talent-attraction",
+			"people-talent-management"
+		]
+	},
+	"people-diversity-and-inclusion-social-inclusion-page": {
+		"meta": {
+			"keywords": "Social Inclusion, CareER Disability Inclusion Index and Inclusive Recruitment Fair, CareER, Disability Inclusion Index, Internships for Minority Students, internship, ethnic minority, The UPSTAIRS Programme, Hong Kong Down Syndrome Association, HKDSA, Down Syndrome, Age Inclusion Workshop, purpose, inclusive",
+			"url": "/people/diversity-and-inclusion/social-inclusion",
+			"type": "people",
+			"image": "/images/pages/people/diversity-and-inclusion/social-inclusion-1.png",
+			"title": "Social Inclusion | Diversity and Inclusion | People | Swire Properties SD Report 2022",
+			"content": "This year, our social inclusion initiatives remains committed to providing an inclusive and supportive working environment for all our people."
+		},
+		"landing": {
+			"title": "Social Inclusion"
+		},
+		"breadcrumb-title": "Social Inclusion",
+		"sections": [
+			{
+				"type": "section",
+				"id": "career-disability-inclusion-index-and-inclusive-recruitment-fair",
+				"title": "CareER Disability Inclusion Index and Inclusive Recruitment Fair",
+				"contents": [
+					"This year, Swire Properties continued our participation in the CareER Disability Inclusion Index. This index helps organisations create a structured framework of disability inclusion strategies to meet their various ESG objectives. We provided data for the index and received results in October 2022. Swire Properties received higher than average ratings across the board, with particularly high marks in recruitment and accommodation and adjustment. Our results were also significantly higher than in 2021, indicating that our new D&I initiatives are bearing fruit.",
+					"Swire Hotels participated in the Inclusive Recruitment Fair 2022 organised by CareER in Hong Kong. At the event, Swire Hotels promoted job opportunities to highly educated students and graduates with disabilities and special needs."
+				]
+			},
+			{
+				"type": "section",
+				"id": "internships-for-minority-students",
+				"title": "Internships for Minority Students",
+				"contents": [
+					"In the summer of 2022, Swire Properties worked with the Zubin Foundation and the Amber Foundation to provide internship opportunities to students from ethnic minority groups. Four university students joined us as interns, with two working in our legal department, one in our Taikoo Place management office and one in Blueprint."
+				]
+			},
+			{
+				"type": "section",
+				"id": "the-upstairs-programme",
+				"title": "The UPSTAIRS Programme",
+				"contents": [
+					"2022 marked the fourth year of The Upper House’s collaboration with the Hong Kong Down Syndrome Association (“HKDSA”) in the UPSTAIRS programme, which creates training and work experience opportunities for Down Syndrome individuals. This year saw 10 HKDSA members attached to five departments during the month-long programme.",
+					"After a briefing by HKDSA social workers about Down Syndrome, our team members then worked alongside the HKDSA members for the month, learning about the challenges Down Syndrome individuals face when performing daily tasks. This positive, inclusive programme brought joy and camaraderie to everyone who participated."
+				]
+			},
+			{
+				"type": "section",
+				"id": "age-inclusion-workshop",
+				"title": "Age Inclusion Workshop",
+				"contents": [
+					"Age is one of the five diversity focus areas at Swire Properties, part of our pledge to create an age-neutral, multi-generational workplace. To increase awareness about the benefits of such a workplace, we arranged an age inclusion Lunch and Learn workshop called “Purpose Through the Ages” led by a leadership coach. Various discussions and exercises helped the participants discover how values and purposes evolve as one moves through different life stages, and learn how to connect with colleagues of all ages in order to develop greater empathy for others and create a more inclusive environment."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-volunteering",
+			"people-talent-attraction",
+			"people-talent-management"
+		]
+	},
+	"people-occupational-health-and-safety-2022-health-and-safety-performance-page": {
+		"meta": {
+			"keywords": "2022 Health and Safety Performance, health, safety, zero, zero workplace fatalities, fatalities, injuries, occupational hazards, LTIR, Lost Time Injury Rate, Lost Date Rate, LDR, Hong Kong Health and Safety Week, Chinese Mainland Safety Month, VR Safety Training, VR technology, modules, East Hong Kong’s “Work Safely” Slip, Trip and Fall Prevention Campaign, Safety Inspections at Two Taikoo Place, safety inspections, Swire Properties Internal Safety Awards, Outstanding Health and Safety Performance Award",
+			"url": "/people/occupational-health-and-safety/2022-health-and-safety-performance",
+			"type": "people",
+			"image": "/images/pages/people/occupational-health-and-safety/_2022-health-and-safety-performance-1.png",
+			"title": "2022 Health and Safety Performance | OHS | People | Swire Properties SD Report 2022",
+			"content": "We prioritise the health and safety of our employees and pride ourselves on our safety-oriented workplace culture."
+		},
+		"breadcrumb-title": "2022 Health and Safety Performance",
+		"landing": {
+			"title": "2022 Health and Safety Performance",
+			"tag": "HKEX KPI B2.1, B2.2"
+		},
+		"sections": [
+			{
+				"type": "section",
+				"id": "",
+				"contents": [
+					"We have maintained a record of zero workplace fatalities and serious or life-altering injuries among our employees. There have also been no confirmed incidents of non-compliance with relevant laws or regulations relating to the provision of a safe working environment and the protection of employees from occupational hazards.",
+					"One of our 2025 KPIs is to achieve and maintain a Lost Time Injury Rate (“LTIR”) at or below 1.2 for non-hotel operations, and at or below 2.0 for hotel operations. Through investment in training and awareness programmes, we have achieved significant improvements in LTIR over the past 10 years. In 2022, our overall LTIR was 0.87, with hotel operations being 1.56 and non-hotel operations being 0.57.",
+					"In 2022, our LTIR decreased by 9.4% compared to 2021; similarly, our Lost Day Rate (“LDR”)<sup>7</sup> decreased by 12.4% over the same period.",
+					{
+						"type": "footnote",
+						"value": "<sup>7</sup>Number of lost scheduled working days per 100 employees per year calculated by number of lost-time injuries/number of hours worked multiplied by 200,000."
+					}
+				]
+			}
+		],
+		"performance-overview": {
+			"data-5": {
+				"title": "Employee LTIR and LDR Trends",
+				"desc": "HKE KPI B2.2",
+				"table-title": [
+					"2020",
+					"2021",
+					"2022"
+				],
+				"content": [
+					{
+						"type": {
+							"text": "LTIR",
+							"icon": "",
+							"icon-class": ""
+						},
+						"data": [
+							{
+								"type": "2020",
+								"title": "1.25"
+							},
+							{
+								"type": "2021",
+								"title": "0.96",
+								"subTitle-1": {
+									"arrow": "down",
+									"value": "23.2%"
+								},
+								"subTitle-2": "change year-on-year"
+							},
+							{
+								"type": "2022",
+								"is-small": true,
+								"title": "0.87",
+								"subTitle-1": {
+									"arrow": "down",
+									"value": "9.4%"
+								},
+								"subTitle-2": "change year-on-year"
+							}
+						]
+					},
+					{
+						"type": {
+							"text": "LDR",
+							"icon": "",
+							"icon-class": ""
+						},
+						"data": [
+							{
+								"type": "2020",
+								"title": "48.80"
+							},
+							{
+								"type": "2021",
+								"title": "35.86",
+								"subTitle-1": {
+									"arrow": "down",
+									"value": "26.5%"
+								},
+								"subTitle-2": "change year-on-year"
+							},
+							{
+								"type": "2022",
+								"title": "31.42",
+								"subTitle-1": {
+									"arrow": "down",
+									"value": "12.4%"
+								},
+								"subTitle-2": "change year-on-year"
+							}
+						]
+					}
+				]
+			}
+		},
+		"kpi-employee-LTIR-and-LDR-2022-by-portfolio": {
+			"title": "2022 Employee LTIR and LDR, by portfolio",
+			"table-title": [
+				"LTIR",
+				"LDR"
+			],
+			"content": [
+				{
+					"type": {
+						"text": "Properties",
+						"icon": "/images/pillar-icons/people/properties.svg",
+						"icon-class": "icon-hong-kong"
+					},
+					"data": [
+						{
+							"type": "LTIR",
+							"title": [
+								"0.57"
+							]
+						},
+						{
+							"type": "LDR",
+							"title": [
+								"26.81"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"text": "Hotels",
+						"icon": "/images/pillar-icons/people/hotels.svg",
+						"icon-class": "icon-chinese-mainland"
+					},
+					"data": [
+						{
+							"type": "LTIR",
+							"title": [
+								"1.56"
+							]
+						},
+						{
+							"type": "LDR",
+							"title": [
+								"41.77"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"text": "Overall"
+					},
+					"data": [
+						{
+							"type": "LTIR",
+							"title": [
+								"0.87"
+							]
+						},
+						{
+							"type": "LDR",
+							"title": [
+								"31.42"
+							]
+						}
+					]
+				}
+			]
+		},
+		"sections-trend-analysis": [
+			{
+				"type": "chart-card",
+				"id": "line-chart",
+				"title": "Trend Analysis of Lost Time Injury Rate (LTIR) from 2010 to 2022",
+				"contents": [
+					""
+				],
+				"chart": {
+					"type": "line-chart",
+					"image": "/images/environment/profile-of-environmental-impacts/chart/carbon-emissions-of-portfolio-2016-2021-line-chart-en.jpg",
+					"title": "",
+					"bottomTitle": "Year",
+					"leftTitle": "LTIR",
+					"showFilterTab": false,
+					"filterData": [
+						{
+							"filterTitle": "Please select the Portfolio:",
+							"filterKey": "filter1",
+							"filterOption": [
+								{
+									"key": "overall",
+									"value": "Overall",
+									"checked": false
+								},
+								{
+									"key": "hotels",
+									"value": "Hotels",
+									"checked": false
+								},
+								{
+									"key": "properties",
+									"value": "Properties",
+									"checked": false
+								}
+							]
+						}
+					],
+					"labels": [
+						"2010",
+						"2011",
+						"2012",
+						"2013",
+						"2014",
+						"2015",
+						"2016",
+						"2017",
+						"2018",
+						"2019",
+						"2020",
+						"2021",
+						"2022"
+					],
+					"datasets": [
+						{
+							"filterType": {
+								"filter1": "overall"
+							},
+							"label": "Overall",
+							"backgroundColor": "#228D6D",
+							"borderColor": "#228D6D",
+							"fill": false,
+							"showLine": true,
+							"data": [
+								null,
+								null,
+								2.48,
+								2.29,
+								1.89,
+								1.88,
+								1.8,
+								1.43,
+								1.47,
+								1.63,
+								1.25,
+								0.96,
+								0.87
+							],
+							"hidden": false,
+							"lineTension": 0
+						},
+						{
+							"filterType": {
+								"filter1": "hotels"
+							},
+							"label": "Hotels",
+							"backgroundColor": "#2DB9AA",
+							"borderColor": "#2DB9AA",
+							"fill": false,
+							"showLine": true,
+							"data": [
+								null,
+								null,
+								4.22,
+								5.32,
+								3.3,
+								2.81,
+								2.93,
+								2.12,
+								1.9,
+								2.21,
+								2.07,
+								1.55,
+								1.56
+							],
+							"hidden": false,
+							"lineTension": 0
+						},
+						{
+							"filterType": {
+								"filter1": "properties"
+							},
+							"label": "Properties",
+							"backgroundColor": "#18635B",
+							"borderColor": "#18635B",
+							"fill": false,
+							"showLine": true,
+							"data": [
+								2.15,
+								2.79,
+								2.05,
+								1.54,
+								1.39,
+								1.52,
+								1.25,
+								1.11,
+								1.24,
+								1.31,
+								0.84,
+								0.67,
+								0.57
+							],
+							"hidden": false,
+							"lineTension": 0
+						}
+					]
+				}
+			}
+		],
+		"sections-2": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hong-kong-health-and-safety-week",
+				"title": "Hong Kong Health and Safety Week",
+				"contents": [
+					"Put on as part of our 50th anniversary celebrations, Health and Safety Week applauded our many “Original. Always.” occupational health and safety accomplishments and a safety culture that is renowned throughout the industry. ",
+					"Taking place every month from the beginning of the year through to January 2023, this year-long campaign targeted frontline Hong Kong employees, aiming to increase their safety awareness levels and offer high-level training, sharing sessions and fun activities. Highlights included an interview with Ms. Elizabeth Kok, Director and Senior Advisor, where she explains why health and safety is important to Swire Properties and shares her vision on workplace safety. The campaign also includes a “Mindset” programme to enhance health and safety concepts and behaviours among frontline employees through engaging activities such as virtual reality (“VR”) experiences, game booths, seminars and fitness workshops."
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-5.jpg"
+					}
+				],
+				"reverse": false
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "chinese-mainland-safety-month",
+				"title": "Chinese Mainland Safety Month",
+				"contents": [
+					"July marked Safety Month at our Chinese Mainland portfolios. Each property organised safety drills, training sessions and exercise programmes, with the view that “a little effort today will prevent injuries tomorrow”. We also celebrated the fact that Taikoo Hui Guangzhou received the Company’s annual Outstanding Health and Safety Award for the second year running; launched an AI-based smart construction safety system at several properties; and announced the rollout of the Near-miss Hazard Reporting System across all our Chinese Mainland properties as of mid-July. Lastly, the COVID-19 Personal Prevention Handbook was distributed to all Chinese Mainland employees, conveying up-to-date disease prevention knowledge and guidelines to everyone."
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/chinese-mainland-safety-month-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/chinese-mainland-safety-month-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/chinese-mainland-safety-month-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/chinese-mainland-safety-month-4.jpg"
+					}
+				],
+				"reverse": true
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "vr-safety-training",
+				"title": "VR Safety Training",
+				"contents": [
+					"This year, we introduced safety training programmes that employ VR technology to deliver messages on property management-related safety topics. In Hong Kong, the programme employs 11 modules for frontline employees that provide realistic simulation training on hazards associated with working at height, and slip, trip and fall prevention. In the Chinese Mainland, we introduced four VR safety training modules on hazards associated with working at height, electrical work and equipment operation."
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-1.jpeg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-2.jpeg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-3.jpeg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-5.jpeg"
+					}
+				],
+				"reverse": false
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "east-hong-kongs-work-safely-slip-trip-and-fall-prevention-campaign",
+				"title": "EAST Hong Kong’s “Work Safely” Slip, Trip and Fall Prevention Campaign",
+				"contents": [
+					"From June to November 2022, EAST Hong Kong posted weekly videos on the Beekeeper platform about slip, trip and fall prevention. Divided into three series, each with six levels, the videos covered information and tips about maintaining static and dynamic balance, along with fun facts about healthy lifestyles. The campaign also featured quizzes to help team members revise and consolidate their knowledge."
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/east-hong-kongs-work-safely-slip-trip-and-fall-prevention-campaign-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/east-hong-kongs-work-safely-slip-trip-and-fall-prevention-campaign-2.jpg",
+						"isContain": true
+					}
+				],
+				"reverse": true
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "safety-inspections-at-two-taikoo-place",
+				"title": "Safety Inspections at Two Taikoo Place",
+				"contents": [
+					"In 2022, we introduced joint safety inspections at Two Taikoo Place – which at the time was in the middle of handing over from the construction stage to the operations and fit-out stage. The Health and Safety team, Management Office (“MO”) team and Project team representatives all conducted joint safety walks during the handover. This was followed by daily safety inspections which included tenant facilities undergoing fit-out by their appointed contractors. We then gave safety briefings to tenant project managers and contractors on house rules, and communicated Swire Properties’ safety expectations to all tenants prior to their commencement of fit-out works through posters and guidelines."
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/safety-inspections-at-two-taikoo-place-1.jpg"
+					}
+				],
+				"reverse": false
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"reverse": true,
+				"id": "swire-properties-internal-safety-awards",
+				"title": "Swire Properties Internal Safety Awards",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-8.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-9.jpg"
+					}
+				],
+				"contents": [
+					"Many of our properties reached or maintained internal health and safety standards this year, including Zero Lost Time Injury awards and our Outstanding Health and Safety Performance Award.",
+					{
+						"type": "sub-title",
+						"value": "180 days Zero LTI awards in 2022"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"Island Place",
+							"Cityplaza",
+							"Sino-Ocean Taikoo Li Chengdu",
+							"Taikoo Li Qiantan",
+							"Pacific Place Apartments",
+							"EAST Hong Kong",
+							"EAST Residences Hong Kong",
+							"The Temple House"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "500 days Zero LTI awards in 2022"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"Citygate",
+							"INDIGO",
+							"HKRI Taikoo Hui",
+							"The Opposite House"
+						]
+					},
+					"Both Cityplaza and Taikoo Hui Guangzhou won the internal Swire Properties Outstanding Health and Safety Performance Award in 2022, which is given to the management offices that demonstrate outstanding health and safety performance, good management practices and innovative approaches to improving health and safety in the workplace."
+				]
+			}
+		],
+		"top-table": {
+			"thead": [
+				"180 days zero LTI awards in 2022",
+				"500 days zero LTI awards in 2022"
+			],
+			"tbody": [
+				[
+					{
+						"contents": [
+							"Island Place",
+							"Cityplaza",
+							"Sino Ocean Taikoo Li",
+							"Taikoo Li Qiantan",
+							"Pacific Place Apartments",
+							"EAST Hong Kong",
+							"EAST Residences Hong Kong",
+							"The Temple House"
+						]
+					},
+					{
+						"contents": [
+							"The Opposite House"
+						]
+					}
+				]
+			]
+		},
+		"see-more-in-stories": [
+			"partners-suppliers-supplier-health-and-safety-and-smart-construction",
+			"performance-environment-occupant-wellbeing",
+			"people-talent-management"
+		]
+	},
+	"people-talent-management-chinese-mainland-wellness-initiatives-page": {
+		"meta": {
+			"keywords": "Chinese Mainland Wellness Initiatives, employee, wellness, COVID-19, physical health, mental, Empathy and Care at Taikoo Li Qiantan, volunteered, closed loop, human-centric, counselling, Caring for Employees During the Chengdu Soft Lockdown, lockdown, Delivering Food to Employees During the Shanghai Lockdown, HKRI Taikoo Hui, Sino-Ocean Taikoo Li Chengdu, Taikoo Hui Employee Rope Skipping Contest, skipping, work-life balance, Staff Club – Weekly Sports, Frontline Office Upgrade at Sino-Ocean Taikoo Li Chengdu, frontline office",
+			"url": "/people/talent-management/chinese-mainland-wellness-initiatives",
+			"type": "people",
+			"image": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/empathy-and-care-at-taikoo-li-qiantan-1.jpg",
+			"title": "Chinese Mainland Wellness Initiatives | Employee Health and Wellbeing | People | Swire Properties 2022 SD Report",
+			"content": "In 2022, we devised numerous activities to prioritise staff mental and physical health."
+		},
+		"landing": {
+			"title": "Chinese Mainland Wellness Initiatives"
+		},
+		"breadcrumb-title": "Chinese Mainland Wellness Initiatives",
+		"sections": [
+			{
+				"type": "section",
+				"id": "chinese-mainland-wellness-initiatives-intro",
+				"contents": [
+					"With COVID-19 measures in place throughout the year, 2022 saw our Chinese Mainland staff prioritise their mental and physical health. Accordingly, we devised numerous activities and initiatives to promote health and happiness."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "empathy-and-care-at-taikoo-li-qiantan",
+				"title": "Empathy and Care at Taikoo Li Qiantan",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/empathy-and-care-at-taikoo-li-qiantan-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/empathy-and-care-at-taikoo-li-qiantan-2.jpg"
+					}
+				],
+				"contents": [
+					"The entire city of Shanghai was locked down from March to May 2022. Some employees at Taikoo Li Qiantan volunteered to stay at the mall, ensuring that essential operational and maintenance tasks were completed. These staff needed to stay in a “closed loop” and were not permitted to have physical contact with other people during this time. Swire Properties worked to make this environment as comfortable and human-centric as possible, providing designated bathroom facilities, a clothes-drying area, designated food pickup points, and a calming nucleic acid testing area.",
+					"On top of providing meals to our staff, we supported staff wellbeing by offering comfortable accommodations, psychological counselling and inspirational online activities, and expressed our appreciation through gift cards, vegetable hampers and a daily stipend. We also created a “Delivery Personnel Supply Stop”, offering food and drinks to delivery workers as a token of thanks."
+				]
+			},
+			{
+				"type": "section",
+				"id": "caring-for-employees-during-the-chengdu-soft-lockdown",
+				"title": "Caring for Employees During the Chengdu Soft Lockdown",
+				"contents": [
+					"During Chengdu’s citywide soft lockdown and COVID-19 testing initiative in early September, the Sino-Ocean Taikoo Li Chengdu team worked to ensure that our staff had access to essential materials including cots, sleeping bags, test kits, surgical masks, N-95 respirators, latex gloves, nutritious food and other daily necessities."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "delivering-food-to-employees-during-the-shanghai-lockdown",
+				"title": "Delivering Food to Employees During the Shanghai Lockdown",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/delivering-food-to-employees-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"As Shanghai grappled with a severe COVID-19 outbreak earlier in the year, the HKRI Taikoo Hui shopping mall was able to purchase fruit, vegetables, meat products and cooked meals which were delivered to all employees during April. We also included letters thanking them for their above-and-beyond contributions and encouraging them to stay healthy and strong during this unprecedented health crisis."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-hui-employee-rope-skipping-contest",
+				"title": "Taikoo Hui Guangzhou Employee Rope Skipping Contest",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/taikoo-hui-employee-rope-skipping-contest-1.jpg"
+					}
+				],
+				"contents": [
+					"In July, more than 60 employees from Taikoo Hui Guangzhou joined a rope skipping contest organised as part of the workplace wellness campaign. Participants from different departments were challenged on their speed, stamina and skills in this fun event that also enhanced mutual understanding and friendship. The contest was part of the mall’s wider commitment to supporting employee mental and physical health on top of other measures, including an employee centre equipped with workout equipment and consistent efforts to promote a healthy work-life balance."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "staff-club-weekly-sports",
+				"title": "Staff Club – Weekly Sports",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/staff-club-weekly-sports-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/staff-club-weekly-sports-2.jpg"
+					}
+				],
+				"contents": [
+					"A variety of sports activities for staff were organised thrice weekly at Sino-Ocean Taikoo Li Chengdu. These included badminton, yoga, basketball and kickboxing. In 2022, more than 520 staff participated in these events, spending a total of 637 hours in a healthy, competitive environment."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "frontline-office-upgrade-at-sinoocean-taikoo-li-chengdu",
+				"title": "Frontline Office Upgrade at Sino-Ocean Taikoo Li Chengdu",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/frontline-office-upgrade-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/frontline-office-upgrade-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/frontline-office-upgrade-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/frontline-office-upgrade-4.jpg"
+					}
+				],
+				"contents": [
+					"An upgrade to the Sino-Ocean Taikoo Li Chengdu frontline office commenced in March 2022. The project prioritised sustainability and staff wellbeing in all aspects of workplace design and management. Ergonomic furniture was chosen to ensure proper posture and avoid strains, and a nap area was built, giving shift staff a comfortable place to rest."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety",
+			"people-diversity-and-inclusion",
+			"people-volunteering"
+		]
+	},
+	"people-talent-management-hong-kong-wellness-initiatives-page": {
+		"meta": {
+			"keywords": "Hong Kong Wellness Initiatives, Employee Wellness Programme, employee, wellness, Online Wellness Sharing, Photography Exhibition, placeholder for 50A Family Day",
+			"url": "/people/talent-management/hong-kong-wellness-initiatives",
+			"type": "people",
+			"image": "/images/pages/people/talent-management/hong-kong-wellness-initiative-1.png",
+			"title": "Hong Kong Wellness Initiatives | Employee Health and Wellbeing | People | Swire Properties 2022 SD Report",
+			"content": "This year, Swire Properties held numerous activities and initiatives across our Hong Kong operations to boost the health and happiness of our staff."
+		},
+		"landing": {
+			"title": "Hong Kong Wellness Initiatives"
+		},
+		"breadcrumb-title": "Hong Kong Wellness Initiatives",
+		"sections": [
+			{
+				"type": "section",
+				"id": "employee-wellness-programme",
+				"title": "Employee Wellness Programme",
+				"contents": [
+					"All through 2022, the Swire Properties Employee Wellness Programme held activities and initiatives to boost health and happiness. These included the “Small Changes that Change Everything” workshop in February, in which experts explained how to make tiny behavioural changes that can slowly become habits to help people achieve goals like losing weight, de-stressing, sleeping better or being more productive."
+				]
+			},
+			{
+				"type": "section",
+				"id": "online-wellness-sharing",
+				"title": "Online Wellness Sharing",
+				"contents": [
+					"Online sharing sessions held in June focused on various mind and body wellness topics, such as “Caring for Your Eyes” – discussing the causes of common eye diseases and exercises that can prevent them; “Loving Monday” – sharing tips on how to boost energy and engage in positive thinking during the work week; and “The Science of Wellbeing” – discussing strategies on how to generate positivity in relationships, during challenges and at work."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "photography-exhibition",
+				"title": "Photography Exhibition",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/hong-kong-wellness-initiative-1.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/hong-kong-wellness-initiative-2.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/hong-kong-wellness-initiative-3.png"
+					}
+				],
+				"contents": [
+					"As part of our 50th anniversary celebrations, in July we arranged two guided tours to the “Recovery, Resilience, Resurgence” photography exhibition to give our staff a glimpse of Hong Kong’s story from recovery to resilience through the lenses of three photographers whose work spanned the 1940s to the 1970s."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "50a-family-day",
+				"title": "50A Family Fun Day",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-6.jpg"
+					}
+				],
+				"contents": [
+					"To celebrate Swire Properties’ 50th anniversary and the start of the festive season, we held a 50A Family Fun Day called “Party in SPROPS City” on 2 December 2022. Over 600 participants, including colleagues from all levels and their families and friends, participated in various games, arts and crafts workshops featuring gingerbread decoration, Christmas ornaments design and suncatcher candles making, and the parade. "
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety",
+			"people-diversity-and-inclusion",
+			"people-volunteering"
+		]
+	}
+}

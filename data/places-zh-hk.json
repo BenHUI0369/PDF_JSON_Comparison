@@ -1,0 +1,2802 @@
+{ 	
+	"places-page": {
+		"meta": {
+			"keywords": "社區營造, 營造社區, 管理社區, 太古廣場, 太古坊, 太古城中心, 東薈城, 香港, 中國內地, 成都遠洋太古里, 三里屯太古里, 北京, 頤堤港, 前灘太古里, 上海, 興業太古滙, 廣州太古滙, 廣州, 美國邁阿密, 邁阿密",
+			"url": "/places",
+			"type": "places",
+			"image": "/images/landing-section/places-left.jpg",
+			"title": "社區營造 | 太古地產2022可持續發展報告",
+			"content": "社區營造是實現「2030可持續發展策略」的核心。我們透過積極營造及管理社區，繼續活化公司項目所在的社區。"
+		},
+		"landing": {
+			"title": "社區營造",
+			"icon": "SVGPlaces",
+			"contents": [
+				"太古地產深明我們構建及守護的社區對社會及環境具有重大影響。正因如此，我們冀盼構建理想社區，從而活化物業所在地成為可持續發展的活力社區，確保發展項目平衡美學、功能、生態及文化影響。與此同時，社區的長遠發展亦離不開持續優化、維護和管理這些資產，從而令在公司發展項目內居住和工作的社群不斷提升生活質素，並惠及周邊社區。"
+			]
+		},
+		"breadcrumb-title": "社區營造",
+		"sustainable-development-goals": {
+			"title": "可持續發展目標",
+			"desc": "本支柱的相關可持續發展目標如下：",
+			"sdgs": [
+				"8",
+				"9",
+				"11"
+			]
+		},
+		"highlights-of-our-developments": {
+			"title": "公司項目表現亮點",
+			"back-to-map": "Back To Map",
+			"tag": "GRI 2-1, 2-6",
+			"maps": {
+				"hong-kong": {
+					"locationKey": "hk",
+					"name": "香港",
+					"places": {
+						"pacific-place": {
+							"name": "太古廣場",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/pacific-place-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/pacific-place-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "太古廣場",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/pacific-place-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/pacific-place-2.jpg"
+									],
+									"content": [
+										"太古廣場位於港島金鐘，未來將匯聚五座甲級辦公樓（太古廣場六座將於2023年落成）、零售商場、四間五星級酒店和高尚服務式住宅。本綜合發展項目現已建成的總樓面面積超過240萬平方呎。",
+										"栢舍是設有268個單位的高尚服務式住宅，此外「居舍系列」的奕居酒店共有117間客房。",
+										"我們的最新發展項目太古廣場六座將於2023年落成，這座樓高24層的大廈將提供約218,000平方呎的甲級辦公樓樓面，無論設計和建築均達到最高可持續發展標準，並已通過能源與環境設計先鋒評級（LEED）、WELL健康建築標準及綠建環評預認證取得鉑金評級。2022年，太古廣場六座並同時獲得WiredScore和SmartScore鉑金級認證，大廈的設計和基礎設施完善，將為租戶帶來無縫的數碼體驗，更可採用最先進的工作場所解決方案。",
+										"太古地產亦將太古廣場項目毗鄰的星街小區塑造成為繽紛的時尚生活區，吸引不同風格的餐廳、酒吧、食肆、畫廊及精品店進駐。"
+									]
+								}
+							]
+						},
+						"taikoo-place": {
+							"name": "太古坊",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/taikoo-place-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/taikoo-place-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "太古坊",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/taikoo-place-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/taikoo-place-2.jpg"
+									],
+									"content": [
+										"太古集團在區內扎根超過一個世紀，見證太古坊從早年太古船塢和糖廠所在的工業區衍變為國際商業區，合共10座辦公樓總樓面面積達600萬平方呎。太古坊提供各式各樣的商業及消閒設施，包括30,000平方呎的共用工作社區Blueprint、高級私人會所The Refinery和7,000平方呎的多功能活動場地ArtisTree，區內還設有園景廣場太古公園以及不同類型的餐廳和咖啡室。",
+										"太古坊重建項目預計於2023年完竣，落成後將吸引更多跨國企業進駐。太古坊重建項目亮點太古坊二座樓高42層，提供約100萬平方呎高級辦公樓樓面面積。大廈的設計和建築均達到最高的可持續發展標準，並已通過能源與環境設計先鋒評級（LEED）、WELL健康建築標準及綠建環評預認證取得鉑金評級。",
+										"太古坊另一亮點是建設了太古中央廣場和太古花園。兩片綠化休憩園林綠蔭處處，為社區提供69,000平方呎的休憩空間，其面積相等於中環皇后像廣場。"
+									]
+								}
+							]
+						},
+						"cityplaza": {
+							"name": "太古城中心",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-plaza-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-plaza-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "太古城中心",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-plaza-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-plaza-2.jpg"
+									],
+									"content": [
+										"太古城中心是港島最大的購物商場，樓面總面積約111萬平方呎，可由港鐵太古站直達。商場樓高六層，匯聚逾170家商舖及食肆，另有特色戲院和室內溜冰場，室內停車場提供逾800個車位。一向極受歡迎的太古城中心冰上皇宮溜冰場經過翻新後更勝從前，我們亦致力優化租戶組合，並經常在商場舉行引人入勝的推廣及其他活動，使太古城中心成為市民享受愉快生活的消閒地點。",
+										"太古城中心連接香港東隅酒店、太古城住宅發展項目和百多間服務區內居民的戶外商舖。",
+										"太古城中心冰上皇宮最近於香港最有價值企業大獎獲得「年度最傑出娛樂場所2022」榮銜。獎項以商譽、企業形象、整體知名度、社交媒體曝光率、創新、企業社會責任表現等作評審標準，結果太古城中心冰上皇宮脫穎而出，喜獲殊榮。"
+									]
+								}
+							]
+						},
+						"citygate": {
+							"name": "東薈城",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-gate-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-gate-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "東薈城",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-gate-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/hong-kong/city-gate-2.jpg"
+									],
+									"content": [
+										"位於大嶼山東涌的東薈城名店倉是香港首個及最大的名店折扣商場。東薈城由942,800 平方呎的零售空間及16萬平方呎的辦公樓組成，項目位於港鐵東涌站上蓋，香港國際機場及港珠澳大橋近在咫尺，交通網絡四通八達，往來香港多個著名景點均十分方便。"
+									]
+								}
+							]
+						}
+					}
+				},
+				"china": {
+					"locationKey": "cn",
+					"name": "中國內地",
+					"places": {
+						"chengdu": {
+							"name": "成都",
+							"inside-name": "成都遠洋太古里，成都",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/chengdu-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/chengdu-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "成都遠洋太古里，成都",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/chengdu-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/chengdu-2.jpg"
+									],
+									"content": [
+										"成都遠洋太古里位於成都市錦江區，是以零售為主導的綜合發展項目，面積達130萬平方呎。項目中央是建於16世紀的成都市地標古剎大慈寺，另設有太古酒店管理的博舍。成都遠洋太古里是全球首個獲得能源與環境設計先鋒評級（LEED）v4.1版（運營與維護：既有建築）鉑金級認證的開放式街區商業項目，也是四川省以至中國內地首個取得該認證的發展項目。成都遠洋太古里自2020年起便全面採用可再生電能。"
+									]
+								}
+							]
+						},
+						"xian": {
+							"name": "西安",
+							"inside-name": "西安太古里",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/xian-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/xian-2-tc.jpg"
+							],
+							"collapse": [
+								{
+									"name": "西安太古里",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/xian-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/xian-2-tc.jpg"
+									],
+									"content": [
+										"西安太古里坐落於陝西省西安市市中心核心地段，項目總面積近130萬平方呎，坐落於碑林區「小雁塔歷史文化片區」，毗鄰聯合國教科文組織世界文化遺產「小雁塔」。",
+										"太古地產正與「西安城桓文化投資發展有限公司」攜手合作，在該址開展城市更新計劃，打造以零售為主導的項目，薈萃零售及文化設施，包括一間居舍系列酒店、服務式住宅和商務公寓。預計地面和地庫總樓面面積約290萬平方呎，並預計於2025年底落成。"
+									]
+								}
+							]
+						},
+						"beijing": {
+							"name": "北京",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/beijing-sanlitun-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/beijing-sanlitun-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "三里屯太古里，北京",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/beijing-sanlitun-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/beijing-sanlitun-2.jpg"
+									],
+									"content": [
+										"三里屯太古里是太古地產在中國內地的首個項目，位於北京市朝陽區中心地帶，由綜合零售設施與一家酒店組成。項目擔當關鍵角色，帶動三里屯衍變為結合文化、零售、餐飲和酒店的潮流中心。",
+										"2021年12月，面積約300,000平方呎的三里屯太古里西區項目在皇家特許測量師學會（RICS）中國年度大獎贏得「年度城市更新項目優秀獎」，嘉許我們以創新的城市更新方式，將原來的雅秀服裝市場改造成為活力盎然的零售發展項目。三里屯太古里西區共設十層（地面八層、地下兩層），正在建設的地鐵工人體育場站將設置一條地下通道直接通往西區及三里屯太古里，這個換乘車站預計於2023年啟用。三里屯太古里西區開幕可帶動附近一帶蛻變，增添城市活力和高尚格調，彰顯太古地產一直致力支持北京市塑造三里屯成為世界一流的商圈。"
+									]
+								},
+								{
+									"name": "頤堤港，北京",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/beijing-indigo-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/beijing-indigo-2.jpg"
+									],
+									"content": [
+										"頤堤港是以零售為主導的綜合發展項目，包括一個購物商場、一座甲級辦公樓及北京東隅酒店。頤堤港廣泛推行可持續發展措施和計劃，包括高效能太陽能光伏板、優化版天窗、領先北京市的廢物回收流程及「綠色廚房」計劃。",
+										"2022年是頤堤港開幕10周年紀念，年內以「煥然出新」為主題，開展了一系列慶祝活動，紀念十年來頤堤港全力推動創新衍變，並成為營運及管理的卓越典範，以及持續推行數碼化，不斷優化其設計及零售組合，將項目發展成為現今備受推崇的高品質商務及生活消閒匯點。2022年7月份，頤堤港設立名為The Loop的可持續發展中心，員工、租戶及業務夥伴可在此多功能空間聚首，一起推展各類可持續發展計劃。",
+										"太古地產於2020年12月宣佈擴建頤堤港二期，發展項目現正在頤堤港毗鄰地段施工。擴建部分是以辦公樓為主導的綜合發展項目，總樓面面積約423萬平方呎，設有購物商場、辦公樓及一間酒店，預計於2025年落成。"
+									]
+								}
+							]
+						},
+						"shanghai": {
+							"name": "上海",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/shanghai-qiantan-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/shanghai-qiantan-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "前灘太古里，上海",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/shanghai-qiantan-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/shanghai-qiantan-2.jpg"
+									],
+									"content": [
+										"前灘太古里位於上海浦東前灘國際商務區，總樓面面積約130萬平方呎，於2021年底開幕。這個獨特項目標榜「Wellness」理念，採用「雙層開放空間」設計，在屋頂打造街區形態及大片綠化空間，由80米長的悅目橋橫貫上方，將黃浦江景緻盡收眼底。8.6萬平方呎中央公園的亮點包括全長450米長的屋頂Sky Loop天空環道，此外還有多個綠化和休憩空間供用戶及訪客享用，促進身心健康。前灘太古里是全球首家獲得WELL健康建築標準核心體（鉑金級）認證的購物中心。"
+									]
+								},
+								{
+									"name": "興業太古滙，上海",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/shanghai-hkri-taikoo-hui-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/shanghai-hkri-taikoo-hui-2.jpg"
+									],
+									"content": [
+										"興業太古滙位於上海的主要購物商圈南京西路，毗連三條地鐵線，交通便捷。項目包括兩座獲能源與環境設計先鋒評級（LEED）最終鉑金級認證的甲級辦公樓和一座獲能源與環境設計先鋒評級（LEED）最終金級認證的購物商場，另有兩間酒店 ― 鏞舍及上海素凱泰酒店。項目定位是帶動該區發展成為嶄新的商業、購物及休閒熱點。"
+									]
+								}
+							]
+						},
+						"guangzhou": {
+							"name": "廣州",
+							"inside-name": "廣州太古滙",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/china/guangzhou-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/china/guangzhou-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "廣州太古滙",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/china/guangzhou-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/china/guangzhou-2.jpg"
+									],
+									"content": [
+										"廣州太古滙是廣州市天河區的高尚生活消閒地標，項目設有購物商場、兩座甲級辦公樓和一間酒店。廣州太古滙的購物商場是全球首個取得能源與環境設計先鋒評級（LEED）（運營與維護：既有建築）鉑金級認證的密閉式商場。2021年7月，廣州太古滙已全面採用可再生電能。項目並於2022年取得WELL健康建築標準鉑金級認證。",
+										"太古地產於2023年第一季發表的最新《社區營造效益報告》亦聚焦於廣州太古滙，題為《創新衍變廣州太古滙》，利用我們的社區影響評估框架，探討和衡量項目對投資、社區及城市三個層面的影響。閱覽報告全文請<a class='text-places' href='/2022/zh-hk/places/places-impact-report'>按此</a>。"
+									]
+								}
+							]
+						}
+					}
+				},
+				"miami-singapore": {
+					"locationKey": "usa",
+					"name": "美國",
+					"places": {
+						"miami": {
+							"label": "美國邁阿密",
+							"name": "美國邁阿密",
+							"inside-name": "Brickell City Centre，邁阿密",
+							"image": [
+								"/images/pages/places/sustainable-development-goals/maps/usa/usa-brickell-city-centre-1.jpg",
+								"/images/pages/places/sustainable-development-goals/maps/usa/usa-brickell-city-centre-2.jpg"
+							],
+							"collapse": [
+								{
+									"name": "Brickell City Centre，邁阿密",
+									"image": [
+										"/images/pages/places/sustainable-development-goals/maps/usa/usa-brickell-city-centre-1.jpg",
+										"/images/pages/places/sustainable-development-goals/maps/usa/usa-brickell-city-centre-2.jpg"
+									],
+									"content": [
+										"2016年開幕的Brickell City Centre是太古地產在美國邁阿密的地標性綜合發展項目，也是我們首個獲得能源與環境設計先鋒評級（LEED）（社區發展）類別金級認證的發展項目。項目的亮點之一是破格創新的環保建築設計Climate Ribbon™，由鋼鐵、玻璃及纖維組成的高架棚架能為訪客遮擋陽光，保持通風及收集雨水，並為購物中心提供自然採光。"
+									]
+								}
+							]
+						}
+					}
+				}
+			}
+		},
+		"more-in-places": {
+			"title": "更多社區營造",
+			"cards": [
+				{
+					"title": "實踐可持續發展：太古酒店",
+					"description": "太古酒店旗下的獨特物業體現太古地產「2030可持續發展策略」的五大支柱，協調和凝聚力量塑造可持續發展的社區。",
+					"image": "/images/pages/homepage/report-features/sd-in-action–swire-hotels.jpg",
+					"link": {
+						"path": "/places/sd-in-action"
+					}
+				},
+				{
+					"title": "《社區營造效益報告》",
+					"description": "太古地產第三份《社區營造效益報告》探討如何在廣州太古滙致力營造和管理社區，促使項目一帶發展蛻變。",
+					"image": "/images/pages/places/places-impact-report/places-impact-report-tc.jpg",
+					"link": {
+						"path": "/places/places-impact-report"
+					}
+				},
+				{
+					"title": "社區活力",
+					"description": "太古地產在旗下發展項目提供各類藝術文化活動，讓當地社群共賞。",
+					"image": "/images/pages/places/vibrancy/embracing-originality-tc-1.jpg",
+					"link": {
+						"path": "/places/vibrancy"
+					}
+				},
+				{
+					"title": "經濟民生",
+					"description": "太古地產推動就業，支持各類復甦計劃，並積極支援社福機構和社企，幫助社區應對疫情。",
+					"image": "/images/pages/places/vibrancy/livelihood/taikoo-li-xian-tc-1.png",
+					"link": {
+						"path": "/places/livelihood"
+					}
+				},
+				{
+					"title": "社群福祉",
+					"description": "太古地產全力保障訪客、租戶及員工的身心健康。",
+					"image": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-1.jpg",
+					"link": {
+						"path": "/places/wellbeing"
+					}
+				},
+				{
+					"title": "社區抗禦力",
+					"description": "我們在所有物業組合推動疫後復甦，致力營造社會凝聚力、促進社區建設和增強適應力。",
+					"image": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg",
+					"link": {
+						"path": "/places/resilience"
+					}
+				}
+			]
+		}
+	},
+	"places-livelihood-page": {
+		"meta": {
+			"keywords": "經濟民生, 西安太古里, 小雁塔, 歷史, 文化遺產, 傳承,城市更新, 太古里, 興業太古滙激活上海夜經濟, 興業太古滙, 五五購物節, 上海夜生活節, 購物, 夜經濟, 疫情, 疫後復, 商機, 支持香港政府的消費券計劃, 消費券計劃, 獎賞計劃, 購物獎賞, 獎賞, 商場顧客, 購物, 活動, 零售業, 推出Blueprint可持續發展錦囊, 可持續發展錦囊, Blueprint會員平台, 錦囊, 可持續發展策略, 共享工作室, 初創企業, 工作環境",
+			"url": "/places/livelihood",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/livelihood/taikoo-li-xian-tc-1.png",
+			"title": "經濟民生 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "我們在項目周邊地區促進就業並支持社福機構及社企。"
+		},
+		"landing": {
+			"title": "經濟民生",
+			"contents": [
+				"2022年，太古地產繼續推動就業、輔助推行疫後復甦計劃，以及支援我們項目所在社區的社福機構及社企。"
+			]
+		},
+		"breadcrumb-title": "經濟民生",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-li-xian",
+				"title": "西安太古里",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/taikoo-li-xian-tc-1.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/taikoo-li-xian-2.jpg"
+					}
+				],
+				"contents": [
+					"2022年太古地產宣佈與西安城桓文化投資發展有限公司合作發展西安太古里。項目位於深賦歷史文化底蘊、風景優美的小雁塔歷史文化片區，毗鄰聯合國教科文組織世界文化遺產「小雁塔」和始建於唐朝（公元684年）的皇家寺院「薦福寺」。項目向西安厚重的歷史文化底蘊致敬，為訪客營造獨一無二的體驗，盡享沉浸式零售購物、文化及生活消閒之樂。",
+					"太古地產將與西安城桓文化投資發展有限公司合作，在該區開展城市更新計劃，打造一座新舊交融的「太古里」，同時善用地鐵兩線交匯點的優越位置，讓訪客盡享交通便利。",
+					"承傳「太古里」獨特品牌基因，西安太古里將發展成以零售主導的項目，採用低密度、開放式的創新建築設計佈局，包括零售商場、文化設施、高尚酒店、服務式公寓和商業公寓，預計項目地上和地庫總樓面面積約290萬平方呎。繼北京三里屯太古里、成都遠洋太古里和上海前灘太古里取得成功後，西安太古里將是太古地產於中國內地的第四個「太古里」項目，預計2025年底落成。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hth-empowers-shanghai-night-time-economy",
+				"title": "興業太古滙激活上海夜經濟",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/hth-empowers-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/hth-empowers-2.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/hth-empowers-3.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"興業太古滙舉辦一系列計劃支持「2022上海夜生活節」。該活動於8至9月舉行，是上海市「五五購物節」的主要活動之一，旨在刺激消費並應對疫情對社會和經濟的影響。",
+					"興業太古滙總經理於開幕禮上宣佈啟動城市公益項目，用音樂與城市對話。項目將聯同上海地鐵、久事旅遊和上海藝倉美術館協辦「Play Me, I'm Yours」街頭鋼琴活動，歡迎任何人士彈奏樂曲。街頭鋼琴將設於地鐵站、輪渡碼頭及黃浦江邊三個公共地點。",
+					"計劃亦提供繽紛的夜間娛樂活動，包括美食展、屋頂露營派對和創新的“Personally Yours”會員計劃，將零售品牌與營銷、藝術和商業融為一體，創造客制化的個人購物體驗。",
+					"隨著疫情的陰霾漸散，市況持續復甦，興業太古滙繼續全力在上海開拓商機，以及促進上海購物熱點南京西路中央商務區的夜經濟。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "supporting-the-hong-kong-government-consumption-voucher-scheme",
+				"title": "支持香港政府的消費券計劃",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/supporting-the-hong-kong-government-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/supporting-the-hong-kong-government-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/supporting-the-hong-kong-government-3.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/supporting-the-hong-kong-government-4.jpg"
+					}
+				],
+				"contents": [
+					"2022年4月，香港經歷疫情後緩緩復甦，太古地產全力支持本地經濟，與香港政府消費券計劃指定支付工具之一八達通合作，推出為期兩個月的消費獎賞計劃。旗下的太古廣場、太古城中心及東薈城名店倉均向顧客送上購物獎賞價值港幣500萬元。八達通卡用戶在上述商場購物消費達指定金額，即可領取獎賞。",
+					"獎賞計劃促進了三個商場租戶的人流和營業額，廣泛惠及商場顧客、租戶、商場附近的社區以至香港整體經濟。",
+					"獎賞計劃成效令人鼓舞，我們乘勝追擊，三個商場在6月展開的第二輪消費券計劃，為以電子支付達到指定消費額的顧客提供總值港幣1,200萬元的獎賞，當中包括以人氣角色為主角的限量版禮品和不設最低消費限額的購物現金券。三個商場亦推出夏日購物特別活動，以限定店、數碼活動、夏日農圃、周末戶外市集等吸引顧客，多方位刺激本地消費，使香港整體零售業保持動力。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "launch-of-blueprint-sustainable-development-cheat-sheet",
+				"title": "推出Blueprint可持續發展錦囊",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/livelihood/launch-of-blueprint-1.jpg"
+					}
+				],
+				"contents": [
+					"太古地產設於太古坊多盛大廈的靈活工作及活動空間 Blueprint一向致力提高業務營運的可持續性。2022年8月，Blueprint推出首個《可持續發展錦囊》，涵蓋所有重要的統計數據，例如能源耗量、用水量、紙品用量和其他相關指標，還提供實用貼士，教導如何打造更環保的工作場所。錦囊以Blueprint會員為對象，這個社群對環境議題的意識正不斷提高。用戶可在Blueprint會員平台瀏覽錦囊的數據，Blueprint團隊可監察各類處所的可持續發展表現，協助會員自行制定可持續發展策略，在整體工作場所帶動正面改變。",
+					"位於多盛大廈樓高兩層的Blueprint，提供靈活工作空間及各類活動場地。一樓是設有90張辦公桌的開放式共享工作室，適合初創企業及小微企，另設15間大小不一的私人辦公室，可滿足大企業客戶需要，包括大型跨國企業。二樓全層是10,000平方呎的活動場地，包括講堂及一間可分間為多間培訓室的大會議廳，全部配備先進的影音器材。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-vibrancy",
+			"places-wellbeing",
+			"places-resilience"
+		]
+	},
+	"places-places-impact-report-page": {
+		"meta": {
+			"keywords": "社區營造效益報告, 社區營造效益, 非凡社區, 創新, 創新衍變, 太古滙, 廣州太古滙, 廣州, 社會融合策略, 社區活力, 經濟民生, 社群福祉, 社區抗禦力, 社會融合",
+			"url": "/places/places-impact-report",
+			"type": "places",
+			"image": "/images/pages/places/places-impact-report/places-impact-report-tc.jpg",
+			"title": "社區營造效益報告 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "我們第三份《社區營造效益報告》探討太古地產如何在廣州太古滙致力營造和管理社區，促使項目一帶發展蛻變。"
+		},
+		"landing": {
+			"title": "《社區營造效益報告》"
+		},
+		"breadcrumb-title": "《社區營造效益報告》",
+		"sections-1": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "places-impact-report",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/places-impact-report/places-impact-report-tc.jpg"
+					}
+				],
+				"contents": [
+					"太古地產深明我們構建及管理的社區與社會和環境息息相關，對我們的長遠決策亦具有深遠影響。我們第三份《社區營造效益報告》探討「何謂優質社區」，聚焦廣州太古滙一帶。",
+					"這份題為「創新衍變廣州太古滙」的《社區營造效益報告》是與華南理工大學建築學院聯合撰寫，於2023年3月發佈。",
+					"最新的《社區營造效益報告》評估過去12年來太古地產透過社區營造與社區管理，對社區和周邊地區的正面影響，並進一步展望廣州太古滙作為城市地標，如何在未來繼續締造獨特的文化生活體驗。",
+					"本報告沿用以往的評估框架，透過社區四大範疇，即社區活力、經濟民生、社群福祉及社區抗禦力，衡量廣州太古滙的特質，評估這些特質隨時間產生的變化，並與市內其他商業項目作比較。研究闡釋太古地產如何透過持續投資硬件和軟件，並融入多元化的社區營造與管理，提升廣州太古滙及其社區的抗禦力。",
+					"查看報告全文請<a target='_blank' class='text-places' href='https://www.swireproperties.com/-/media/files/swireproperties/publications/places-impact-report-taikoohuiguangzhou-tc.ashx'>按此</a>。"
+				]
+			}
+		],
+		"sections-2": [
+			{
+				"type": "section",
+				"id": "social-integration-strategies",
+				"title": "社會融合策略",
+				"contents": [
+					"太古地產致力營造及管理社區，深信我們付出的努力有助創建更優質的社區，讓租戶、訪客及僱員享受更愜意的生活。正因如此，「社區營造」是太古地產「2030可持續發展策略」的重心。",
+					"太古地產致力構建和改善旗下的物業組合，令在公司發展項目內居住及工作的社群不斷提升生活質素，並惠及周邊社區。在社會融合方面，我們的標準貫徹「社區營造」策略支柱的四大範疇，即社區活力、經濟民生、社群福祉及社區抗禦力。",
+					{
+						"type": "sub-title",
+						"value": "社區活力"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"位於或接近主要交通樞紐",
+							"精心設計行人通道，令公共運輸、配套設施與建築物之間互連互通",
+							"設計暢達、共融、無障礙的行人網絡",
+							"在適當情況下盡量促進可持續流動性（例如方便步行的社區、使用單車代步、免費穿梭巴士服務及電動車充電系統）",
+							"全面在物業組合的公共空間和社區計劃融入藝術元素",
+							"專為社區活動設計的優質開放空間和場地",
+							"為社會企業和非政府組織提供場地支持及捐助物資"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "經濟民生"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"透過發展綜合項目促進商業多元化及經濟抗禦力",
+							"促進具凝聚力的商業網絡，從而建立「本地商業生態系統」，增強上班一族的社區意識",
+							"在適當情況下支持可負擔住房的發展"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "社群福祉"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"監測用戶的健康狀況（例如室內空氣質素），並加入促進身心健康的配套和措施",
+							"提供無障礙廁所、育嬰室、無障礙車位及借用輪椅等配套設施",
+							"促進項目與綠化空間及自然郊野之間的通達度及推廣都市農圃設施（如適當）"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "社區抗禦力"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"推行最佳常規風險管理程序，在企業及資產層面確保業務持續營運，包括主動採取措施評估氣候風險，和在所有投資組合建立氣候抗禦及適應能力",
+							"推行社區項目及教育計劃，藉此促進社會抗禦力和社區聯繫"
+						]
+					},
+					"我們根據各項國際認可標準及評級計劃（例如綠建環評、能源與環境設計先鋒評級（LEED）、中國綠色建築設計標識和WELL健康建築標準的要求，在旗下項目採用綜合設計方針。上述標準規定了實際及社會環境的要求，有助促進人們的健康、福祉和生產力。太古地產在可行的情況下，盡力為新發展項目取得相關綠色建築標準及評級系統的認證，以促進社會融合。",
+					"以下是太古地產發展中項目和現有物業組合於2022年符合社會融合標準的概況。",
+					{
+						"type": "ul",
+						"value": [
+							"100%物業均接近交通樞紐，設有四通八達且方便行人的道路網絡，可通往車站及配套設施。部分物業組合設有免費穿梭巴士服務，多數物業均備有單車設施。",
+							"100%物業設有暢達、共融、無障礙的行人路。",
+							"98%物業設有專為社區及藝術活動而設的開放空間和場地。",
+							"共用空間方面，約83%香港物業組合和約80%中國內地物業組合之建築物的室內空氣質素獲評定為「卓越級」，符合當地的室內空氣質素規定。",
+							"太古地產於2023年3月發佈第三份《<a target='_blank' class='text-places' href='https://www.swireproperties.com/-/media/files/swireproperties/publications/places-impact-report-taikoohuiguangzhou-tc.ashx'>社區營造效益報告</a>》，探討旗下廣州太古滙透過社區營造產生的社會及經濟影響。研究闡述太古地產如何不斷投資於硬件和軟件，鞏固廣州太古滙及其社區的抗禦力。",
+							"2022年我們再次推出太古地產Placemaking Academy，安排一群香港的大學生設計、規劃和舉辦「白色聖誕市集」。我們希望透過本計劃向參加者傳授創新的知識與技能，培養他們成為新力軍，在長遠未來支持太古地產推展的各類社區營造計劃。"
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-sd-in-action-swire-hotels",
+			"places-vibrancy-art-and-culture",
+			"places-vibrancy-youth-empowerment-white-christmas-street-fair"
+		]
+	},
+	"places-resilience-page": {
+		"meta": {
+			"keywords": "2019冠狀病毒病疫情, 困難, 具抗禦力, 疫後復甦, 社會凝聚力, 適應力, 支持香港抗疫, 旗下物業全力應對疫情, 太古地產社區關懷基金",
+			"url": "/places/resilience",
+			"type": "places",
+			"image": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg",
+			"title": "社區抗禦力 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "我們致力在發展項目所在社區和周邊建立社會凝聚力、促進社區投資及提升適應力。"
+		},
+		"landing": {
+			"title": "社區抗禦力",
+			"tag": "GRI 203, 413<br/>HKEX 層面 B8, KPI B8.1, B8.2",
+			"contents": [
+				"2022年，香港和中國內地仍廣泛受到2019冠狀病毒病疫情影響。疫情下不少處所關閉，還有許多限制措施，我們的員工及物業營運都面對極大挑戰，但艱難時刻我們保持堅定，同心協力加強社會凝聚力、投放更多資源培養人才、建設社區以及增強適應力，為疫後復甦作好準備。"
+			]
+		},
+		"breadcrumb-title": "社區抗禦力",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "supporting-hong-kong-during-the-battle-against-the-pandemic",
+				"title": "支持香港抗疫",
+				"href": "/places/resilience/supporting-hong-kong-during-the-battle-against-the-pandemic",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/supporting-hong-kong-during-the-battle-against-the-pandemic-1.jpeg"
+					}
+				],
+				"contents": [
+					"2022年初，香港爆發第五波疫情，太古地產迅速作出行動回應，主動支援抗疫工作，從多方面著手防止疫症傳播，保障廣大市民的健康與安全。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "responding-to-the-pandemic-across-our-properties",
+				"title": "旗下物業全力應對疫情",
+				"href": "/places/resilience/responding-to-the-pandemic-across-our-properties",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg"
+					}
+				],
+				"contents": [
+					"2022年中國內地多次爆發疫情，當局實行封城等大規模防疫措施，項目所在的社區受到嚴重影響。太古地產迅速回應事態，在營運和社區層面作出適當安排。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-community-caring-fund",
+				"title": "太古地產社區關懷基金",
+				"href": "/places/resilience/swire-properties-community-caring-fund",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"太古地產社區關懷基金邀請員工提名一些知名度較低的香港社福機構，向他們提供資助。2022年，基金共資助21項計劃及外展項目，共捐款超過港幣200萬元。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-vibrancy",
+			"places-wellbeing",
+			"places-livelihood"
+		]
+	},
+	"places-sd-in-action-page": {
+		"meta": {
+			"keywords": "實踐可持續發展：太古酒店, 實踐可持續發展, 太古酒店, 居舍系列, 東隅酒店, 東隅, 瑜舍, 奕居, 博舍, 鏞舍, 居舍, 香港東隅, 北京東隅, 邁阿密東隅, 五個支柱, 創新衍變, 社區營造, 以人為本, 夥伴協作, 環境效益, 經濟效益",
+			"url": "/places/sd-in-action",
+			"type": "places",
+			"image": "/images/pages/places/sd-in-action/landing-section/left.jpg",
+			"title": "實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "太古酒店旗下的獨特物業體現太古地產「2030可持續發展策略」的五大支柱，協調和凝聚力量塑造可持續發展的社區。"
+		},
+		"breadcrumb-title": "實踐可持續發展：太古酒店",
+		"landing": {
+			"title": "實踐可持續發展：太古酒店"
+		},
+		"the-house-collective": "「居舍系列」",
+		"east-hotels": "「東隅」酒店",
+		"landing-section": {
+			"the-house-collective": {
+				"heading-top": "獨特居舍",
+				"heading-bottom": "獨特故事",
+				"description": "「居舍系列」的精品酒店各有特色，每間都別樹一格，獨特的設計出自創意形象師手筆，將藝術氛圍淋漓盡致地展現。"
+			},
+			"east-hotels": {
+				"heading-top": "一切",
+				"heading-bottom": "從這裏開始",
+				"description": "「東隅」酒店充滿時尚生活品味，明亮的設計洋溢都市活力，賞心悅目，將社區營造和可持續發展思維灌注所在都市的核心地帶。"
+			}
+		},
+		"intro-section": {
+			"pins": {
+				"the-temple-house": "博舍",
+				"east-beijing": "北京東隅",
+				"the-opposite-house": "瑜舍<br/>北京東隅",
+				"east-hong-kong": "香港東隅",
+				"the-middle-house": "鏞舍",
+				"the-upper-house": "奕居<br/>香港東隅",
+				"east-miami": "東邁阿密"
+			},
+			"contents": [
+				"太古酒店致力於旗下「居舍系列」及「東隅」兩個酒店品牌創造貼心細膩、真摯隨性的難忘體驗。集團在香港和中國內地管理多間酒店，每間也盡顯獨特風格，最能迎合追求創意、時尚及個人化服務的顧客。",
+				"「居舍系列」的精品酒店各有特色，每間都別樹一格，獨特的設計出自建築師和創意形象師手筆，將藝術氛圍淋漓盡致地展現。「東隅」品牌旗下的酒店充滿時尚及生活品味，明亮的設計洋溢活力，賞心悅目，將可持續發展思維灌注所在都市的核心地帶。兩個品牌分別以其獨有的品牌基因制定了方針，將各種可持續發展元素融入營運之中。"
+			]
+		},
+		"50-th-anniversary": {
+			"title": "配合50周年誌慶提倡創新",
+			"contents": [
+				"承傳太古地產創新衍變的願景，「東隅」酒店特別推出「創意覺醒」（Ideas to Wake Up To）演講者系列，定期邀請理念相同的商業和創意產業的領袖暢談，並舉行交流活動，促進聯繫和互相學習，激發嶄新意念。2022年共舉辦三場活動，一場在香港及兩場在邁阿密，均聚探討可持續發展的議題。",
+				"2021年，太古酒店舉辦「破格思維獎」（Think Differently Awards），旗下所有酒店均有參與。本獎項計劃旨在鼓勵所有團隊成員分享他們創新有趣的好主意。 2022年的獎項以可持續發展為重點，涵蓋三個主題：節約水資源、節約能源及廢物管理。我們共接獲164個好主意。",
+				"演講者系列及「破格思維獎」均突顯太古地產50年來的創新精神。"
+			]
+		},
+		"five-pillars": {
+			"title": "五大支柱",
+			"cards": [
+				{
+					"id": "places-vibrancy",
+					"pillar": "places",
+					"title": "社區活力",
+					"content": "「居舍系列」每兩年舉行一次「異國的相遇」藝術項目，透過這個嶄新藝術系列訴說每間酒店的故事，呈現它們的獨特風格。2021年居舍系列藝術...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/places-vibrancy/EAST HK City Symphony.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"「居舍系列」每兩年舉行一次「異國的相遇」藝術項目，邀請不同背景的藝術家創作聯乘藝術。2021年居舍系列酒店邀請來自世界各地的藝術家，一起探討空間和動感概念。這系列藝術作品是在疫情爆發後構思，通過視像互動裝置和不同風格的舞蹈，向負責設計每間酒店的知名建築師致敬。",
+							"2019年開展的「Art at EAST」項目是東隅酒店首個藝術企劃。香港東隅舉行了「City Symphony」互動展覽，展出多個造型獨特的木雕塑，讓來賓在太古社區踏上別開生面的聲音之旅。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-vibrancy/EAST HK City Symphony.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-vibrancy/Encounters Across Cultures - Installations.jpg",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "社區活力 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "「居舍系列」和「東隅」酒店的藝術及文化活動繽紛多彩。",
+							"keywords": "社區營造, 社區活力, 異國的相遇, 居舍系列, 香港東隅"
+						}
+					}
+				},
+				{
+					"id": "people-health-and-safety",
+					"pillar": "people",
+					"title": "健康及安全",
+					"content": "「居舍系列」貫徹太古地產的「零傷害承諾」，矢志保障員工、顧客及其他持份者的健康與安全。年內，「居舍系列」舉辦了數個健康和安全培訓課程...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-safety/IMG_2951.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"「居舍系列」貫徹太古地產的「零傷害承諾」，矢志保障員工、顧客及其他持份者的健康與安全。年內，「居舍系列」舉辦了數個健康和安全培訓課程；而東隅酒店則專注推廣員工安全，當中特別舉辦防止滑倒、絆倒或跌倒的培訓。我們推出了三個系列、六個級別的防滑、防絆、防摔錄像課程，於2022年6月至11月期間每周播放，講解如何加强靜態及動態平衡，從而减少和預防潛在工傷事件，課程並加插知識小百科、測驗及幸運抽獎，內容豐富有趣，課程完成率達100%。",
+							"奕居亦定期提供急救培訓，確保團隊成員擁有最新的急救技能與知識。2022年7月，我們邀請外部培訓師為全體員工進行年度職業健康與安全（OHS）必修課程。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-safety/IMG_2951.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-safety/IMG_2956.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-safety/IMG_5865.jpg"
+							}
+						],
+						"meta": {
+							"title": "健康及安全 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "所有酒店皆貫徹太古地產的「零傷害承諾」，保障員工、顧客及其他持份者的健康與安全。",
+							"keywords": "以人為本, 健康及安全, 零傷害承諾, 居舍系列, 健康和安全培訓課程, 東隅酒店, 防滑、防絆、防摔錄像課程, 奕居, 職業健康與安全（OHS）必修課程"
+						}
+					}
+				},
+				{
+					"id": "partners-customers",
+					"pillar": "partners",
+					"title": "顧客",
+					"content": "太古酒店今年推出多項數碼化工程改善服務，為顧客帶來更精簡及個人化的體驗，同時提高後勤作業的效率。例如最新推出「居舍系列」微信小程序...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/partners-customers/EHK Digital QR Code Menus.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"太古酒店今年推出多項數碼化工程改善服務，為顧客帶來更精簡及個人化的體驗，同時提高後勤作業的效率。例如最新推出「居舍系列」微信小程序，用戶可在一個平台閱覽四間酒店的資料和特別優惠，為賓客帶來更便捷的智能體驗。",
+							"香港東隅在各餐廳引入數碼餐牌，食客可利用個人裝置掃描二維碼點餐，餐廳會以短訊或電子郵件發送收據，帶來無紙化用餐體驗。",
+							"奕居的訪客現在可以掃描客房內的二維碼啟用一系列禮賓服務，包括客房送餐和洗衣服務，方便之餘，還大大減少客服電話數量，顧客也可直接在奕居網店購物，享受無縫的用戶體驗。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-customers/EHK Digital QR Code Menus.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-customers/Mini programme.png",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "顧客 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "太古酒店推行多個數碼改善項目，精簡和個人化住客體驗，提高營運效率。",
+							"keywords": "夥伴協作, 顧客, 數碼化工程改善服務, 「居舍系列」微信小程序, 香港東隅, 數碼餐牌, 奕居, 禮賓服務"
+						}
+					}
+				},
+				{
+					"id": "environment-performance-environment",
+					"pillar": "environment",
+					"title": "酒店可持續發展技術指引",
+					"content": "2022年，我們發佈最新編製的《酒店可持續發展技術指引》，闡述太古酒店從設計和建造新發展項目...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-1.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"2022年，我們發佈最新編製的《酒店可持續發展技術指引》，闡述太古酒店從設計和建造新發展項目到酒店營運階段所追求的可持續發展抱負及願景。指引鼓勵酒店團隊群策群力和銳意創新，努力開拓機遇，促進我們的酒店組合在本地及全球提升以下多個層面的可持續發展表現：",
+							{
+								"type": "ul",
+								"value": [
+									"可持續發展酒店認證",
+									"建築設備管理系統及分錶",
+									"能源效益",
+									"用水效益",
+									"室內環境質素",
+									"資源循環管理",
+									"可持續運輸",
+									"內部裝潢及物料"
+								]
+							}
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-2.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-3.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-hotel-sustainability-technical-guidelines/environment-hotel-sustainability-technical-guidelines-4.jpg"
+							}
+						],
+						"meta": {
+							"title": "環境效益 | 太古地產2022可持續發展報告",
+							"content": "我們設計、建造和管理高質素的發展項目，務求為項目所在社區及環境作出貢獻。",
+							"keywords": "環境效益, 環境, 可持續發展, 氣候變化, 科學基礎減碳目標, 溫室氣體, 下游, 範圍三, 範圍一及範圍二, 水資源, 耗水強度, 能源, 能源耗用強度, 資源及循環, 商業廢物分流率, 建築物／資產投資, 綠色建築認證評級, 現有發展項目, 用戶健康, 室內空氣質素, 卓越級別, 生物多樣性, 城市生物多樣性研究, 重建項目, 環境影響概覽, 2022年進展摘要, 統計數據摘要 (環境) "
+						}
+					}
+				},
+				{
+					"id": "economic-performance-economic",
+					"pillar": "economic",
+					"title": "拓展「居舍系列」品牌",
+					"content": "太古酒店力求卓越，一再樹立新標準，更不遺餘力地創造愜意新體驗，吸引各方賓客、旅客及食客。2022年，太古酒店宣佈計劃以管理協議形式，將酒...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/economic-expanding-the-house-collective-brand/economic-expanding-the-house-collective-brand-tc-1.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"太古酒店力求卓越，一再樹立新標準，更不遺餘力地創造愜意新體驗，吸引各方賓客、旅客及食客。",
+							"2022年，太古酒店宣佈計劃以管理協議形式，將酒店品牌擴展到其他城市。兩間新酒店將採用此商業模式營運。第一間選址深圳的酒店，預計於2025年開業，另一間則落戶東京，預計2027年落成。",
+							"位於深圳的新酒店隸屬「居舍系列」品牌，坐擁深圳灣美景，將提供115間客房及44間服務式住宅。酒店是高級綜合發展項目的一部分，項目內有多座甲級辦公樓和活動及展覽中心。",
+							"太古酒店並與Tokyu Corporation和Tokyu Department Store（合稱「Tokyu Group」）及<i>L</i> Catterton Real Estate（「LCRE」）攜手合作，共同發展東京的「居舍系列」品牌旗下全新酒店。酒店位於當地地標Tokyu Department Store旗艦旗艦店原址，位處時尚的澀谷區邊緣地帶，將會是澀谷上西區開發計劃的項目之一。",
+							"澀谷上西區開發計劃冀為東京鬧市帶來首個真正的的寧靜休憩空間，讓訪客遠離喧囂、真正放鬆。項目設有酒店、服務式住宅、高端零售設施、特色餐飲食肆和藝術文化設施，整體設計以環保及可持續發展為重點，未來將申請多項國際認證。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/economic-expanding-the-house-collective-brand/economic-expanding-the-house-collective-brand-tc-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/economic-expanding-the-house-collective-brand/economic-expanding-the-house-collective-brand-tc-2.jpg",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "經濟效益 | 太古地產2022可持續發展報告",
+							"content": "太古地產透過良好的企業管治及高尚的職業操守，致力創造可持續經濟效益。",
+							"keywords": "經濟效益, 綠色金融, 綠色債券所籌得資金, 綠色融資報告, 財務摘要, 投資者關係, 風險管理, 2022年進展摘要"
+						}
+					}
+				},
+				{
+					"id": "environment-energy",
+					"pillar": "environment",
+					"title": "能源",
+					"content": "2021年，整個成都遠洋太古里項目(包括博舍)已全面採用可再生電能（水力、太陽能及風力組合）。該綜合項目走在清潔能源的最前線，是四川...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-energy/1_Lobby_1.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"2021年，整個成都遠洋太古里項目(包括博舍)已全面採用可再生電能（水力、太陽能及風力組合）。該綜合項目走在清潔能源的最前線，是四川省和太古地產旗下第一間實現業主及租戶營運年度淨零碳用電的企業，成為公司旗下其他物業及同業的典範。",
+							{
+								"type": "sub-title",
+								"class": "color-pillar-environment mb-2",
+								"value": "綠色建築認證"
+							},
+							{
+								"type": "sd-in-action-icon-group",
+								"title": "鏞舍",
+								"groups": [
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/leed.svg",
+										"iconWidth": 100,
+										"list": [
+											"能源與環境設計先鋒評級（LEED）（樓宇設計與建築）認證：金級"
+										]
+									},
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/china-green-building-design-label.png",
+										"iconWidth": 100,
+										"list": [
+											"中國綠色建築評價標識：兩星"
+										]
+									}
+								]
+							},
+							{
+								"type": "sd-in-action-icon-group",
+								"title": "博舍",
+								"groups": [
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/leed.svg",
+										"iconWidth": 100,
+										"list": [
+											"能源與環境設計先鋒評級（LEED）（運營與維護：既有建築）認證：鉑金級",
+											"能源與環境設計先鋒評級（LEED）（社區發展）認證：金級"
+										]
+									},
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/china-green-building-design-label.png",
+										"iconWidth": 100,
+										"list": [
+											"中國綠色建築評價標識：兩星"
+										]
+									}
+								]
+							},
+							{
+								"type": "sd-in-action-icon-group",
+								"title": "北京東隅",
+								"groups": [
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/leed.svg",
+										"iconWidth": 100,
+										"list": [
+											"能源與環境設計先鋒評級（LEED）（樓宇設計與建築）認證：金級 ",
+											"能源與環境設計先鋒評級（LEED）（運營與維護：既有建築）認證：金級 "
+										]
+									}
+								]
+							},
+							{
+								"type": "sd-in-action-icon-group",
+								"title": "香港東隅",
+								"groups": [
+									{
+										"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/beam-plus.png",
+										"iconWidth": 120,
+										"list": [
+											"綠建環評（新建建築）：金級"
+										]
+									}
+								]
+							}
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/1_Lobby_1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/2_Exterior_Taikoo_Li.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/3_EAB Exterior.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-energy/4_SPD5_24Feb17_1596.jpg"
+							}
+						],
+						"meta": {
+							"title": "能源 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "我們推廣可再生及清潔能源取得美滿成果，成為公司旗下其他物業和同業的典範。",
+							"keywords": "環境效益, 能源, 成都遠洋太古里, 博舍, 全面採用可再生電能, 綠色建築認證, 鏞舍, 北京東隅, 香港東隅"
+						}
+					}
+				},
+				{
+					"id": "places-livelihood",
+					"pillar": "places",
+					"title": "經濟民生",
+					"content": "年內，香港東隅的愛心大使繼續推行2020年開展的「愛心抗疫湯包」慈善計劃，籌募善款幫助香港的基層家庭，同時送上營養美味的暖心湯包。香港東...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/places-livelihood/livelihood-1.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"年內，香港東隅的愛心大使繼續推行2020年開展的「愛心抗疫湯包」慈善計劃，籌募善款幫助香港的基層家庭，同時送上營養美味的暖心湯包。香港東隅的同事精心優選食材炮製特色湯包，迄今已透過11間社福機構送出2,261份湯包，此外並派發5,900份湯包給東區醫院的醫生、護士和工作人員，向前線醫護人員傳遞簡單訊息：「我們與您同行！」"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-livelihood/livelihood-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-livelihood/livelihood-2.jpg",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "經濟民生 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "太古地產愛心大使繼續推行長期慈善計劃。",
+							"keywords": "社區營造, 經濟民生, 香港東隅, 愛心大使, 愛心抗疫湯包, 社福機構"
+						}
+					}
+				},
+				{
+					"id": "environment-waste-reduction",
+					"pillar": "environment",
+					"title": "減廢",
+					"content": "年內，我們加強行動，致力減少使用即棄塑膠製品。為配合太古酒店的政策，我們已實施多項措施，減少營運過程中消耗這類塑膠製品的數量...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/1_20201104AKho-EAST-Business-0169.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"年內，我們加強行動，致力減少使用即棄塑膠製品。為促進太古酒店的願景，我們已實施多項措施，減少營運過程中消耗這類塑膠製品的數量。",
+							"香港東隅、北京東隅及奕居在逾800間客房加裝濾水系統，代替派發膠樽水，由此減少耗用逾2.7噸膠樽。奕居同時在酒店健身室安裝過濾飲水機。",
+							"博舍、鏞舍及香港東隅已逐步淘汰所有即棄塑膠製品，所有飲管、美食禮物籃、客房用品包裝和牙刷均改用可生物降解物料製造的產品，酒店並推出可重用環保咖啡杯，以咖啡殼、竹粉及其他天然植物纖維壓製而成。顧客購買飲品指定用環保杯，可獲得推廣獎賞。",
+							"「居舍系列」的減廢措施包括：",
+							{
+								"type": "ul",
+								"value": [
+									"博舍及鏞舍均以木製門卡取代膠卡，瑜舍則選用竹製門卡。",
+									"瑜舍僅在賓客要求下才會提供即棄浴室用品。",
+									"餐廳以皮革杯墊取代紙杯墊。",
+									"將床單升級再造成為T裇。",
+									"The Continental餐廳回收舊玻璃樽製成環保地磚。",
+									"瑜舍回收咖啡膠囊 ― 將咖啡渣轉化為泥土，膠囊殼循環再用。",
+									"選用太陽能加工和採用可生物降解物料包裝的咖啡豆。",
+									"多間酒店採用ecoSPIRITS─創新的閉環配送系統，幾乎可完全避免高級酒精類飲品供應鏈的包裝廢物。"
+								]
+							},
+							"東隅酒店也致力透過不同渠道減廢：",
+							{
+								"type": "ul",
+								"value": [
+									"入住及退房流程實現無紙化操作。",
+									"香港東隅及北京東隅以木製門卡取代膠卡。",
+									"香港東隅及北京東隅逾500間客房現已加裝濾水系統，逐漸淘汰膠樽水。",
+									"賓客可掃描StayMenu二維碼要求客房送餐服務，以享受非接觸式點餐體驗，酒店因此大幅減少列印娛樂節目列表和客房餐牌，各餐廳及酒吧因而減少約七成餐牌用紙。",
+									"身體護理用品使用可回收容器。",
+									"按賓客要求供應竹製浴室用品。",
+									"改用更環保的可再用購物袋、紙衣架、帆布洗衣袋和拖鞋。",
+									"塑膠、鋁、玻璃、咖啡渣及床單均回收再用。"
+								]
+							}
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/1_20201104AKho-EAST-Business-0169.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/EAB Wooden Card.png"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/Eco Cup_TTH.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/EHK Coffee Cup.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-waste-reduction/Upcycling Linens.jpg"
+							}
+						],
+						"meta": {
+							"title": "減廢 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "2022年，我們加強行動，致力減少業務營運使用即棄塑膠製品。",
+							"keywords": "環境效益, 減廢, 即棄塑膠製品, 香港東隅, 北京東隅, 奕居, 濾水系統, 博舍, 鏞舍, 香港東隅, 環保杯, 減廢措施"
+						}
+					}
+				},
+				{
+					"id": "people-internal-zero-ltir-awards",
+					"pillar": "people",
+					"title": "內部零損失工時事故獎",
+					"content": "瑜舍 - 截至2022年中 - 500天零損失工時事故，北京東隅 - 500天零損失工時事故，博舍 - 180天零損失工時事故，香港東隅 及 東隅服務式住宅 - 180天零損...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/TOH Zero LTI 2.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"<strong><i>瑜舍</i></strong>&nbsp;: <br /> <span class='n3 color-pillar-people js-count-up-number js-count-up-number--force'>500</span> 天",
+							"<strong><i>北京東隅</i></strong>&nbsp;: <br /> <span class='n3 color-pillar-people js-count-up-number js-count-up-number--force'>500</span> 天",
+							"<strong><i>博舍</i></strong>&nbsp;: <br /> <span class='n3 color-pillar-people js-count-up-number js-count-up-number--force'>180</span> 天",
+							"<strong><i>香港東隅</i></strong>&nbsp; 及 <strong><i>東隅服務式住宅</i></strong>&nbsp;: <br /> <span class='n3 color-pillar-people js-count-up-number js-count-up-number--force'>180</span> 天"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/TOH Zero LTI 2.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/Zero LTI award presentation-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/EHK Zero LTI Zero LTI 2.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-internal-zero-lost-time-injury-rate-awards/Zero LTI award presentation-2.jpg"
+							}
+						],
+						"meta": {
+							"title": "內部零損失工時事故獎 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "多間酒店於2022年贏得180或500天零損失工時事故獎。",
+							"keywords": "以人為本, 內部零損失工時事故獎, 瑜舍, 北京東隅, 博舍, 香港東隅, 東隅服務式住宅 "
+						}
+					}
+				},
+				{
+					"id": "partners-suppliers",
+					"pillar": "partners",
+					"title": "供應商",
+					"content": "2022年，太古酒店開始將太古集團新修訂的《可持續採購政策》和《可持續食品政策》納入集團的採購程序指引。我們日常採購時嚴格遵從3R原則（減...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/EHK Plant-based vegetarian menus.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"2022年，太古酒店開始將太古集團新修訂的《可持續採購政策》和《可持續食品政策》納入集團的採購程序指引。",
+							"我們日常採購時嚴格遵從3R原則（減廢、循環再用、回收再造），同時盡量要求供應商提供可持續產品，例如森林管理委員會（FSC）認證紙品及符合水產養殖管理委員會（ASC）和海洋管理委員會（MSC）認證標準的環保海鮮。",
+							"大部分太古酒店的餐廳亦會向當地供應商及農戶採購新鮮農產品、活魚或乳製品，務求減少長途運輸食品而產生的碳排放。2022年，瑜舍向兩個當地農場採購可食用花卉、蕃茄和新鮮香草，以及向中國內地兩個水產養殖場採購鮮魚及自製魚子醬。博舍的蔬菜全部購自當地農場，而奕居的鮮魚則由本地水產養殖場供應，並在有機農場購買蔬菜。北京東隅的手工啤酒均在本地釀製，餐廳供應的芝士半數於本地原產。",
+							"大部分太古酒店的食肆均選用符合世界自然基金會香港分會的《海鮮選擇指引》或水產養殖管理委員會（ASC）標準的環保海鮮，同時遵守《太古股份有限公司－可持續食品政策》，禁止採購任何不可持續食材的強制性規定，例如魚翅或蛇肉。香港酒店奉客的海鮮四成經水產養殖管理委員會（ASC）或海洋管理委員會（MSC）認證。我們希望在2030年前將比例提高至五成。 ",
+							"我們的酒店也逐漸提供純素及素肉菜式。瑜舍的Union餐廳於2021年底推出純素餐單，所有菜式均以素肉作食材。北京東隅的餐單亦已加入素肉美食。香港東隅的餐廳FEAST則備有多款素食菜式。今年，所有餐廳的飲品餐牌均已加入純素或有機葡萄酒。",
+							"我們所有酒店並已全面實行從農場到餐桌的餐飲理念。香港東隅、奕居、鏞舍和博舍均使用走地雞蛋；博舍The Temple Café約一成的蔬菜在餐廳的花園新鮮採摘，花園每月可生產約三公斤香草供餐廳使用。",
+							"香港東隅與一家在香港推廣都市農圃的熱心社會企業合作，在酒店泳池陽台一角建造城市農圃。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/EHK Plant-based vegetarian menus.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/TTH Herb Garden.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/TUH Seafood dishes.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/4_The Upper House Salisterra Main Dining Room Night 1.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-suppliers/5_Frasca_Dining area.jpg"
+							}
+						],
+						"meta": {
+							"title": "供應商 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "太古酒店致力將可持續發展原則納入所有採購政策和指引。",
+							"keywords": "夥伴協作, 供應商, 可持續採購政策, 可持續食品政策, 3R原則（減廢、循環再用、回收再造）, 森林管理委員會（FSC）認證紙品, 水產養殖管理委員會（ASC）, 海洋管理委員會（MSC）認證標準的環保海鮮, 瑜舍, 博舍, 當地農場, 北京東隅, 手工啤酒, 世界自然基金會香港分會的《海鮮選擇指引》, 純素餐單, 素肉美食, 從農場到餐桌, 香港東隅, 奕居, 鏞舍"
+						}
+					}
+				},
+				{
+					"id": "places-wellbeing",
+					"pillar": "places",
+					"title": "社群福祉",
+					"content": "我們所有酒店均為顧客及員工提供獨特的全面健康計劃。香港奕居設有身心健康計劃，包括整體療護、瑜伽及冥想課程、健身課程和房內按摩療程，部分服務更是與知名運動和健康品牌合作協辦...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/1_MicrosoftTeams-image (48).png",
+					"square": false,
+					"popup": {
+						"contents": [
+							"我們所有酒店均為顧客及員工提供獨特的全面健康計劃。香港奕居設有身心健康計劃，包括整體療護、瑜伽及冥想課程、健身課程和房內按摩療程，部分服務更是與知名運動和健康品牌合作協辦。",
+							"博舍全年定期推出健康計劃，包括酒店餐廳的健康餐單、跨品牌合作項目和為客人度身設計的健康主題體驗，例如安排運動派對培養平和心境、快樂和身心健康，以及在封控期間為員工和「居舍之友」提供直播瑜伽課程，其中一節更吸引500多位粉絲。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/1_MicrosoftTeams-image (48).png",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/2_MicrosoftTeams-image (49).png",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/3_4WD_1732.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/4_4WD_9431.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/5_MXJ_1777.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-wellbeing/6_MXJ4811.jpg"
+							}
+						],
+						"meta": {
+							"title": "社群福祉 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "我們所有酒店均為顧客及員工提供獨特而全面的健康計劃。",
+							"keywords": "社區營造, 社群福祉, 身心健康, 整體療護, 瑜伽, 冥想課程, 健身課程, 房內按摩療程, 博舍, 健康主題體驗"
+						}
+					}
+				},
+				{
+					"id": "partners-partnering-with-a-brewery",
+					"pillar": "partners",
+					"title": "與啤酒廠合作善用剩餘麵包釀製啤酒!",
+					"content": "香港東隅夥拍香港一間本地啤酒廠，收集酒店Domain Café剩餘的新鮮烘焙食品，用作釀酒材料...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/partners-partnering-with-a-brewery-to-save-bread/EHK Bao Beer.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"香港東隅夥拍香港一間本地啤酒廠，收集酒店Domain Café剩餘的新鮮烘焙食品，用作釀酒材料製作拉格啤酒。麵包收集後會運送到啤酒廠，過程中麵包會被磨碎，以取替一部分大麥芽。啤酒經過兩個月發酵後，沉澱的麵包碎及麥芽碎會被送至本地農場轉化為飼料和肥料，推廣循環理念。透過這項安排，酒店可避免浪費約40公斤剩餘麵包運往堆填區棄置。"
+						],
+						"gallery": [
+							{
+								"type": "video",
+								"poster": "/images/pages/places/sd-in-action/five-pillars/partners-partnering-with-a-brewery-to-save-bread/Thumbnail.jpg",
+								"src": "https://media.swireproperties.com/a9c7205c-833f-4f42-a26b-a2a97e9f5319/1min-final.ism/manifest",
+								"sdInAction": true,
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-partnering-with-a-brewery-to-save-bread/EHK Bao Beer.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/partners-partnering-with-a-brewery-to-save-bread/Indoor Bar - Medium.jpg",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "善用剩餘麵包釀製啤酒 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "香港東隅夥同一間本地手工啤酒廠，收集酒店咖啡室剩餘的新鮮烘焙食品，用作釀酒材料製作拉格啤酒。",
+							"keywords": "夥伴協作, 與啤酒廠合作善用剩餘麵包釀製啤酒!, 香港東隅, 本地啤酒廠,麵包, 肥料, 循環"
+						}
+					}
+				},
+				{
+					"id": "people-diversity-and-inclusion",
+					"pillar": "people",
+					"title": "多元與共融",
+					"content": "2022年6月，香港東隅與基督教勵行會合作，聘用了兩名難民身份的新員工。當中一名來自斯里蘭卡，獲酒店取錄為客務關係大使；另一名來自巴基斯坦...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-diversity-and-inclusion/TUH Upstairs.png",
+					"square": false,
+					"popup": {
+						"contents": [
+							"2022年6月，香港東隅與基督教勵行會合作，聘用了兩名難民身份的新員工。當中一名來自斯里蘭卡，獲酒店取錄為客務關係大使；另一名來自巴基斯坦，獲聘用為公眾地方服務員。此外，奕居亦聘用了兩位難民身份的新員工，擔任Salisterra餐廳的侍應，分別來自盧旺達和印尼。",
+							"年內，奕居再度與香港唐氏綜合症協會協辦已舉行多年的「<a class='text-people' href='/2022/zh-hk/people/diversity-and-inclusion/social-inclusion#the-upstairs-programme'>UPSTAIRS酒店培訓及實習計劃</a>」，今年共有10位成員參加，分別在酒店五個部門接受培訓以汲取工作經驗。",
+							"香港東隅聯同賽馬會善樂學校為有學習障礙的小朋友提供特殊職業訓練。學員們有機會與工作團隊合作，親身實習摺餐巾、歡迎顧客、安排餐桌座位和準備客房用品包等，累積實際的工作經驗。"
+						],
+						"gallery": [
+							{
+								"type": "video",
+								"poster": "/images/pages/places/sd-in-action/five-pillars/people-diversity-and-inclusion/Thumbnail.jpg",
+								"src": "https://media.swireproperties.com/5b23b69f-0674-4d66-9377-35a3a3b87d22/The_Upper_House_X_Hong_Kong_Down.ism/manifest",
+								"sdInAction": true,
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-diversity-and-inclusion/TUH Upstairs.png",
+								"full": true
+							}
+						],
+						"meta": {
+							"title": "多元與共融 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "我們旗下多間酒店與社區組織合作，為有需要人士提供就業或培訓。",
+							"keywords": "以人為本, 多元與共融, 基督教勵行會, 香港東隅, 斯里蘭卡, 巴基斯坦, 奕居, 香港唐氏綜合症協會, UPSTAIRS酒店培訓及實習計劃, 賽馬會善樂學校, 特殊職業訓練, 實際的工作經驗"
+						}
+					}
+				},
+				{
+					"id": "environment-water",
+					"pillar": "environment",
+					"title": "水資源",
+					"content": "鏞舍參加了一項年度水平衡測試計劃，酒店的工程團隊在客房區、所有餐廳和酒店公共地方安裝了六個水錶，每月分析每個每個區域的耗水量，並可...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-water/1_Studio 70_Bathroom.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"鏞舍參加了一項年度水平衡測試計劃，酒店的工程團隊在客房區、所有餐廳和酒店公共地方安裝了六個水錶，每月分析每個區域的耗水量，並可及時處理漏水問題並即時維修。估計到2022年底，每賓客入住晚數的耗水量可減少2%，即降至至0.61立方米以內。",
+							"博舍早於2017年已裝設中水處理及回收系統，以收集和重用浴室收集的水、冷卻水及雨水，現時每年藉著系統節省約7,300立方米的用水量。所有東隅酒店的客房水龍頭及淋浴間均已安裝節流器，其中香港東隅因而平均每日減少1,040立方米的用水量。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-water/1_Studio 70_Bathroom.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-water/2_Penthouse_bathroom.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-water/3_Flow Controller (EAST HK).jpg"
+							}
+						],
+						"meta": {
+							"title": "水資源 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "太古酒店繼續開拓途徑減少用水需求。",
+							"keywords": "環境效益, 水資源, 水錶, 漏水, 耗水量, 中水處理及回收系統"
+						}
+					}
+				},
+				{
+					"id": "places-resilience",
+					"pillar": "places",
+					"title": "社區抗禦力",
+					"content": "2022年部分時間，安排海外來港人士檢疫是香港整體抗疫策略的重要一環，香港東隅為配合政府的檢疫措施，加入了指定檢疫酒店計劃，於2022年2月至10月成為指定檢疫酒店。成都實行「原則居家」...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/places-resilience/EHK Quarantine Room Image.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"香港東隅成爲香港整體抗疫檢疫策略的重要一環，配合政府的檢疫措施於2022年2月至10月期間成為海外來港人士檢疫指定檢疫酒店。",
+							"成都實行「原則居家」期間，博舍向當時每日為地方社區進行核酸檢測的政府社區辦公室派送月餅。酒店並在中秋節捐贈及派送215盒月餅給多間慈善機構。除此之外，酒店又向員工派發關愛防疫包，更貼心地送到員工宿舍，而酒店住客則每天獲派發外賣包，內有葡萄酒、芝士、謐尋茶室火鍋、特色雞尾酒和拼圖遊戲，確保他們置身的環境開朗舒適，讓他們保持樂觀積極的心態。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-resilience/EHK Quarantine Room Image.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-resilience/20201104AKho-EAST-Business-0013.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/places-resilience/20201104AKho-EAST-Business-0051.jpg"
+							}
+						],
+						"meta": {
+							"title": "社區抗禦力 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "「東隅」酒店及「居舍系列」在疫情期間擔當重要角色支援社區。",
+							"keywords": "社區營造, 社區抗禦力, 香港東隅, 檢疫措施, 檢疫策略, 原則居家, 博舍, 核酸檢測, 員工宿舍"
+						}
+					}
+				},
+				{
+					"id": "people-talent",
+					"pillar": "people",
+					"title": "人才管理",
+					"content": "今年，太古酒店全面推行「營運管理見習生計劃」。我們根據見習生的長處及抱負，度身設計個人化計劃，並讓他們到香港及中國內地不同部門和...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-1.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"太古酒店在旗下酒店組合推行「營運管理見習生計劃」，根據見習生的長處及抱負，度身設計個人化計劃，為他們提供到香港及中國內地不同部門和地點工作的機會。見習生完成12至18個月的在職培訓後，對酒店業務有更深入和全面的認識，並了解到管理層的看法與見解。",
+							"2022年7月，奕居為全體員工安排了全新的必修一小時可持續發展工作坊，探討太古酒店集團的可持續發展進程，以及在個人層面如何投入可持續生活方式。未來我們將構思更多可持續發展主題有關的工作坊。",
+							"香港東隅分別舉辦GroPRO和LeadPRO人才發展培訓計劃，培育團隊成員及團隊領袖。兩項課程旨在提升員工個人特質與長處，他們並可同時參加「如何實施項目」工作坊和指導工作坊，融匯不同知識，促進個人發展。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-2.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-3.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-4.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-5.png"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-talent/Talent Management-6.png"
+							}
+						],
+						"meta": {
+							"title": "人才管理 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "年內安排多種培訓及發展課程，讓員工和團隊領袖提升技能。",
+							"keywords": "以人為本, 人才管理, 太古酒店, 營運管理見習生計劃, 在職培訓, 奕居, GroPRO和LeadPRO人才發展培訓計劃"
+						}
+					}
+				},
+				{
+					"id": "environment-green-kitchens",
+					"pillar": "environment",
+					"title": "綠色廚房",
+					"content": "FEAST餐廳已安裝和實施多項減廢措施，所有餐飲設施的廚餘均進行分類，然後利用ORCA技術，每天將多達270公斤的廚餘轉化為可排放到污水處理系統的液體。香港東隅應用這項技術每月避免高達2,000...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/environment-green-kitchens/EHK FEAST - Green Kitchen Award.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							{
+								"type": "sub-title",
+								"class": "color-pillar-environment",
+								"value": "香港東隅FEAST餐廳的減廢措施"
+							},
+							"FEAST餐廳已安裝和實施多項減廢措施：",
+							{
+								"type": "ul",
+								"value": [
+									"所有餐飲設施的廚餘均進行分類，然後利用ORCA技術，每天將多達270公斤的廚餘轉化為可排放到污水處理系統的液體。香港東隅應用這項技術每月避免高達2,000公斤的廚餘運到堆填區棄置。",
+									"當附近沒有顧客時，附設感測器的雪櫃門會自動關上，延長食物保鮮時間，減少浪費。",
+									"FEAST與大自然保護協會合作，將蠔殼轉化為蠔礁底基材料，用於建造新的活蠔礁，發揮天然海水過濾器及穩定海岸線的重要作用。自2022年1月以來，餐廳已提供超過2.2噸蠔殼。",
+									"餐廳與一家公司合作回收廢食油轉化為生物柴油。",
+									"FEAST使用「減廢」分節所述的 ECOSpirits系統。",
+									"回收咖啡渣供應酒店園丁用作肥料。"
+								]
+							},
+							{
+								"type": "sub-title",
+								"class": "color-pillar-environment",
+								"value": "「綠色廚房」計劃"
+							},
+							"太古酒店旗下所有食肆均積極參與太古地產的「<a href='/2022/zh-hk/partners/tenants/environment#the-green-kitchen-initiative'>綠色廚房</a>」計劃。",
+							{
+								"type": "sub-title",
+								"class": "color-pillar-environment",
+								"value": "獲「綠色廚房」計劃嘉許的太古酒店食肆"
+							},
+							{
+								"type": "table1",
+								"pillar": "environment",
+								"table-type": "green-kitchen-table",
+								"table-slim": true,
+								"table-middle": true,
+								"table-no-responsive": true,
+								"value": {
+									"custom-head-size": "c1 font-weight-medium sm:w-max",
+									"thead": [
+										"食肆",
+										"酒店組合",
+										"評級",
+										"嘉許年份"
+									],
+									"tbody": [
+										[
+											{
+												"contents": "Domain"
+											},
+											{
+												"rowspan": 2,
+												"contents": "北京東隅"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "FEAST"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "Domain"
+											},
+											{
+												"rowspan": 2,
+												"contents": "香港東隅"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "FEAST"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "Salisterra"
+											},
+											{
+												"rowspan": 2,
+												"contents": "奕居"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "The Continental"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "Frasca"
+											},
+											{
+												"rowspan": 2,
+												"contents": "瑜舍"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "超級飛"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2020"
+											}
+										],
+										[
+											{
+												"contents": "Frasca"
+											},
+											{
+												"rowspan": 3,
+												"contents": "鏞舍"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "隨堂里"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "Café Gray Deluxe"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "The Temple Café"
+											},
+											{
+												"rowspan": 3,
+												"contents": "博舍"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "Tivano"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										],
+										[
+											{
+												"contents": "謐尋茶室"
+											},
+											{
+												"contents": "<div class='text-sm-nowrap'><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /><img src='/2022/images/icons/leaf.svg' /></div>"
+											},
+											{
+												"contents": "2021"
+											}
+										]
+									]
+								}
+							},
+							"香港東隅兩間餐廳FEAST和Domain獲得「綠色廚房」計劃的三葉評級，表揚他們努力不懈節能減廢及節約用水，並果斷推行可持續發展的翻新改造工程，包括：",
+							{
+								"type": "ul",
+								"value": [
+									"安裝變頻排風機，減少用電量。",
+									"在水龍頭安裝節水裝置，並調節至最佳流速。",
+									"推出紙飲管及可生物降解粟米粉外賣盒，取代即棄塑膠製品。"
+								]
+							},
+							"上述措施成效十分理想，與2019年下半年比較，各食肆於2021年同期取得以下佳績：",
+							{
+								"type": "ul",
+								"value": [
+									"用電量減少<span class='text-environment n3 mb-0'>6%</span>（不包括空調用電量）",
+									"煤氣耗用量下降<span class='text-environment n3 mb-0'>31%</span>",
+									"耗水量減少<span class='text-environment n3 mb-0'>19%</span>"
+								]
+							}
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-green-kitchens/EHK FEAST - Green Kitchen Award.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-green-kitchens/EHK FEAST - Green Kitchen.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/environment-green-kitchens/TTH ORCA.jpg"
+							}
+						],
+						"meta": {
+							"title": "綠色廚房 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "太古酒店旗下所有食肆均積極參與太古地產的「綠色廚房」計劃。",
+							"keywords": "環境效益, 綠色廚房, 廚餘, 附設感測器的雪櫃門, 大自然保護協會, 活蠔礁, 肥料, 咖啡渣, 「綠色廚房」計劃, 三葉評級"
+						}
+					}
+				},
+				{
+					"id": "people-staff-engagement",
+					"pillar": "people",
+					"title": "員工參與",
+					"content": "太古酒店旗下酒店每年也會定期舉辦員工活動，一方面激勵士氣，另一方面分享最新公司資訊。年內鏞舍舉辦了兩次員工大會，全體員工聽取總經理...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/1_TMH Ping Pong during lockdown for team members.jpg",
+					"square": true,
+					"popup": {
+						"contents": [
+							"太古酒店旗下酒店每年也會定期舉辦員工活動，一方面激勵士氣，另一方面分享最新公司資訊。年內鏞舍舉辦了兩次員工大會，全體員工聽取總經理簡報酒店的表現、最新情況及即將舉行的活動詳情，並安排多個有趣好玩的遊戲及幸運抽獎，團隊成員和領袖均盡興而返。",
+							"香港東隅舉行「轉廢為材」嘉年華，並邀請員工參與，把家中全新未用但不再需要的物品帶到現場送贈同事，好讓物盡其用。",
+							"瑜舍邀請保護雀鳥組織舉辦員工工作坊，講解如何保護環境和在城市中為雀鳥創造理想的棲息環境，工作坊亦讓參加者了解如何與城居動物共存。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/1_TMH Ping Pong during lockdown for team members.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/2_57be97c8-0723-4f43-9eb1-4593f2ce139e.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/3_28.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/4_Dragon Boat Festival Fruits Delevery to all TMs.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-staff-engagement/5_Birthday Celebration - 1.jpg"
+							}
+						],
+						"meta": {
+							"title": "員工參與 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "年內太古酒店旗下物業經常舉辦活動提高員工士氣和分享正面消息。",
+							"keywords": "以人為本, 員工參與, 鏞舍, 員工大會, 香港東隅, 轉廢為材, 瑜舍"
+						}
+					}
+				},
+				{
+					"id": "people-wellness",
+					"pillar": "people",
+					"title": "身心健康",
+					"content": "太古酒店設有員工援支計劃，協助團隊成員防止、識別和解決各種疑難，包括個人、心理、社會...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-wellness/1_6.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"太古酒店設有員工援支計劃，協助團隊成員防止、識別和解決各種疑難，包括個人、心理、社會、家庭或工作層面的問題，促進員工身心健康，得以盡展所長，提升工作表現。",
+							"太古酒店透過不同途徑促進員工的身心健康。博舍於2022年定期舉行電影欣賞晚會及員工生日會，並送上「特別愛心速遞」，例如在天氣炎熱的日子為員工送上消暑凍飲。酒店亦透過為期六個月的培訓生計劃，定期舉辦實習生活動，包括管理團隊分享、角色扮演培訓、攝製影片和畢業派對。",
+							"博舍在酒店增設員工休閒區，讓同事們在寧靜環境小休，還可坐在按摩椅享受身心放鬆。奕居的「週一健康班」歡迎所有員工參加，逢星期一安排各類有益身心的活動，一起探討與工作與生活平衡及身心健康等相關重要課題。",
+							"上海市封控期間，鏞舍為員工安排網上瑜伽班及卡拉OK活動，協助他們減壓和互相聯繫，同時在困難時刻保持身心健康。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/1_6.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/2_7.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/3_9.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/4_Fun Room (2).jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-wellness/5_Fun Room (4).jpg"
+							}
+						],
+						"meta": {
+							"title": "身心健康 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "太古酒店竭盡所能保障和促進員工的身心健康。",
+							"keywords": "以人為本, 身心健康, 員工援支計劃, 身心健康, 博舍, 員工休閒區, 奕居, 週一健康班, 上海市封控, 鏞舍, 網上瑜伽班及卡拉OK活動"
+						}
+					}
+				},
+				{
+					"id": "people-volunteering",
+					"pillar": "people",
+					"title": "義工服務",
+					"content": "奕居一直推行肥皂回收計劃，年內為一家社福機構收集了387公斤的浴室用品。計劃目的是收集接近全新的肥皂及瓶裝用品，回收後分發給有需要的人...",
+					"image": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/Spoonful 1.jpg",
+					"square": false,
+					"popup": {
+						"contents": [
+							"奕居一直推行肥皂回收計劃，年內為一家社福機構收集了387公斤的浴室用品。計劃目的是收集接近全新的肥皂及瓶裝用品，回收後分發給有需要的人。",
+							"香港東隅搬遷辦公室後，將一批不需要的辦公樓傢俬捐贈予香港10間社福機構，當中包括大量辦公椅及文件櫃，還有辦公桌和電子設備。",
+							"瑜舍與當地的社區組織合作，邀請殘疾學生與他們的老師到酒店參觀，以及於節日期間參加酒店的團隊活動，學生們更帶同手工藝品，讓酒店職員選購。博舍將舊衣服捐贈給多個慈善機構，並舉辦慈善義賣會，活動收益全數捐贈予當地的動物收容所。"
+						],
+						"gallery": [
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/Spoonful 1.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/Spoonful 2.jpg",
+								"full": true
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/Spoonful 3.jpg"
+							},
+							{
+								"type": "image",
+								"src": "/images/pages/places/sd-in-action/five-pillars/people-volunteering/TOH - disability student visit.jpg"
+							}
+						],
+						"meta": {
+							"title": "義工服務 | 實踐可持續發展：太古酒店 | 社區營造 | 太古地產2022可持續發展報告",
+							"content": "太古酒店透過多項義工計劃支援社區和保護環境。",
+							"keywords": "以人為本, 義工服務, 奕居, 肥皂回收計劃, 香港東隅, 辦公樓傢俬, 瑜舍, 手工藝品, 博舍, 慈善義賣會 "
+						}
+					}
+				}
+			]
+		}
+	},
+	"places-vibrancy-page": {
+		"meta": {
+			"keywords": "社區活力, 擁抱原創慶賀50周年, 原創, 50周年, 合作, 藝術家, 當代, 數碼藝術, 周年紀念主題, 文化, 彭國邦, 創意, 文化, 藝術表達, 創作人, 表演者, 太古地產50周年紀念藝術企劃亮點, 與巴塞爾藝術展香港展會合作, 充滿的市集令街頭再現生機, 培力展能促進年輕一代發展, 營造社區, 三里屯太古里西區勇奪「北京城市更新最佳實踐 優秀案例獎項」, 三里屯太古里西",
+			"url": "/places/vibrancy",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/embracing-originality-tc-1.jpg",
+			"title": "社區活力 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "2022年，太古地產投放大量時間、人力物力及資金，確保所有發展項目均可提供豐富的藝術文化活動予用戶和公眾共賞。"
+		},
+		"landing": {
+			"title": "社區活力",
+			"contents": [
+				"2022年，太古地產投放大量時間、人力物力及資金，確保所有發展項目均可提供豐富的藝術文化活動予用戶和公眾。"
+			]
+		},
+		"breadcrumb-title": "社區活力",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "embracing-originality-for-our-50th-anniversary",
+				"title": "擁抱原創慶賀50周年",
+				"href": "/places/vibrancy/embracing-originality-for-our-50th-anniversary",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-tc-1.jpg"
+					}
+				],
+				"contents": [
+					"藝術表達對社區和社會的健康發展尤其重要。太古地產一直致力支持藝術家、創作人及表演者，在旗下物業組合展出他們的藝術與文化作品。我們過去一年的多項50周年慶祝活動亦與多位精心挑選來自當代及數碼藝術圈的知名和新晉藝術家攜手合作。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "vibrant-markets-bring-streets-back-to-life",
+				"title": "充滿的市集令街頭再現生機",
+				"href": "/places/vibrancy/vibrant-markets-bring-streets-back-to-life",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-1.jpg"
+					}
+				],
+				"contents": [
+					"太古地產於2015年開始夥拍香港一家社企舉辦糖廠街市集，將綠色生活模式與美食相結合，提倡健康生活及可持續發展。今年糖廠街市集以Bite to Change為主題，積極宣揚綠色飲食的好處：即可促進身心健康，還有助推動全球可持續發展。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "youth-empowerment",
+				"title": "培力展能促進年輕一代發展",
+				"href": "/places/vibrancy/youth-empowerment",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment-1.jpg"
+					}
+				],
+				"contents": [
+					"於2019年推出的太古地產Placemaking Academy（SPPA）是我們屢獲殊榮的計劃，旨在創造機會讓香港的大學生設計、策劃及籌辦公司每年年底舉行的社區節慶盛事「白色聖誕市集」。SPPA是我們社區營造工作不可或缺的一部分，目標是培力展能，扶植香港年輕一代，由他們構建活力盎然的可持續發展社區，造福本地社群。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "placemaking",
+				"title": "三里屯太古里西區勇奪「北京城市更新最佳實踐 優秀案例獎項」",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/taikoo-li-sanlitun-west-wins-urban-regeneration-award-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/taikoo-li-sanlitun-west-wins-urban-regeneration-award-2.jpg"
+					}
+				],
+				"contents": [
+					"三里屯太古里西區是現有三里屯太古里零售發展項目的擴建部分，納入了經過改造的雅秀服裝市場。項目在北京城市規劃學會舉辦的全市比賽中獲評為北京城市更新的最佳典範之一。",
+					"佔地約301,000平方呎的三里屯太古里西區大樓於2021年12月重開，將原來的服裝市場重新打造，成為薈萃時裝、美食、健康運動、生活消閒和娛樂設施的時尚新地標。活化更新後的西區與北京的舊區更新策略緊密結合，彰顯太古地產不斷推動創新衍變和營造社區的承諾。",
+					"這項升級改造計劃是大三里屯商圈持續優化改造的里程碑，緊扣著中國政府將三里屯發展成為世界級商業區的長遠大型計劃。三里屯太古里在多方面為計劃作出貢獻，包括翻新零售綜合項目的北區和南區的旗艦店，及建造連接西區和南區的人行天橋。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-wellbeing",
+			"places-resilience"
+		]
+	},
+	"places-wellbeing-page": {
+		"meta": {
+			"keywords": "福祉, 身心健康, 訪客, 租戶, 員工, 廣州太古滙商場, 辦公樓, WELL健康建築標準健康建築標準鉑金級認證, 太古滙, 「涌」電動力社區嘉年華, 東薈城名店倉, 運動, 康體",
+			"url": "/places/wellbeing",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-1.jpg",
+			"title": "社群福祉 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "我們以訪客、租戶、員工和工人的健康與福祉為先。"
+		},
+		"landing": {
+			"title": "社群福祉",
+			"contents": [
+				"2022年太古地產繼續全力保障訪客、租戶及員工的身心健康，與此同時繼續在 旗下物業推廣共融，讓廣大公眾暢行樂享。我們致力設計貼心的設施和提高通達度，務求做得更好， 超越法定規例的要求。"
+			]
+		},
+		"breadcrumb-title": "社群福祉",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-hui-mall-and-office-towers-gain-well-platinum",
+				"title": "廣州太古滙商場及辦公樓取得WELL健康建築標準鉑金級認證",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-2.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/taikoo-hui-mall-3.jpg"
+					}
+				],
+				"contents": [
+					"2022年3月，整個廣州太古滙項目申請WELL健康建築標準鉑金級認證。是次認證肯定了項目在空氣質素和水質、營養、最佳採光度、康體、舒適及心理健康各方面的卓越表現，認可項目對人類健康和福祉帶來裨益。廣州太古滙綜合項目於2022年12月中獲授予WELL健康建築標準鉑金級認證。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "re-charge-tung-chung-community-day",
+				"title": "「涌」電動力社區嘉年華",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/wellbeing/recharge-tung-chung-5.jpg"
+					}
+				],
+				"contents": [
+					"2022年6月，東薈城名店倉贊助香港一個體育基金舉辦大型社區活動「涌」電動力社區嘉年華，凝聚東涌的社群，向區內的家庭推廣運動及可持續生活方式。",
+					"主辦機構安排了多場互動式運動和康體工作坊，邀請東涌居民一家大小參加，另外亦籌辦戶外康體市集及展出藝術品，宣傳更多關於可持續性和環境保護的訊息。當日活動吸引超過 1,200人到場參與。 "
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-vibrancy",
+			"places-resilience",
+			"places-livelihood"
+		]
+	},
+	"places-resilience-supporting-hong-kong-during-the-battle-against-the-pandemic-page": {
+		"meta": {
+			"keywords": "2019冠狀病毒病疫情, 向租戶提供租金減免, 租金減免, 零售租戶, 租戶, 零售業, 時艱, 第五波, 提供隔離和檢疫設施, 檢疫, 隔離, 社區隔離設施酒店計劃, 諾富特東薈城酒店, 東薈城, 諾富特東薈城, 檢疫酒店, 香港東隅, 捐贈快測試劑予特殊幼兒中心受助兒童, 快測試劑, 兒童, 醫療協助, 推廣「疫苗通行證」計劃, 疫苗通行證, 抗疫措施",
+			"url": "/places/resilience/supporting-hong-kong-during-the-battle-against-the-pandemic",
+			"type": "places",
+			"image": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/supporting-hong-kong-during-the-battle-against-the-pandemic-1.jpeg",
+			"title": "支持香港抗疫 | 社區抗禦力 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "第五波疫情期間，我們迅速回應，主動採取行動保障廣大社會安全。"
+		},
+		"landing": {
+			"title": "支持香港抗疫"
+		},
+		"breadcrumb-title": "支持香港抗疫",
+		"sections": [
+			{
+				"type": "section",
+				"id": "supporting-hong-kong-during-the-battle-against-the-pandemic-intro",
+				"contents": [
+					"2022年初，香港爆發第五波疫情，太古地產迅速作出行動回應，主動支援抗疫工作，從多方面著手防止疫症傳播，保障廣大市民的健康與安全。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "providing-rental-relief-to-retail-tenants",
+				"title": "向租戶提供租金減免",
+				"contents": [
+					"香港的零售業自疫情爆發以來遭受多重打擊。2022年，我們一直本著合作互助的宗旨，按個別情況為租戶提供租金減免，共度時艱。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "offering-facilities-for-isolation-and-quarantine",
+				"title": "提供隔離及檢疫設施",
+				"contents": [
+					"年內由於感染個案急增，香港政府推出「社區隔離設施酒店計劃」，希望業界提供7,000至10,000個酒店客房用作隔離及檢疫設施。太古地產全力配合計劃，提供毗連東涌東薈城名店倉的諾富特東薈城酒店440間客房作隔離設施。",
+					"諾富特東薈城酒店的申請獲當局接納，列入第七輪計劃的指定檢疫酒店。此外，香港東隅酒店亦於2022年2月至9月用作指定檢疫酒店。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "donating-rapid-testing-kits-to-children-in-special-residential-childcare-services",
+				"title": "捐贈快測試劑予特殊幼兒中心受助兒童",
+				"contents": [
+					"太古地產捐助香港社會服務聯會，為本港超過4,000 名接受20多間非牟利機構的特殊住宿照顧的兒童，捐贈20,000個快速測試套裝，有助及時追蹤確診個案，確保這些孩童能得到醫療協助。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "promoting-the-vaccine-pass-initiative",
+				"title": "推廣「疫苗通行證」計劃",
+				"contents": [
+					"太古地產協助宣傳香港政府的「疫苗通行證」計劃，以加強公眾意識。該計劃是重要的抗疫措施，旨在鼓勵更多市民接種疫苗，讓港人有序回復正常生活。我們在太古廣場、太古城中心及東薈城名店倉播放宣傳短片，公司並向零售租戶和住戶派發通告，加強推廣。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-vibrancy",
+			"places-wellbeing"
+		]
+	},
+	"places-resilience-responding-to-the-pandemic-across-our-properties-page": {
+		"meta": {
+			"keywords": "在我們的物業中應對大流行, 三里屯太古里, 流行病預防, 控制, 2019冠狀病毒, 疫苗, 捐贈, 物資, 口罩, 爆發, 必需品, 一線工人, 無名英雄, 服務人員, 流行病封鎖, 封鎖, 志願者, 頤堤港, 短缺, 應急響應, 安全, 福利, 衛生, 健康, 安全, 旅行限制, 興業太古滙, 前灘太古里, 新西安團隊, 在家工作, 成都遠洋太古里, 恢復, 銷量, 流量",
+			"url": "/places/resilience/responding-to-the-pandemic-across-our-properties",
+			"type": "places",
+			"image": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg",
+			"title": "旗下物業全力應對疫情 | 社區抗禦力 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "2022年，太古地產主動採取應對措施，在旗下物業抗疫和支持項目所在社區抗疫。"
+		},
+		"landing": {
+			"title": "旗下物業全力應對疫情"
+		},
+		"breadcrumb-title": "旗下物業全力應對疫情",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-li-sanlitun",
+				"title": "三里屯太古里",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-sanlitun-6.jpg"
+					}
+				],
+				"contents": [
+					"2022年，三里屯太古里先後採取多種方式支持社區抗疫。5月份，項目總經理率領義工隊在市內檢測點提供服務，一天內為5,300多人登記，此外，我們的義工服務時數更接近200小時，全力協助疫情防控工作。項目的商場響應當地行政機構鼓勵長者接種疫苗，並於6月在朝陽區支援應急抗疫行動，捐贈價值人民幣40,000 元的口罩、水果和飲品等物資予前線工作人員，支持他們的抗疫工作。",
+					"三里屯太古里並開設兩個關愛站，免費為前線人員提供生活必需品，藉此向這群「無名英雄」表達謝意，感激他們在防疫封控期間執行艱巨重任，保障社區安全及暢順運作。這些抗疫的中流砥柱包括送貨員、醫護人員、警察、社區義工和衛生服務員。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "indigo",
+				"title": "頤堤港",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/indigo-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/indigo-2.jpg"
+					}
+				],
+				"contents": [
+					"4月初，頤堤港的管理層及員工在上海數個社區封控的10天裡，努力確保項目能暢順運作。由於封控禁令即時生效，零售商店突然面對人手短缺問題，營業時間也須作更變。頤堤港即時啟動應急計劃，保障顧客、零售商和租戶的安全與健康。",
+					"有關措施包括加派更多臨時保安員及調整衛生服務員的工作，以保障辦公樓和商場運作暢順，同時提供更多臨時住所供前線人員使用，此外並為在家工作的員工提供必要支援，在困難時期同舟共濟。",
+					"封控初期，由於實施出行限制，我們的保安人員遇到不少挑戰。為確保主要出入口均有人手，頤堤港管理層迅速成立員工義務工作小組，執行健康、安全及保安職責。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hkri-taikoo-hui",
+				"title": "興業太古滙",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/hkri-taikoo-hui-1.jpg"
+					}
+				],
+				"contents": [
+					"上海抗疫期間，太古地產在興業太古滙商場設立核酸檢測站，並向附近的政府機構「南京西路街道辦事處」捐贈1,000套防護衣、面罩和鞋套。太古集團及太古地產亦分別向上海市醫藥衛生發展基金會捐款人民幣100萬元，支持上海市衛健委、靜安區衛健委及瑞金醫院前線醫護人員的工作。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-li-qiantan",
+				"title": "前灘太古里",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-qiantan-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-qiantan-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/taikoo-li-qiantan-3.jpg"
+					}
+				],
+				"contents": [
+					"全賴我們的員工不辭勞苦、獻盡心力，太古地產旗下這間以Wellness作主題的新商場安全平穩地渡過上海長達65天的封控。3月28日，浦東區的商戶全部關閉，商場過百名工程、保安及衛生部門員工自發留守，在封控期間一直維持商場基礎設施運作正常，包括消防設備和水電供應等。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "-sino-ocean-taikoo-li-chengdu",
+				"title": "成都遠洋太古里",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/sino-ocean-taikoo-li-chengdu-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/sino-ocean-taikoo-li-chengdu-2.jpg"
+					}
+				],
+				"contents": [
+					"2022年5月至6月，成都遠洋太古里舉辦多次工作坊，支持和援助長期租戶制定及推行商務復甦策略。項目共舉辦20多個工作坊，協助租戶在4月防疫限制措施生效後提高營業額和人流。逾200名商場貴賓會員亦獲邀出席工作坊，商場送上額外獎賞積分及其他推廣禮品，以答謝他們的支持和參與。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "new-xian-team",
+				"title": "西安新團隊",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/responding-to-the-pandemic-across-our-properties/new-xian-1.jpg"
+					}
+				],
+				"contents": [
+					"太古地產在西安的新團隊投入西安太古里項目籌備工作不久，市內便爆發疫情，團隊於2021年12月西安正式封控之前轉為居家工作。其後，太古地產捐出人民幣100萬元資助全市的抗疫行動，包括為西安市政府和其他衛生部門提供防疫經費，並向公眾派發醫療衛生用品及生活必需品。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-vibrancy",
+			"places-wellbeing",
+			"places-livelihood"
+		]
+	},
+	"places-resilience-swire-properties-community-caring-fund-page": {
+		"meta": {
+			"keywords": "社區關懷基金, 社區計劃, 外展項目, 捐款, 資助, 社會共融, 藝術文化, 環境, 醫療保健, 教育",
+			"url": "/places/resilience/swire-properties-community-caring-fund",
+			"type": "places",
+			"image": "/images/pages/places/resilience/swire-properties-community-caring-fund/noodles-for-love-1.jpg",
+			"title": "太古地產社區關懷基金 | 社區抗禦力 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "太古地產社區關懷基金邀請員工提名一些知名度較低的香港社福機構，向他們提供資助。"
+		},
+		"landing": {
+			"title": "太古地產社區關懷基金"
+		},
+		"breadcrumb-title": "太古地產社區關懷基金",
+		"sections": [
+			{
+				"type": "section",
+				"contents": [
+					"太古地產社區關懷基金邀請員工提名一些知名度較低的香港社福機構，向他們提供資助，旨在支援他們籌辦和實施社區計劃及外展項目。",
+					"社區關懷基金自2013年至今已捐出超過港幣1,900萬元資助163項社區計劃及外展項目。",
+					"2022年，基金共資助21項計劃及外展項目，共捐款超過港幣200萬元，受惠項目包括："
+				]
+			},
+			{
+				"type": "chart-card",
+				"id": "green-bond-proceeds",
+				"title": "按重點範疇劃分社區關懷基金贊助計劃",
+				"chart": {
+					"type": "pie-chart",
+					"image": "/images/economic/green-financing/chart/allocation-of-green-bond-proceeds-chart-en.jpg",
+					"labels": [
+						{
+							"title": "醫療保健",
+							"content": [
+								"51%"
+							]
+						},
+						{
+							"title": "社區",
+							"content": [
+								"22%"
+							]
+						},
+						{
+							"title": "兒童與青少年",
+							"content": [
+								"16%"
+							]
+						},
+						{
+							"title": "長者",
+							"content": [
+								"6%"
+							]
+						},
+						{
+							"title": "教育",
+							"content": [
+								"5%"
+							]
+						}
+					],
+					"datasets": [
+						51,
+						22,
+						16,
+						6,
+						5
+					],
+					"hover-colors": [
+						"#F5AF1C",
+						"#C88D11",
+						"#FAD282",
+						"#FCE3AE",
+						"#F5871C"
+					],
+					"colors": [
+						"#F5AF1C",
+						"#C88D11",
+						"#FAD282",
+						"#FCE3AE",
+						"#F5871C"
+					]
+				}
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "",
+				"title": "全麵關心你",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/noodles-for-love-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/noodles-for-love-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/noodles-for-love-3.jpg"
+					}
+				],
+				"contents": [
+					"基金連續第三年支持推廣分享美食和關懷文化的｢全麵關心你｣配對捐助計劃。我們與太古城中心一個租戶攜手參與今年活動，合共售出3,000個全麵禮包，太古地產並會向我們的慈善組織夥伴香港基督教女青年會及聖雅各福群會作出配對捐助。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "",
+				"title": "關懷前線清潔工人",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/caring-frontline-cleaning-workers-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/caring-frontline-cleaning-workers-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/caring-frontline-cleaning-workers-3.jpg"
+					}
+				],
+				"contents": [
+					"基金亦與香港基督教女青年會合辦「祝福行動」，向前線清潔人員致敬並送上關懷，感謝他們任勞任怨，辛勤地保持社區衛生。計劃的活動包括定期到垃圾站探訪清潔工人並送上消毒噴霧及降溫冰巾等貼心禮物，讓他們享有健康衛生的作業環境。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "",
+				"title": "2019冠狀病毒病疫情緊急支援",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/covid-19-emergency-support-1.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/covid-19-emergency-support-2.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/covid-19-emergency-support-3.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/resilience/swire-properties-community-caring-fund/covid-19-emergency-support-4.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"基金支持本地多個非牟利組織，例如啟愛共融基金、路向四肢傷殘人士協會及時光，贊助他們在疫情期間推行關愛應援計劃，紓艱解困。我們捐出食物、必需品及檢測劑支援弱勢社群，包括基層家庭、長者、嚴重身體殘障人士和清潔工人。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-wellbeing",
+			"places-vibrancy"
+		]
+	},
+	"places-vibrancy-embracing-originality-for-our-50th-anniversary-page": {
+		"meta": {
+			"keywords": "太古地產50周年紀念藝術企劃亮點, 50 周年紀念, 藝術,藝術企劃, 包裏包外, 50周年藝術NFT系列, 四季流變, 博物館, 展覽, 花藝, 雕塑, 創新, 與巴塞爾藝術展香港展會合作, 巴塞爾藝術展, 夥伴合作, 藝術, 文化, 朝氣與活力, 貴賓室, 藝術家, 接吻長凳, 雕塑",
+			"url": "/places/vibrancy/embracing-originality-for-our-50th-anniversary",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/embracing-originality-tc-1.jpg",
+			"title": "擁抱原創慶賀50周年 | 社區活力 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "年內舉辦林林總總的50周年紀念活動，分別與著名及新晉藝術家合作。"
+		},
+		"landing": {
+			"title": "擁抱原創慶賀50周年"
+		},
+		"breadcrumb-title": "擁抱原創慶賀50周年",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "embracing-originality-for-our-50th-anniversary",
+				"media": [
+					{
+						"type": "video",
+						"poster": "/images/pages/places/vibrancy/embracing-originality-tc-1.jpg",
+						"src": "https://media.swireproperties.com/4e30c8da-9db8-437d-b452-e24f44084927/50th_anniversary_TC.ism/manifest"
+					}
+				],
+				"contents": [
+					"2022年是太古地產成立50周年誌慶，我們以「創流不息」（ORIGINAL. ALWAYS.）為主題慶祝這意義重大的里程碑，象徵我們承傳創新精神，堅守長遠承諾，以及向成就這非凡旅程的核心價值和員工致敬。年內我們推出連串精彩活動及企劃，邀請著名和新晉的當代及數碼藝術家投入創作，每件精彩作品也呼應我們的周年紀念主題，為各項目所在社區帶來原創、沉浸式的精彩藝術與文化體驗。",
+					"太古地產行政總裁彭國邦表示：「原創和創意是我們營造社區不可或缺的重要元素。在過去半個世紀，這份精神一直啟發我們打造更美好的社區，讓藝術文化成為日常生活的一部分。我們的發展項目亦因為融合這些元素，為廣大市民營造具活力的社區而別樹一幟。我深信與我們的社區分享啟發人心的獨特藝術文化體驗，正是慶祝公司周年誌慶的最好方式。」",
+					"藝術表達對社區和社會的健康發展尤其重要。太古地產一直致力支持藝術家、創作人及表演者，在旗下物業組合展出他們的藝術與文化作品。我們過去一年的多項50周年慶祝活動亦與多位精心挑選來自當代及數碼藝術圈的知名和新晉藝術家攜手合作。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "太古地產50周年紀念藝術企劃亮點",
+				"contents": []
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "「包裏包外」（Bags: Inside Out）展覽 ",
+				"isNext": true,
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/v-a-bags-inside-out-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/v-a-bags-inside-out-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/v-a-bags-inside-out-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/v-a-bags-inside-out-4.jpg"
+					}
+				],
+				"contents": [
+					"<strong>「包裏包外」（Bags: Inside Out）展覽</strong> ― 與英國倫敦維多利亞與艾爾伯特博物館（V&A）聯合呈獻，展出240個別具特色的珍稀手袋，包括設計師品牌手袋、小型化妝盒及功能性背包。2022年至2023年期間於太古地產旗下位於中國內地及香港的五個商場巡迴展出，為觀眾帶來世界頂尖博物館的體驗，啟發人心。本專題展覽檢視手袋作為時尚文化遺產，從十六世紀至今跨越世界不同地域文化的各種形態與面貌，探索手袋的功能、身份象徵與工藝，並探索全球各地人們一直以來對手袋的熱愛和痴迷。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "Orbstellar Metaspace",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/orbstellar-metaspace-7.jpg"
+					}
+				],
+				"contents": [
+					"太古廣場舉辦歷來首個藝術科技展覽<strong>Orbstellar Metaspace</strong>，於2022年夏季舉行。這個宇宙沉浸式藝術裝置是本地藝術家張瀚謙與他的新媒體藝術團隊XCEPT的傑作，邀請觀眾投入星際之旅體驗數碼藝術，還可自創NFT星體，探索立體太空星體，享受精彩奇妙的體驗。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "50周年藝術NFT系列",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/50th-anniversary-art-nft-collection-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"太古地產的<strong>50周年藝術NFT系列</strong>系列為我們開闢了贊助文化項目的新路向。我們委託10位來自香港、中國內地、東南亞、英國及美國的藝術家創作NFT數碼藝術作品系列，演繹藝術家的個人風格，並從我們的「創流」（Originality）主題萃取靈感。這系列作品突顯我們銳意創新及無窮的創造力，同時印證我們矢志不斷努力，構建充滿活力繁榮昌盛的美好未來。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-50th-anniversary-arts-programmes-highlights",
+				"title": "「四季流變」",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/seasons-in-continuum-5.jpg"
+					}
+				],
+				"contents": [
+					"太古地產於2022年11月及12月在太古坊特別呈獻「四季流變」（Seasons in Continuum）植物藝術展覧。色彩繽紛的球形花藝裝置呼應出50周年紀念主題「創流不息」（Original. Always.），宛如創意遊樂場，為市民和社區送上沉浸式體驗。四組花藝雕塑，包括《幻彩》、《漣漪》、《起源》及《花見》，出自香港花藝師鄭蘶手筆，盡顯他的非凡技藝。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "art-basel-hong-kong-partnership",
+				"title": "與巴塞爾藝術展香港展會合作",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/embracing-originality-for-our-50th-anniversary/art-basel-hong-kong-partnership-5.jpg"
+					}
+				],
+				"contents": [
+					"2022年是太古地產與巴塞爾藝術展香港展會合作的第十年，我們的合作關係建基於在社區中推動支持藝術與文化對話的共同渴望，為香港的藝術界注入更多朝氣與活力，並提高香港作為頂尖的國際文化樞紐的聲譽。",
+					"為慶賀雙方長久以來的合作關係，太古地產提供了便利的共聚空間讓藝術愛好者在活動期間會面及輕鬆交流。名為「PROPAGATION」的太古地產貴賓室由香港著名建築工作室ESKYIU操刀，設計以英國藝術家Alison Crowther雕刻的《接吻長凳》（Kissing Bench）作中心。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-wellbeing",
+			"places-resilience"
+		]
+	},
+	"places-vibrancy-youth-empowerment-page": {
+		"meta": {
+			"keywords": "培力展能促進年輕一代發展, 太古地產Placemaking Academy, 白色聖誕市集, 大學生, 培才展能, 實戰經驗, 創意知識, 可持續發展, 傳訊, 營造社區, 極具創意的社區營造工作生力軍, 社區營造工作生力軍, 青年, 學生, 就業機會, 活動策劃, 高級管理人員, 大師班, 講座, 實習, 就業資助, 就業, 社會影響力, 太古地產聖誕花園, 零廢, 雙城青年文化人才交流計劃, 香港故宮文化博物館, 北京, 香港, 文化, 實習, 跨界, 創新思維, 青年學習, 藝術",
+			"url": "/places/vibrancy/youth-empowerment",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/youth-empowerment-2.jpg",
+			"title": "培力展能促進年輕一代發展 | 社區活力 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "太古地產提供機會讓大學生汲取職場經驗與技能，支持他們在人生及事業上創出佳績。"
+		},
+		"landing": {
+			"title": "培力展能促進年輕一代發展"
+		},
+		"breadcrumb-title": "培力展能促進年輕一代發展",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "youth-empowerment",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment-2.jpg"
+					}
+				],
+				"contents": [
+					"於2019年推出的太古地產Placemaking Academy（SPPA）是我們屢獲殊榮的計劃，旨在創造機會讓香港的大學生設計、策劃及籌辦公司每年年底舉行的社區節慶盛事「白色聖誕市集」。SPPA是我們社區營造工作不可或缺的一部分，目標是培力展能，扶植香港年輕一代，由他們構建活力盎然的可持續發展社區，造福本地社群。",
+					"學員在半年內累積寶貴的實戰經驗，由太古地產高級管理人員、以及來自社區營造、創意、可持續發展和傳訊領域的星級導師從旁指導，培育他們成為極具創意的社區營造工作生力軍。",
+					"SPPA的目標包括：",
+					{
+						"type": "ul",
+						"value": [
+							"培育香港的青年才俊，展示他們的創造力及實踐原創意念的能力。",
+							"傳授創意知識與技能予參加者，使他們能為太古地產的長期社區建設工作出一分力。",
+							"為學生和舊生提供工作及機會，與公司的龐大社區網絡共同合作，向活動策劃及市場推廣專家學習，進一步提升創新技能。"
+						]
+					},
+					"為慶祝太古地產成立50周年，SPPA的學員除了舉辦「白色聖誕市集」，還聯同一眾舊生合共40人，一同參與休憩裝置設計企劃，為社區製作特別裝置。學員在多位新晉工業設計師協助下構思策略性方案，靈活運用設計思維，並與太古坊社區合作，打造了三件前衛的作品。",
+					"最終成品將於2023年在太古地產位於太古坊的總部展出。"
+				]
+			},
+			{
+				"type": "data-4",
+				"id": "sppa-key-figures",
+				"item-count": 2,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": 8,
+								"custom-class": "",
+								"after-text": "<span class='h4 mb-0'>名</span>"
+							}
+						],
+						"align-left": true,
+						"text": "來自香港科技大學和香港城市大學的學生",
+						"icon": "/images/pillar-icons/places/participants.svg",
+						"icon-class": "icon-participants"
+					},
+					{
+						"percentage": [
+							{
+								"num": 13,
+								"custom-class": "",
+								"after-text": "<span class='h4 mb-0'>場</span>"
+							}
+						],
+						"align-left": true,
+						"text": "大師班講座，由可持續發展、社區營造、設計思維、持份者參與、傳訊等領域的業界領袖主講",
+						"icon": "/images/pillar-icons/places/masterclasses.svg",
+						"icon-class": "icon-masterclasses"
+					},
+					{
+						"percentage": [
+							{
+								"num": 6,
+								"custom-class": "less-space-with-after-text",
+								"after-text": "<span class='h4 mb-0'>個月</span>"
+							}
+						],
+						"align-left": true,
+						"text": "有薪實習",
+						"icon": "/images/pillar-icons/places/practical-training.svg",
+						"icon-class": "icon-practical-training"
+					},
+					{
+						"percentage": [
+							{
+								"num": 480000,
+								"custom-class": "less-space-with-after-text",
+								"before-text": "<span class='h4 mb-0 mr-1 no-wrap'>超過港幣</span>",
+								"after-text": "<span class='h4 mb-0'>元</span>",
+								"before-text-new-line": true
+							}
+						],
+						"align-left": true,
+						"text": "就業資助",
+						"icon": "/images/pillar-icons/places/employment-support.svg",
+						"icon-class": "icon-employment-support"
+					}
+				]
+			},
+			{
+				"type": "section",
+				"contents": [
+					"2022年11月，SPPA對香港作出的貢獻再次得到肯定，我們於香港管理專業協會舉辦的「2022最佳管理培訓及發展獎」的社會影響力類別位列榜首，奪得「社會影響力特別獎」，表揚學員獨挑大樑舉辦實體街頭市集，從構思設計、籌策到實施，全程表現卓越。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "white-christmas-street-fair-2022",
+				"title": "白色聖誕市集2022",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/white-christmas-street-fair-2022-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/white-christmas-street-fair-2022-1.jpg"
+					}
+				],
+				"contents": [
+					"2022年的白色聖誕市集別具意義，除了迎接佳節，也是太古地產50周年慶祝活動之一。今年主題定為「Bloom & Beyond太古地產聖誕花園」，喻意公司矢志構建繁榮未來，而過去數十年來積極營造社區的工作現已「開花結果」。位於糖廠街的市集幻化成聖誕花園，利用太古酒店及國泰航空收集所得廢舊物料升級再造的5,000朵「聖誕花」遍佈市集每個角落。",
+					"今年的白色聖誕市集繼續為「愛心聖誕大行動」籌款，籌集了港幣862,000元，十年籌款總額超過港幣800萬元。",
+					"籌辦市集的團隊以邁向零廢為目標，早於規劃階段便分別與設計師、供應商、商戶和公司的可持續發展團隊溝通合作，務求完善管理市集使用及棄置的物料，透過升級再造和回收物盡其用。",
+					"市集的部份裝置首次試用嶄新的石英砂3D打印技術製成，活動完畢後沙料可被再次回收，以作其他用途。場內設有多個指定回收點，收集廢紙、金屬、玻璃、塑膠及可堆肥廢料。活動藉著創新措施減廢和回收廢物，物料用量降低超過20%，廢物分流率則高逾90%。請<a class='text-places' href='/2022/zh-hk/performance-environment/resource-and-circularity/introducing-circularity-concepts-to-festive-celebrations-and-events#the-white-christmas-street-fair'>按此</a>了解市集採用的資源及循環措施詳情。",
+					"活動完畢後，籌辦市集的團隊現正全面評估市集的碳足跡，資料可輔助活動日後制定策略性減碳措施、訂立基準以制定目標。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-bi-city-youth-cultural-leadership-programme",
+				"title": "雙城青年文化人才交流計劃",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/bi-city-youth-cultural-leadership-programme-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/bi-city-youth-cultural-leadership-programme-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/youth-empowerment/bi-city-youth-cultural-leadership-programme-3.jpg"
+					}
+				],
+				"contents": [
+					"2022年，太古地產與香港故宮文化博物館合作啟動兩年的「雙城青年文化人才交流計劃」，為北京及香港培育新一代的文化領袖。",
+					"太古地產為首席贊助博物館旗艦青年學習交流項目，提供線上線下混合模式的學習及培訓活動，重點包括藝術文化基礎知識、創新思維、跨界才能及實習等訓練，旨在創造平台讓北京和香港的青年交流及分享經驗。",
+					"2022年，約80名北京及香港的大學生展開了為期四個月的線上交流計劃。計劃將於2023年為約16名大學生舉辦兩個月的夏季進修課程，以及在北京和香港安排參觀活動、講座及工作坊，此外並有暑期實習計劃。學員有機會在香港領先的藝術文化機構或公司實習。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-places-impact-report",
+			"places-sd-in-action-swire-hotels",
+			"places-livelihood"
+		]
+	},
+	"places-vibrancy-vibrant-markets-bring-streets-back-to-life-page": {
+		"meta": {
+			"keywords": "充滿的市集令街頭再現生機, 充滿的市集, 糖廠街市集, 健康生活, 可持續發展, 創新菜式, 企業家, 廚師, 本地農夫, 美食車, 虛擬銀行, 社福機構, 餐飲商戶, 再生農耕, 農耕, 農業氣候解決方案, 回收, 升級再造, 佳節氣氛, 創新, 東薈城名店倉夏日戶外市集, 夏日戶外市集, 社企, 本地農場",
+			"url": "/places/vibrancy/vibrant-markets-bring-streets-back-to-life",
+			"type": "places",
+			"image": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-1.jpg",
+			"title": "充滿的市集令街頭再現生機 | 社區活力 | 社區營造 | 太古地產2022可持續發展報告",
+			"content": "發展和促進街頭市集是太古地產「2030可持續發展策略」的重要社區營造及社區管理措施。"
+		},
+		"landing": {
+			"title": "充滿的市集令街頭再現生機"
+		},
+		"breadcrumb-title": "充滿的市集令街頭再現生機",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "tong-chong-street-market",
+				"title": "糖廠街市集",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/tong-chong-street-market-5.jpg"
+					}
+				],
+				"contents": [
+					"太古地產於2015年開始夥拍香港一家社企舉辦糖廠街市集，將綠色生活模式與美食相結合，提倡健康生活及可持續發展。市民可在市集選購本地農夫種植的新鮮蔬果和品嚐創新菜式，還可參與不同主題的美食節。",
+					"糖廠街市集一直是太古地產「2030可持續發展策略」的重大項目之一，吸引眾多與我們理念相近的飲食界企業家、廚師和本地農夫參與，以此作平台推廣可持續發展及健康生活，透過持續舉辦周末市集、短期限定農夫攤檔及午間限定美食車，與上班一族同樂。",
+					"糖廠街市集至今已推出八年，隨著香港人對健康食品和健康生活模式認識日深，選擇產品愈來愈講究，市集也不斷變革以配合他們的需要，務求迎合最新的健康飲食潮流。今年糖廠街市集以Bite to Change為主題，積極宣揚綠色飲食的好處：即可促進身心健康，還有助推動全球可持續發展。",
+					"2022年7月至8月，我們與一間有意縮減碳足跡的虛擬銀行及其他志同道合的供應商攜手合作，透過多種途徑實現他們構建可持續未來的願景，包括以水溶性甘蔗纖維、紙和木製造的包裝物料取代塑膠，以及用咖啡果皮製作特飲。",
+					"2022年9月及10月，糖廠街市集與一間社福機構成為合作夥伴，該機構專門從事農業氣候解決方案，特別擅長以再生農耕改善土壤。於合作期內，市集所有餐飲商戶均承諾但凡顧客購買產品，他們均會捐出1%收益支持本地再生農耕。",
+					"2022年11月及12月，糖廠街市集聖誕短期限定召集一眾可持續發展餐飲商戶到太古坊社區擺檔，帶來各式各樣促進健康與福祉的產品，參與商戶包括精品咖啡檔、純素美食店與創新健美操聯乘店、物盡其用將可可果化身甜品和其他美食的環保朱古力熱飲店、主打創新素啡的咖啡達人等。商戶的聖誕主題美食健康又滋味，將佳節氣氛推上高峰，提倡可持續發展。",
+					"一如往年，市集致力實踐可持續發展概念，場內提供可重用餐具及器皿供訪客借用，現場還設有廚餘回收箱及環保產品攤檔，售賣回收及升級再造的綠色精品。",
+					"查看糖廠街市集詳情可瀏覽市集的<a class='text-places' target='_blank' href='https://www.taikooplace.com/zh-hk/whatson/tcsm'>官方網站</a>。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "citygate-outlets-summer-outdoor-market",
+				"title": "東薈城名店倉夏日戶外市集",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/places/vibrancy/vibrant-markets-bring-streets-back-to-life/citygate-outlets-summer-outdoor-market-5.jpg"
+					}
+				],
+				"contents": [
+					"東薈坊名店倉於2022年 8月兩個周末，邀請了32家社企及本地農夫參加商場的夏日戶外市集，推廣健康生活和可持續發展。",
+					"戶外市集主打本地農場的新鮮農產品 ― 主要為蔬果、手工製作的食品和飲品、受助人製作的創意工藝品及林林總總的環保和有機產品，活動同時安排了工作坊及現場表演，增添節日氣氛。是次活動每日吸引近 4,000 名訪客。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"places-livelihood",
+			"places-wellbeing",
+			"places-resilience"
+		]
+	}
+}

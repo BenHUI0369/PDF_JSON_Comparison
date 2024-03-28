@@ -1,0 +1,2015 @@
+{
+	"partners-page": {
+		"meta": {
+			"keywords": "Partners, SD 2030 Strategy, Sustainable Procurement, Green Performance Pledge, pilot programme, environmental performance,  Free Energy Audits, energy savings, Green Kitchen Initiative, Green Kitchen Award, 2022 Progress Summary Table",
+			"url": "/partners",
+			"type": "partners",
+			"image": "/images/landing-section/partners-left.jpg",
+			"title": "Partners | Swire Properties SD Report 2022",
+			"content": "We continue to develop long-term, mutually beneficial relationships with our business partners and other key parties to improve our SD performance."
+		},
+		"landing": {
+			"title": "Partners",
+			"icon": "SVGPartnersWhite",
+			"contents": [
+				"Swire Properties aims to continue to develop long-term, mutually beneficial relationships with our business partners and other key parties to improve our SD performance.",
+				"Our SD 2030 Strategy focuses on working with all our partners to achieve our SD objectives, including suppliers, tenants, customers, residential owners and occupiers, as well as governments, NGOs and joint venture partners."
+			]
+		},
+		"breadcrumb-title": "Partners",
+		"2022-highlights": {
+			"highlights": {
+				"highlight-pic-1": {
+					"id": "highlight-pic-1",
+					"src": "/images/pages/partners/highlight-section/highlight-partners-pic-1.png"
+				},
+				"sustainable-procurement": {
+					"id": "sustainable-procurement",
+					"title": "Sustainable Procurement",
+					"full-width": true,
+					"content": [
+						{
+							"title": "<span class='money-format'>HKD</span><span class='js-count-up-number'>1477</span> million",
+							"description": "spent on sustainable procurement"
+						}
+					],
+					"icon": "SVGGreenProcurement",
+					"icon-class": "svg-green-procurement",
+					"link": {
+						"path": "/partners/suppliers/sustainable-procurement"
+					}
+				},
+				"green-performance-pledge": {
+					"id": "green-performance-pledge",
+					"title": "Green Performance<br class='d-none d-xl-block'/>Pledge",
+					"full-width": false,
+					"content": [
+						{
+							"title": "<span class='js-count-up-number'>52</span>",
+							"description": "office tenants engaged in pilot programme to jointly improve environmental performance "
+						}
+					],
+					"icon": "SVGGreenPerformancePledge",
+					"icon-class": "svg-green-performance-pledge",
+					"link": {
+						"path": "/partners/tenants/environment#the-green-performance-pledge-builds-momentum"
+					}
+				},
+				"free-energy-audits": {
+					"id": "free-energy-audits",
+					"title": "Free Energy Audits",
+					"effect-down": true,
+					"full-width": false,
+					"content": [
+						{
+							"title": "<span class='js-count-up-number'>9.9</span> <br class='d-none d-xl-block'/><span style='white-space: nowrap;'>million <span class='money-format'>kWh</span></span>",
+							"description": "potential annual energy savings identified from free energy audits for Hong Kong and Chinese Mainland tenants (since 2008)"
+						}
+					],
+					"icon": "SVGEnergyAudits",
+					"icon-class": "svg-energy-audits",
+					"link": {
+						"path": "/partners/tenants/environment#energy-audits"
+					}
+				},
+				"green-kitchen-initiative": {
+					"id": "green-kitchen-initiative",
+					"title": "Green Kitchen Initiative",
+					"full-width": false,
+					"content": [
+						{
+							"description": "Recognised <span class='partners-giant-text'><span class='js-count-up-number'>76</span></span> <span class='partners-normal-text'>F&B outlets</span><br/> in Hong Kong and the Chinese Mainland with Green Kitchen Award"
+						}
+					],
+					"icon": "SVGGreenKitchenInitiatives",
+					"icon-class": "svg-green-kitchen-initiatives",
+					"link": {
+						"path": "/partners/tenants/environment#the-green-kitchen-initiative"
+					}
+				},
+				"contractor-health-and-safety": {
+					"id": "contractor-health-and-safety",
+					"title": "Contractor Health and Safety",
+					"full-width": false,
+					"content": [
+						{
+							"description": "<span class='partners-giant-text'><span class='js-count-up-number' data-places='1'>0.9</span></span> <br/> Accident rate of contractor workers at Hong Kong development projects"
+						}
+					],
+					"icon": "SVGContractorHealthAndSafety",
+					"icon-class": "svg-green-kitchen-initiatives",
+					"link": {
+						"path": "/partners/suppliers/supplier-health-and-safety-and-smart-construction"
+					}
+				},
+				"highlight-pic-2": {
+					"id": "highlight-pic-2",
+					"src": "/images/pages/partners/highlight-section/highlight-partners-pic-2.png"
+				},
+				"2022-progress-summary-table": {
+					"id": "2022-progress-summary-table",
+					"title": "2022 Progress Summary Table",
+					"last-link-left": true,
+					"last-link-right": true,
+					"full-width": true,
+					"summary-table": true,
+					"content": [
+						{
+							"description": "Click to see progress towards our 2025 KPIs in all focus areas"
+						}
+					],
+					"link": {
+						"path": "/partners/2022-progress-summary"
+					}
+				}
+			}
+		}
+	},
+	"partners-2022-progress-summary-page": {
+		"meta": {
+			"keywords": "2022 Progress Summary Table, 2022 Progress, Partners Working Group,  Supplier Code of Conduct, SCoC, 2025 and 2030 KPIs, Monitoring (Compliance), Suppliers, annual supply chain risks assessment, Driving Impact, products, services, sustainable, purchased, tenants, tenant engagement, 2025 KPI, Green Performance Pledge, environmental performance, 2025",
+			"url": "/partners/2022-progress-summary",
+			"type": "partners",
+			"image": "/images/logos/partners-summary-seo.jpg",
+			"title": "2022 Progress | Partners | Swire Properties SD Report 2022",
+			"content": "In 2022, we continued working towards our 2025 and 2030 KPIs in the Partners pillar."
+		},
+		"landing": {
+			"title": "2022 Progress"
+		},
+		"breadcrumb-title": "2022 Progress",
+		"sections": [
+			{
+				"type": "contents",
+				"id": "partners-2022-progress-summary",
+				"contents": [
+					"With 24 representatives from different functions within the Company, the composition of our Partners Working Group reflects our commitment to engaging with as many partners as possible, including local partners in all places where we have a significant presence.",
+					"In 2022, we conducted a review of our Supplier Code of Conduct (“SCoC”) to ensure alignment with global best practices in terms of supply chain working conditions, fair and respectful treatment of employees and business ethics that are material to the business of Swire Properties.",
+					"We continued to work closely with our partners and began making progress towards our <a class='text-partners' href='/2022/en/2025-and-2030-targets'>2025 and 2030 KPIs</a>. Our progress this year is summarised in the table below."
+				]
+			}
+		],
+		"summary-table": [
+			{
+				"id": "suppliers-section",
+				"icon": "/images/pillar-icons/partners/suppliers.svg",
+				"title": "Suppliers",
+				"href": "/partners/suppliers",
+				"iconClass": "icon-suppliers",
+				"sdgs": [
+					"12"
+				],
+				"cards": [
+					{
+						"title": "Monitoring (Compliance)",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"Maintain <span class='text-highlight js-count-up-number'>100%</span> implementation of the SCoC in all portfolios "
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"It is now standard practice to require that all suppliers in Hong Kong, Chinese Mainland and Miami, U.S.A. comply with the SCoC.",
+												"In 2022, we conducted an annual supply chain risks assessment of over <span class='text-highlight js-count-up-number'>300</span> of our Tier-1 suppliers."
+											]
+										}
+									]
+								}
+							}
+						]
+					},
+					{
+						"title": "Driving Impact",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"<span class='text-highlight js-count-up-number'>25%</span> of products and services purchased for wholly-owned new and existing investment portfolios shall be sustainable"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"In 2022, <span class='text-highlight js-count-up-number'>17%</span> of the products and services purchased were sustainable."
+											]
+										}
+									]
+								}
+							}
+						]
+					},
+					{
+						"title": "Contractors Health and Safety",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"Reduce 5-year rolling average of accident rate per 1000 contractor workers in our Hong Kong development projects by <span class='text-highlight js-count-up-number'>50%</span><sup class='text-highlight'>9</sup>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"Achieved a reduction of <span class='text-highlight js-count-up-number'>64%</span> in accident rate."
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "9",
+						"value": "Using 2015-2019 (5-year average) as baseline. Accidental rate represents the number of reportable accidents per 1,000 contractor workers. It is calculated as the total number of reportable accidents  multiplied by 1,000 and then divided by average daily number of contractor workers on-site."
+					}
+				]
+			},
+			{
+				"id": "tenant-customer-engagement",
+				"icon": "/images/pillar-icons/partners/tenant-customer-engagement.svg",
+				"title": "Tenants",
+				"href": "/partners/tenants",
+				"iconClass": "icon-tenant-customer-engagement",
+				"sdgs": [],
+				"cards": [
+					{
+						"title": "Tenant Engagement",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"<span class='text-highlight js-count-up-number'>50%</span> of office tenants in wholly-owned portfolios<sup>10</sup> to sign the Green Performance Pledge to jointly improve environmental performance by 2025"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"In 2022, <span class='text-highlight js-count-up-number'>52</span> tenants signed the Green Performance Pledge, representing <span class='text-highlight js-count-up-number'>37.9%</span> of our office tenants in Hong Kong.",
+												"In December 2022, we launched the Green Performance Pledge pilot in the Chinese Mainland."
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "10",
+						"value": "Measured by occupied lettable floor area (“LFA”) of office portfolios at 100% basis comprising of Taikoo Place and Pacific Place in Hong Kong and Taikoo Hui Guangzhou."
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers",
+			"partners-tenants",
+			"partners-customers"
+		]
+	},
+	"partners-customers-page": {
+		"meta": {
+			"keywords": "Customers, Data Management and Protection, Retail Customers, feedback,  Mystery Shopper Programme, MSP, Annual Shopper Behaviour and Branding Research, shopper behaviour, branding research, customer service officers, CSOs, customer experience, Chinese Mainland City-level Luxury Shopper Study 2022, luxury shopper, INDIGO’s Sustainable Development Studio at The Loop, the Loop, SD Studio, history wall, co-create art wall, eduational material wall, Digital Customer Experience, TAIKOO+ Mobile App Launch – Unlock Cross-portfolio Synergy,  TAIKOO+, one-stop shop, The “Personally Yours” Digital Game Campaign Launch, Personally Yours, HK1 CRM",
+			"url": "/partners/customers",
+			"type": "partners",
+			"image": "/images/pages/partners/customers/indigos-sustainable-development-studio-1.jpg",
+			"title": "Customers | Partners | Swire Properties SD Report 2022",
+			"content": "Customer feedback is vital to understanding our customers’ needs so that we can continue to improve our services and offerings."
+		},
+		"landing": {
+			"title": "Customers",
+			"contents": [
+				"Swire Properties seeks to continuously improve our services and offerings. To do this, we must understand our customers’ needs, and feedback is a vital part of this understanding. In 2022, our research programmes continued to provide us with invaluable data which will be analysed and used to further refine the customer experience and our market positioning."
+			]
+		},
+		"breadcrumb-title": "Customers",
+		"sections": [
+			{
+				"type": "section",
+				"id": "data-management-and-protection-policy-customer-data",
+				"title": "Privacy Policy",
+				"tag": "GRI 418<br/>HKEX KPI B6.5",
+				"contents": [
+					"We are committed to protecting the privacy of our customers. Our Privacy Policy covers our operations in Hong Kong and the Chinese Mainland. This policy on data management and protection provides guidance on the handling of personal data, including that of our customers, throughout the data lifecycle and will be updated from time to time to ensure compliance with the relevant laws and regulations.",
+					"Under the Privacy Policy, our employees are required to comply with internal guidelines covering the collection, processing, transfer, retention and disposal of personal data."
+				]
+			},
+			{
+				"type": "section",
+				"id": "retail-customers",
+				"title": "Retail Customers",
+				"contents": [
+					"We obtain valuable feedback from customers visiting our major retail properties through annual customer surveys and our Mystery Shopper Programme (“MSP”). We conduct three types of marketing research: annual shopper behaviour and branding research; the MSP; and a luxury shopper programme in the Chinese Mainland."
+				]
+			},
+			{
+				"type": "section",
+				"id": "annual-shopper-behaviour-and-branding-research-2022",
+				"title": "Annual Shopper Behaviour and Branding Research",
+				"contents": [
+					"Our 2022 shopper behaviour and branding research programme was carried out across all our major retail properties in Hong Kong and the Chinese Mainland, and at a number of competitor malls. Carried out by a research agency, the research programme consists of quantitative studies, designed to identify shopper profiles, gauge customer behaviour, determine the presence and predisposition of mall brands, and understand customer needs in each of the malls. Results from the studies will help us gauge the performance of our malls and provide actionable insights for management teams.",
+					"In 2022, more than 9,500 interviews were conducted with over 99% of the respondents ratings our malls between “excellent” and “good”, a 2% increase from 2021. The improvement in ratings demonstrates a high level of shopper satisfaction with our malls and is a positive indication of the quality of the shopping experience we provide."
+				]
+			},
+			{
+				"type": "section",
+				"id": "mystery-shopper-programme-2022",
+				"title": "Mystery Shopper Programme 2022",
+				"contents": [
+					"Our annual Mystery Shopper Programme (MSP) evaluates the performance of our customer service officers in our six Chinese Mainland malls by identifying their strengths and weaknesses of our CSOs and providing actionable recommendations for better customer service and experience. ",
+					"When compared to the first MSP, the latest programme shows an overall improvement of 23.5% was accomplished by all our malls, reflecting our continuous dedication to enhancing the customer experience."
+				]
+			},
+			{
+				"type": "section",
+				"id": "chinese-mainland-citylevel-luxury-shopper-study-2022",
+				"title": "Chinese Mainland City-level Luxury Shopper Study 2022",
+				"contents": [
+					"Performed by a consulting firm, Swire Properties’ “Chinese Mainland City-level Luxury Shopper Study 2022” was carried out in the five cities in which we have operations, performing a deep dive into the thoughts and opinions of luxury. ",
+					"Designed to inform our future strategies, the study had three parts – a customer research section, a benchmarking section against industry standards, and a section on future opportunities. "
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "indigos-sustainable-development-studio",
+				"title": "INDIGO’s Sustainable Development Studio at The Loop",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/indigos-sustainable-development-studio-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/indigos-sustainable-development-studio-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/indigos-sustainable-development-studio-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/indigos-sustainable-development-studio-4.jpg"
+					}
+				],
+				"contents": [
+					"In August, INDIGO opened its Sustainable Development Studio (“SD Studio”) at The Loop, a multipurpose space where employees, tenants and business partners can host sustainability-related events such as meetings, workshops and mini-exhibitions.",
+					"Located in the lobby area that connects the office building, shopping mall and parking lot, the SD Studio adopts a similar design to The Loop, with sustainability-related mosaics, modular furniture which can be easily stowed during multifunctional events, and fabrics made from recycled and repurposed materials from a previous exhibition.",
+					"The SD Studio has three main functional walls – a history wall, which charts INDIGO’s sustainable development journey and green certifications; an educational material wall, showing how plastic, metal, glass and electronic waste products are recycled and upcycled; and a co-creative art wall to help inspire the public through inspirational green living-themed works."
+				]
+			},
+			{
+				"type": "section",
+				"id": "digital-customer-experience",
+				"title": "Digital Customer Experience"
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-mobile-app-launch-–-unlock-crossportfolio-synergy",
+				"title": "TAIKOO+ Mobile App Launch – Unlock Cross-portfolio Synergy",
+				"isNext": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/taikoo-mobile-app-launch-1.jpg"
+					}
+				],
+				"contents": [
+					"Launched in November 2021, the TAIKOO+ mobile app is a unified, “one-stop shop” platform designed to attract cross-mall registration and unlock cross-portfolio synergy. Covering three Hong Kong shopping destinations – Pacific Place, Cityplaza and Citygate Outlets – the app provides several member services through a single platform, with core services including loyalty programme enrolment, conversion of spending to points and rewards redemptions.",
+					"The TAIKOO+ app has performed Impressively thus far, yielding:",
+					{
+						"type": "ul",
+						"value": [
+							"A 352% growth in Cityplaza and Citygate Outlets shared membership.",
+							"An overall increase in shared members at all three malls of 273%.",
+							"A 56% engagement rate of Cityplaza loyalty members.",
+							"A handling rate of more than 65% of Cityplaza and Citygate Outlets receipt uploads by the app – helping capture member data for analysis and increasing the operational efficiency of customer service counters."
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-personally-yours-digital-game-campaign-1st-crossportfolio-cm-launch",
+				"title": "The “Personally Yours” Digital Game Campaign Launch",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/the-personally-yours-digital-game-6.jpg"
+					}
+				],
+				"contents": [
+					"In the Chinese Mainland, Gen Z consumers are increasingly responding to personalised product marketing. To reach this large market segment, Swire Properties devised the “Personally Yours” digital campaign for our 50th anniversary. This new experiment in commercial real estate is a unique, proactive and integrated approach to customer engagement.",
+					"“Personally Yours” brings to life new retail service concepts that connect people, goods and spaces. It facilitates private traffic marketing, enables brands to adopt targeted marketing and enhances the consumer experience through four key features:",
+					{
+						"type": "ol",
+						"value": [
+							"“Creative ways to play” – The campaign invites customers into a digital world where they use a pioneering user-generated content (“UGC”) model to customise their own unique virtual avatars and obtain their own exclusive digital collectible for use in an engaging multiplayer game – a first for Swire Properties.",
+							"“Empowering brands to link virtual and real-world realities for targeted marketing” – brands can digitally showcase their products, creating online exposure which is then converted to foot traffic at physical stores. Through the game, online gameplay is connected to the in-store experience.",
+							"“Digital art augments the attractiveness of fashion” – the campaign includes digital art with physical products. In addition to making personalised images and virtual outfits, the campaign requested two artists to create 10 digital works of art inspired by our 50th anniversary theme. The participants were allowed to reuse these pieces to make their own digital creations.",
+							"“A whole new self image” – the campaign supports and encourages participants to use diverse and elaborate digital designs for their virtual avatars when adding fashion elements to their hair styles, facial features, expressions, and clothing."
+						]
+					},
+					"By connecting the virtual and physical worlds, “Personally Yours” was more than an isolated marketing event – it became a sustained engagement and outreach initiative, a symbol of Swire Properties Creative Transformation ethos. As of 12 September 2022, the campaign had generated nearly RMB15 million in advertising value, and the “Personally Yours” game acquired over 220k interactions."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hk1-crm",
+				"title": "HK1 CRM",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/customers/hk1-crm-1.jpg"
+					}
+				],
+				"contents": [
+					"We continued to rollout the customer relationship management (“CRM”) platform in 2022 at Swire Properties’ shopping malls in Hong Kong, which now covers Citygate, Cityplaza and Pacific Place. Designed to enhance shopping experience for customers and streamline processes for mall staff and management, the platform integrates customer information allowing for better management of customer loyalty programmes, including tiers, campaigns, rewards, redemptions and gifts. The platform is also speeding up rewards redemption and receipt verification time, reducing inventory error and providing advanced data analytics that allows for precision marketing.",
+					"In 2023, the team plans to expand the platform to include contactless car-parking services, digitalised valet parking and other incremental features that will enhance the customer experience and create further efficiencies."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers",
+			"partners-tenants",
+			"partners-residential-owners-occupiers-and-serviced-apartments-residents"
+		]
+	},
+	"partners-residential-owners-occupiers-and-serviced-apartments-residents-page": {
+		"meta": {
+			"keywords": "Residential Owners, Occupiers and Serviced Apartments, WHITESANDS, ALASSIO, EIGHT STAR STREET, Residential Sustainability Taskforce, Ham Tin Villas – Connecting Residents with Nature, Ham Tin Villas",
+			"url": "/partners/residential-owners-occupiers-and-serviced-apartments-residents",
+			"type": "partners",
+			"image": "/images/pages/partners/residential-owners-occupiers-and-serviced-apartments-residents/ham-tin-villas-connecting-residents-1.jpg",
+			"title": "Residential Owners, Occupiers and Serviced Apartments | Partners | Swire Properties SD Report 2022",
+			"content": "We continue to engage with owners and occupiers in our residential projects in Hong Kong and elsewhere to help us identify design and build improvement areas."
+		},
+		"landing": {
+			"title": "Residential Owners, Occupiers and Serviced Apartment Residents",
+			"contents": [
+				"Swire Properties continues to develop residential projects in Hong Kong and in other locations. While some of these projects, such as WHITESANDS and ALASSIO, have been developed for sale, others, such as our Pacific Place Apartments and EAST Residences, continue to be managed by the Company. In 2022, we continued on our newest residential development, the EIGHT STAR STREET project located in Wan Chai’s Starstreet Precinct."
+			]
+		},
+		"breadcrumb-title": "Residential Owners, Occupiers and Serviced Apartment Residents",
+		"sections": [
+			{
+				"type": "section",
+				"id": "residential-sustainability-taskforce",
+				"title": "Enhancing Environmental Partnership with Residential Owners and Residents",
+				"contents": [
+					"In late 2020, Swire Properties reactivated our Residential Sustainability Taskforce, which encompasses the 21 residential properties that we currently own or manage. The taskforce’s aim is to discuss and calibrate a unified approach towards SD issues for these properties.",
+					"In 2022, the taskforce coordinated on topics such as cleaning contractor management, SD data collection, preparations for municipal solid waste charging, enrolment into new government and NGO programmes, and the exchange of best practices.",
+					"Several projects were completed in 2022:",
+					{
+						"type": "ul",
+						"value": [
+							"All 21 estates participated in a detailed mapping of their electricity meters, water meters and waste recycling channels and began reporting electricity usage, water consumption and waste generation data in the Company’s central SD data platform.",
+							"Nineteen estates signed up to the Hong Kong government’s GREEN COLLECT programme, a one-stop recyclables collection service for various low-value recyclables, including plastics, glass bottles, small electrical appliances, and others.",
+							"One estate participated in a Municipal Solid Waste Charging Trial Scheme between May and October 2022, where 560 residents from four residential towers were encouraged to dispose of waste using designated garbage bags provided by the government and utilising the estate’s recycling facilities."
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "ham-tin-villas-connecting-residents-with-nature",
+				"title": "Ham Tin Villas – Connecting Residents with Nature",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/residential-owners-occupiers-and-serviced-apartments-residents/ham-tin-villas-connecting-residents-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/residential-owners-occupiers-and-serviced-apartments-residents/ham-tin-villas-connecting-residents-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/residential-owners-occupiers-and-serviced-apartments-residents/ham-tin-villas-connecting-residents-3.jpg"
+					}
+				],
+				"contents": [
+					"The newly renovated Ham Tin Villas on Lantau Island prioritise sustainability and connections with nature. Each house features a private garden ranging in size from 3,700 sq ft to 5,700 sq ft, while each master bedroom has access to an outdoor rooftop terrace.",
+					"The landscape design includes an aesthetically pleasing man-made creek which also absorbs runoff from heavy rain to prevent flooding. We also took pains to preserve the area’s natural heritage: a 100-year-old banyan tree and other trees and boulders were preserved and retained in their original positions, and all the plant species on the site are native to Hong Kong."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers",
+			"partners-tenants",
+			"partners-customers"
+		]
+	},
+	"partners-suppliers-page": {
+		"meta": {
+			"keywords": "Suppliers, number, supply chain profile, number of suppliers, engineering services, operational servies, Supplier Code of Conduct, SCoC, e-Contractor List Management System, disciplinary, whistleblowing, misconduct, contractors, SDG 12, Supplier Compliance Monitoring, Sustainable Procurement, Supplier Health and Safety and Smart Construction",
+			"url": "/partners/suppliers",
+			"type": "partners",
+			"image": "/images/pages/partners/suppliers/supplier-compliance-monitoring/smart-construction-conductor-system-1.jpg",
+			"title": "Suppliers | Partners | Swire Properties SD Report 2022",
+			"content": "We work closely with our upstream and downstream suppliers, including architects, designers, consultants, service providers, contractors, and vendors."
+		},
+		"landing": {
+			"title": "Suppliers",
+			"tag": "",
+			"contents": [
+				"We work closely with a wide range of suppliers, including architects, designers, consultants, service providers, contractors and vendors. These engagements impact the implementation of our SD 2030 Strategy in several dimensions, including <a href='/2022/people/occupational-health-and-safety'>occupational health and safety</a>, <a href='/2022/performance-environment/resource-and-circularity'>waste</a>, <a href='/2022/performance-environment/climate-change/continuously-progressing-towards-our-science-based-targets'>long-term decarbonisation</a> and <a href='/2022/performance-environment/building-asset-investments'>building/asset investments</a>."
+			]
+		},
+		"breadcrumb-title": "Suppliers",
+		"sections": [
+			{
+				"type": "data-4",
+				"id": "number-of-suppliers",
+				"big-title": "<span class='text-partners'>Supply Chain Profile</span>",
+				"tag": "GRI 2-6<br/>HKEX KPI B5.1",
+				"title": "Number of suppliers, by geographical region",
+				"remark": "The suppliers mainly include the following categories: construction, engineering services, utilities, cleaning, operational services (e.g. IT, HR& Admin, Marketing).",
+				"desc": "(as at 31 December 2022)",
+				"item-count": 3,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": "~2,100",
+								"isMoneyFormat": true
+							}
+						],
+						"text": "Hong Kong",
+						"icon": "/images/pillar-icons/partners/hong-kong.svg",
+						"icon-class": "icon-partners-hong-kong",
+						"font-class": "h4"
+					},
+					{
+						"percentage": [
+							{
+								"num": "~2,300",
+								"isMoneyFormat": true
+							}
+						],
+						"text": "Chinese Mainland",
+						"icon": "/images/pillar-icons/partners/chinese-mainland.svg",
+						"icon-class": "icon-partners-chinese-mainland",
+						"font-class": "h4"
+					},
+					{
+						"percentage": [
+							{
+								"num": "~400"
+							}
+						],
+						"text": "U.S.A.",
+						"icon": "/images/pillar-icons/partners/usa.svg",
+						"icon-class": "icon-partners-usa",
+						"font-class": "h4"
+					},
+					{
+						"percentage": [
+							{
+								"num": "~100",
+								"isMoneyFormat": true
+							}
+						],
+						"text": "Southeast Asia Region",
+						"icon": "/images/pillar-icons/partners/southeast-asia.svg",
+						"icon-class": "icon-partners-southeast-asia",
+						"font-class": "h4"
+					}
+				]
+			},
+			{
+				"type": "section",
+				"id": "supplier-code-of-conduct",
+				"title": "Supplier Code of Conduct",
+				"tag": "GRI 308, 414<br/>HKEX Aspect B4, B5, KPI B4.1, B4.2, B5.2",
+				"contents": [
+					"Swire Properties’ <a class='text-partners' href='https://www.swireproperties.com/en/sustainable-development/policies/supplier-code-of-conduct.aspx' target='_blank'>Supplier Code of Conduct </a>(“SCoC”) sets out the minimum standards and practices for our suppliers relating to legal and regulatory compliance, environmental protection, health and safety, labour practices, and other areas. This policy extends to subcontractors working on projects for Swire Properties.",
+					"In 2022, we revised the SCoC to include modern slavery, and provided more details around the definition of child and forced labour. ",
+					"Under the revised policy, no person who works for Swire Properties can be below 16 years of age and below 18 years of age for employment at night, unless they are part of a recognised professional apprenticeship programme. To ensure proper respect for human rights throughout our business, including our supply chain, we require that all our suppliers not to use any form of forced labour, which now includes imprisoned, indentured, bonded, military or slave labour. Physical punishment, threats of violence or other forms of physical, sexual, psychological or verbal abuse should not be used.",
+					"The definitions around D&I were expanded to include age, gender, gender orientation, sexual orientation, relationship, family status, disability, race, ethnicity, nationality and religious or political beliefs.",
+					"The expectations around compensation and working hours were strengthened. We expect suppliers to provide their employees with written and understandable information about their conditions of employment, with respect to wages and working hours, before they enter employment and be paid regularly and on-time.",
+					"A section on whistleblowing was also included to allow the reporting of misconduct.",
+					"In addition to encouraging our suppliers to have their own supplier codes of conduct in place, we require that all our suppliers adopt and implement policies and procedures that prevent bribery, corruption and fraud in their own operations. Suppliers that fail to comply fully with our SCoC risk termination of their contracts, subject to the contractual terms therein, and removal from our approved contractors list.",
+					"We utilise an e-Contractor List Management System, providing a framework to monitor the performance of technical service providers and handle any disciplinary issues. Service providers are now required to perform well in five areas – health and safety, environment, procurement, management, and quality – or risk disciplinary action.",
+					"The relevant SDG is:",
+					{
+						"type": "sdg",
+						"value": [
+							"12"
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "supplier-compliance-monitoring",
+				"title": "Supplier Compliance Monitoring",
+				"href": "/partners/suppliers/supplier-compliance-monitoring",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/smart-construction-conductor-system-1.jpg"
+					}
+				],
+				"contents": [
+					"We continue to work closely with our suppliers to collect accurate and up-to-date information about their environmental, social and governance practices and performance. "
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "sustainable-procurement",
+				"title": "Sustainable Procurement",
+				"href": "/partners/suppliers/sustainable-procurement",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/green-procurement-1.png"
+					}
+				],
+				"contents": [
+					"As part of our sustainable procurement strategy, Swire Properties implements environmental procurement guidelines in accordance with the ISO 14001 Environmental Management System. This system tracks our consumption of office supplies, building services equipment and building materials that meet specific environmental criteria. "
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "supplier-health-and-safety-and-smart-construction",
+				"title": "Supplier Health and Safety and Smart Construction",
+				"href": "/partners/suppliers/supplier-health-and-safety-and-smart-construction",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-1.jpg"
+					}
+				],
+				"contents": [
+					"Swire Properties is working towards fostering a culture of health and safety with all our partners. This is applied to our day-to-day operations, the management of existing properties, projects under development and all related construction sites. "
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-tenants",
+			"partners-customers",
+			"partners-residential-owners-occupiers-and-serviced-apartments-residents"
+		]
+	},
+	"partners-tenants-page": {
+		"meta": {
+			"keywords": "Tenants, Green Performance Pledge, 2025 KPI, GPP, pilot programme, Tenant Surveys Focus on Future Needs, tenant survey, three-phase customer mapping plan, customer archetypes, feedback loop, Tenant Engagement - Environment, Tenant Engagement - Digitalisation, Tenant Engagement - Social",
+			"url": "/partners/tenants",
+			"type": "partners",
+			"image": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-1.jpg",
+			"title": "Tenants | Partners | Swire Properties SD Report 2022",
+			"content": "We work closely with our commercial tenants to help them integrate sustainability practices into their operations."
+		},
+		"landing": {
+			"title": "Tenants",
+			"tag": "HKEX Aspect A3, KPI A3.1"
+		},
+		"breadcrumb-title": "Tenants",
+		"sections": [
+			{
+				"type": "section",
+				"id": "tenant-starting",
+				"title": "",
+				"contents": [
+					"Swire Properties works closely with our commercial tenants to help them integrate sustainability practices into their operations throughout the lifecycle of their tenancies. Our SD 2030 Tenants subgroup – made up of representatives from our portfolio management teams and the technical services and sustainable development department – meets regularly to develop and enhance our tenant engagement efforts on sustainability. Sustainability is a regular agenda item incorporated into internal leasing and management meetings. ",
+					"Since 2015, we have worked with a number of our office tenants at Taikoo Hui Guangzhou to implement a variety of sustainability initiatives under our Green Pledge Programme. Based on the same goals as that programme, in 2021 we launched a pilot of our Green Performance Pledge (“GPP”), a performance-based agreement that acts as a blueprint for our landlord-tenant partnerships, providing a roadmap to show our tenants how they can contribute to a more sustainable world. The pilot attracted significant interest and numerous requests for both new and existing tenants. Our 2025 KPI is to have 50%<sup>11</sup> of our office tenants sign this pledge. ",
+					"The GPP was formally rolled out in July 2022 in our Hong Kong properties, with a pilot programme launched in our Chinese Mainland properties December this year.",
+					"We also continued to train our general managers and colleagues from management offices at our Hong Kong and Chinese Mainland portfolios to help ensure that all teams are engaged in the Company’s SD goals and offer our value-adding SD programmes to our tenants. The one-stop resource hub on the Company’s intranet continued to support our efforts in this area through 2022, allowing colleagues to access useful tools, courses and articles that support their sustainability-related conversations with tenants.",
+					{
+						"type": "footnote",
+						"value": "<sup>11</sup>Measured by occupied lettable floor area (“LFA”) of office portfolios at 100% basis comprising of Taikoo Place and Pacific Place in Hong Kong and Taikoo Hui Guangzhou."
+					}
+				]
+			},
+			{
+				"type": "section",
+				"id": "tenant-surveys-focus-on-future-needs",
+				"title": "Tenant Surveys Focus on Future Needs",
+				"contents": [
+					"In 2022, Taikoo Place conducted the final part of our three-phase customer mapping plan. Phase One was a tenant survey; Phase Two focused on understanding our customers’ physical usage across the portfolio and the unique needs of different customer archetypes; and Phase Three researched ways to create an open feedback loop with tenants to keep us continuously informed about changing tenant needs and preferences, allowing us to be more agile with decision-making and consequently enhance our offerings."
+				]
+			},
+			{
+				"type": "section",
+				"id": "tenant-engagement",
+				"title": "Tenant Engagement"
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "environment",
+				"title": "Environment",
+				"href": "/partners/tenants/environment",
+				"isNext": true,
+				"contents": [
+					"Swire Properties conducts numerous tenant engagement initiatives that focus on reducing the environmental impacts of our developments. We continued to make good progress in our GPP programme and was further piloted in our Chinese Mainland portfolio in December 2022. "
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-1.jpg"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "digitalisation",
+				"title": "Digitalisation",
+				"reverse": true,
+				"href": "/partners/tenants/digitalisation",
+				"contents": [
+					"As part of our commitment to innovation and experimentation, Swire Properties’ ongoing digital transformation aims to improve digital connectivity, incorporate cutting-edge technologies, create efficiencies and cost savings, and reduce waste across our operations."
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/digitalisation/digitalisation-intro.jpg"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "social-and-wellness",
+				"title": "Social and Wellness",
+				"href": "/partners/tenants/social-and-wellness",
+				"contents": [
+					"We work to create social and wellness initiatives that connect our tenants with each other and with the wider community."
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-1.jpg"
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers",
+			"partners-customers",
+			"partners-residential-owners-occupiers-and-serviced-apartments-residents"
+		]
+	},
+	"partners-suppliers-supplier-compliance-monitoring-page": {
+		"meta": {
+			"keywords": "Supplier Compliance Monitoring, e-Contractor List Management System, automated platform, compliance, non-compliance, malpractice, disciplinary action, comprehensive risk assessment, tier, violations, procurement spend, ISO 14001, inspections, Smart Construction CONDUCTOR System, CONDUCTOR, smart construction system, CIC Construction Innovation Award, Six Pacific Place, Green Site Office for Taikoo Li Xi-an, ",
+			"url": "/partners/suppliers/supplier-compliance-monitoring",
+			"type": "partners",
+			"image": "/images/pages/partners/suppliers/supplier-compliance-monitoring/smart-construction-conductor-system-1.jpg",
+			"title": "Supplier Compliance Monitoring | Suppliers | Partners | Swire Properties SD Report 2022",
+			"content": "We continue to work closely with our suppliers to collect accurate and up-to-date information about their environmental, social and governance practices and performance. "
+		},
+		"landing": {
+			"title": "Supplier Compliance monitoring",
+			"icon": "SVGPartners",
+			"tag": "GRI 308, 403, 414<br/>HKEX Aspect B4, B5, KPI B4.1, B4.2, B5.2, B5.3"
+		},
+		"breadcrumb-title": "Supplier Compliance monitoring",
+		"sections": [
+			{
+				"type": "section",
+				"id": "supplier-compliance-monitoring",
+				"contents": [
+					"We work closely with our suppliers to collect accurate and up-to-date information about their environmental, social and governance practices and performance.",
+					"Our e-Contractor List Management System is integrated with our vendor requisition process in Hong Kong and the Chinese Mainland. This automated platform facilitates supplier selection, management and performance analysis and allows for timely updates of supplier information.",
+					"For new suppliers to be included on the list of approved contractors, they must first complete self-assessment questionnaires to confirm that they have appropriate policies and systems in place to comply with our SCoC. We monitor the compliance status of suppliers on our approved contractors list on an ongoing basis. In addition to requesting regular self-assessments, we may also undertake supplier site visits, request that our suppliers obtain independent certification in accordance with internationally recognised standards, and submit environmental and health and safety management plans for our internal review. Staff engaged in company procurement and relevant internal stakeholders were trained on their respective roles in supplier ESG management.",
+					"We continuously refine our performance management system for technical services providers. Any act of non-compliance or malpractice in the areas of health and safety, environment, procurement, quality and site management is recorded, and the technical provider will be subject to disciplinary action.",
+					"In 2022, we conducted a comprehensive risk assessment of over 300 significant Tier-1 suppliers, identified as either critical suppliers, high-volume suppliers, high-spending suppliers or non-substitutable suppliers, to confirm their compliance with our SCoC and that there were no violations of human rights issues. These suppliers are based in Hong Kong, the Chinese Mainland and the U.S.A., and together they contributed to more than half of our procurement spend in 2022.",
+					"According to our findings, none of these suppliers were considered “high risk” under our Enterprise Risk Management System (“ERM System”). There were also no incidents of human rights violations identified across our operations in 2022.",
+					"Since 2021, our technical services and sustainable development department has conducted on-site inspections for selected technical contractors in Hong Kong. These inspections are essential to fulfilling our ISO 14001 environmental management system requirements. In 2022, no non-compliance or malpractice incidents were recorded during the on-site inspections and no corrective plan has been implemented. Through these inspections, several opportunities for continual improvement were identified and we are communicating with the responsible suppliers to initiate follow-up actions."
+				]
+			},
+			{
+				"type": "section",
+				"id": "tracking-our-suppliers-sustainability-performance",
+				"title": "Tracking our Suppliers’ Sustainability Performance",
+				"contents": [
+					"To support a more effective monitoring of the implementation of our Supplier Code of Conduct and to improve the data transparency, accuracy and reliability of our Scope 3 emissions, we have introduced a Business Partner Sustainability Programme with the aim to enhancing the overall resilience of our value chain, while helping supply chain partners mitigate ESG-related risks, operate at greater resource efficiency, enhance reputation, and capture new business opportunities.",
+					"In 2023, we have partnered with EcoVadis, as the first real estate company in Hong Kong and the Chinese Mainland to launch a supply chain sustainability engagement programme via EcoVadis’ proprietary ESG assessment platform. We aim to rollout to our top 300 suppliers identified as either critical suppliers, high-volume suppliers, high-spending suppliers, non-substitutable suppliers, or suppliers with highest business relevance, and regularise these assessments with a view to creating continuous collaboration and improvement and formal recognition of the best-performing suppliers.  We have also considered the specific risks related to country, industry sector and impact of the commodity that we procure in the selection of the top 300 suppliers.",
+					"During the pilot phase, top 100 suppliers have been invited to share, via answering the EcoVadis questionnaire, their company’s management practices around environment, labour & human rights, ethics and sustainable procurement. The questionnaire is structured based on international sustainability standards such as the Ten Principles of the UN Global Compact, the International Labour Organization (ILO) conventions, the Global Reporting Initiative (GRI) standards, the ISO 26000 standard, the CERES Roadmap, and the UN Guiding Principles on Business and Human Rights, and in alignment with our Supplier Code of Conduct.",
+					"In September, Swire Properties organised a comprehensive supplier onboarding webinar to share the company’s ambition and the Business Partner Sustainability Programme with our pilot suppliers.  The objective of this webinar was to provide our suppliers with a clear understanding of the assessment process and the importance of supply chain sustainability and ESG risk management in their operations. To ensure a smooth assessment process, the EcoVadis team will provide personalised support to address any administration and technical queries that may arise during the assessment process.",
+					"The supplier’s response will be distilled and analysed, summarised into a scorecard. Suppliers will receive detailed insights of their strengths as well as areas for improvement  and be able to benchmark and compare their ESG performance against peers participated in the assessment. Swire Properties aims to regularise the assessment based on supplier performance, to allow them to report and track progress over time, monitor suppliers’ corrective actions efficiently with technical support on implementation, and continuously improve information accuracy, reliability and transparency.",
+					"Suppliers will also gain access to the EcoVadis Academy, an online e-learning platform that contains courses designed to help our suppliers learn about and improve their sustainability or ESG management practices. The course material covers policies, actions and reporting across a variety of sustainability themes as well as broader topics such as training, certification, and risk management, and more. Through the EcoVadis Academy, suppliers can acquire valuable knowledge and skills that will contribute to their overall sustainability performance and enhance their ability to meet the evolving expectations of stakeholders."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "smart-construction-conductor-system",
+				"title": "Smart Construction CONDUCTOR System",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/smart-construction-conductor-system-1.jpg"
+					}
+				],
+				"contents": [
+					"In 2022, as part of our wider ambition to drive and adopt smart safety construction and digitalisation at our projects, Swire Properties worked with a consultant to develop and adopt the innovative CONDUCTOR smart construction system during work on our Six Pacific Place project. CONDUCTOR is a dedicated tool that allows users to monitor multiple construction data streams and multiple construction sites simultaneously, greatly enhancing efficiency, task management and safety.",
+					"CONDUCTOR uses data drawn from a variety of tools and applications to provide holistic smart construction support to the project team. These include various task management applications, Internet of Things (“IoT”) sensors, AI video analytics, smart helmets, smart watches, and more. In addition to providing real-time data and monitoring, the system also facilitates cross-site performance comparisons and enable performance benchmarking over time.",
+					"CONDUCTOR was piloted on the Six Pacific Place project and was recognised with a 2022 CIC-Construction Innovation Award organised by the Construction Industry Council."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "green-site-office-for-taikoo-li-xi-an",
+				"title": "Green Site Office for Taikoo Li Xi’an",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/green-site-office-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/green-site-office-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/green-site-office-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-compliance-monitoring/green-site-office-4.jpg"
+					}
+				],
+				"contents": [
+					"Before commencement of construction work by the main contractor, the archaeological excavation is being proceeded now. A series of SD initiative related measures facilitating a green site office have been enforced as described as follows:",
+					{
+						"type": "ul",
+						"value": [
+							"Recycling of 7,000 bricks from the existing site wall were reused to erect hoardings which aesthetically match the site surrounding.",
+							"Solar panels for lighting and charging pillars for electric car are used on-site.",
+							"Staff are encouraged to reduce water consumption, while food wastes are collected to become fertiliser for farming after treating.",
+							"Part of the site has been arranged as a small farm, where nearby residents can be invited to participate in farming to raise their awareness of the importance of environmental protection."
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers-sustainable-procurement",
+			"partners-suppliers-supplier-health-and-safety-and-smart-construction",
+			"people-occupational-health-and-safety-2022-health-and-safety-performance"
+		]
+	},
+	"partners-suppliers-supplier-health-and-safety-and-smart-construction-page": {
+		"meta": {
+			"keywords": "Supplier Health and Safety and Smart Construction, Zero Harm, construction site safety, safety, health, Number of fatalities of contractor workers, contractor fatality, Lost Time Injury Rate of contractor workers at Hong Kong development projects, Lost Time Injury Rate, LTIR, Accident rate of contractor workers at Hong Kong development projects, accident, Swire Properties Invests in Next-Level Innovative Safety Initiatives, EIGHT STAR STREET, Two Taikoo Place, Six Pacific Place, Robotic Installation System for Elevators, Sino-Ocean Taikoo Li Chengdu, constructor safety, Six Pacific Place Wins Multiple Site Safety Awards",
+			"url": "/partners/suppliers/supplier-health-and-safety-and-smart-construction",
+			"type": "partners",
+			"image": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-1.jpg",
+			"title": "Supplier Health and Safety and Smart Construction | Suppliers | Partners | Swire Properties SD Report 2022",
+			"content": "Swire Properties is working towards fostering a culture of health and safety with all our partners and contract workers."
+		},
+		"landing": {
+			"title": "Supplier Health and Safety and Smart Construction",
+			"tag": "GRI 403<br/>HKEX Aspect B6"
+		},
+		"breadcrumb-title": "Supplier Health and Safety and Smart Construction",
+		"sections": [
+			{
+				"type": "section",
+				"id": "supplier-supplier-health-and-safety-and-smart-construction",
+				"contents": [
+					"Working closely with all our partners to foster a strong health and safety culture is an integral part of Swire Properties’ commitment to Zero Harm. Beyond day-to-day operations and the management of existing properties, this culture also applies to our projects under development and all related construction sites.",
+					"In 2022, we continued to enhance the collection and public reporting of health and safety-related metrics and incident reports from our contractors which was introduced last year. This new approach allows us to track performance and enables us to work with our partners to develop strategies that improve on-site health and safety performance, ensuring that all our construction sites continue to be safe places to work. Our ambitious internal construction accident rate target is used to guide our efforts in this area.",
+					"Meanwhile, we continued to successfully adopt  the use of innovative smart technology to eliminate safety hazards and improve overall safety during the construction stage at several construction sites in Hong Kong and the Chinese Mainland this year. This  took various forms, ranging from using robotic technology to replace humans  on more dangerous tasks, to issuing workers with smart devices to further enhance their safety on-site."
+				]
+			},
+			{
+				"type": "data-4",
+				"title": "Number of fatalities of contractor workers",
+				"bottom-desc": "A contractor fatality is defined as a loss of life of a contractor or subcontractor employee as the result of an incident occurring when the contractor or subcontractor employees are conducting work for our Company.",
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": "0"
+							}
+						],
+						"icon": "/images/pillar-icons/partners/number_of_fatalities_of_contractor_workers.svg"
+					}
+				]
+			},
+			{
+				"type": "data-4",
+				"isNext": true,
+				"title": "Lost Time Injury Rate of contractor workers at Hong Kong development projects",
+				"bottom-desc": "The Lost Time Injury Rate (“LTIR”) represents the number of injuries per 100 contractor workers per year. It is calculated as “total number of injuries multiplied by 200,000 and then divided by total hours worked”. The factor of 200,000 is the annual hours worked by 100 contractor workers, based on 40 hours per week for 50 weeks a year.",
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": "0.06",
+								"places": 2
+							}
+						],
+						"icon": "/images/pillar-icons/partners/ltir.svg"
+					}
+				]
+			},
+			{
+				"type": "data-4",
+				"isNext": true,
+				"title": "Accident rate of contractor workers at Hong Kong development projects",
+				"bottom-desc": "The accident rate represents the number of reportable accidents per 1,000 contractor workers. It is calculated as \"total number of reportable accidents multiplied by 1,000 and then divided by average daily number of contractor workers on-site\".",
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": "0.90",
+								"places": 2
+							}
+						],
+						"icon": "/images/pillar-icons/partners/number_of_fatalities_of_contractor_workers.svg"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-invests-in-next-level-innovative-safety-initiatives",
+				"title": "Swire Properties Invests in Next-Level Innovative Safety Initiatives",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/swire-properties-invests-in-next-level-3.png"
+					}
+				],
+				"contents": [
+					"This year, Swire Properties increased our investment in cutting-edge technologies to increase construction site safety and reduce risks to workers.",
+					"Working at height and inside the confined space of lift shafts are among the high-risk activities on any construction site. In 2022, Swire Properties adopted three leading-edge safety innovations to significantly reduce these risks during the construction of  EIGHT STAR STREET, Two Taikoo Place and Six Pacific Place, in addition to employing safety monitoring and a safety management systems.",
+					"The first innovation was the application of the scaffold-less lift installation method (“SLIM”) for  the installation of passenger lifts at Two Taikoo Place. Traditional methods involves the erection of scaffolding within the lift shafts which serves as the working platform for the workers to install the various lift components. The scaffold-less lift installation method, on the other hand, is a much safer approach which eliminates the risks associated with workers having to physically climb up and down the scaffold.  Workers are instead stationed on a motorised work platform which can be moved up and down the lift shaft.",
+					"Six Pacific Place also significantly improved construction safety with the deployment of the automated Robotic Installation System for Elevators (R.I.S.E.) – the first use of this system in Hong Kong. Developed by a lift manufacturer, this robotic system conducts repetitive high-risk work such as drilling holes and setting anchor bolts within lift shafts automatically. This minimises the number of people inside the lift shafts, further reducing the possibility of accidents or injuries when compared to traditional installation methods.",
+					"In addition, during the final phases of construction at Two Taikoo Place, an automated robotic system  was used to perform a potentially dangerous task: the field water tests of the curtain wall system. These tests, undertaken at height, ensure that windows and other glass installations are waterproof. Using a robot for these tests eliminates the need for people to work at height, reduces human error and improves safety. ",
+					"We also used smart safety helmets for the workers, equipped with headlights and temperature and heartbeat sensors. The helmets are connected to an IoT network and sends out an alert when abnormalities are detected. This enhances communication and emergency management and further protects workers. Smart watches, AI-based analytical CCTV, IoT sensors and a full-coverage 5G mobile network at Six Pacific place also provided further technological safety aids."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "smart-safety-at-our-chinese-mainland-construction-sites",
+				"title": "Smart Safety at our Chinese Mainland Renovation Sites",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/smart-safety-at-our-chinese-mainland-construction-sites-1.jpg"
+					}
+				],
+				"contents": [
+					"Beginning in June 2022, an AI smart site safety monitoring system was set up at the renovation project site at Sino-Ocean Taikoo Li Chengdu to monitor the workers’ safety-related behaviour including smoking and the non-wearing of safety helmets. The system is equipped with a local speaker that warns workers and automatically sends alerts to the management team. In addition to enhancing safety management and preventing accidents, the system also allows construction site management tasks to be conducted remotely.",
+					"This system has since been rolled out at construction sites at our Taikoo Li Sanlitun and Taikoo Hui Guangzhou properties. It can be configured to detect any pre-defined safety-related issues and provide real-time alarms – thus providing site-specific ways to improve the efficiency of safety supervision, reduce unsafe behaviour and visibly demonstrate effective management and the high standard of Swire Properties’ contractor safety requirements."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "six-pacific-place-wins-multiple-site-safety-awards",
+				"title": "Six Pacific Place Wins Multiple Site Safety Awards",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/supplier-health-and-safety-and-smart-construction/six-pacific-place-wins-5.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"Six Pacific Place won several safety awards at the 28th Considerate Contractors Site Award Scheme, organised by the government’s Development Bureau and the Construction Industry Council. At the awards, Six Pacific Place was showcased as an example of good site safety practices and safety innovations, which included:",
+					{
+						"type": "ul",
+						"value": [
+							"CONTRACTOR, a smart construction management platform which integrates different hardware and software applications, mentioned earlier in this section.",
+							"CCTV cameras with AI video analytics to detect unsafe behaviour or dangerous situations such as not wearing personal protective equipment (“PPE”) properly, entering a potentially dangerous area, and fall, smoke and fire detection.",
+							"Smart helmets that monitor health-related parameters such as body temperature and heart rate for workers in high-risk areas such as lift shafts.",
+							"Indoor environment quality sensors that continuously monitor site environmental metrics such as PM2.5, temperature and humidity. Alerts are sent to the site management team if abnormal conditions are detected.",
+							"The use of building information modelling (“BIM”) to review high-risk site activities, mentioned earlier in this section.",
+							"VR training provided to workers to ensure they fully understand safe working procedures."
+						]
+					},
+					"The awards won were:",
+					{
+						"type": "ul",
+						"value": [
+							"Safety and Environmental Excellence for New Works Contracts – Gold",
+							"Considerate Contractors Site Awards for New Works Contracts (Group B) – Gold",
+							"Outstanding Environmental Management and Performance Awards – Silver"
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers-supplier-compliance-monitoring",
+			"partners-suppliers-sustainable-procurement",
+			"people-occupational-health-and-safety"
+		]
+	},
+	"partners-suppliers-sustainable-procurement-page": {
+		"meta": {
+			"keywords": "Sustainable Procurement, ISO 14001, Environmental Management System, ISO 14001 Environmental Management System, low-carbon specifications, Excellent Green Product Advocator Awards,  Hong Kong Green Shop Alliance Awards, low-carbon,  low-carbon building materials, SDG 12, SDG 13, procurement spend, Sustainable Procurement for Hong Kong and the Chinese Mainland, Green Procurement at Two Taikoo Place and Six Pacific Place, whole lifecycle carbon, Construction Industry Council Green Product Certification, electric arc furnace, Construction Industry Council, CIC, Green Product Certification, Forest Stewardship Council, FSC, PEFC, Programme for the Endorsement of Forest Certification, CIC Green Product Certification, Low-volatile organic compound, chlorofluorocarbon, CFC, A Sustainable Timber Deck at Three Pacific Place, Wood-plastic composite, WPC, deck, timber, Further Expansion of our Sustainable Sourcing Programme ",
+			"url": "/partners/suppliers/sustainable-procurement",
+			"type": "partners",
+			"image": "/images/pages/partners/suppliers/sustainable-procurement/green-procurement-1.jpg",
+			"title": "Sustainable Procurement | Suppliers | Partners | Swire Properties SD Report 2022",
+			"content": "Our sustainable procurement strategy requires that we design and implement sustainable procurement guidelines."
+		},
+		"landing": {
+			"title": "Sustainable Procurement",
+			"tag": "GRI 301<br/>HKEX Aspect A2, KPI B5.4"
+		},
+		"breadcrumb-title": "Sustainable Procurement",
+		"sections": [
+			{
+				"type": "section",
+				"id": "creating-an-industry-leading-work-environment-for-our-employees",
+				"contents": [
+					"As part of our sustainable procurement strategy, since 2015 Swire Properties has been implementing environmental procurement guidelines in accordance with the ISO 14001 Environmental Management System. This system tracks our consumption of office supplies, building services equipment and building materials that meet specific environmental criteria – such as whether the products have been certified or accredited by reputable, independent third parties. We use this data to evaluate our sustainable procurement performance and identify further opportunities to source more sustainable products.",
+					"Beginning in 2020, we expanded our procurement of green products and services to include sustainability-related products and services, including expenditures on promoting safety, health and wellbeing in our properties and new developments.",
+					"In addition, we also track our consumption of specific construction materials used in projects under development, such as timber, concrete and reinforcement bar. This allows us to benchmark our consumption of these materials and their environmental impact during the construction of new developments.",
+					"We have been a member of the Hong Kong Green Purchasing Charter of the Green Council since 2013 and a member of their Sustainable Procurement Charter since 2018.",
+					"We were the first real estate developer in Hong Kong to introduce low-carbon specifications for new developments, detailing such specifications for concrete, reinforcement bar and structural steel. These specifications have now been adopted into the main contract for a new development in Hong Kong.",
+					"Cityplaza and Citygate Outlets were recognised with Excellent Green Product Advocator Awards at the Hong Kong Green Shop Alliance Awards 2022. These awards were given to both malls for contributing to a greener retail environment through the adoption of green products.",
+					"Since 2021, we have worked with Tsinghua University to explore the availability and use of low-carbon building materials in the Chinese Mainland.",
+					"To facilitate the low-carbon transformation of our supply chain, we also regularly share our considerable experience with contractors and building material suppliers in the real estate and construction industries through publications, presentations at conferences and other channels. The aims are to collaborate with our supply chain partners to innovate low-carbon best practices, and to catalyse the greater general availability of low-carbon building materials.",
+					"The relevant SDGs are:",
+					{
+						"type": "sdg",
+						"value": [
+							"12",
+							"13"
+						]
+					}
+				]
+			},
+			{
+				"type": "data-4",
+				"title": "Sustainable Procurement for Hong Kong and the Chinese Mainland in 2022",
+				"item-count": 2,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": 1477,
+								"before-text": "<span class='h4 mb-0'>HKD </span>",
+								"after-text": "&nbsp;<span class='font-giant mb-0'>million</span>"
+							}
+						],
+						"text": "Total value",
+						"icon": "/images/pillar-icons/partners/sustainable-procurement.svg",
+						"icon-class": "icon-partners-sustainable-procurement"
+					},
+					{
+						"percentage": [
+							{
+								"num": 17,
+								"after-text": "<span class='mb-0 font-giant'>%</span>"
+							}
+						],
+						"text": "of total procurement spend",
+						"icon": "/images/pillar-icons/partners/sustainable-procurement.svg",
+						"icon-class": "icon-partners-sustainable-procurement"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "green-procurement-at-two-taikoo-place-and-six-pacific-place",
+				"title": "Green Procurement at Two Taikoo Place and Six Pacific Place",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/green-procurement-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/green-procurement-2.jpg"
+					}
+				],
+				"contents": [
+					"Two Taikoo Place and Six Pacific Place have established a “whole lifecycle carbon” management approach which addresses both embodied carbon and operational carbon. Part of this vision involved the use of green procurement during the construction stage of the project.",
+					"The green building materials procured include:",
+					{
+						"type": "sub-title",
+						"value": "Two Taikoo Place"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"Nearly 100% of concrete used is Platinum-certified under the Construction Industry Council (“CIC”) Green Product Certification.",
+							"Structural steel and rebar have high recycled content and are manufactured by the electric arc furnace (“EAF”) process.",
+							"All gypsum blocks used are Platinum-certified under the CIC Green Product Certification.",
+							"Forest Stewardship Council (“FSC”) or Programme for the Endorsement of Forest Certification (“PEFC”) certified timber used in temporary works.",
+							"Platinum-grade chillers certified under CIC Green Product Certification.",
+							"Low-volatile organic compound (“VOC”) and chlorofluorocarbon (“CFC”)-free paints, coatings, adhesives, sealants, flooring, insulation and furniture were purchased during the interior fit-out stage."
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "Six Pacific Place"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"FSC and PEFC certified timber adopted for both temporary and interior works.",
+							"As at 31 December 2022, procured more than 23,000 tonnes of concrete which are Platinum-certified under the CIC Green Product Certification.",
+							"Procured rebar which are Platinum-certified under the CIC Green Product Certification.",
+							"All fan coil unit procured with CIC Green Product Certification."
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "a-sustainable-timber-deck-at-three-pacific-place",
+				"title": "A Sustainable Timber Deck at Three Pacific Place",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/sustainable-timber-deck-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/sustainable-timber-deck-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/sustainable-timber-deck-3.jpg"
+					}
+				],
+				"contents": [
+					"After being in use for 16 years, the wooden deck and stone benches in the Star Street Plaza and Queen’s Road East Plaza in front of Three Pacific Place needed a revamp. Instead of demolishing them and building new ones using fresh materials, with the old materials sent to landfill, Swire Properties prioritised recycling as many existing elements as possible.",
+					"The deck’s timbers were recycled and reconstituted into a more durable wood-plastic composite (“WPC”) deck, with the entire process performed by a local vendor. Meanwhile, sandstone panels from the external façade of the Pacific Place Mall were replaced after over 10 years of service. These were transformed into reconstituted stone benches and tables with all suppliers being local companies.",
+					"The project is an excellent example of closed-loop recycling and is a ground-breaking project for WPC usage in Hong Kong, since all the recycling, reconstitution and fabrication processes took place locally. We seek to incorporate sustainability into every facet of our business and establish long-term cooperative relationships with green supply chain partners, together transitioning to a low-carbon economy.",
+					"For more details, please refer to the project mini-site <a target='_blank' class='text-partners' href='https://www.swirepropertiesoffices.com/3pp-timber-deck-final/pacific-place-office-happenings/'>here</a>."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "further-expansion-of-our-sustainable-sourcing-programme",
+				"title": "Further Expansion of our Sustainable Sourcing Programme",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/suppliers/sustainable-procurement/further-expansion-of-our-sustainable-sourcing-programme-1.jpg"
+					}
+				],
+				"contents": [
+					"We are committed to expanding our sourcing of sustainable materials across all areas of our business. In 2022, we continued to make significant achievements in this regard, including:",
+					"Portfolio Management Offices and Facilities:",
+					{
+						"type": "ul",
+						"value": [
+							"Air handling units, paints and coatings, panel board and water pump with CIC Green Product Certification.",
+							"Toilet paper and printing paper certified by the Forest Stewardship Council (“FSC”).",
+							"Office printing paper with 100% recycled content in our Hong Kong internal offices.",
+							"Biodegradable tea bags with certified organic tea."
+						]
+					},
+					"Hotel Operations:",
+					{
+						"type": "ul",
+						"value": [
+							"Sustainable seafood that meets guidelines set out by the WWF Seafood Guide or the Aquaculture Stewardship Council.",
+							"Plant-based meat alternatives on menus, helping to lower carbon emissions and reduce the ecological footprint of our operations.",
+							"Vegan, organic and biodynamic wines added to menus.",
+							"Coffee beans processed with solar power and packaged in biodegradable materials.",
+							"Bamboo material bathroom amenities.",
+							"Simplified packaging for room amenities such as removing paper boxes.",
+							"Toilet paper rolls replaced with 90-100% recycled fibre certified by FSC.",
+							"All office printing papers certified by FSC."
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety",
+			"partners-suppliers-supplier-compliance-monitoring",
+			"performance-environment-climate-change"
+		]
+	},
+	"partners-tenants-digitalisation-page": {
+		"meta": {
+			"keywords": "Tenant Engagement - Digitalisation, digitalisation, tenant engagement, digital transformation, WiredScore-certified portfolios, WiredScore, SmartScore, Platinum, Tenant Portal, data sharing, benchmarking, gamification, Smart Resource Conservation through Technology, smart technology, Smart Waste Reduction Challenge, Smart Mobile Scale Pilot programme, waste,  Smart Power Metering System pilot programme, wireless water sub-meters",
+			"url": "/partners/tenants/digitalisation",
+			"type": "partners",
+			"image": "/images/pages/partners/tenants/digitalisation/digitalisation-intro.jpeg",
+			"title": "Digitalisation | Tenants | Partners | Swire Properties SD Report 2022",
+			"content": "We continued to digitise various aspects of our operations to enhance efficiency, effectiveness and better user experiences."
+		},
+		"landing": {
+			"title": "Tenant Engagement - Digitalisation"
+		},
+		"breadcrumb-title": "Tenant Engagement - Digitalisation",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "digitalisation-intro",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/digitalisation/digitalisation-intro.jpg"
+					}
+				],
+				"contents": [
+					"As part of our commitment to innovation and experimentation, Swire Properties’ ongoing digital transformation aims to improve digital connectivity, incorporate cutting-edge technologies, create efficiencies and cost savings, and reduce waste across our operations.",
+					"As a measure of the success of this transformation, this year we received the highest level of certification from two global digital connectivity benchmarks: WiredScore, which assesses the ability of a building to meet the needs of the modern office tenant; and SmartScore, which certifies best-in-class smart buildings that deliver a fully integrated user experience through a modern, digital platform to improve efficiency and are fully future-proofed to meet the highest standards of sustainability.",
+					"Taikoo Place and Pacific Place are now the first WiredScore-certified portfolios in Hong Kong, with 15 commercial buildings certified, while Two Taikoo Place and Six Pacific Place are the first buildings in Hong Kong to be both WiredScore and SmartScore Platinum certified – this is an impressive achievement, as only 0.6% of buildings assessed by these schemes have globally obtained a Platinum rating."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "tenant-portal",
+				"title": "Tenant Portal",
+				"pillar": "partners",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/digitalisation/tenant-portal-1.png"
+					}
+				],
+				"contents": [
+					"Our tenant portal is a website through which our tenants can make facility management requests, view e-debit notes and circulars, and get in touch with the administration and other important contacts. After making a request, work orders are automatically generated. This digitised process reduces paper use and saves data input time.",
+					"In 2021, new features were added to the portal, including the piloting of the facilities maintenance feature at Taikoo Place which offers a digital alternative to submitting and tracking facilities maintenance requests. All requests made through the system are logged and can be reviewed at any time.",
+					"The tenant portal is now accessible to all office tenants and retail tenants. In 2022, we began to develop an upgraded version of the tenant portal which incorporate new features to capture tenant's energy and waste data and track performance against the GPP. Features related to the GPP will be progressively enhanced to support data sharing, benchmarking and gamification.",
+					"Representatives from our information technology department, technical services and sustainable development department and portfolio management teams meet regularly to ensure that the portal meets evolving tenant engagement and sustainability needs."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "smart-resource-conservation-through-technology",
+				"title": "Smart Resource Conservation through Technology",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/digitalisation/smart-resource-conservation-through-technology-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/digitalisation/smart-resource-conservation-through-technology-2.jpg"
+					}
+				],
+				"contents": [
+					"2022 saw an increase in the use of smart technology throughout our properties. We continued working with three tenants on the Smart Power Metering System pilot programme that is allowing landlords and tenants to continuously review energy consumption patterns, identify potential energy savings and drive behavioural change.",
+					"To promote water efficiency and raise awareness about the importance of conserving water, we completed the installation of wireless water sub-meters for office tenants in Taikoo Place and Citygate, and began installation works in Pacific Place. In Taikoo Place, we also began to proactively helping tenants review the efficiency of their water fittings and make simple retrofits to reduce their faucets’ flow rate.",
+					"While waste measurement usually involves manual weighing and recording, we continue to embrace emerging technologies that can digitalise the waste data collection process. In 2021, with the support of the Swire Pacific SD Fund, we launched the <a href='/2022/performance-environment/resource-and-circularity/digitalising-and-gamifying-waste-data'>Smart Waste Reduction Challenge</a>, where smart scales are retrofitted underneath bins inside tenants’ premises to collect waste data. In 2022, the Challenge welcomed more tenants. In parallel, we also began a Smart Mobile Scale Pilot programme, in which cleaning contractors are provided with a designated cloud-connected scale with which they weigh and record tenants’ waste in the back-of-house area.",
+					"We will continue to identify, evaluate and expand approaches that promote data sharing and help all parties cut down on energy, water and waste in the hopes of deepening collaboration with our tenants."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-tenants-environment",
+			"partners-tenants-social-and-wellness",
+			"places-vibrancy-youth-empowerment-white-christmas-street-fair"
+		]
+	},
+	"partners-tenants-environment-page": {
+		"meta": {
+			"keywords": "Tenant Engagement - Environment, The Green Performance Pledge Builds Momentum, GPP, Green Performance Pledge, landlord-tenant partnership, green lease, tenant-landlord collaboration, lettable floor area, energy, water and waste reduction, SD Fit-out Technical Guidelines, performance benchmarking, action planning, data sharing, free energy audits, smart water meters, smart waste reduction monitoring system, networking opportunities, Scope 3 emissions, The GPP Awards Ceremony, best practices, green points, seed points, fit-out, Smart Waste Reduction Challenge, The Green Kitchen Initiative 2.0, GKI, Three-Leaf, initiatives, The Loop and Urban Farm Programmes, the Loop, close the loop, eco-art, food waste composter, INDIGO, The Loop at Citygate, The Loop at One Island East, Taikoo Place, The Loop at One Pacific Place, The Loop at South Island Place, crops, vegetables, farming seasons, compost, fertiliser, urban farm, energy-saving, commercial tenants, Green Shop Alliance, HKGSA, Hong Kong Green Shop Alliance, Special Citation on Carbon Neutrality, Best Green Practice in Malls category, Best Collaborative Effort of Malls and Shops category, Excellent Green Product Advocator award  ",
+			"url": "/partners/tenants/environment",
+			"type": "partners",
+			"image": "/images/pages/partners/tenants/environment/the-green-performance-1.png",
+			"title": "Environment | Tenants | Partners | Swire Properties SD Report 2022",
+			"content": "We have numerous engagement programmes designed to improve our tenants' energy, water and waste performance."
+		},
+		"landing": {
+			"title": "Tenant Engagement - Environment"
+		},
+		"breadcrumb-title": "Tenant Engagement - Environment",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-green-performance-pledge-builds-momentum",
+				"title": "The Green Performance Pledge Builds Momentum",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-performance-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"Officially launched in July 2022 in Hong Kong, the Green Performance Pledge (\"GPP\") is a performance-based landlord-tenant partnership. Building on the basic premise of a green lease, the GPP covers the entire tenancy cycle in two core areas, fit-out and operation, focusing on creating a significant impact in terms of energy, water and waste reduction. This performance-based programme gives users access to an array of “green tools” and enhances tenant-landlord collaboration.",
+					"From the launch of the GPP pilot in August 2021 until 31 December 2022, 52 office tenants – representing 37.9% of occupied lettable floor area from the Company’s Hong Kong office portfolio (over 2.5 million sq ft) – signed up. Participants are from Taikoo Place, Pacific Place and One Citygate, and span a wide range of industries including banking and finance, legal, information technology and consumer brands. The GPP pilot also launched in our Chinese Mainland portfolio in December 2022. Swire Properties aims to engage 50%<sup>12</sup> of office tenants in Hong Kong and the Chinese Mainland in the GPP by 2025.",
+					"For new tenants fitting out their premises, or for existing tenants planning a renovation, the GPP includes a set of “SD Fit-out Technical Guidelines”. Featuring user-friendly templates, the guidelines cover office design tips, as well as a validation and recognition system to improve energy and water efficiency, reduce waste and enhance employee wellness.",
+					"Under the operations portion, tenants can make use of various tools and methods of support available to guide them while they improve the sustainability of their operations. Highlights include performance benchmarking and action planning, data sharing, tailored SD offerings including free energy audits and smart water meters, access to pioneering green technologies such as Hong Kong’s first smart waste reduction monitoring system, networking opportunities, and recognition for exemplary environmental performance.",
+					"By encouraging tenants to elevate their SD performance, the GPP is also helping the Company meet its Scope 3 emissions reduction target of 28% per sqm for tenants by 2030 (against a 2018 baseline) under the science-based targets.",
+					{
+						"type": "footnote",
+						"value": "<sup>12</sup>Measured by occupied lettable floor area (“LFA”) of office portfolios at 100% basis comprising of Taikoo Place and Pacific Place in Hong Kong and Taikoo Hui Guangzhou."
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-gpp-pilot-awards-ceremony-2022",
+				"title": "The GPP Pilot Awards Ceremony 2022",
+				"pillar": "partners",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-gpp-pilot-awards-ceremony-2022-4.jpg"
+					}
+				],
+				"contents": [
+					"In September 2022, the Company held the GPP Pilot Awards Ceremony, a celebration for our ground-breaking GPP pilot tenants. We shared GPP pilot results, presented awards and held an experience-sharing session about best practices with our pilot tenants. More than 30 guests from 10 participating tenant companies took part in the ceremony.",
+					"Of the 13 pilot tenants, eight amassed “green points” in the operations portion of the GPP for sharing SD data and reaching specified performance goals. They were recognised with Platinum, Gold, Silver or Member awards. Five tenants also participated in the fit-out and renovation portion of the GPP, collecting “seed points” for adopting sustainability and wellness features. These tenants were recognised with “Three Seed”, “Two Seed” or “One Seed” ratings.",
+					{
+						"type": "sub-title",
+						"value": "GPP tenant case studies"
+					},
+					{
+						"type": "sub-title",
+						"value": "Fit-out"
+					},
+					"One of our tenants followed our \"SD Fit-out Technical Guidelines\" and achieved outstanding results for their office:",
+					{
+						"type": "ul",
+						"value": [
+							"52% of existing office furniture was reused",
+							"Increased 43% in pantry faucet water efficiency",
+							"Five types of recyclables were collected, including glass bottles and food waste",
+							"An overall reduction in electricity use intensity of 21% compared to the tenant’s previous premises"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "Operations"
+					},
+					"As part of the GPP, one tenant participated in Swire Properties Smart Metering Pilot Programme, monitoring energy use by time and by zone in their office premises. They discovered that almost half of their total electricity was consumed outside office hours. The tenant removed underused equipment, which led to a 9.3% reduction in electricity use in two communal areas between October 2021 and June 2022, and began exploring more efficient management of lighting and server equipment to further improve energy savings. This tenant also took part in Swire Properties’ <a href='/2022/performance-environment/resource-and-circularity/digitalising-and-gamifying-waste-data'>2021 Smart Waste Reduction Challenge</a>, reducing total waste per employee by nearly 19% between July 2021 and January 2022.",
+					"Another tenant joined our free energy audit programme, aiming to improve energy performance in their offices, with the main focus being lighting, office appliances and heating, ventilation and air conditioning (“HVAC”) systems. The audit identified energy management opportunities of over 27,000 kWh that could be achieved through lighting retrofits, the use of daylight sensors and better overall equipment management."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-green-kitchen-initiative",
+				"title": "The Green Kitchen Initiative 2.0",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-8.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-9.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-10.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-11.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-12.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-13.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-14.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-15.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-16.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-17.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-green-kitchen-initiative-18.jpg"
+					}
+				],
+				"contents": [
+					"Launched in 2017, Swire Properties’ Green Kitchen Initiative is a platform that allows portfolio management teams and tenants to have sustainability conversations before fit-out and renovation projects commence, allowing both sides to collaborate on reducing energy and water usage and improving air quality and waste management – thus enhancing the sustainability performance of food and beverage outlets across our portfolios.",
+					"Given the Green Kitchen Initiatives' durable success and popularity, in 2022, we upgraded the scheme, rolling out the Green Kitchen Initiative 2.0. This introducing several prerequisites for receiving the Green Kitchen Award, such as incorporating LED lights, flow controllers and food waste recycling.",
+					"As of the end of 2022, 76 tenants across our Hong Kong and Chinese Mainland portfolios have received Green Kitchen Awards, with 24 being new to the programme in 2022. Six tenants received the Gold Three Leaf Award during the year - a special mention for the best performing tenants in the scheme.",
+					"Examples of initiatives introduced by these winning tenants include:",
+					{
+						"type": "ul",
+						"value": [
+							"Putting in place demand-controlled or variable-speed exhaust systems to reduce kitchen exhaust fan energy use and associated cooling and heating costs.",
+							"Installing dishwashers, steamers and refrigerating appliances with a heat recovery function.",
+							"Selecting highly energy-efficient cooking equipment.",
+							"Setting up food waste recycling and recycling facilities for items like glass bottles, beverage cartons, coffee grounds and polyfoam boxes.",
+							"Adopting exhaust systems with high purification efficiency.",
+							"Introducing smart systems to streamline production processes to prevent or even eliminate unnecessary waste."
+						]
+					},
+					"An analysis of the key impacts of the Green Kitchen Initiative at our EAST Hong Kong hotel’s FEAST restaurant between the second halves of 2019 (before renovation) and 2021 reveals a strong positive impact, including:",
+					{
+						"type": "ul",
+						"value": [
+							"6% reduction in electricity usage (excluding air conditioning)",
+							"31% reduction in town gas usage",
+							"19% reduction in water consumption"
+						]
+					}
+				]
+			},
+			{
+				"type": "section",
+				"id": "the-loop-urban-farm-programme",
+				"title": "The Loop and Urban Farm Programmes",
+				"pillar": "partners",
+				"contents": [
+					"Launched in 2017, The Loop is our SD exhibition centre in Devon House at Taikoo Place. The Loop features a recycling centre, food waste composter, “eco-art” installation and other exhibitions. The 4,000 sq ft space encourages tenants and the wider community to “close the loop” by incorporating sustainable practices into their business operations and daily lives.",
+					"In July, INDIGO in Beijing also unveiled The Loop – a multipurpose space to engage employees, tenants and business partners on SD initiatives.",
+					"There has also been a renewed focus on urban farming during the COVID-19 pandemic. In 2021, we extended The Loop’s urban farming and community engagement concept to other properties across Hong Kong in partnership with Rooftop Republic, a social enterprise focused on urban farming.",
+					"This year, One Pacific Place became the fifth space under our \"The Loop\" concept, providing over 1,600 sq ft of urban farm area.",
+					"In 2022, our 5 urban farms in Hong Kong:"
+				]
+			},
+			{
+				"type": "data-4",
+				"id": "sppa-key-figures",
+				"isNext": true,
+				"item-count": 2,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": 36,
+								"custom-class": "",
+								"after-text": "",
+								"before-text": "<span class='h4 mb-0 mr-1 no-wrap'>Produced</span>"
+							}
+						],
+						"align-left": true,
+						"text": "varieties of crops"
+					},
+					{
+						"percentage": [
+							{
+								"num": 500,
+								"custom-class": "",
+								"after-text": "kg",
+								"before-text": "<span class='h4 mb-0 mr-1 no-wrap'>Harvested </span>~"
+							}
+						],
+						"align-left": true,
+						"text": "of crops"
+					},
+					{
+						"percentage": [
+							{
+								"num": 275,
+								"custom-class": "less-space-with-after-text",
+								"before-text": "<span class='h4 mb-0 mr-1 no-wrap'>Donated </span>~",
+								"after-text": "kg"
+							}
+						],
+						"align-left": true,
+						"text": "to Feeding Hong Kong"
+					},
+					{
+						"percentage": [
+							{
+								"num": 1350,
+								"custom-class": "less-space-with-after-text",
+								"after-text": "",
+								"before-text": "<span class='h4 mb-0 mr-1 no-wrap'>Engaged </span>>"
+							}
+						],
+						"align-left": true,
+						"text": "participants"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-loop-at-citygate",
+				"title": "The Loop at Citygate",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-citygate-5.jpg"
+					}
+				],
+				"contents": [
+					"Launched in June 2021, The Loop at Citygate has created the opportunity for all 19 One Citygate office tenants to experience farming in an urban context. During the four farming seasons in 2022, office tenants cultivated a dozen types of herbs and vegetables, enjoying their harvest when the crops were ready. This urban farm employs strict organic farming practices without using any industrial or conventional chemical fertilisers or pesticides.",
+					"The Loop at Citygate has rejuvenated the rooftop area, become a relaxing place where the participants can get close to nature, and supported local arts and culture through the commission of a farm-themed mural on the rooftop. Overall, the farm is another example of Swire Properties’ community-building efforts and our work to improve the wellbeing of our employees and our office tenants."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-loop-at-one-island-east-taikoo-place",
+				"title": "The Loop at One Island East, Taikoo Place",
+				"pillar": "partners",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-4.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-island-east-taikoo-place-5.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"The One Island East rooftop farm is located 300 metres above ground. Originally a space dedicated to building maintenance, since 2021, over 300 sq ft of the rooftop has been turned into an urban farm with 50 planters for seasonal greens and herbs. A food digester machine and composting tumblers have also been set up to convert office tenants’ food waste into compost to fertilise the farm."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-loop-at-one-pacific-place",
+				"title": "The Loop at One Pacific Place",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-pacific-place-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-pacific-place-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-one-pacific-place-3.jpg"
+					}
+				],
+				"contents": [
+					"In November 2022, Swire Properties launched The Loop at One Pacific Place in partnership with the building’s anchor tenant. This newest Loop will grow 28 types of crops throughout the year and will also repurpose food waste collected from the tenant’s offices into compost for the farm, demonstrating the power of cross-industry efforts and landlord-tenant collaboration in driving sustainability in the workplace."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "the-loop-at-south-island-place",
+				"title": "The Loop at South Island Place",
+				"pillar": "partners",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-south-island-place-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-south-island-place-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-south-island-place-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/the-loop-at-south-island-place-6.jpg"
+					}
+				],
+				"contents": [
+					"Launched in 2021, this sky farm runs a regular Farm Club which engages 66 office workers in urban farming programmes and events, and harvesting almost 26kg of produce by the end of September 2022, 21kg of which was donated to a local food charity."
+				]
+			},
+			{
+				"type": "section",
+				"id": "energy-audits",
+				"title": "Energy Audits",
+				"contents": [
+					"In 2022, we continued our long-running initiative of conducting free energy audits for our tenants to help them identify energy-saving opportunities."
+				]
+			}
+		],
+		"free-energy-audits-given-to-commercial-tenants": {
+			"title": "Free energy audits given to commercial tenants (since 2008)",
+			"table-title": [
+				"Hong Kong",
+				"The Chinese Mainland"
+			],
+			"content": [
+				{
+					"type": {
+						"icon": "/images/pillar-icons/partners/tenanted-area.svg",
+						"text": "Tenanted area"
+					},
+					"data": [
+						{
+							"custom-font": "n3",
+							"type": "Hong Kong",
+							"title": [
+								"<span class='n2'>3.6 million </span><span class='h4 mb-0'>sq ft</span>"
+							]
+						},
+						{
+							"custom-font": "n3",
+							"type": "Chinese Mainland",
+							"title": [
+								"<span class='n2'>2.5 million </span><span class='h4 mb-0'>sq ft</span>"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"icon": "/images/pillar-icons/partners/potential-annual-energy-savings.svg",
+						"text": "Potential annual energy savings identified"
+					},
+					"data": [
+						{
+							"custom-font": "n3",
+							"type": "Hong Kong",
+							"title": [
+								"<span class='n2'>3.3 million </span><span class='h4 mb-0'>kWh</span>"
+							]
+						},
+						{
+							"custom-font": "n3",
+							"type": "Chinese Mainland",
+							"title": [
+								"<span class='n2'>6.6 million </span><span class='h4 mb-0'>kWh</span>"
+							]
+						}
+					]
+				}
+			]
+		},
+		"sections-2": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "green-shop-alliance",
+				"title": "Hong Kong Green Shop Alliance",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/green-shop-alliance-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/green-shop-alliance-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/green-shop-alliance-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/environment/green-shop-alliance-4.jpg"
+					}
+				],
+				"contents": [
+					"Swire Properties was the first real estate developer to support the Hong Kong Green Shop Alliance (“HKGSA”), established by the Construction Industry Council and the Hong Kong Green Building Council in 2016 to promote sustainability initiatives in the retail industry through landlord-tenant collaboration. This year, our leadership in this field was again recognised as we won several major accolades at the 2022 HKGSA Awards:",
+					"<strong>Special Citation on Carbon Neutrality:</strong>",
+					{
+						"type": "ul",
+						"value": [
+							"Given to Swire Properties for our 1.5°C-aligned science-based targets, our strong commitment to achieving net-zero before 2050 and our continued implementation of decarbonisation strategies covering Scopes 1, 2 and 3 at both corporate level and at our shopping malls."
+						]
+					},
+					"<strong>Best Green Practice in Malls category:</strong>",
+					{
+						"type": "ul",
+						"value": [
+							"Citygate Outlets – Bronze Award, given for our innovative energy-saving solutions and facilities, and initiatives that help tenants save energy and reduce waste."
+						]
+					},
+					"<strong>Best Collaborative Effort of Malls and Shops category:</strong>",
+					{
+						"type": "ul",
+						"value": [
+							"Cityplaza – Best Tenant Partner Award, given in recognition of our engagement initiatives and resource sharing that have helped tenants save energy and reduce waste and promote sustainable development to their sublet tenants."
+						]
+					},
+					"<strong>Excellent Green Product Advocator Award:</strong>",
+					{
+						"type": "ul",
+						"value": [
+							"Citygate Outlets",
+							"Cityplaza"
+						]
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-tenants-digitalisation",
+			"partners-tenants-social-and-wellness",
+			"places-vibrancy-art-and-culture"
+		]
+	},
+	"partners-tenants-social-and-wellness-page": {
+		"meta": {
+			"keywords": "Tenant Engagement - Social, +UP! Better Living Pop-ups, work-life balance, ArtisTree, wellness, 8-Hour Charity Spin, two-day inaugural Indoor Golf Tournament, One Citygate Tenants Wellness X ESG Programme, Rooftop Yoga for Office Workers, Craft Coffee Workshop, Project After 6",
+			"url": "/partners/tenants/social-and-wellness",
+			"type": "partners",
+			"image": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-1.jpg",
+			"title": "Social and Wellness | Tenants | Partners | Swire Properties SD Report 2022",
+			"content": "We work to create social and wellness initiatives that connect our tenants with each other and with the wider community."
+		},
+		"landing": {
+			"title": "Tenant Engagement - Social and Wellness"
+		},
+		"breadcrumb-title": "Tenant Engagement - Social and Wellness",
+		"sections": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "better-living-pop-ups",
+				"title": "+UP! Better Living Pop-ups",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "video",
+						"poster": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-thumbnail.png",
+						"src": "https://media.swireproperties.com/7f2d1b20-ac1d-48a3-8bb7-d767d5747dab/Up_Better_Living.ism/manifest"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-3.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-8.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-9.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-10.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-11.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/better-living-pop-ups-12.jpg"
+					}
+				],
+				"contents": [
+					"Taikoo Place held new versions of its popular “+UP! Better Living Pop-ups” events campaign at its multipurpose space ArtisTree in October and November 2022. This series of wellness-inspired programmes was curated to introduce the idea of a “work-life balance lifestyle” to people working in the Taikoo Place community by providing the support they need to relax and restore themselves both physically and mentally. These events are part of placemaking efforts that create unique beyond-the-office experiences by harnessing the power of workplace wellbeing. These events included:",
+					{
+						"type": "ul",
+						"value": [
+							"A wellness pop-up at ArtisTree offering a range of self-care-focused lifestyle products including organic fashion items, haircare, candles, incense and herbal drinks.",
+							"A “Sounditation Journey” that combined visual arts, healing sounds and meditation conducted by a local renowned singing bowl artist that offered one-of-a-kind “sounditation” experience in an immersive multimedia setting.",
+							"A series of fitness classes including yoga, pilates and high-intensity full-body workout sessions designed to help people create personal fitness regimes to build muscle strength and release everyday stress.",
+							"Two Corporate Wellness Challenge events – a two-day indoor golf tournament an eight-Hour Charity Spin. Both events aimed to build community spirit and create positive, healthy workplaces and carry a charity cause to providing support for mental health and well-being. Our Taikoo Place tenant partners gave a charity cause to support mental health and well-being.. Over HKD500,000 was raised, of which HKD350,000 was donated by Swire Properties."
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "one-citygate-tenants-wellness-X-ESG-programme",
+				"title": "One Citygate Tenants Wellness X ESG Programme",
+				"pillar": "partners",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/one-citygate-tenants-wellness-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/one-citygate-tenants-wellness-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/one-citygate-tenants-wellness-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/one-citygate-tenants-wellness-4.jpg"
+					}
+				],
+				"contents": [
+					"The One Citygate Tenant Wellness X ESG Programme workshops, launched in 2022, aimed to raise awareness of sustainable development and build a community for One Citygate employees and tenants. Four workshops were held during the year.",
+					"In May, the “Rooftop Yoga for Office Workers” workshop was co-organised with several office tenants and our SD partner, which sponsored free yoga mats tailor-made from recycled plastic. Employees from four offices took part.",
+					"In July, the “Craft Coffee Workshop” was held with participants from six offices who tasted various specialty coffees and learnt how to hand brew coffee, with the Q grader instructor (a certified coffee professional) and assistants coming from a non-profit organisation that trains underprivileged young people to become professional baristas.",
+					"August marked an underwater clean-up diving event, in which 19 participants from six different offices took part in a “ghost net hunting dive” to clean up underwater trash in Sai Kung. Participants learnt about marine environmental protection and extracted a large ghost net – these are abandoned fishing nets that drift through the water, causing harm to marine biodiversity.",
+					"In December, to celebrate Christmas and wrap up the year, we held a whisky tasting workshop for One Citygate tenants. Forty participants gathered at the Pavilion bar in the Silveri Hotel and enjoyed several types of whisky from around the world presented by a professional mixologist. After the workshop, our tenants enjoyed casual networking time with each other over snacks and drinks."
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "project-after-6-2022",
+				"title": "Project After 6",
+				"pillar": "partners",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/project-after-6-2022-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/project-after-6-2022-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/project-after-6-2022-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/project-after-6-2022-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/partners/tenants/social-and-wellness/project-after-6-2022-5.jpg"
+					}
+				],
+				"contents": [
+					"Launched in 2014, PROJECT AFTER 6 is an engagement programme that strengthens connections between office workers by bringing art, music and entertainment into their work environments and tapping into their unexplored talents. The programme helps cultivate a pleasant, cohesive working environment and creates positive impacts for our tenants and their employees, leading to a more integrated community and greater business success.",
+					"The 2022 version of PROJECT AFTER 6 saw Taikoo Place host five consecutive days of exclusive mini-music concerts at ArtisTree. This year’s programme aimed to have celebrities share their love and experience of on-stage performance with our tenant performers. Themed “Share the Light, Share the Stage”, we encouraged PROJECT AFTER 6 alumni from past years to act as mentors for this year’s new musicians.",
+					"After online auditions were held for Taikoo Place tenants, 15 shortlisted musicians were selected to perform with 10 celebrity singers and groups. The concerts proved to be popular as usual, with all tickets selling out within five hours of the promotion being announced. Over 1,100 tenants from 71 companies attended, with social media reach extending to 2.2 million people.",
+					"This year’s PROJECT AFTER 6 reinforced Taikoo Place’s placemaking commitment, further deepened our already-strong landlord-tenant relationships and encouraged work-life balance in the Taikoo Place office community."
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-talent-management",
+			"people-occupational-health-and-safety",
+			"people-diversity-and-inclusion"
+		]
+	}
+}

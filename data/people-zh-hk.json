@@ -1,0 +1,3155 @@
+{
+	"people-page": {
+		"meta": {
+			"keywords": "以人為本, 員工, 2030可持續發展策略, 吸納人才, 人才管理, 多元與共融, 職業健康及安全, 損失工時事故, 義工服務, 員工福祉, 員工, 性別, 2022 年進展摘要, 統計數據摘要（社會 )",
+			"url": "/people",
+			"type": "people",
+			"image": "/images/landing-section/people-left.jpg",
+			"title": "以人為本 | 太古地產2022可持續發展報告",
+			"content": "我們深信員工的貢獻是「2030可持續發展策略」和太古地產業務成功的關鍵。"
+		},
+		"landing": {
+			"title": "以人為本",
+			"icon": "SVGPeopleWhite",
+			"contents": [
+				"我們深信員工的貢獻是「2030可持續發展策略」和太古地產業務成功的關鍵，因此我們一直用心創造一個能讓員工更健康、愉快地工作，以及展現更高效率的工作環境。同時，我們持續於員工發展方面投放資源，致力為員工提供良好的職業發展機會，務求打造一個多元共融及領先業界的團隊。"
+			]
+		},
+		"breadcrumb-title": "以人為本",
+		"2022-highlights": {
+			"highlights": {
+				"highlight-pic-1": {
+					"id": "highlight-pic-1",
+					"src": "/images/pages/people/highlight-section/highlight-people-pic-1.png"
+				},
+				"talent-attraction": {
+					"id": "talent-attraction",
+					"title": "吸納人才",
+					"full-width": true,
+					"content": [
+						{
+							"description": "太古地產在任仕達（Randstad）舉辦的2022年僱主品牌調查中獲評選為「香港最具吸引力僱主」"
+						}
+					],
+					"icon": "SVGTalentAttractionRetention",
+					"icon-class": "svg-talent-attraction-retention",
+					"link": {
+						"path": "/people/talent-attraction"
+					}
+				},
+				"talent-management": {
+					"id": "talent-management",
+					"title": "人才管理",
+					"content": [
+						{
+							"title": "~<span class='js-count-up-number'>154000</span>",
+							"description": "培訓總時數"
+						},
+						{
+							"title": "<span class='js-count-up-number'>24</span>",
+							"description": "員工每年平均培訓時數"
+						}
+					],
+					"icon": "SVGTalentManagement",
+					"icon-class": "svg-talent-management",
+					"link": {
+						"path": "/people/talent-management"
+					}
+				},
+				"occupational-health-and-safety": {
+					"id": "occupational-health-and-safety",
+					"title": "職業健康及安全",
+					"full-width": true,
+					"content": [
+						{
+							"description": "ISO 45001：2018認證現已擴展到住宅物業組合，涵蓋所有由太古地產管理的物業組合。"
+						}
+					],
+					"icon": "SVGEmployeeWellbeing",
+					"icon-class": "svg-occupational-health-safety",
+					"link": {
+						"path": "/people/occupational-health-and-safety"
+					}
+				},
+				"diversity-and-inclusion": {
+					"id": "diversity-and-inclusion",
+					"title": "多元化與共融",
+					"effect-down": true,
+					"content": [
+						{
+							"title": "<span class='js-count-up-number'>1</span> : <span class='js-count-up-number'>0.92</span>",
+							"description": "薪酬比率 (女性對比男性)"
+						},
+						{
+							"title": "<span class='js-count-up-number'>38</span>%",
+							"description": "的管理職位由女性擔任"
+						}
+					],
+					"icon": "SVGDiversityAndInclusion",
+					"icon-class": "svg-diversity-and-inclusion",
+					"link": {
+						"path": "/people/diversity-and-inclusion"
+					}
+				},
+				"lost-time-injury-rate": {
+					"id": "lost-time-injury-rate",
+					"title": "工傷引致損失工時比率",
+					"full-width": false,
+					"content": [
+						{
+							"title": "<span class='js-count-up-number' data-places='2'>0.57</span>",
+							"description": "<span class='h4 text-people font-giant'><span class='js-count-up-number'>14</span>%</span> ",
+							"description-2": "非酒店業務",
+							"desc-arrow": "down"
+						},
+						{
+							"title": "<span class='js-count-up-number' data-places='2'>1.56</span>",
+							"description": "<span class='h4 text-people font-giant'><span class='js-count-up-number'>1</span>%</span> ",
+							"description-2": "酒店業務",
+							"desc-arrow": "up"
+						}
+					],
+					"icon": "SVGLostTimeInjuryRate",
+					"icon-class": "svg-lost-time-injury-rate",
+					"link": {
+						"path": "/people/occupational-health-and-safety/2022-health-and-safety-performance"
+					}
+				},
+				"highlight-pic-2": {
+					"id": "highlight-pic-2",
+					"src": "/images/pages/people/highlight-section/highlight-people-pic-2.png"
+				},
+				"volunteering": {
+					"id": "volunteering",
+					"title": "義工服務",
+					"effect-down": true,
+					"content": [
+						{
+							"arrow": "forward",
+							"title": "><span class='js-count-up-number'>6100</span>",
+							"description": "義工服務時數"
+						}
+					],
+					"icon": "SVGVolunteering",
+					"icon-class": "svg-volunteering",
+					"link": {
+						"path": "/people/volunteering"
+					}
+				},
+				"employee-wellbeing": {
+					"id": "employee-wellbeing",
+					"title": "多元化與共融",
+					"effect-down": true,
+					"full-width": false,
+					"content": [
+						{
+							"description": "首次獲納入2023年彭博性別平等指數（GEI）。"
+						}
+					],
+					"link": {
+						"path": "/zh-hk/people/diversity-and-inclusion"
+					},
+					"src": "/images/footer/awards/GEI_Member_seal_2022-23_1color_BLK4C.svg",
+					"icon-class": "svg-occupational-health-safety"
+				},
+				"employees-by-gender": {
+					"id": "employees-by-gender",
+					"title": "員工，按性別",
+					"content": [
+						{
+							"title": "<span class='js-count-up-number'>3721</span>",
+							"description": "<span class='js-count-up-number'>59.8</span>% 男性"
+						},
+						{
+							"title": "<span class='js-count-up-number'>2578</span>",
+							"description": "<span class='js-count-up-number'>40.2</span>% 女性"
+						}
+					],
+					"icon": "SVGEmployeesByGender",
+					"icon-class": "svg-employees-by-gender",
+					"icon-chart": true,
+					"no-link": true
+				},
+				"highlight-pic-3": {
+					"id": "highlight-pic-3",
+					"src": "/images/pages/people/highlight-section/highlight-people-pic-3.png"
+				},
+				"2022-progress-summary-table": {
+					"id": "2022-progress-summary-table",
+					"title": "2022年進展",
+					"last-link-left": true,
+					"full-width": false,
+					"summary-table": true,
+					"content": [
+						{
+							"description": "按此查看所有重點範疇2025年關鍵績效指標的進展"
+						}
+					],
+					"link": {
+						"path": "/people/2022-progress-summary"
+					}
+				},
+				"performance-data-summary-social": {
+					"id": "performance-data-summary-social",
+					"title": "統計數據摘要 (社會)",
+					"last-link-right": true,
+					"full-width": false,
+					"data-summary": true,
+					"effect-down": true,
+					"content": [
+						{
+							"description": "通過互動圖表和數據表格，瀏覽我們的統計數據摘要"
+						}
+					],
+					"link": {
+						"path": "/download-centre/performance-data-summary-social"
+					}
+				}
+			}
+		}
+	},
+	"people-2022-progress-summary-page": {
+		"meta": {
+			"keywords": "2022 年進展摘要, 進度摘要, 2022 年進展, 以人為本工作小組, 吸納人才, 人才管理, 薪酬獎賞, 職業健康及安全, 多元與共融, 義工服務, 2025年關鍵績效指標, 進展, 僱主, 員工, 淨推薦值, 意向調查, 人才管理附屬小組, 培訓時數, 培訓, 基準, 僱主品牌, 學習與發展, 參與, 參與指數, 員工流失率, 員工參與度調查, 安全, 工傷引致損失工時比率, 零, 工傷死亡, 死亡, 嚴重事故, 事故, 政策, 策略和管治, 男女比例均衡, 高級管理層, 男女員工薪金比率率, 高級管理職位, 女性, 管理職位, 女性對比男性",
+			"url": "/people/2022-progress-summary",
+			"type": "people",
+			"image": "/images/logos/people-summary-seo.jpg",
+			"title": "2022年進展 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "今年我們繼續致力達成以人為本支柱的2025年和2030年關鍵績效指標。"
+		},
+		"breadcrumb-title": "2022進展",
+		"landing": {
+			"title": "2022進展"
+		},
+		"sections": [
+			{
+				"type": "contents",
+				"id": "people-2022-progress-summary",
+				"contents": [
+					"以人為本工作小組由24位來自太古地產不同職能部門的代表組成，主要職責是推進以人為本支柱所涵蓋的六個重點範疇 ― 吸納人才；人才管理；薪酬獎賞；職業健康及安全；多元化與共融；以及義工服務。",
+					"2022年，我們繼續努力實現2025年關鍵績效指標。今年的具體成果包括推出《<a href='/2022/zh-hk/people/human-rights-policy'>人權政策</a>》、闡明公司對旗下業務營運和供應鏈在多元共融措施、僱傭標準、健康與安全及聘職條件各方面的期望 。",
+					"2025年關鍵績效指標的進展簡述如下。"
+				]
+			}
+		],
+		"summary-table": [
+			{
+				"id": "talent-attraction-section",
+				"icon": "/images/pillar-icons/people/talent-attraction-retention.svg",
+				"title": "吸納人才",
+				"href": "/people/talent-attraction",
+				"iconClass": "icon-talent-attraction-retention",
+				"cards": [
+					{
+						"title": "僱主品牌",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"提高僱主淨推薦值<span class='text-highlight js-count-up-number'>10%</span><sup class='text-highlight'>2</sup>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"我們進行的意向調查顯示錄得<span class='text-highlight js-count-up-number'>44%</span>升幅。我們的人才管理附屬小組現正擬定策略，致力提升這方面的表現。"
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "2",
+						"value": "與2020基準年比較。"
+					}
+				]
+			},
+			{
+				"id": "talent-management-section",
+				"icon": "/images/pillar-icons/people/talent-management.svg",
+				"title": "人才管理",
+				"href": "/people/talent-management",
+				"iconClass": "icon-talent-management",
+				"sdgs": [],
+				"cards": [
+					{
+						"title": "學習與發展",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"每名員工每年培訓時數增加<span class='text-highlight js-count-up-number'>25%</span><sup class='text-highlight'>3</sup>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"2022年完成超過<span class='text-highlight js-count-up-number'>154000</span>小時培訓，每名員工平均培訓時數為<span class='text-highlight js-count-up-number'>24</span>，相比2016基準年增加<span class='text-highlight js-count-up-number'>97%</span>。"
+											]
+										}
+									]
+								}
+							}
+						]
+					},
+					{
+						"title": "參與",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"員工參與指數評分達至<span class='text-highlight js-count-up-number'>90%</span>或以上",
+												"員工流失率降低<span class='text-highlight js-count-up-number'>5.5%</span><sup class='text-highlight'>4</sup>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"「2022年員工參與度調查」錄得<span class='text-highlight js-count-up-number'>88%</span>員工參與指數評分。",
+												"2022年員工流失率為<span class='text-highlight js-count-up-number'>18.6%</span>，與2018基準年比較改善<span class='text-highlight js-count-up-number'>21.2%</span>。"
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "3",
+						"value": "與2016基準年比較。"
+					},
+					{
+						"note": "4",
+						"value": "與2018基準年比較。"
+					}
+				]
+			},
+			{
+				"id": "occupational-health-and-safety",
+				"icon": "/images/pillar-icons/people/occupational-health-and-safety.svg",
+				"title": "職業健康與安全",
+				"href": "/people/occupational-health-and-safety",
+				"iconClass": "icon-occupational-health-and-safety",
+				"sdgs": [
+					"3"
+				],
+				"cards": [
+					{
+						"title": "安全",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"保持非酒店業務工傷引致損失工時比率(LTIR)於<span class='text-highlight js-count-up-number'>1.2</span>或更低；保持酒店業務工傷引致損失工時比率於<span class='text-highlight js-count-up-number'>2.0</span>或更低",
+												"保持員工<span class='text-highlight js-count-up-number'>零</span>工傷死亡數字及<span class='text-highlight js-count-up-number'>零</span>嚴重事故<sup>5</sup>"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"太古地產非酒店業務工傷引致損失工時比率為<span class='text-highlight js-count-up-number'>0.57</span>；酒店業務工傷引致損失工時比率為<span class='text-highlight js-count-up-number'>1.56</span>。",
+												"保持員工<span class='text-highlight js-count-up-number'>零</span>工傷死亡數字及<span class='text-highlight js-count-up-number'>零</span>嚴重事故。"
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "5",
+						"value": "「嚴重事故」根據《太古股份有限公司死亡及嚴重事故匯報政策》界定定義，嚴重事故指與業務直接相關，以及對員工生命造成威脅或對其生活造成重大改變 (導致永久性殘疾，或對日常生活造成永久性的改變)的傷害事故。"
+					}
+				]
+			},
+			{
+				"id": "diversity-and-inclusion-section",
+				"icon": "/images/pillar-icons/people/diversity-and-inclusion.svg",
+				"title": "多元化與共融",
+				"href": "/people/diversity-and-inclusion",
+				"iconClass": "icon-diversity-and-inclusion",
+				"sdgs": [
+					"5",
+					"10"
+				],
+				"cards": [
+					{
+						"title": "政策、策略和管治",
+						"items": [
+							{
+								"2025-kpi": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"維持女性員工比例最少<span class='text-highlight js-count-up-number'>40%</span>",
+												"保持高級管理層的男女比例均衡",
+												"維持<span class='text-highlight js-count-up-number'>1</span><span class='text-highlight mx-1'>:</span><span class='text-highlight js-count-up-number'>1</span>男女員工薪金比率"
+											]
+										}
+									]
+								},
+								"progress-updates": {
+									"contents": [
+										{
+											"type": "ul",
+											"value": [
+												"<span class='text-highlight js-count-up-number'>40.2% </span>的員工是女性。",
+												"<span class='text-highlight js-count-up-number'>38.3%</span>高級管理職位由女性擔任。",
+												"2022年男女員工薪金比率為<span class='text-highlight js-count-up-number'>1</span><span class='text-highlight mx-1'>:</span><span class='text-highlight js-count-up-number'>0.92</span>(女性對比男性)<sup>6</sup>。"
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				"footnotes": [
+					{
+						"note": "6",
+						"value": "2022年男女薪金比率按非加權平均計算。"
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-talent-attraction",
+			"people-talent-management",
+			"people-occupational-health-and-safety"
+		]
+	},
+	"people-diversity-and-inclusion-page": {
+		"meta": {
+			"keywords": "多元化與共融, 多元化, 共融, 人力資源多元化, 太古公司多元共融事務委員會, 社福機構, 多元共融政策, 多元共融委員會, 執行委員會, 工作間互相尊重政策, 親職假政策及指引, 親職假, 管理職位, 女性, 男女薪金比率, 由女性擔任管理職位的百分比, 行政總裁及僱員薪酬比率, 彈性工作政策, 職場休假政策, 董事局多元化, 多元共融調查, 同志驕傲月, 驕傲, 午餐學習工作坊, 酷兒, 性, 性別, 雞尾酒, 支持女性展能, 社會共融, 慶祝Black History Month, 布里克爾市中心, 員工活動",
+			"url": "/people/diversity-and-inclusion",
+			"type": "people",
+			"image": "/images/pages/people/diversity-and-inclusion/bloomberg.png",
+			"title": "多元化與共融 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "太古地產承諾致力為所有員工創造共融及有利其發展的工作環境。"
+		},
+		"breadcrumb-title": "多元化與共融",
+		"landing": {
+			"title": "多元化與共融",
+			"tag": "GRI 2-21, 405, 406<br/>HKEX 層面 B1",
+			"contents": [
+				"太古地產擁護多元化和共融理念，也深明多元化團隊是業務成功的基石。2022年，我們繼往開來，透過多項政策、鼓勵員工參與和培訓教育，全力建立有利於發展的共融工作環境。",
+				"相關的可持續發展目標是：",
+				{
+					"type": "sdg",
+					"value": [
+						"5",
+						"10"
+					]
+				},
+				"我們積極提倡工作環境多元化，有關承諾已明文載於《企業行為守則》及《平等機會政策》，並收錄於員工手冊，以向員工清楚傳達。而<a target='_blank' href='https://www.swirepacific.com/tc/governance/diversity_and_inclusion.pdf'>太古公司多元共融事務委員會</a>則負責制定政策及提供指引，致力促進人力資源多元化，全面在太古集團打造共融的工作環境。",
+				"2021年，太古地產成為慈善組織CareER的企業會員，該組織專門為殘疾及有特殊學習需要的人士提供職涯發展支援。我們亦參與CareER的企業傷健共融指數，該指數是評估企業傷健共融政策措施的檢測工具，促使本地企業推動職場傷健共融。",
+				"今年，我們開始依照2023年彭博性別平等指數（GEI）標準披露相關資料，印證太古地產承諾實現性別平等。"
+			]
+		},
+		"sections": [
+			{
+				"type": "section",
+				"id": "d-i-policy-section",
+				"title": "多元共融政策",
+				"contents": [
+					"太古地產的《<a href='https://www.swireproperties.com/zh-hk/sustainable-development/policies/diversity-and-inclusion-policy.aspx' target='_blank'>多元共融政策</a>》重申公司承諾致力為所有員工創造共融及有利其發展的工作環境，不論年齡、性別或改變性別、性向或性取向、婚姻狀況或家庭狀況、殘障、種族（包括族裔或國籍）、宗教或政見，均一視同仁。",
+					"我們已成立由人力資源董事領導的多元共融委員會，每季度向執行委員會匯報。多元共融委員會負責確保公司營運符合平等機會原則、提倡公平不偏頗的招聘程序、促進員工發展和增值，以及監察各工作場所實踐多元共融的成效。多元共融委員會亦是管治機構，負責處理關於歧視的申訴。",
+					"社會不斷進步，我們的多元共融措施亦因時制宜不斷調整。2021年，因應太古地產的工作場所日趨多元化，我們分別推出多項關於工作間互相尊重、員工申訴和親職假的新政策，營造有利於所有員工盡展個人潛能的共融工作環境。這樣的工作場所杜絕了騷擾及欺凌，而且設有完善程序，確保可公平有效地處理員工的不滿和投訴。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "respect-in-the-workplace-policy",
+				"title": "《工作間互相尊重政策》",
+				"contents": [
+					"太古地產的《<a target='_blank' href='https://www.swireproperties.com/zh-hk/sustainable-development/policies/respect-in-the-workplace-policy/'>工作間互相尊重政策</a>》務求讓所有員工以有尊嚴和被尊重的方式對待，並以同樣態度對待別人。相關政策闡明我們對員工的期望，冀能共同致力建立一個充滿信任和尊重的環境，行事方式不會冒犯他人或被他人合理地認為具冒犯成分，並顧及他人的背景、文化價值觀和信仰。公司絕不容忍任何違反本政策的行為，並會對違規員工採取紀律處分，嚴重者會被解僱。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "parental-leave-policy-and-guidelines",
+				"title": "《親職假政策及指引》",
+				"contents": [
+					"我們的《<a target='_blank' href='https://www.swireproperties.com/zh-hk/sustainable-development/policies/parental-leave-policy-and-guidelines'>親職假政策及指引</a>》表明太古地產承諾在員工組織家庭或增添家庭成員時給予支持，突顯我們致力消除工作間存在的偏見。我們對所有不同類型的家庭單位予以肯定，亦認為照顧孩子的責任不應只落在女性身上。我們最終希望員工努力追求事業成就，而同時能照顧孩子。為員工提供適當的親職假，對達成這個目標非常重要。此政策適用於所有家長，不論性別或性取向、如何成為父母（透過自然分娩、代孕或收養）及家庭單位的性質。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "flexible-working-policy-initiative",
+				"title": "推行《彈性工作政策》",
+				"contents": [
+					"我們於2019年中開始實行《彈性工作政策》。在靈活工作的新安排下，員工可自選彈性的上班及下班時間，但指定的核心工作時間則必須在公司。這項措施讓員工能夠兼顧工作和私人事務，協助我們構建更以人為本的工作間文化。此外，我們認為彈性工作時間有助提高員工的創造力及生產力。",
+					"進一步來說，我們於2020年1月推行《職場休假政策》，讓員工可以暫時放下工作，並善用一段長假期為自己充電、應對人生重大轉變，專心處理家庭事務或發展不同範疇的技能。雖然休假期間不獲支薪，但仍可享有部分員工福利，例如年假、醫療服務、培訓及康樂設施。",
+					"疫情期間，我們各地辦公室持續啟動特別工作安排，包括分散辦公、在家工作及遙距辦公等。有關政策因具體需要及區域而異。"
+				]
+			}
+		],
+		"female-representation-in-the-workforce": {
+			"id": "female-representation-in-the-workforce",
+			"type": "data-2",
+			"data": {
+				"title": "員工的女性比例",
+				"desc": "（截至2022年12月31日）",
+				"icon": "/images/pillar-icons/people/female.svg",
+				"mobile-icon": "/images/pillar-icons/people/female-mb.svg",
+				"icon-class": "icon-female",
+				"data": [
+					{
+						"title": [
+							"40.2%"
+						],
+						"desc": "員工為女性"
+					}
+				]
+			}
+		},
+		"percentage-of-management-positions-held-by-women": {
+			"id": "percentage-of-management-positions-held-by-women",
+			"type": "data-2",
+			"data": {
+				"title": "由女性擔任高級管理職位的百分比",
+				"desc": "（截至2022年12月31日）",
+				"icon": "/images/pillar-icons/people/female-management.svg",
+				"mobile-icon": "/images/pillar-icons/people/female-management-mb.svg",
+				"icon-class": "icon-female",
+				"data": [
+					{
+						"title": [
+							"38.3%"
+						],
+						"desc": "的高級管理職位由女性擔任"
+					}
+				]
+			}
+		},
+		"gender-pay-ratio": {
+			"id": "gender-pay-ratio",
+			"type": "data-2",
+			"data": {
+				"title": "男女薪金比率",
+				"icon": "/images/pillar-icons/people/female-and-male.svg",
+				"icon-class": "icon-female-and-male",
+				"data": [
+					{
+						"title": [
+							"1",
+							":&nbsp;",
+							"0.92"
+						],
+						"desc": "*2022年男女薪金比率按非加權平均計算"
+					}
+				]
+			}
+		},
+		"chief-executive-pay-to-employee-pay-ratio": {
+			"id": "chief-executive-pay-to-employee-pay-ratio",
+			"type": "data-2",
+			"data": {
+				"title": "行政總裁及僱員薪酬比率",
+				"icon": "/images/pillar-icons/people/chief-executive-pay-to-employee-pay-ratio.svg",
+				"icon-class": "icon-chief-executive",
+				"data": [
+					{
+						"title": [
+							"24.5",
+							":&nbsp;",
+							"1"
+						],
+						"desc": "*按照行政總裁年度總薪酬及員工薪酬中位數的比率計算"
+					}
+				]
+			}
+		},
+		"sections-2": [
+			{
+				"type": "section",
+				"id": "flexible-working-policy-initiative",
+				"title": "推行《彈性工作政策》",
+				"contents": [
+					"我們於2019年中開始實行《彈性工作政策》。在靈活工作的新安排下，員工可自選彈性的上班及下班時間，但指定的核心工作時間則必須在公司。這項措施讓員工能夠兼顧工作和私人事務，協助我們構建更以人為本的工作間文化。此外，我們認為彈性工作時間有助提高員工的創造力及生產力。",
+					"進一步來說，我們於2020年1月推行《職場休假政策》，讓員工可以暫時放下工作，並善用一段長假期為自己充電、應對人生重大轉變，專心處理家庭事務或發展不同範疇的技能。雖然休假期間不獲支薪，但仍可享有部分員工福利，例如年假、醫療服務、培訓及康樂設施。",
+					"疫情期間，我們各地辦公室持續啟動特別工作安排，包括分散辦公、在家工作及遙距辦公等。有關政策因具體需要及區域而異。"
+				]
+			}
+		],
+		"sections-3": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-listed-on-the-bloomberg-gender-equality-index-for-the-first-time",
+				"title": "太古地產首次獲納入彭博性別平等指數",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/bloomberg.png"
+					}
+				],
+				"contents": [
+					"太古地產今年開始依照彭博性別平等指數（GEI）標準進行披露，並獲納入2023年彭博GEI指數成員名單。該指數涵蓋484間公司，分別來自45個國家11個行業。今年獲納入GEI指數的五間香港公司中，三間為太古集團旗下公司，包括太古地產、太古股份有限公司及國泰航空。",
+					"這項成就體現我們在工作間推動性別平等的決心。我們一直，並將繼續努力，營造有利於發展的共融工作環境，讓每位同事發揮個人潛能，盡展所長。本年度，我們訂立了多項關於性別均衡的目標，維持女性僱員的比例達到40%或以上。2022年，我們女性員工的比例為40.2%，38.3%高級管理層職位由女性擔任。我們的男女員工薪金比率非常接近完全平等，2022年比例為1比0.98（女性對比男性）。",
+					"GEI是一個經市值加權調整的指數，旨在衡量上市公司致力於提升性別相關資料申報透明度的表現。指數涵蓋五大範疇，以衡量企業的性別平等狀況，包括領導層及人才庫、薪酬平等及性別同工同酬、包容文化、性騷擾防範政策以及品牌形象。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "dandi-survey",
+				"title": "太古集團2022年多元共融調查",
+				"contents": [
+					"2022年，太古地產參與了太古集團第二次年度多元共融調查。調查旨在蒐集關於公司多元共融方針的意見和識別機遇促進工作間共融，讓所有員工不分年齡、性別、性別認同、殘障、族裔背景、性取向及其他特點都可盡展所長，追求卓越成就。",
+					"我們希望藉此了解員工有多大程度認為公司擁有共融的工作環境，以及願意聽取、支持和尊重各種想法和聲音，同時蒐集數據，以便加深了解我們的團隊，確保多元共融策略及舉措照顧到所有員工群組。調查有助公司制定和不斷優化我們的多元共融政策與策略。",
+					"我們邀請香港物業組合、中國內地物業組合及香港酒店逾73%員工參與調查，約15%作出回應。初步調查結果如下：",
+					{
+						"type": "ul",
+						"value": [
+							"89%受訪者認同太古地產重視及尊重多元化的意見、觀點和工作方式。",
+							"86%受訪者認同太古地產創造了理想環境，讓不同背景的人盡展所長。",
+							"87%受訪者認同公司的高級領導層公開支持和提倡多元共融措施。",
+							"82%受訪者認同公司不偏不倚地在所有業務實施多元共融政策與程序。"
+						]
+					},
+					"問卷調查的人口數據顯示多個員工多元化指標：",
+					{
+						"type": "ul",
+						"value": [
+							"約93%受訪者自認是中國人，2%自認是其他亞洲人，1%自認是白人，4%受訪者不願回應。",
+							"受訪的管理人員中，約94%自認是中國人，1%自認是其他亞洲人，1%自認是白人，1%自認是混血兒，3%受訪者不願回應。",
+							"6%受訪者自認是女同性戀者、男同性戀者、雙性戀者或變性者（LGBT+）。",
+							"1%受訪者自認有殘障。"
+						]
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "pride-month",
+				"reverse": true,
+				"title": "同志驕傲月（Pride Month）",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-2.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-5.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pride-month-8.jpg"
+					}
+				],
+				"contents": [
+					"2022年6月，太古地產舉辦「同志驕傲月」（Pride Month）活動，印記「多年來爭取公民權利，在法律下女同性戀、男同性戀、雙性戀、跨性別及酷兒群體不斷追求平等正義，以及LGBTQ個人的成就<sup>8</sup>」。今年適逢我們慶祝50年來公司上下一心創造成就，此時此刻培養包容文化倍見重要。我們矢志讓LGBTQ+同事展示自己真實一面，在工作場所時刻也感到被重視和安全。",
+					"多元共融委員會編排了各式各樣的活動慶祝「同志驕傲月」，頭炮活動包括由太古地產員工現身說法的「Pride 2022」影片及同志驕傲主題的微軟團隊電腦屏幕背景系列，還有特別版名信片，印有彩虹二維碼，一掃便可玩「同志驕傲」小測驗。",
+					"公司特別請來社區性教育導師主講「如何創建LGBTQ+友好的工作場所」午餐學習工作坊，探討一般人對性和性別的普遍誤解，並建議如何運用包容的語言及促進建立LGBTQ+友好工作間。此外，本身是酷兒的導師亦談到自己在香港的經歷。最後，我們在Mr & Mrs Fox餐廳舉行獨家電影放映會和以同志驕傲為主題的彩虹雞尾酒製作班，為香港辦公室整整一個月的相關活動畫上完美句號。",
+					"為表支持，奕居承諾撥出「同志驕傲月」內在酒店舉行所有相關活動的5%收益，捐助香港婚姻平權協會。這系列活動包括「同志驕傲」雞尾酒會、主題週日聚會、易裝派對等等。酒店更延續善舉，將直至2022年底舉行的所有易裝派對5%收益撥捐香港婚姻平權協會。",
+					"邁阿密Brickell City Centre於2022年6月舉辦第二屆為期一個月的年度「Pride at BCC」慶祝活動。活動與多間合作夥伴協辦，提供安全的場所，歡迎客人在平等的旗幟下慶祝我們與別不同的特質。月內活動包括每個週末贊助免費雞尾酒製作班及由電視節目「RuPaul’s Drag Race」變裝皇后主講的課程，還有講故事研討會。商場並邀請零售商戶分享他們的真實平權故事，以及與邁阿密戴德警察部及邁阿密-戴德縣和布勞沃德縣14個執法機構合作，在Brickell City Centre展出「同志驕傲」品牌汽車，大搞巡遊，並邀請當地官員參加小型慶祝會。",
+					{
+						"type": "footnote",
+						"value": "<sup>8</sup><a target='_blank' class='c2' href='https://www.britannica.com/story/why-is-pride-month-celebrated-in-june'>https://www.britannica.com/story/why-is-pride-month-celebrated-in-june</a>"
+					}
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "pink-friday",
+				"title": "Pink Friday",
+				"media": [
+					{
+						"type": "video",
+						"poster": "/images/pages/people/diversity-and-inclusion/pink-friday-thumbnail.png",
+						"src": "https://media.swireproperties.com/2b64785e-cdc8-45c3-9cc4-e871fe9addef/Pink_Friday.ism/manifest"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/pink-friday-5.jpg"
+					}
+				],
+				"contents": [
+					"太古地產一年一度的Pink Friday今年於11月18日舉行。香港各行各業每年也參與這項跨業界活動，表達對LGBTQ+社群的支持，推廣共融多元工作環境的重要性。",
+					"今年的辦公室活動包括標語比賽、Pink Friday問答遊戲、遊戲攤位嘉年華和最佳著裝比賽。此外，Blueprint 的食肆亦於Pink Friday週內供應特別版Pink粉紅便當。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "empowering-women",
+				"title": "支持女性展能",
+				"href": "/people/diversity-and-inclusion/empowering-women",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-in-hong-kong-1.jpg"
+					}
+				],
+				"contents": [
+					"太古地產繼續支持公司內部以至社會不同領域的女性發展。2022年，各物業組合紛紛舉辦計劃和活動，展示公司促進社會整體性別平等的決心。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "social-inclusion",
+				"title": "社會共融",
+				"href": "/people/diversity-and-inclusion/social-inclusion",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/social-inclusion-1.png"
+					}
+				],
+				"contents": [
+					"今年我們的社會共融措施重點仍是為全體員工建立有利於發展的共融工作環境，讓每位同事舒暢地發揮個人潛能，盡展所長。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "celebrating-black-history-month",
+				"reverse": true,
+				"title": "慶祝Black History Month",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/celebrating-black-history-month-1.png",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"Brickell City Centre首次籌辦長達一個月的Black History Month慶祝活動。中心與佛羅里達州機構South Florida People of Color合作，每星期在商場舉辦黑人文化表現藝術系列。2月每逢週五，商場的Garden Deck變身成為表現藝術舞台，每星期由邁阿密不同文化群體的代表表演多元文化藝術，包括唱歌、舞蹈和樂器演奏。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "employee-events",
+				"title": "員工活動",
+				"href": "/people/diversity-and-inclusion/employee-events",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/employee-events/uncomfortable-conversation-1.jpg"
+					}
+				],
+				"contents": [
+					"年內在旗下物業舉辦大量與多元共融相關的員工活動，讓同事提高意識和分享如何促進變革。"
+				]
+			}
+		],
+		"section-board-diversity": [
+			{
+				"type": "section",
+				"id": "board-diversity",
+				"title": "董事局多元化",
+				"contents": [
+					"我們的《<a target='_blank' href='https://ir.swireproperties.com/zh-hk/cg/pdf/diversity.pdf' target='_blank'>董事局多元化政策</a>》申明董事局組成多元化的重要性，並認同一項原則，即董事局應具備適切的技能、經驗和多樣的觀點角度，以應業務所需。",
+					"本政策於2022年經過修訂，確保可更完善地披露關於政策權責的資料，此外並指定由提名委員會負責實施和監察本政策。年內我們訂立了多項董事局多元化目標，藉以監察《董事局多元化政策》的施行。訂立目標有助制定策略，令董事局更多元化。我們會在公司年報及可持續發展報告發表董事局多元化的績效。",
+					"我們承諾維持董事局女性成員的比例於30%。截至2022年底，31%董事局職位由女性擔任。"
+				]
+			}
+		],
+		"board-diversity-policy": {
+			"charts": {
+				"title": "董事局多元化情況",
+				"sub-title": "（截至2022年12月31日）",
+				"main-labels": [
+					{
+						"image": "/images/pages/people/diversity-and-inclusion/Board-Diversity-Policy-legend-2020.svg",
+						"value": "2022"
+					},
+					{
+						"image": "/images/pages/people/diversity-and-inclusion/Board-Diversity-Policy-legend-2019.svg",
+						"value": "2021"
+					},
+					{
+						"image": "/images/pages/people/diversity-and-inclusion/Board-Diversity-Policy-legend-2018.svg",
+						"value": "2020"
+					}
+				],
+				"data": [
+					{
+						"title": "按性別劃分",
+						"data": [
+							{
+								"labels": 2022,
+								"data": [
+									69,
+									31
+								]
+							},
+							{
+								"labels": 2021,
+								"data": [
+									69,
+									31
+								]
+							},
+							{
+								"labels": 2020,
+								"data": [
+									67,
+									33
+								]
+							}
+						],
+						"labels": [
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-1-org.svg",
+								"value": "男性"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-2-org.svg",
+								"value": "女性"
+							}
+						]
+					},
+					{
+						"title": "按年齡組別劃分",
+						"data": [
+							{
+								"labels": 2022,
+								"data": [
+									23,
+									77
+								]
+							},
+							{
+								"labels": 2021,
+								"data": [
+									23,
+									77
+								]
+							},
+							{
+								"labels": 2020,
+								"data": [
+									25,
+									75
+								]
+							}
+						],
+						"labels": [
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-1-org.svg",
+								"value": "30至50歲"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-2-org.svg",
+								"value": "50歲以上"
+							}
+						]
+					},
+					{
+						"title": "按本地或非本地劃分",
+						"data": [
+							{
+								"labels": 2022,
+								"data": [
+									62,
+									38
+								]
+							},
+							{
+								"labels": 2021,
+								"data": [
+									54,
+									46
+								]
+							},
+							{
+								"labels": 2020,
+								"data": [
+									67,
+									33
+								]
+							}
+						],
+						"labels": [
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-1-org.svg",
+								"value": "本地"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-2-org.svg",
+								"value": "非本地"
+							}
+						]
+					},
+					{
+						"title": "按董事服務年資劃分",
+						"data": [
+							{
+								"labels": 2022,
+								"data": [
+									38,
+									31,
+									31
+								]
+							},
+							{
+								"labels": 2021,
+								"data": [
+									46,
+									31,
+									23
+								]
+							}
+						],
+						"labels": [
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-1.svg",
+								"value": "3年或以下"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-2.svg",
+								"value": "4至9年"
+							},
+							{
+								"image": "/images/pages/people/diversity-and-inclusion/Legend_People-3.svg",
+								"value": "9年以上"
+							}
+						]
+					}
+				]
+			},
+			"additional-information": "有關董事局成員多元化的詳情請查看太古地產《<a target='_blank' href='https://ir.swireproperties.com/zh-hk/ir/reports/ar2022.pdf'>2022年報告書</a>》。"
+		},
+		"see-more-in-stories": [
+			"people-volunteering",
+			"people-talent-attraction",
+			"people-talent-management"
+		]
+	},
+	"people-human-rights-policy-page": {
+		"meta": {
+			"keywords": "",
+			"url": "/people/human-rights-policy",
+			"type": "people",
+			"image": "/images/landing-section/people-left.jpg",
+			"title": "人權政策 | 太古地產2022可持續發展報告",
+			"content": ""
+		},
+		"landing": {
+			"title": "人權政策"
+		},
+		"breadcrumb-title": "人權政策",
+		"sections": [
+			{
+				"type": "section",
+				"id": "human-rights-policy",
+				"contents": [
+					"太古地產遵行《聯合國工商業與人權指導原則》所載的原則和指引，這是我們營商的宗旨。我們尊重所有員工的人權和尊嚴，當中包括在我們供應鏈及項目所在社區任職的人員。",
+					"2022年，我們參照《國際人權憲章》及《國際勞工組織關於工作中基本原則和權利宣言》，制定了公司的《<a target='blank' href='https://ir.swireproperties.com/zh-hk/cg/pdf/humanrights.pdf'>人權政策</a>》。",
+					"本政策訂明我們對業務和供應鏈運作的期望，範疇涵蓋多元共融、僱傭標準、健康與安全及聘用條件。我們設有健全的渠道，讓員工和持份者舉報與人權相關的問題。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety-2022-health-and-safety-performance",
+			"partners-suppliers",
+			"partners-suppliers-supplier-health-and-safety-and-smart-construction"
+		]
+	},
+	"people-occupational-health-and-safety-page": {
+		"meta": {
+			"keywords": "職業健康及安全, 職安健, 健康與安全政策, 政策, 健康, 安全, 零傷害, 零傷害承諾, 緩解, 旨在消除或緩解所有業務營運的職安健危害, 安全的, 合規, 死亡事故, 零工傷, 職業病, 安全管理制度, 員工參與及溝通, 危害、險生意外及事故通報程序, 心理健康及福祉, 2022年健康與安全表現",
+			"url": "/people/occupational-health-and-safety",
+			"type": "people",
+			"image": "/images/pages/people/occupational-health-and-safety/_2022-health-and-safety-performance-1-tc.png",
+			"title": "職業健康及安全 (職安健) | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "我們視健康與安全為重中之重：太古地產許下「零傷害承諾」，努力消除危害，為所有人創造安全的環境。"
+		},
+		"breadcrumb-title": "職業健康及安全（職安健）",
+		"landing": {
+			"title": "職業健康及安全（職安健）",
+			"tag": "GRI 403<br/>HKEX 層面 B2, KPI B2.3",
+			"contents": [
+				"我們非常重視工作場所的健康及安全，視之為業務營運以及實踐「2030可持續發展策略」、2025年關鍵績效指標和2030年關鍵績效指標不可或缺的一部分。我們已於2022年11月更新《<a target='_blank' href='https://www.swireproperties.com/zh-hk/sustainable-development/policies/health-and-safety-policy/'>健康與安全政策</a>》，表述我們堅決提供及維持健康安全的環境供所有員工和與公司聯繫往來的顧客、承辦商及社區人士享用。",
+				"本政策經董事局認可並由行政總裁簽署，指明達到「零傷害」最終目標的行動方向，即發揮穩健卓越的領導力，完善管理旗下所有業務，推展從規劃、設計到營運的職業健康與安全。",
+				"相關的可持續發展目標是：",
+				{
+					"type": "sdg",
+					"value": [
+						"3"
+					]
+				}
+			]
+		},
+		"sections": [
+			{
+				"type": "section",
+				"id": "our-zero-harm-commitment",
+				"title": "我們的零傷害承諾",
+				"contents": [
+					"「零傷害」是公司全面實踐的承諾，旨在消除或緩解所有業務營運的職安健危害，範圍涵蓋所有僱員及各級管理層成員，不論年資或工作經驗。在這項承諾下，全體員工不僅要做到合規，還要更進一步，主動和持續地消除危害，一同為所有持份者創造安全的工作環境。",
+					"若要達致零傷害，必須上下一心。零傷害是指公司的業務營運零死亡事故、零工傷及職業病，以及對健康零傷害。",
+					"我們於2022年7月新設健康與安全總監一職，專責在所有營運業務進一步加強和推動健康與安全文化、安全意識及表現。健康與安全總監直接向太古地產行政總裁匯報，並向我們的董事報告職能。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "safety-management-systems",
+				"title": "安全管理制度",
+				"contents": [
+					"太古地產的安全管理制度全面達到國際職業健康與安全標準ISO 45001:2018的要求。於2022年12月31日，香港所有物業組合和六個中國物業組合中四個物業的安全管理制度已分別通過香港品質保證局及中國質量認證中心的ISO 45001:2018認證，太古地產管理的所有香港住宅物業亦已於2022年開始推行ISO 45001:2018認證標準。",
+					"為員工提供健康安全的工作場所對公司的長遠成功至關重要。2022年，我們推出多項新策略，將健康與安全因素納入業務的每個層面，這套方針得到高級管理層大力支持並負責統籌。每月由行政總裁領導的執行委員會均在例會討論健康與安全議題及其績效，此外並會編製季度報告，另於每次董事局會議討論相關議題。所有職業健康與安全事項均由行政總裁負責執行和監察。太古地產並會每季向母公司太古公司匯報健康與安全表現指標。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "employee-engagement-and-communication",
+				"title": "員工參與及溝通",
+				"contents": [
+					"完善溝通和員工參與是太古地產「零傷害」策略的棟樑。2022年，我們在這兩方面加倍努力，每季為所有部門主管及總經理舉行健康與安全傳訊會，建立與管理層雙向溝通的平台，輔助推行職安健措施和分享重要的回饋意見，從而促進權責關係及提高大家對職安健議題的關注。",
+					"我們在香港及中國內地均設有安全管理制度督導委員會，由健康與安全總監領導，成員包括每個物業組合的健康與安全代表。兩地的委員會每季舉行會議，密切監察和評估公司的安全表現、風險及達標進展。安全管理制度督導委員會透過各物業組合的健康與安全工作小組和人力資源部門傳達審議結果及最新消息，務求物業組合層面充份了解。除此之外，督導委員會亦會每季與太古酒店及邁阿密Brickell City Centre的代表舉行類似的健康與安全協調會議。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hazard-near-miss-and-incident-reporting",
+				"title": "危害、險生意外及事故通報程序",
+				"contents": [
+					"2022年，我們推行多項措施改善危害、險生意外及事故的通報程序。根據安全管理制度，所有員工均有責任通報這類事件。我們一直執行例行安全巡查，與此同時也推出「險生意外及危害通報系統」手機應用程式，員工可利用手機於網上平台通報所任何險生意外事件或危險狀況。應用程式不但可加快追蹤和採取修正措施，還可進行數據分析、製作趨勢分析及簡化通報流程。",
+					"所有工傷均會徹底調查，務求找出並消除工傷的根本原因，防止同類事件重演。 2022年，我們擴大了調查標準，將高可能性事件（HiPo）涵蓋在內。這類事件的定義是可能造成嚴重人身損傷或死亡的非嚴重工傷或險生意外事件。所有高可能性事件調查均會製作一份《四格學習報告》，記錄所有高可能性事件調查的結果。報告內容包括事件描述、促成因素、相關及根本原因，並會說明修正方案和行動計劃等。報告亦會傳送各物業組合的總經理以供參考，並透過既定溝通渠道向員工發佈。",
+					"年內我們繼續安排管理層進行安全巡查，由高級人員到各物業巡視，展示領導層的堅定承諾和識別潛在危害。2022年，我們合共提供約34,000小時的健康與安全相關培訓。"
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/hazard-near-miss-and-incident-reporting-1.png",
+						"isContain": true
+					}
+				]
+			},
+			{
+				"type": "section",
+				"id": "mental-health-and-wellbeing",
+				"title": "心理健康及福祉",
+				"contents": [
+					"太古地產旗下各物業辦事處都深明員工的健康至為重要，因此各辦事處均因應當地情況設計特訂的計劃和項目，照顧員工的身心健康。",
+					"我們在公司內聯網向員工發佈資訊關於健康作業守則及辦公室安全的資訊，我們亦會應員工要求評估工作位置設計是否符合人體工學、屏幕亮度和視覺舒適感。",
+					"此外，我們亦開設「僱員支援計劃」提供輔導服務和學習機會，安排專業人員面談輔導及提供24小時電話支援，同時經常為員工舉辦活動，例如午間講座及培訓，提醒員工注重身心健康和作息平衡。2022年，我們合共提供約34,000小時的健康與安全相關培訓。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "_2022-health-and-safety-performance",
+				"title": "2022年健康與安全表現",
+				"reverse": true,
+				"href": "/people/occupational-health-and-safety/2022-health-and-safety-performance",
+				"contents": [
+					"我們以員工的健康與安全為重，並以太古地產安全至上的工作文化引以為傲。今年我們維持零員工工傷死亡及零嚴重或影響一生工傷事件的數字，其他與健康及安全相關事項亦達到極高標準。"
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/_2022-health-and-safety-performance-1-tc.png"
+					}
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-diversity-and-inclusion",
+			"people-volunteering",
+			"people-talent-attraction"
+		]
+	},
+	"people-talent-attraction-page": {
+		"meta": {
+			"keywords": "吸納人才, 人才, 吸納, 領先業界的工作環境, 領先業界, 工作環境, 員工, 薪酬, 公平, 客觀, 嘉獎, 表現及發展評估機制, 精簡, 一致性, 職務評估, 職務評估平台, 薪酬侍遇符合公平原則, 有競爭力, 薪酬理念框架, 僱主品牌, 首選僱主, 混合學習模式, 入職, 新聘員工, 任仕達, 香港最具吸引力僱主, 共融, 充滿發展機會的, 工作環境, 性別平等, 多元化, 最具吸引力僱主, 實踐我們的員工價值主張, 員工價值主張, 高瞻遠矚, 互信, 自豪感, 未來, 社區, 僱主品牌",
+			"url": "/people/talent-attraction",
+			"type": "people",
+			"image": "/images/pages/people/talent-attraction/swire-properties-wins-1.jpg",
+			"title": "吸納人才 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "我們非常重視吸納及培育人才，並致力協助他們在太古地產追求長遠的事業發展。"
+		},
+		"landing": {
+			"title": "吸納人才",
+			"tag": "HKEX 層面 B1"
+		},
+		"breadcrumb-title": "吸納人才",
+		"sections": [
+			{
+				"type": "section",
+				"id": "Creating an Industry-leading Work Environment for our Employees",
+				"title": "為員工打造領先業界的工作環境",
+				"contents": [
+					"我們為員工提供具競爭力的薪酬待遇及多項福利。在香港，員工享有醫療服務、退休計劃及酌情花紅；而在中國內地，員工福利則包括社保和住房基金，並可享有醫療服務及酌情花紅。",
+					"太古地產致力確保每位員工均定期獲安排作客觀、公平和具透明度的評估，並按照工作表現酌情給予嘉獎。我們設有工作表現及發展評估機制，使評估過程更精簡，同時確保公司整體評估的一致性。太古地產辦公室員工的年度工作目標必須配合「2030可持續發展策略」的各大支柱。",
+					"2021年，我們選定了一個職務評估平台作為建立太古地產最新薪酬理念的重要基石，並已完成職務評估程序，確保員工薪酬侍遇符合公平原則，同時保持在業界的競爭力。有關工作計劃於2022年展開，薪酬理念框架現正擬備中，預計於2023年第四季完成。",
+					"為確保可吸引和留任人才，太古地產於2020年推行僱主品牌宣傳策略。我們已將吸納人才和人才留任納入2025年關鍵績效指標，致力實現在2030年成為「首選僱主」的長遠目標。",
+					"我們自2020年起為新入職的實習生和見習生引入混合學習模式。除了到訪太古地產旗下物業參觀外，部份入職培訓則透過內部平台網上授課。",
+					"此平台現已成為新員工入職的常規培訓工具。新同事可隨時使用平台閱讀文章、完成測驗及觀看部門代表經驗分享的短片，藉此加深對太古地產的認識。這種高效率的學習模式很受員工歡迎，可減省入職培訓所需人手，也可作為日後招聘的藍本，靈活地為新同事提供培訓，不受入職日期或地點限制。"
+				]
+			}
+		],
+		"employees-by-gender-and-region": {
+			"title": "按地理位置劃分的新聘員工總人數",
+			"table-title": [
+				"人數",
+				"百分比"
+			],
+			"content": [
+				{
+					"type": {
+						"icon": "/images/pillar-icons/people/hong-kong.svg",
+						"icon-class": "icon-hong-kong",
+						"text": "香港"
+					},
+					"data": [
+						{
+							"type": "人數",
+							"title": [
+								"662"
+							]
+						},
+						{
+							"type": "百分比",
+							"title": [
+								"43.2",
+								"%"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"icon": "/images/pillar-icons/people/chinese-mainland.svg",
+						"icon-class": "icon-chinese-mainland",
+						"text": "中國內地"
+					},
+					"data": [
+						{
+							"type": "人數",
+							"title": [
+								"690"
+							]
+						},
+						{
+							"type": "百分比",
+							"title": [
+								"45.1",
+								"%"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"icon": "/images/pillar-icons/people/miami.svg",
+						"icon-class": "icon-miami",
+						"text": "美國邁阿密"
+					},
+					"data": [
+						{
+							"type": "人數",
+							"title": [
+								"179"
+							]
+						},
+						{
+							"type": "百分比",
+							"title": [
+								"11.7",
+								"%"
+							]
+						}
+					]
+				}
+			],
+			"summary": [
+				{
+					"type": "總數",
+					"data": [
+						{
+							"type": "人數",
+							"title": [
+								"1531"
+							]
+						},
+						{
+							"type": "",
+							"hide-on-mobile": true,
+							"title": [
+								""
+							]
+						}
+					]
+				}
+			]
+		},
+		"sections-2": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "swire-properties-wins-randstad-most-attractive-employer-award-2022",
+				"title": "太古地產獲選2022年香港最具吸引力僱主",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-attraction/swire-properties-wins-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-attraction/swire-properties-wins-2.jpg"
+					}
+				],
+				"contents": [
+					"太古地產在任仕達（Randstad）舉辦的2022年僱主品牌調查中，獲評選為「香港最具吸引力僱主」，突顯公司持續投放資源於員工發展，透過營造開放、共融及充滿發展機會的工作環境，致力建立著重性別平等和多元的團隊。這是太古地產繼2020年之後再次位居榜首，第二次贏得此殊榮，而公司自2017年以來一直位居首10名。",
+					"今年共有75間最少有10%市民認識的香港大型工商企業和機構角逐最具吸引力僱主殊榮，大會根據逾3,000名本地受訪者對僱主品牌知名度的意見作出評選。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "delivering-on-our-employee-value-proposition",
+				"title": "實踐我們的員工價值主張",
+				"contents": [
+					"太古地產去年擬備了一套僱主品牌指引，藉以肯定、強化及維護公司作為理想就業之選的聲譽和實力。",
+					"我們作為受人尊敬及重視的僱主，員工價值主張（EVP）建基於四個核心主題。它鞏固我們現代化、高瞻遠矚及銳意創新的企業形象，說明我們提倡僱主與員工之間互敬互信，對此企業文化引以為傲。四個核心主題如下：",
+					{
+						"type": "ul",
+						"value": [
+							"<span class='font-weight-semi-bold'>建立互信：</span>堅守最高的專業和道德標準以及嚴謹、互相尊重的企業文化。",
+							"<span class='font-weight-semi-bold'>建立自豪感：</span>我們的項目質素優良，我們充滿想像力及創造力，開放地接受新意念，成就許多富啟發性的創意方案。",
+							"<span class='font-weight-semi-bold'>創建未來：</span>因為遠大思維是我們商業精神的核心，我們不僅給未來世代留下負責任和可持續發展的傳統，也不斷促進員工多方面發展。",
+							"<span class='font-weight-semi-bold'>建設社區：</span>努力促進社區衍變，創造美好生活、工作和消閒空間。"
+						]
+					},
+					"員工價值主張是太古地產「僱主品牌」故事的一部分。中心信念是讓太古地產團隊的技能、想像力及創意交融，促進我們項目所在的社區衍變，創造繁榮蓬勃的新社區，同時重新思考我們的責任，一起構建可持續發展的未來。我們希望藉著「僱主品牌」故事激勵團隊不斷創新，因此我們尊重每一位員工，為他們創造目標為本的發展機遇，提升個人技能，倡導通力合作的團隊精神。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-talent-management",
+			"people-occupational-health-and-safety",
+			"people-diversity-and-inclusion"
+		]
+	},
+	"people-talent-management-page": {
+		"meta": {
+			"keywords": "人才管理, 人才, 管理, 員工參與度意向調查, 意向調查, 有參與感, 員工參與度調查, 變革管理, 原創性, 淨推薦值, 學習和發展計劃, 學習, 發展, 見習生培訓計劃, 見習生, 培才展能, 員工, 領導力培訓課程, 培訓課程, 參與, 物業管理團隊領導卓越之旅, 工程主任領導卓越之旅, 物業管理團隊, 工程, 成立太古地產學習資源中心, 學習資源中心, 太古地產學習資源中心, 前線人員, 自我學習, 網上圖書館,  前進一步, 檢討「卓越管理培訓計劃」, 領導力, 溝通技巧, 領袖培訓, 單元, 360度反饋機制, 反饋機制, 反饋, 提高前線人員的工作成效, 前線人員, 顧客服務, 網上課程, 「領導成長」培訓計劃, 混合模式, 開展計劃培能展才, 培能展才, 卓越服務獎, 數碼系列, 非同質化代幣, 創新, 加密貨幣, 區塊鏈, 運用數據科技的, 數碼工作坊系列",
+			"url": "/people/talent-management",
+			"type": "people",
+			"image": "/images/pages/people/talent-management/launch-of-the-SPROPS-learning-hub-1.jpg",
+			"title": "人才管理 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "我們致力確保每位員工均定期獲安排作客觀、公平和具透明度的評估，並按照工作表現酌情給予嘉獎。"
+		},
+		"breadcrumb-title": "人才管理",
+		"landing": {
+			"title": "人才管理",
+			"tag": "HKEX 層面 B3",
+			"contents": [
+				"我們非常重視吸納及培育人才，並致力協助他們在太古地產追求長遠的事業發展。"
+			]
+		},
+		"sections": [
+			{
+				"type": "section",
+				"id": "learning-and-development-programmes",
+				"title": "員工參與度意向調查",
+				"contents": [
+					"2022年，我們進行了「員工參與度意向調查」，香港及中國內地共570名員工受訪，整體回應率高達100%，而調查結果令人鼓舞：平均88%受訪員工表示有參與感，與「2020年員工參與度調查」錄得的水平相同，這數字超出當地市場水平及全球基準。當中「變革管理」和「原創性」兩個類別與2020年調查相比有顯著改善，員工溝通度也極佳，共有360名員工提交了800條書面意見。2022年，太古地產在美國邁阿密進行員工參與調查，錄得100%回應率，員工參與指數評分達94%。",
+					"本表現類別的重要2025年關鍵績效指標是與2020基準年比較提高太古地產的僱主淨推薦值（NPS）10%。在2020年的調查中，我們的NPS是16%；2022年調查錄得的比率為23%。"
+				]
+			},
+			{
+				"type": "data-8",
+				"id": "",
+				"title": "2022香港及中國內地員工參與度意向調查參與指數分項",
+				"data": [
+					{
+						"title": "按管理層及非管理層劃分",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/management.svg",
+								"level": "管理層",
+								"percentage": "88%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/non-management.svg",
+								"level": "非管理層",
+								"percentage": "87%"
+							}
+						]
+					},
+					{
+						"title": "按年齡組別劃分",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/under-36.svg",
+								"level": "36歲以下",
+								"percentage": "84%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/46-to-60.svg",
+								"level": "36至55歲",
+								"percentage": "88%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/above-60.svg",
+								"level": "55歲以上",
+								"percentage": "93%"
+							}
+						]
+					},
+					{
+						"title": "按性別劃分",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/female.svg",
+								"level": "女性",
+								"percentage": "87%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/male.svg",
+								"level": "男性",
+								"percentage": "89%"
+							},
+							{
+								"icon": "",
+								"level": "不願透露",
+								"percentage": "75%"
+							}
+						]
+					},
+					{
+						"title": "按地區劃分",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/hong-kong.svg",
+								"level": "香港",
+								"percentage": "85%"
+							},
+							{
+								"icon": "/images/pillar-icons/people/chinese-mainland.svg",
+								"level": "中國內地",
+								"percentage": "92%"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "section",
+				"id": "learning-and-development-programmes",
+				"title": "學習與發展計劃",
+				"contents": [
+					"我們提供不同年期的見習生培訓計劃，涵蓋建築測量、工程及管理等範疇。例如，太古酒店設有為期18個月的「營運管理見習生計劃」，讓員工在公司旗下於香港、中國內地及美國邁阿密的酒店獲得不同工作體驗。",
+					"2022年，我們繼續培才展能，安排多個線上及線下計劃，為員工提供參與、學習和上進的機會，包括數個長期培訓計劃推出的新版或改進版，例如「卓越管理培訓計劃」（AEP）及兩個系統性領導力培訓課程，包括2021年設立的「物業管理團隊領導卓越之旅」計劃及「工程主任領導卓越之旅」培訓計劃。",
+					"「物業管理團隊領導卓越之旅」計劃旨在培養物業管理團隊領袖，採用更系統性的方針培訓員工和建立領導梯隊。計劃的重點是提升物業管理團隊主任級人員的人事管理能力。我們根據多次小組討論的結果，設計了四個單元，以培養所需的領導技巧。",
+					"「工程主任領導卓越之旅」培訓計劃分為六個單元，沿用「物業管理團隊領導卓越之旅」的方針但培訓內容專為工程主任設計。兩項計劃均有助主任級人員掌握及提升人事管理技巧和知識，在日常工作學以致用。"
+				]
+			},
+			{
+				"type": "data-4",
+				"id": "total-training-hours-and-spending",
+				"title": "培訓總時數及開支",
+				"desc": "HKEX KPI B3.2",
+				"item-count": 4,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": 154000,
+								"custom-class": "",
+								"before-text": "<span class='h4 mb-0'>~</span>",
+								"after-text": "&nbsp;<span class='h4 mb-0'>小時</span>"
+							}
+						],
+						"align-left": true,
+						"text": "培訓總時數"
+					},
+					{
+						"percentage": [
+							{
+								"num": 24,
+								"custom-class": "",
+								"after-text": "&nbsp;<span class='h4 mb-0'>小時</span>"
+							}
+						],
+						"align-left": true,
+						"text": "每名員工平均培訓時數"
+					},
+					{
+						"percentage": [
+							{
+								"num": 770,
+								"before-text": "<span class='h4 mb-0'>港幣</span>",
+								"after-text": "&nbsp;<span class='font-giant'>萬</span><span class='h4 mb-0'>元</span>"
+							}
+						],
+						"align-left": true,
+						"text": "培訓總開支"
+					},
+					{
+						"percentage": [
+							{
+								"num": 1200,
+								"isMoneyFormat": true,
+								"before-text": "<span class='h4 mb-0'>港幣</span>",
+								"after-text": "&nbsp;<span class='h4 mb-0'>元</span>"
+							}
+						],
+						"align-left": true,
+						"text": "每名員工平均培訓開支"
+					}
+				]
+			},
+			{
+				"type": "data-8",
+				"id": "",
+				"isNext": true,
+				"title": "",
+				"data": [
+					{
+						"title": "按性別劃分的平均培訓時數",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/male.svg",
+								"level": "男性",
+								"percentage": "22.4"
+							},
+							{
+								"icon": "/images/pillar-icons/people/female.svg",
+								"level": "女性",
+								"percentage": "26.4"
+							}
+						]
+					},
+					{
+						"title": "按聘用職位組別劃分的平均培訓時數",
+						"data": [
+							{
+								"icon": "/images/pillar-icons/people/management.svg",
+								"level": "管理層",
+								"percentage": "23.5"
+							},
+							{
+								"icon": "/images/pillar-icons/people/non-management.svg",
+								"level": "非管理層",
+								"percentage": "24.2"
+							}
+						]
+					}
+				]
+			}
+		],
+		"sections-2": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-1-launch-of-the-SPROPS-learning-hub",
+				"title": "成立太古地產學習資源中心",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/launch-of-the-SPROPS-learning-hub-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"我們於2022年7月設立太古地產學習資源中心，倡導公司全員自我學習增值。新的資源中心是現有學習及發展資源中心的優化版本，內容更全面，並設有前線人員專區，專門提供度身設計的資源，加強他們的參與度和學習水平，激勵他們的進取意志。",
+					"這個網上圖書館載有大量數碼材料，員工可便捷地閱覽，發揮最大的質化及量化影響。資源材料分為多個主題，包括培能展才、創新、多元化及共融、人事管理、靈活應變等，各有不同格式。其中一例是「前進一步（Move A Step Forward）」網上學習單元，設有多套短片和工具單張。由於使用靈活方便，學員可迅速掌握不同主題的基本知識，例如成長思維和設計思維等。本單元初期僅提供英語版，我們現正製作中文翻譯版本，並會上載更多短片。",
+					"另一例子是靈活學習平台「GoSkills」，同事們可在此學習基本的商業技能，追求個人和專業目標。GoSkills提供70多個主題的資訊，並設有逾千個關於工作場所常用電腦軟件的課程，涵蓋行政及設計、軟技能、商務及發展等。學員可按照個人培訓需要管理、追蹤及指定課程，自行選擇進修的步伐與課程。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-2-the-achieving-excellence-programme-review",
+				"title": "檢討「卓越管理培訓計劃」",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-achieving-excellence-programme-review-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-achieving-excellence-programme-review-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-achieving-excellence-programme-review-3.jpg"
+					}
+				],
+				"contents": [
+					"「卓越管理培訓計劃」（Achieving Excellence Programme, AEP）是太古地產於2015年設立的領袖培訓計劃。該計劃為期兩年，透過舉辦工作坊，重點提升員工的領導力和溝通技巧、策略性思維及管理工作表現，協助管理人員拓展事業。",
+					"計劃的四個主要單元分別是「領袖培訓」、「智能程序和更佳體驗」、「宏觀大局」及「從實踐中學習」。去年我們開始採用包含360度反饋機制的多維評估系統檢討計劃，收集個別員工的反饋意見，包括計劃如何為他們的事業發展提供幫助，以及計劃能否促進人才留任和提高工作效率。檢討採用「克伯屈培訓評估模式」評估學習成效，透過問卷收集意見，並進行多次小組討論。",
+					"檢討發現各項特質的「能量水平」過去兩年有所提高，包括創新、決策能力、他人激勵、規劃和團隊合作以及協作。我們將根據結果進行微調和進一步度身設計課程，務求滿足員工的個人發展及業務需要，此外並會推出線上培訓元素。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-3-strengthening-the-effectiveness-of-frontline-staff",
+				"title": "提高前線人員的工作成效",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/strengthening-the-effectiveness-of-frontline-staff-1.jpg"
+					}
+				],
+				"contents": [
+					"2022年，太古地產推出三項經常性舉措，提高前線員工的工作成效。這些措施以顧客服務、物業管理人員及新晉領導級人員為對象。",
+					"我們為住宅物業員工度身設計半天的顧客服務培訓計劃，針對他們的具體培訓需要，提升他們的技能為顧客創造更佳的體驗。計劃的工具有助員工認識住戶和更有效地與住戶溝通。我們估計到2023年初將有300名前線員工完成培訓。",
+					"年內我們更新了一項「物業管理團隊」進修課程，於2022年5月以兩節混合學習計劃形式推出。前線人員完成第一節的網上課程後便會獲邀參加第二節的面授課堂。學員在課堂上透過個案研究、小組討論、測驗及實地考察進行互動培訓。網上課程部分讓員工以適合自己的節奏學習，而面授課程則可提高參與度和在現實工作環境接受培訓。",
+					"半天「領導成長」培訓計劃的重點是分享經驗，藉此輔助前線人員發展。現任管理人員可在問答環節分享知識與經驗，新晉升的員工則可講述從個人貢獻者過渡到人事管理人員的過程中所面對的挑戰。這種形式能讓參加者了解角色轉變的種種細節，明白必須不斷調整心態才可順利開展個人發展之路。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-4-empowerment-campaign",
+				"title": "開展計劃培能展才",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/empowerment-campaign-1.jpg"
+					}
+				],
+				"contents": [
+					"培能展才是2020年「員工參與度調查」界定需要跟進的兩大重點範疇之一，因此年內我們籌劃了一系列活動，致力營造有利員工培能的工作環境，讓同事們感受公司對他們的重視。",
+					"首個高級管理人員培訓工作坊於2022年5月舉行，主題為「卓越領袖如何啟發員工的智慧」，目的是使領袖發揮倍數效應，能夠發掘、探取和善用團隊潛藏的能力。隨著團隊日漸進步，領袖可激發員工繼續投入能量和熱情，鼓勵以大膽的新思維促進創新，並可讓團隊盡情發揮個人智慧，將表現推上新高鋒。2022年底，我們舉行了兩次跟進分享會，研討如何在工作場所利用這些途徑達到倍數效應。",
+					"此外，我們並舉辦題為「如何促進自身和他人培能展才」的「培能展才及多元共融午餐會」，邀請三位講者分享個人及專業層面故事，講解在職何謂培能展才，以及員工如何可建立互信開明的文化，從而促進自身和他人培能展才。最後，我們在2022年底安排分享會，由多位憑藉自我培能展才及／或獲得主管支持培能展才而事業平步青雲的同事分享他們的成功故事。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-5-service-excellence-awards",
+				"title": "卓越服務獎",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/service-excellence-awards-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/service-excellence-awards-2.png"
+					}
+				],
+				"contents": [
+					"太古地產一直透過獎勵嘉許傑出的前線員工，表揚他們優良的服務典範。今年，27名來自9個業務部門的員工獲得「卓越服務獎」，當中二人獲頒最高榮譽的「Best of the Best精英獎」，一位來自太古城中心物業管理團隊，另一位隸屬東薈城名店倉的工程團隊，兩位皆超越了本身的職責要求，願意做得更多更好。我們的卓越服務獎已舉辦九年，向來最受歡迎而且卓有成效，發揮了凝聚前線員工的作用，鼓勵他們日常工作力求卓越。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-6-digital-series",
+				"title": "數碼系列",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/digital-series-1.jpg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/digital-series-2.png"
+					}
+				],
+				"contents": [
+					"全稱非同質化代幣的NFT是2022年熱門話題，無論個人或企業都在探索這類新興工具潛藏的市場機會。2022年7月，為提升創新提倡智能處理，太古地產邀請一位加密貨幣及區塊鏈專家主持工作坊，分享他對NFT的見解和講解NFT的實用功能與未來的潛在價值。",
+					"我們正努力在公司推動運用數據科技的思維方式，為作配合，2022年的數碼工作坊系列特別加插數據分析大師班。這系列工作坊一直廣受歡迎，2023年將繼續舉辦，希望可安排更多面對面的研討活動。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "employee-health-and-wellbeing",
+				"title": "員工健康及福祉",
+				"contents": [
+					"員工是我們的寶貴資產，我們鼓勵員工積極參與公司內外各類有益身心的活動。這些活動不但有助增進員工健康及福祉，也可促使同事間融洽共處，提升員工參與度。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-1-the-one-and-all-sports-challenge”",
+				"title": "「1 & All Sports Challenge」",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-1.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/the-one-and-all-sports-challenge-7.jpg"
+					}
+				],
+				"contents": [
+					"太古地產今年慶祝50周年紀念，特別以數字「50」作靈感，為一年一度的員工康體活動注入新意和新元素，其中包括號召香港及中國內地全體同事，挑戰在11月1日至12月20日的50天內集體燃燒5,000,000卡路里的目標。",
+					"我們還邀請所有部門參加一場友好賽，集思廣益發揮創意，設計一項既可體現團隊意念又呼應公司50周年紀念的體育活動，此外並設置五項運動挑戰賽，邀請同事們以個人、團隊或家庭組合參賽。參與者可參加一項或所有比賽，每個類別成績最佳的頭10名選手可贏取獎品。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "story-2-prioritising-wellbeing-and-mental-health",
+				"title": "把員工的身心健康放在第一位",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-4.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-5.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-6.png",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-8.png",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/prioritising-wellbeing-and-mental-health-9.png"
+					}
+				],
+				"contents": [
+					"員工的健康和福祉對太古地產至為重要。2022年，我們一直在多方面展示關懷。",
+					"2022上半年，2019冠狀病毒病疫情形勢嚴峻，多名員工必須接受隔離檢疫，承受著沉重的心理負擔。同事被送往檢疫中心時，我們會確保他們收到關愛防疫包，內有食品和助他們打發時間的休閒用品。此外，我們也在疫情最嚴重的數星期向所有前線員工派發關愛防疫包，藉以表示支持及表達我們感謝他們專業面對考驗。防疫包的物品包括口罩、營養補充劑和湯包券。",
+					"為響應6月11日「全球健康日」，太古地產香港辦公室將2022年6月定為「健康月」。月內舉辦了18場別開生面的互動式工作坊及網上研討會，讓員工鬆弛身心，並建議多種新穎方法，令生活變得更健康愉快。有關活動包括擴香石製作班、“art jam”即興藝術坊、按摩療護、大理石紋浮水畫、彩虹書法和其他藝術及手工藝工作坊。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hong-kong-wellness-initiatives",
+				"title": "在香港推行的健康計劃",
+				"href": "/people/talent-management/hong-kong-wellness-initiatives",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/hong-kong-wellness-initiative-1.png"
+					}
+				],
+				"contents": [
+					"疫情持續期間，太古地產在香港各區策劃許多活動及計劃，促進同事們的健康和幸福感。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "chinese-mainland-wellness-initiatives",
+				"title": "在中國內地推行的健康計劃",
+				"href": "/people/talent-management/chinese-mainland-wellness-initiatives",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/empathy-and-care-at-taikoo-li-qiantan-1.jpg"
+					}
+				],
+				"contents": [
+					"疫情期間，我們精心策劃許多活動及計劃，促進同事們的健康和幸福感，照顧員工的身心健康。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety",
+			"people-diversity-and-inclusion",
+			"people-volunteering"
+		]
+	},
+	"people-volunteering-page": {
+		"meta": {
+			"keywords": "義工服務, 愛心大使團隊, 愛心大使, 社區關懷基金, 愛心大使, 義工服務總時數, 社區投資和捐贈, 書出愛心, 籌款, 10周年, 二手好書, 分門別類, 捐助, 「樂高認真玩」走進社區, 樂高, 工作坊, 環保藝術迷你聖誕樹工作坊, 聖誕樹工作坊, 微改造大變身, 白雲區, 中國內地的義工行動",
+			"url": "/people/volunteering",
+			"type": "people",
+			"image": "/images/pages/people/volunteering/books-for-love-1.jpg",
+			"title": "義工服務 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "愛心大使計劃是員工獻出時間和技能造福社會與環境的平台。"
+		},
+		"landing": {
+			"title": "義工服務",
+			"tag": "GRI 413<br/>HKEX 層面 B8, KPI B8.1, B8.2",
+			"contents": [
+				{
+					"type": "title",
+					"pillar": "people",
+					"value": "營造關愛社區"
+				},
+				"",
+				"太古地產一直擔當領導角色致力造福社區。員工是公司與社區之間的重要橋樑，我們積極鼓勵同事參與其中，投身慈善及義務工作，本著為人服務的精神回饋社會。",
+				"太古地產愛心大使計劃是員工參與社福服務的平台，凝聚了我們的家人和親友、太古退休員工、業務夥伴、太古地產管理物業的上班族、商場顧客及慈善機構夥伴的服務使用者，一同貢獻社群。",
+				"透過合作，我們藉著各類新穎的社福計劃創造可持續價值，發揮正面作用改善人們的生活質素，築建更美好的社會。"
+			]
+		},
+		"breadcrumb-title": "義工服務",
+		"sections": [
+			{
+				"type": "section",
+				"id": "a-growing-community-of-ambassadors",
+				"title": "持續壯大的愛心大使團隊",
+				"contents": [
+					"太古地產愛心大使計劃是我們在香港、中國內地及邁阿密發展項目設立的社福網絡，自成立至今規模不斷壯大。我們社區建設計劃旨在創造最大的社區營造成果，與此同時促進青年人發展和社會共融、建設社區及推動可持續發展。隨著中國內地物業組合不斷擴展，我們也廣開途徑，舉辦更多跨市義工計劃，藉此加強香港與中國內地的愛心大使聯繫合作，鼓勵大家加入義工行列。員工每完成10小時義工服務，便可享有一天額外假期，每年上限為兩天。",
+					"然而年內由於疫情各地一直實施旅遊限制及限聚措施，對2022年各物業組合的義工活動難免造成窒礙。"
+				]
+			}
+		],
+		"community-ambassador-programme-volunteer-hours": {
+			"title": "按重點範疇劃分的愛心大使計劃義工服務時數",
+			"id": "community-ambassador-programme-volunteer-hours",
+			"data": [
+				{
+					"percentage": [
+						{
+							"num": 73
+						}
+					],
+					"text": "支持活動數目",
+					"icon": "/images/pillar-icons/people/activities-supported.svg",
+					"icon-class": "icon-activities-supported"
+				},
+				{
+					"percentage": [
+						{
+							"num": "6,127.5",
+							"isMoneyFormat": true
+						}
+					],
+					"text": "義工服務總時數",
+					"icon": "/images/pillar-icons/people/total-volunteer-hours.svg",
+					"icon-class": "icon-total-volunteer-hours"
+				}
+			]
+		},
+		"community-ambassador-programme-volunteer-hours-by-focus-area": {
+			"chart": {
+				"image": "/images/pages/people/volunteering/chart/community-ambassador-programme-volunteer-hours-by-focus-area-chart-en.jpg",
+				"labels": [
+					{
+						"title": "環境",
+						"content": [
+							"51%"
+						]
+					},
+					{
+						"title": "社區",
+						"content": [
+							"30%"
+						]
+					},
+					{
+						"title": "教育",
+						"content": [
+							"8%"
+						]
+					},
+					{
+						"title": "健康與福祉",
+						"content": [
+							"7%"
+						]
+					},
+					{
+						"title": "長者",
+						"content": [
+							"4%"
+						]
+					}
+				],
+				"datasets": [
+					51,
+					30,
+					8,
+					7,
+					4
+				],
+				"hover-colors": [
+					"#41D4C2",
+					"#6BB989",
+					"#6BB99D",
+					"#8DE2D9",
+					"#00A89F"
+				],
+				"colors": [
+					"#41D4C2",
+					"#6BB989",
+					"#6BB99D",
+					"#8DE2D9",
+					"#00A89F"
+				]
+			}
+		},
+		"sections-2": [
+			{
+				"type": "data-4",
+				"title": "2022年社區投資和捐贈",
+				"item-count": 2,
+				"data": [
+					{
+						"percentage": [
+							{
+								"num": 4400,
+								"before-text": "<span class='h4 mb-0'>港幣</span>",
+								"after-text": "<span class='font-giant mb-0'>萬</span><span class='h4 mb-0'>元</span>"
+							}
+						],
+						"text": "現金捐贈總值"
+					},
+					{
+						"percentage": [
+							{
+								"num": 2600,
+								"before-text": "<span class='h4 mb-0'>港幣</span>",
+								"after-text": "<span class='font-giant mb-0'>萬</span><span class='h4 mb-0'>元</span>"
+							}
+						],
+						"text": "物資捐贈總值"
+					}
+				]
+			},
+			{
+				"type": "section",
+				"title": "香港的義工行動"
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "books-for-love",
+				"title": "書出愛心",
+				"reverse": false,
+				"isNext": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/books-for-love-5.jpg"
+					}
+				],
+				"contents": [
+					"「書出愛心 十元義賣」是太古地產的年度籌款活動，旨在透過收集和義賣市民捐贈的二手好書，使閱讀文化得以傳承。活動今年踏入10周年，我們特別增設多項新措施以示慶祝，包括歷來首次在網上義賣書籍、「書出愛心 慈善書券」贈書計劃，歡迎在網上認購慈善書券捐助貧苦學生，另亦舉辦面對面書籍義賣，合共籌得逾港幣100萬元善款，太古坊的義賣共有超過30,000人次到場支持。",
+					"「書出愛心 十元義賣」從開辦至今一直獲顧客、租戶及市民踴躍支持，每年回收的書籍數以萬計。我們的愛心大使和社福機構夥伴的義工會將書本分門別類，然後以每本港幣10元發售。今年的活動動員6,000名義工，收益悉數捐予支持香港小童群益會及義務工作發展局。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "lego-serious-play-for-the-community",
+				"title": "「樂高認真玩」走進社區 ",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-4.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/lego-serious-play-6.jpg"
+					}
+				],
+				"contents": [
+					"愛心大使於2022年主辦多個「樂高認真玩」工作坊，為太古地產50周年紀念增添樂趣。我們收集舊展台的LEGO<sup>®</sup>積木，啟發社區的小朋友動手和思考，樂在其中。去年，愛心大使舉辦巡迴展覽慶祝服務社群20年，展覽背景和展台都用 LEGO<sup>®</sup>積木砌成。",
+					"「樂高認真玩」派出導師安排家庭樂工作坊，與一群年青愛心大使和社福機構夥伴的受助兒童同樂。小朋友在多個小時的工作坊盡情玩樂，同時也學懂環保生活習慣的重要性。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "eco-art-miniature-christmas-tree-workshops",
+				"title": "環保藝術迷你聖誕樹工作坊",
+				"reverse": false,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/eco-art-miniature-christmas-tree-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/eco-art-miniature-christmas-tree-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/eco-art-miniature-christmas-tree-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/eco-art-miniature-christmas-tree-4.jpg"
+					}
+				],
+				"contents": [
+					"2022年底，我們舉辦了10場環保藝術迷你聖誕樹工作坊，與員工和家屬、我們的租戶及社福機構夥伴一同迎接聖誕節。一群愛心大使將去年「白色聖誕市集」的木材物盡其用，升級再造成為200棵迷你聖誕樹。參加者在迷你裝置藝術家的指導下，利用泥膠為升級再造木材注入新活力，創造獨一無二的微縮佳節藝術品。"
+				]
+			},
+			{
+				"type": "section",
+				"title": "中國內地的義工行動"
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "mr-fix-it-ambassador",
+				"title": "「微改造 大變身」",
+				"reverse": true,
+				"isNext": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-4.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/mr-fix-it-6.jpg"
+					}
+				],
+				"contents": [
+					"廣州太古滙今年舉辦兩次廣受歡迎的「微改造 大變身」活動。本計劃旨在協助推行家居改善工程，支援社區的基層家庭。5月份，太古地產愛心大使夥同一家企業，義務為天河區一戶領取社會補貼的家庭翻新家居，令住所煥然一新。8月份，愛心大使與一家酒店合作，協助白雲區一個社區將閒置的商業場所改造成為兒童玩樂地方。八十位愛心大使、社工和義工夥伴熱心參與計劃，提供約700小時服務。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "walk-for-love",
+				"title": "「為愛而走」",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/walk-for-love-5.jpg"
+					}
+				],
+				"contents": [
+					"「為愛而走」由一家專為外企人力資源服務有限公司系統成員營辦義工服務的供應商主辦，現已發展成為北京最大規模的企業義工慈善步行活動，於2012年首辦，多年來一直致力支援貧困農村和城市兒童，讓他們健康成長。",
+					"太古地產位於北京、成都、廣州、上海、深圳及西安各發展項目的愛心大使傾巢而出，聯同家人及親友參加慈善步行活動，並在網上分享步行數據。參加者每日每步行兩公里，太古地產便會捐款人民幣三至五元予該項活動。籌募所得善款用於購買牙膏、牙刷、肥皂及其他衛生用品供青海省的寄宿學生使用，支援學校促進學生的健康。",
+					"10月份，主辦機構安排另一次集體慈善步行活動，太古地產的北京愛心大使完成了五公里的山徑路線，不但籌募更多善款，還可借機強身健體。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-hui-community-ambassadors-clean-popular-trail",
+				"title": "廣州太古滙愛心大使清潔熱門步行徑",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-1.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/taikoo-hui-community-ambassadors-5.png"
+					}
+				],
+				"contents": [
+					"50多位來自廣州太古滙的愛心大使於3月中到市內從化區展開清潔行動，在連通兩條鄉村的著名步行徑清理約35公斤垃圾。清潔行動是廣州太古滙商場年度植樹活動的其中一個環節，步行徑清理垃圾後可提供更多綠化空間，環境更清潔衛生。10公里的遠足路線沿途美景怡人，愛心大使收集垃圾，身體力行地實踐可持續發展理念。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "sichuan-community-centre-summer-activities",
+				"title": "四川社區中心夏季活動",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-8.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/volunteering/volunteer-initiatives-in-the-chinese-mainland/sichuan-community-centre-9.jpg"
+					}
+				],
+				"contents": [
+					"2013年四川發生地震後，太古地產熱心援助，其中一項行動是為雙紅村建造四川社區中心。中心於2017年落成，這五年先後舉辦多項活動支持和幫助當地的兒童、長者及婦女。年內，兩個公民社會組織贊助中心舉辦一日兒童夏令營，這項充滿樂趣的活動促進知識分享，宣揚樂於施與的慈善精神。",
+					"研學活動在成都春熙路的百年建築物基督教青年會集合，安排小朋友學習歷史，了解前幾代人本著互相關心支持的信念傳承互相關懷的優良價值。其後，小朋友和義工一同製作傳統的龍舟紙模型慶祝端午節，贈送給成都清潔工人，並附上心意訊息，感謝他們保持城市環境清潔優美。",
+					"年內另一項愛心大使活動是規劃及舉辦「森林王國」營，招待30名三至六年級學生，齊來參加遊戲、團隊發展訓練和手工藝工作坊。",
+					"此外還有一項倡導兒童回饋社會和幫助獨居長者的計劃，啟導小朋友的正向態度，增進自身的健康，理解人生。小朋友接受基本訓練後，分別在新春假期和夏季，由社工協助為老人家選購日用品及清潔家居。小朋友的家長非常支持計劃，鼓勵孩子們參與，並慷慨捐贈救濟品。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-talent-attraction",
+			"people-talent-management",
+			"people-occupational-health-and-safety"
+		]
+	},
+	"people-diversity-and-inclusion-employee-events-page": {
+		"meta": {
+			"keywords": "員工活動, 中國內地多元共融午餐學習網上研討會, 多元共融午餐學習網上研討會, 午餐學習網上研討會, 網上研討會, 溝通, 共融溝通, 共融, 更包容的工作間, 慶祝「世界文化多樣性促進對話和發展日」, 「令人不安的對話」講座及網上研討會系列",
+			"url": "/people/diversity-and-inclusion/employee-events",
+			"type": "people",
+			"image": "/images/pages/people/diversity-and-inclusion/employee-events/uncomfortable-conversation-1.jpg",
+			"title": "員工活動 | 多元化與共融 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "年內在旗下物業舉辦大量與多元共融相關的員工活動。"
+		},
+		"landing": {
+			"title": "員工活動"
+		},
+		"breadcrumb-title": "員工活動",
+		"sections": [
+			{
+				"type": "section",
+				"id": "chinese-mainland-dandi-lunch-and-learn-webinars",
+				"title": "中國內地多元共融午餐學習網上研討會",
+				"contents": [
+					"2022年，多元共融委員會中國內地分會先後舉行三次多元共融午餐學習網上研討會。3月份的網上研討會題為「共融溝通入門」（Primer to Inclusive Communication），共有50多人參加；8月的工作坊則以「心理健康淺談」（Introduction to Mental Wellbeing）作主題，共有70多人參與。這兩場活動由高級導師及北京一家機構健康諮詢培訓公司的代表主講，學習利用語言和非語言溝通技巧應對潛意識偏見和提高心理健康意識，建立更包容的工作間。第三場活動於12月初舉行，題為「性別平等與我」（Why Gender Equality Matters to Me），吸引80多名員工參加，聆聽社企創辦人如何在科學、科技、工程及數學（STEM）領域提倡性別多元化與共融。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "celebrating-world-day-for-cultural-diversity-for-dialogue-and-development",
+				"title": "慶祝「世界文化多樣性促進對話和發展日」",
+				"contents": [
+					"5月份，太古地產在香港與小彬紀念基金會合辦活動，響應「世界文化多樣性促進對話和發展日」。當日準備了兩場專題小組討論，邀得論題專家及業界同儕討論香港少數族裔社群面對的挑戰，以及社區和企業應怎樣應對，希望藉此了解多元文化共融如何可以促進可持續發展。",
+					"約40名太古地產員工出席兩場活動，共同研究這些挑戰對我們的生活及業務有何影響，一起思索如何倡導社會積極變革。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "uncomfortable-conversation-seminar-and-webinar-series",
+				"title": "「令人不安的對話」講座及網上研討會系列",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/employee-events/uncomfortable-conversation-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/employee-events/uncomfortable-conversation-2.jpg"
+					}
+				],
+				"contents": [
+					"太古地產於2021年5月成立「男性盟友網絡(Male Ally Initiative)」，成績斐然，今年再建立新的網絡提倡性別平等。2022年，我們推出全新的「令人不安的對話」講座及網上研討會系列，旨在啟發員工與業界專家之間就敏感的性別平等議題對話，例如偏見及性別特權等。",
+					"「令人不安的對話」系列的三大目標分別為：促進、承諾和支持所有人發展，尤其以男性為主，努力加強我們的社群聯繫，在日常生活中為邊緣群體發聲，並確保在招聘、靈活安排工作、擢升及薪酬待遇時充分考慮多元共融議題和採取實質行動。我們策辦「令人不安的對話」系列，雖然明白某些討論內容可能會引起不安，但卻深信坦誠與公開的討論可以促使必要的重大改變，有利發展共融的態度、溝通、參與和文化。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-volunteering",
+			"people-talent-attraction",
+			"people-talent-management"
+		]
+	},
+	"people-diversity-and-inclusion-social-inclusion-page": {
+		"meta": {
+			"keywords": "社會共融, CareER企業傷健共融指數及共融招聘會, 企業傷健共融指數, 少數族裔學生實習計劃, 實習, 少數族裔, UPSTAIRS酒店培訓及實習計劃, 香港唐氏綜合症協會, 唐氏綜合症, 年齡共融工作坊, 目標, 共融",
+			"url": "/people/diversity-and-inclusion/social-inclusion",
+			"type": "people",
+			"image": "/images/pages/people/diversity-and-inclusion/social-inclusion-1.png",
+			"title": "社會共融 | 多元化與共融 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "今年我們的社會共融措施重點仍是為全體員工建立有利於發展的共融工作環境。"
+		},
+		"landing": {
+			"title": "社會共融"
+		},
+		"breadcrumb-title": "社會共融",
+		"sections": [
+			{
+				"type": "section",
+				"id": "career-disability-inclusion-index-and-inclusive-recruitment-fair",
+				"title": "CareER企業傷健共融指數及共融招聘會",
+				"contents": [
+					"今年太古地產繼續參與CareER的企業傷健共融指數。該指數有助企業建立傷健共融的系統性策略框架，從而實踐各自的環境、社會及管治目標。我們向指數提供了相關數據，2022年10月知悉結果。太古地產所有評分均十分優異，當中招聘及工作調適範疇評分特別高，總評分亦顯著高於2021年，顯示我們的多元化及共融措施成效理想。",
+					"太古酒店參加CareER在香港舉辦的「共融招聘展2022」，向曾接受高等教育的殘疾及特殊需要學生和畢業生招手，推廣公司可提供的就業機會。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "internships-for-minority-students",
+				"title": "少數族裔學生實習計劃",
+				"contents": [
+					"2022年夏季，太古地產夥拍小彬紀念基金會及 Amber Foundation，為來自少數族裔社群的學生提供實習機會。四名大學生參加計劃，成為太古地產的實習生，當中兩名在法律部工作，一名在太古坊物業辦事處任職，另一名在Blueprint上班。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "the-upstairs-programme",
+				"title": "UPSTAIRS酒店培訓及實習計劃",
+				"contents": [
+					"2022年，奕居與香港唐氏綜合症協會協辦第四屆「UPSTAIRS酒店培訓及實習計劃」，為唐氏綜合症患者提供培訓及汲取工作經驗的機會。今年的計劃為期一個月，我們分別安排10名香港唐氏綜合症協會成員到五個部門實習。",
+					"香港唐氏綜合症協會的社工為我們的團隊安排了簡報會，讓他們作好準備，在一個月裡與實習的香港唐氏綜合症協會成員共事，了解到唐氏綜合症患者執行日常職務時面對甚麼挑戰。這項促進共融的正向計劃為所有參加者帶來無比樂趣，促成了綿綿情誼。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "age-inclusion-workshop",
+				"title": "年齡共融工作坊",
+				"contents": [
+					"年齡是太古地產多元化支柱五大重要議題之一，呼應著我們創造不分年齡、跨世代工作間的承諾。為使員工理解共融工作環境的好處，我們舉行了「跨越年齡追求目標」（Purpose Through the Ages）年齡共融午餐學習工作坊，請來領導導師主講。參加者可透過討論和練習領會在不同人生階段價值觀及人生目標的轉變，學懂怎樣與不同年齡的同事相處合作，互諒同理，營造更共融和諧的環境。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-volunteering",
+			"people-talent-attraction",
+			"people-talent-management"
+		]
+	},
+	"people-diversity-and-inclusion-empowering-women-page": {
+		"meta": {
+			"keywords": "支持女性展能, 國際婦女節, 香港慶祝國際婦女節, 3月8日, 性別障礙, 她非它, 中國內地的國際婦女節活動, 三里屯太古里, 工作坊, 女性研究員, 興業太古滙 Pink House限定店, 興業太古滙, 卡蒂妮節, Savyavasa發展項目的團隊, 雅加達, 印尼, 太古女性創意網絡",
+			"url": "/people/diversity-and-inclusion/empowering-women",
+			"type": "people",
+			"image": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-in-hong-kong-1.png",
+			"title": "支持女性展能 | 多元化與共融 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "太古地產支持公司內部以至社會不同領域的女性發展，2022年更積極推動這議題。"
+		},
+		"landing": {
+			"title": "支持女性展能"
+		},
+		"breadcrumb-title": "支持女性展能",
+		"sections": [
+			{
+				"type": "section",
+				"id": "empowering-women-intro",
+				"contents": [
+					"太古地產繼續支持公司內部以至社會不同領域的女性發展，年內更積極推動這議題。各物業組合紛紛舉辦計劃和活動，展示公司促進社會整體性別平等的決心。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "international-womens-day-in-hong-kong",
+				"title": "香港慶祝國際婦女節",
+				"media": [
+					{
+						"type": "video",
+						"poster": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-in-hong-kong-thumbnail-tc.png",
+						"src": "https://media.swireproperties.com/99b736e2-e776-4c8b-acb7-11c5d358302e/SP_IWD_2022_TC.ism/manifest"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-in-hong-kong-1.jpg"
+					}
+				],
+				"contents": [
+					"3月8日國際婦女節是一項全球性活動，目的是推廣性別平等意識，鼓勵人們各自作出貢獻，共建沒有偏見、刻板印象和歧視的世界。太古地產的女性網絡於3月3日舉辦網上慶祝會迎接國際婦女節，邀請多位講者分享見解，並播放今年主題#BreakTheBias的特輯影片。",
+					"「打破偏見」（Break the Bias）主題突顯我們作為機構矢志消除性別障礙，創造為男性及女性員工更和恰共融的工作環境。為了解員工對打破偏見的看法，我們訪問了香港、中國內地及美國的同事。",
+					"3月8日國際婦女節當天，我們舉辦互動工作坊，播放《她非它》（She Objects）的精選片段。這套紀錄片探討香港媒體表述的性別刻板印象，走訪多位名人聽取他們的見解並有專家訪談。Blueprint並邀請兩位女性領袖分享她們的成功奮鬥史，暢談她們如何推動世界變革。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "international-womens-day-in-the-chinese-mainland",
+				"title": "中國內地的國際婦女節活動",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-chinese-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/international-womens-day-chinese-2.jpg"
+					}
+				],
+				"contents": [
+					"三里屯太古里於國際婦女節向社區的女性致敬，當天接待到訪的朝陽區商務局女性研究員，另向東三里住宅區的女性義工致送鮮花。",
+					"太古地產為預祝國際婦女節，特別舉辦鮮花花藝工作坊，招待北京北三里住宅社區的居民。工作坊請來經認可的花藝專家教導基本花藝技術及技巧，向參加者示範如何配搭每個元素的葉、顏色和比例，營造更悅目的視覺效果。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "pink-house-popup-at-hkri-taikoo-hui",
+				"title": "興業太古滙 Pink House限定店",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/pink-house-popup-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/pink-house-popup-2.jpg"
+					}
+				],
+				"contents": [
+					"興業太古滙於2022年7月至10月與當地基金會Be Pink計劃聯辦「Pink House」活動，促進婦女培養自我意識及增強自我價值。限定店為女性提供聚會交流知識和投入連串繽紛活動的場地，一起建立快樂社區，緩解壓力，享受安穩平和的心境。Pink House限定店還舉辦多場慈善主題工作坊及推廣活動，讓公眾認識不同的慈善項目。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "kartini-day",
+				"title": "卡蒂妮節",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/kartini-day-1.png"
+					}
+				],
+				"contents": [
+					"4月21日是印尼的卡蒂妮節（Kartini Day），太古地產雅加達Savyavasa發展項目的團隊趁著慶祝卡蒂妮（Raden Adjeng Kartini）生辰的重要節日，歌頌這位女性平權運動先驅不懈努力，解放印尼女性和促進她們展才。團隊特別在最新落成的Savyavasa市場推廣展廊取景，攝製卡蒂妮節特輯，以舞蹈推廣工作場所多元共融及支持女性展能。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-win",
+				"title": "太古女性創意網絡",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/taikoo-win-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/taikoo-win-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/taikoo-win-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/diversity-and-inclusion/empowering-women/taikoo-win-4.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"太古女性創意網絡（Taikoo WIN）是公司與太古坊兩個租戶共同設立的商業網絡，目標是創建社群支援在太古坊一帶專業機構及企業工作的女性。",
+					"Taikoo WIN先後舉辦多次網聚，此外並於8月舉行「新常態下領導要訣：疫後導航」面對面活動，探討刻下新環境對私人生活和專業發展有何影響，以及如何在不穩定的局勢下與員工及顧客聯繫互動。與會人士就廣泛議題進行討論，綜合的結論包括企業應為員工提供心理健康支援服務，同時協助員工提升數碼及科技技能，務求與時並進，領導層則必須鍛煉高情商和同理心。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-volunteering",
+			"people-talent-attraction",
+			"people-talent-management"
+		]
+	},
+	"people-occupational-health-and-safety-2022-health-and-safety-performance-page": {
+		"meta": {
+			"keywords": "2022年健康與安全表現, 健康, 安全, 零, 零員工工傷死亡, 死亡, 工傷事件, 職業風險, 工傷引致損失工時比率, 損失工作日比率, 香港健康與安全週, 中國內地安全月, 虛擬實境（VR）安全培訓, 虛擬實境（VR）技術, 單元, 香港東隅舉辦「工作安全」培訓宣傳防止滑倒、絆倒或跌倒, 太古坊二座安全檢查, 安全檢查, 太古地產內部安全獎項, 傑出職安健表現獎",
+			"url": "/people/occupational-health-and-safety/2022-health-and-safety-performance",
+			"type": "people",
+			"image": "/images/pages/people/occupational-health-and-safety/_2022-health-and-safety-performance-1-tc.png",
+			"title": "2022年健康與安全表現 | 職業健康及安全 (職安健) | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "我們以員工的健康與安全為重，並以太古地產安全至上的工作文化引以為傲。"
+		},
+		"breadcrumb-title": "2022年健康與安全表現",
+		"landing": {
+			"title": "2022年健康與安全表現",
+			"tag": "HKEX KPI B2.1, B2.2"
+		},
+		"sections": [
+			{
+				"type": "section",
+				"id": "",
+				"contents": [
+					"太古地產一直維持零員工工傷死亡及零嚴重或影響一生工傷事件的數字，此外亦無任何確認違反提供安全工作環境和保障員工免受職業風險的相關法律或規例的事件。",
+					"我們的2025年關鍵績效指標之一是達致和維持非酒店業務員工的工傷引致損失工時比率（LTIR）於1.2或更低，以及將酒店業務員工的工傷引致損失工時比率（LTIR）維持於2.0或更低。由於我們積極投放資源舉辦培訓及意識推廣計劃，過去10年的工傷引致損失工時比率（LTIR）顯著改善。2022年，我們整體的工傷引致損失工時比率（LTIR）為0.87，當中酒店業務的比率為1.56，非酒店業務的比率則為0.57。",
+					"2022年的工傷引致損失工時比率（LTIR）比2021年下降9.4%；同樣，工傷引致損失工作日比率（LDR）<sup>7</sup>同期亦下降12.4%。",
+					{
+						"type": "footnote",
+						"value": "<sup>7</sup>每100名員工每年損失的預定工作日數工傷引致損失工時總計／工作總時數乘以200,000。"
+					}
+				]
+			}
+		],
+		"performance-overview": {
+			"data-5": {
+				"title": "員工工傷引致損失工時比率（LTIR）及<br class='d-none d-sm-block d-xl-none' />工傷引致損失工作日比率（LDR）",
+				"desc": "HKE KPI B2.2",
+				"table-title": [
+					"2020",
+					"2021",
+					"2022"
+				],
+				"content": [
+					{
+						"type": {
+							"text": "工傷引致損失工時比率（LTIR）",
+							"icon": "",
+							"icon-class": ""
+						},
+						"data": [
+							{
+								"type": "2020",
+								"title": "1.25"
+							},
+							{
+								"type": "2021",
+								"title": "0.96",
+								"subTitle-1": {
+									"arrow": "down",
+									"value": "23.2%"
+								},
+								"subTitle-2": "按年變動百分比"
+							},
+							{
+								"type": "2022",
+								"is-small": true,
+								"title": "0.87",
+								"subTitle-1": {
+									"arrow": "down",
+									"value": "9.4%"
+								},
+								"subTitle-2": "按年變動百分比"
+							}
+						]
+					},
+					{
+						"type": {
+							"text": "工傷引致損失工作日比率（LDR）",
+							"icon": "",
+							"icon-class": ""
+						},
+						"data": [
+							{
+								"type": "2020",
+								"title": "48.80"
+							},
+							{
+								"type": "2021",
+								"title": "35.86",
+								"subTitle-1": {
+									"arrow": "down",
+									"value": "26.5%"
+								},
+								"subTitle-2": "按年變動百分比"
+							},
+							{
+								"type": "2022",
+								"title": "31.42",
+								"subTitle-1": {
+									"arrow": "down",
+									"value": "12.4%"
+								},
+								"subTitle-2": "按年變動百分比"
+							}
+						]
+					}
+				]
+			}
+		},
+		"kpi-employee-LTIR-and-LDR-2022-by-portfolio": {
+			"title": "2022年按物業組合劃分的員工工傷引致損失工時比率（LTIR）及<br class='d-none d-md-block d-xxl-none' />工傷引致損失工作日比率（LDR）",
+			"table-title": [
+				"工傷引致損失工時比率（LTIR）",
+				"工傷引致損失工作日比率（LDR）"
+			],
+			"content": [
+				{
+					"type": {
+						"text": "物業",
+						"icon": "/images/pillar-icons/people/properties.svg",
+						"icon-class": "icon-hong-kong"
+					},
+					"data": [
+						{
+							"type": "工傷引致損失工時比率（LTIR）",
+							"title": [
+								"0.57"
+							]
+						},
+						{
+							"type": "工傷引致損失工作日比率（LDR）",
+							"title": [
+								"26.81"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"text": "酒店",
+						"icon": "/images/pillar-icons/people/hotels.svg",
+						"icon-class": "icon-chinese-mainland"
+					},
+					"data": [
+						{
+							"type": "工傷引致損失工時比率（LTIR）",
+							"title": [
+								"1.56"
+							]
+						},
+						{
+							"type": "工傷引致損失工作日比率（LDR）",
+							"title": [
+								"41.77"
+							]
+						}
+					]
+				},
+				{
+					"type": {
+						"text": "整體"
+					},
+					"data": [
+						{
+							"type": "工傷引致損失工時比率（LTIR）",
+							"title": [
+								"0.87"
+							]
+						},
+						{
+							"type": "工傷引致損失工作日比率（LDR）",
+							"title": [
+								"31.42"
+							]
+						}
+					]
+				}
+			]
+		},
+		"sections-trend-analysis": [
+			{
+				"type": "chart-card",
+				"id": "line-chart",
+				"title": "2010-2022 工傷引致損失工時比率 (LTIR)趨勢分析",
+				"contents": [
+					""
+				],
+				"chart": {
+					"type": "line-chart",
+					"image": "/images/environment/profile-of-environmental-impacts/chart/carbon-emissions-of-portfolio-2016-2021-line-chart-en.jpg",
+					"title": "",
+					"bottomTitle": "年份",
+					"leftTitle": "工傷引致損失工時比率（LTIR）",
+					"showFilterTab": false,
+					"filterData": [
+						{
+							"filterTitle": "請選擇:",
+							"filterKey": "filter1",
+							"filterOption": [
+								{
+									"key": "overall",
+									"value": "整體",
+									"checked": false
+								},
+								{
+									"key": "hotels",
+									"value": "酒店",
+									"checked": false
+								},
+								{
+									"key": "properties",
+									"value": "物業",
+									"checked": false
+								}
+							]
+						}
+					],
+					"labels": [
+						"2010",
+						"2011",
+						"2012",
+						"2013",
+						"2014",
+						"2015",
+						"2016",
+						"2017",
+						"2018",
+						"2019",
+						"2020",
+						"2021",
+						"2022"
+					],
+					"datasets": [
+						{
+							"filterType": {
+								"filter1": "overall"
+							},
+							"label": "整體",
+							"backgroundColor": "#228D6D",
+							"borderColor": "#228D6D",
+							"fill": false,
+							"showLine": true,
+							"data": [
+								null,
+								null,
+								2.48,
+								2.29,
+								1.89,
+								1.88,
+								1.8,
+								1.43,
+								1.47,
+								1.63,
+								1.25,
+								0.96,
+								0.87
+							],
+							"hidden": false,
+							"lineTension": 0
+						},
+						{
+							"filterType": {
+								"filter1": "hotels"
+							},
+							"label": "酒店",
+							"backgroundColor": "#2DB9AA",
+							"borderColor": "#2DB9AA",
+							"fill": false,
+							"showLine": true,
+							"data": [
+								null,
+								null,
+								4.22,
+								5.32,
+								3.3,
+								2.81,
+								2.93,
+								2.12,
+								1.9,
+								2.21,
+								2.07,
+								1.55,
+								1.56
+							],
+							"hidden": false,
+							"lineTension": 0
+						},
+						{
+							"filterType": {
+								"filter1": "properties"
+							},
+							"label": "物業",
+							"backgroundColor": "#18635B",
+							"borderColor": "#18635B",
+							"fill": false,
+							"showLine": true,
+							"data": [
+								2.15,
+								2.79,
+								2.05,
+								1.54,
+								1.39,
+								1.52,
+								1.25,
+								1.11,
+								1.24,
+								1.31,
+								0.84,
+								0.67,
+								0.57
+							],
+							"hidden": false,
+							"lineTension": 0
+						}
+					]
+				}
+			}
+		],
+		"sections-2": [
+			{
+				"type": "story-with-photo-carousel",
+				"id": "hong-kong-health-and-safety-week",
+				"title": "香港健康與安全週",
+				"contents": [
+					"健康與安全週是50周年慶祝活動之一，致敬太古地產承傳「創流不息」（ORIGINAL. ALWAYS.）傳統在健康與安全領域取得成果，並倡導業界建立安全文化。",
+					"整宗項目為期一年，由年初至2023年1月每月舉行活動，重點以前線香港員工為對象，旨在提高他們的安全意識水平及舉辦高級培訓、分享會和有趣活動，亮點包括董事及高級顧問郝唐惠莉女士接受訪問，暢談為甚麼健康與安全對太古地產如此重要，還分享她的工作間安全願景。健康與安全週並設有「Mindset」計劃，推出多種鼓勵參與的活動，例如虛擬體驗、遊戲攤位、研討會及康體工作坊等，強化前線人員的健康與安全概念和行為。"
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/hong-kong-health-and-safety-week-5.jpg"
+					}
+				],
+				"reverse": false
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "chinese-mainland-safety-month",
+				"title": "中國內地安全月",
+				"contents": [
+					"中國內地物業將7月定為安全月，每個物業各自舉行安全演習、培訓課程及運動計劃，宣揚「今天多運動，明天少受傷」的訊息。此外並慶祝廣州太古滙連續第二年榮獲公司年度傑出健康與安全獎，同時在多個物業啟動採用人工智能技術的智能建築安全系統，以及宣佈中國內地物業7月中開始全線應用險生意外報告系統。此外還向所有中國內地員工派發《2019冠狀病毒病個人防疫手冊》，廣傳最新的防疫知識和指引。"
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/chinese-mainland-safety-month-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/chinese-mainland-safety-month-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/chinese-mainland-safety-month-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/chinese-mainland-safety-month-4.jpg"
+					}
+				],
+				"reverse": true
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "vr-safety-training",
+				"title": "虛擬實境（VR）安全培訓",
+				"contents": [
+					"今年我們推出應用虛擬實境（VR）技術的安全培訓課程，講解與物業管理相關的安全事宜。香港的課程分為11個單元，以逼真的模擬場景訓練前線員工如何防範高空工作時發生危險和避免滑倒、絆倒或跌倒。中國內地的四個VR安全培訓單元則涵蓋與高空工作、電工及操作設備相關的危險。"
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-1.jpeg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-2.jpeg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-3.jpeg",
+						"isContain": true
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/vr-safety-training-5.jpeg"
+					}
+				],
+				"reverse": false
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "east-hong-kongs-work-safely-slip-trip-and-fall-prevention-campaign",
+				"title": "香港東隅舉辦「工作安全」培訓宣傳防止滑倒、絆倒或跌倒",
+				"contents": [
+					"2022年6月至11月，香港東隅每週在Beekeeper平台上載防止滑倒、絆倒或跌倒的短片。短片分為三個系列，各有六個級別，內容包括保持靜態及動態平衡的資訊和技巧，以及有關健康生活的有趣小知識。是次活動並設有小測驗，讓團隊成員溫故知新，鞏固知識。"
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/east-hong-kongs-work-safely-slip-trip-and-fall-prevention-campaign-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/east-hong-kongs-work-safely-slip-trip-and-fall-prevention-campaign-2.jpg",
+						"isContain": true
+					}
+				],
+				"reverse": true
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "safety-inspections-at-two-taikoo-place",
+				"title": "太古坊二座安全檢查",
+				"contents": [
+					"2022年，太古坊二座的建築工程完竣，項目進入營運及裝修階段，我們在此過渡時刻安排了聯合安全巡查。職安健團隊、物業辦事處團隊與項目團隊的代表在工程交付時進行聯合安全檢查，其後並每日巡視安全情況，包括視察正由租戶所聘請承建商裝修的租戶設施。我們亦舉行安全簡報會向租戶的工程經理及承建商講解太古地產的公司規則，並在所有租戶展開裝修工程之前派發海報和指引清單，闡明我們的安全要求。"
+				],
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/safety-inspections-at-two-taikoo-place-1.jpg"
+					}
+				],
+				"reverse": false
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"reverse": true,
+				"id": "story-5–swire-properties-internal-safety-awards",
+				"title": "太古地產內部安全獎項",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-6.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-7.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-8.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/occupational-health-and-safety/2022-health-and-safety-performance/swire-properties-internal-safety-awards-9.jpg"
+					}
+				],
+				"contents": [
+					"公司旗下許多物業今年達到或維持太古地產的內部健康與安全標準，包括「零損失工時事故獎」和「傑出職安健表現獎」。",
+					{
+						"type": "sub-title",
+						"value": "2022年「180天零損失工時事故獎」"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"港運城",
+							"太古城中心",
+							"成都遠洋太古里",
+							"前灘太古里",
+							"太古廣場栢舍",
+							"香港東隅",
+							"香港東隅服務式住宅",
+							"博舍"
+						]
+					},
+					{
+						"type": "sub-title",
+						"value": "2022年「500天零損失工時事故獎」"
+					},
+					{
+						"type": "ul",
+						"value": [
+							"東薈城",
+							"頤堤港",
+							"興業太古滙",
+							"瑜舍"
+						]
+					},
+					"太古城中心及廣州太古滙均獲得「2022年太古地產傑出職安健表現獎」。該獎項專門嘉許職安健表現卓越、管理措施優良和以創新手法改善工作場所健康與安全的物業辦事處。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"partners-suppliers-supplier-health-and-safety-and-smart-construction",
+			"performance-environment-occupant-wellbeing",
+			"people-talent-management"
+		]
+	},
+	"people-talent-management-chinese-mainland-wellness-initiatives-page": {
+		"meta": {
+			"keywords": "",
+			"url": "/people/talent-management/chinese-mainland-wellness-initiatives",
+			"type": "people",
+			"image": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/empathy-and-care-at-taikoo-li-qiantan-1.jpg",
+			"title": "在中國內地推行的健康計劃 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "員工是我們的寶貴資產，我們鼓勵員工積極參與公司內外各類有益身心的活動。這些活動不但有助增進員工健康及福祉，也可促使同事間融洽共處，提升員工參與度。"
+		},
+		"landing": {
+			"title": "在中國內地推行的健康計劃"
+		},
+		"breadcrumb-title": "在中國內地推行的健康計劃",
+		"sections": [
+			{
+				"type": "section",
+				"id": "chinese-mainland-wellness-initiatives-intro",
+				"contents": [
+					"2022年中國內地持續實施抗疫措施，當地的太古地產員工也將身心健康放在首位。我們精心策劃許多活動及計劃促進同事們的健康和幸福感。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "empathy-and-care-at-taikoo-li-qiantan",
+				"title": "前灘太古里盡顯同理關懷",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/empathy-and-care-at-taikoo-li-qiantan-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/empathy-and-care-at-taikoo-li-qiantan-2.jpg"
+					}
+				],
+				"contents": [
+					"上海於2022年3月至5月全城封控，前灘太古里部分員工自願留守商場，確保基本的營運及維修工作得以繼續。期間，員工接受「閉環式」管理，不允許與他人有任何接觸。為使封控環境盡量舒適及人性化，太古地產為留守員工提供指定浴室設施、晾衣區、指定食物交貨點和安靜的核酸測試區。",
+					"除為員工提供膳食外，我們也安排舒適的住宿設施、心理輔導服務及啟發思考的網上活動，並送上禮品卡、素食禮品籃和每日津貼金以表謝意。我們並設立「送貨員補給站」，為送貨人員供應食物及飲品，以示感謝。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "caring-for-employees-during-the-chengdu-soft-lockdown",
+				"title": "在成都軟封城期間暖心關懷",
+				"contents": [
+					"2022年9月初成都實施軟封城和全員核酸檢測期間，成都遠洋太古里團隊努力確保為員工供應基本物資，包括嬰兒床、睡袋、測試劑、外科口罩、N95防護口罩、乳膠手套、營養食品及其他必需日常用品。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "delivering-food-to-employees-during-the-shanghai-lockdown",
+				"title": "上海封城期間為員工送餐",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/delivering-food-to-employees-1.jpg",
+						"isContain": true
+					}
+				],
+				"contents": [
+					"上海年初疫情突趨嚴重，興業太古滙商場成功購得水果、蔬菜、肉類產品和熟食，於4月派送全體員工，此外並附上感謝函，答謝他們作出非凡貢獻，鼓勵大家注意健康，強健體魄，應對前所未有的健康危機。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "taikoo-hui-employee-rope-skipping-contest",
+				"title": "廣州太古滙員工跳繩大賽",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/taikoo-hui-employee-rope-skipping-contest-1.jpg"
+					}
+				],
+				"contents": [
+					"7月份，廣州太古滙60多名員工參加了工作場所健康計劃的跳繩比賽。來自不同部門的同事一同參與好玩有趣的活動，挑戰速度、耐力及技巧，也趁著這機會互相了解和維繫友誼。比賽是商場促進員工身心健康的措施之一，其他同類活動包括健身設備齊全的員工健身中心，以及許多其他促進作息平衡的企劃。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "staff-club-weekly-sports",
+				"title": "職員會 ― 每週安排體育活動",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/staff-club-weekly-sports-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/staff-club-weekly-sports-2.jpg"
+					}
+				],
+				"contents": [
+					"成都遠洋太古里每星期三次為員工安排多種體育活動，包括羽毛球、瑜珈、籃球及自由搏擊。2022年，這些活動吸引超過520名員工參加，投入637小時進行體育競技，增進健康。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "frontline-office-upgrade-at-sinoocean-taikoo-li-chengdu",
+				"title": "成都遠洋太古里前線辦公室改善工程",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/frontline-office-upgrade-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/frontline-office-upgrade-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/frontline-office-upgrade-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/chinese-mainland-wellness-initiatives/frontline-office-upgrade-4.jpg"
+					}
+				],
+				"contents": [
+					"成都遠洋太古里前線辦公室於2022年3月展開改善工程。所有工作場所的設計和管理工程均以可持續發展及員工福祉為重點，選用符合人體工學的傢俬，確保姿勢正確避免勞損，並特別建造午睡區，為值班人員提供舒適的休息地方。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety",
+			"people-diversity-and-inclusion",
+			"people-volunteering"
+		]
+	},
+	"people-talent-management-hong-kong-wellness-initiatives-page": {
+		"meta": {
+			"keywords": "",
+			"url": "/people/talent-management/hong-kong-wellness-initiatives",
+			"type": "people",
+			"image": "/images/pages/people/talent-management/hong-kong-wellness-initiative-1.png",
+			"title": "在香港推行的健康計劃 | 以人為本 | 太古地產2022可持續發展報告",
+			"content": "員工是我們的寶貴資產，我們鼓勵員工積極參與公司內外各類有益身心的活動。這些活動不但有助增進員工健康及福祉，也可促使同事間融洽共處，提升員工參與度。"
+		},
+		"landing": {
+			"title": "在香港推行的健康計劃"
+		},
+		"breadcrumb-title": "在香港推行的健康計劃",
+		"sections": [
+			{
+				"type": "section",
+				"id": "employee-wellness-programme",
+				"title": "僱員健康計劃",
+				"contents": [
+					"太古地產僱員健康計劃於2022年推出多個增進健康和幸福感的活動及項目，當其中包括2月的「一小步大改變」工作坊，請來專家講解如何在生活作出小改變，慢慢養成習慣，成功實現減肥、減壓、安睡或提高工作效率等目標。"
+				]
+			},
+			{
+				"type": "section",
+				"id": "online-wellness-sharing",
+				"title": "網上健康分享會",
+				"contents": [
+					"6月舉行的網上分享會重點談論多個身心健康問題，例如「眼部護理」講座便介紹常見眼疾成因和可預防眼疾的運動；「週一愛護篇」則分享如何在一週的工作天增強體力及保持積極正向的思維；「健康科學」分享會則探討在困難時期和日常工作中促進人際關係發展的策略。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "photography-exhibition",
+				"title": "攝影展",
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/hong-kong-wellness-initiative-1.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/hong-kong-wellness-initiative-2.png"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/hong-kong-wellness-initiative-3.png"
+					}
+				],
+				"contents": [
+					"7 月份，為慶祝公司成立50周年，我們安排了兩次導賞團參觀《復甦生息、逆中求存、重振旗鼓》攝影展，讓員工透過三位攝影師橫跨1940至1970年代的作品，重溫香港從戰後復甦到逆中求存的歷史。"
+				]
+			},
+			{
+				"type": "story-with-photo-carousel",
+				"id": "50a-family-day",
+				"title": "50周年合家歡同樂日",
+				"reverse": true,
+				"media": [
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-1.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-2.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-3.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-4.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-5.jpg"
+					},
+					{
+						"type": "image",
+						"src": "/images/pages/people/talent-management/50a-family-day-6.jpg"
+					}
+				],
+				"contents": [
+					"為慶祝太古地產50周年和冬日佳節來臨，我們於2022年12月2日舉行名為「Party in SPROPS City」的50周年合家歡同樂日。活動當日超過600位各職級同事與親友到場，大玩攤位遊戲及參加多個藝術與手工藝工作坊，學習製作薑餅裝飾、設計聖誕裝飾品和製作光影燭台，還有精彩的大巡遊。"
+				]
+			}
+		],
+		"see-more-in-stories": [
+			"people-occupational-health-and-safety",
+			"people-diversity-and-inclusion",
+			"people-volunteering"
+		]
+	}
+}
