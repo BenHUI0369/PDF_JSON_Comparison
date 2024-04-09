@@ -9,7 +9,9 @@ upload_folder = 'uploads/'
 result_folder = 'results/'
 
 #global val
-regexRules = r"<.*?>|[^，、。:\w%.,]|\s" #remove none text and number char
+# regexRules = r"<.*?>|[^，、。:\w%.,]|\s" #remove none text and number char
+# Keep Chinese characters, English letters, and digits
+regexRules = r"[^\u4e00-\u9fffA-Za-z0-9]+"
 langJsonStr = "" #Json string that compare with PDF string
 ignoreKeys = [
   'url',
@@ -119,12 +121,19 @@ def process(jsonFileName, pdfFileName, outputFileName):
     # langJson = json.load(langJsonFile)
 
     #for Windows cannot decode json file error
-    with codecs.open(jsonFileName, 'r', encoding='utf-8') as lang_json_file:
+    with codecs.open(jsonFileName, 'r', encoding='utf-8-sig') as lang_json_file:
         langJson = json.load(lang_json_file)
         lang_json_file.close()
     loopLangJson(langJson)
     pdfNotFoundString, pdfView = mergePDFContent(pdfFileName)
     highlightPDF(outputFileName, pdfFileName, pdfNotFoundString)
+    # The path to the file where you want to save the string
+    file_path = "output.txt"
+    global langJsonStr
+    # Using the 'with' statement to open a file and ensure it gets closed properly
+    with open(file_path, 'w', encoding='utf-8') as file:
+      # Writing the string to the file
+      file.write(langJsonStr)
     # --- end
 
     # If anything finished

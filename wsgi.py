@@ -1,6 +1,5 @@
 from waitress import serve
-# once app.py complete, import app
-# from app import app
+from app import app
 from dotenv import load_dotenv
 import os
 
