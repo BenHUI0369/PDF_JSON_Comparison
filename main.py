@@ -116,7 +116,7 @@ def mergePDFContent(file):
           pdfNotFoundString.append(i)
     return pdfNotFoundString, pdfView
 '''
-
+# JsonStr.find - 12char
 # help save pdfreading output for testing
 
 def PDFTextOutput(file):
